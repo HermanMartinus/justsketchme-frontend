@@ -1,0 +1,40 @@
+{
+  "extends": "stylelint-config-standard",
+  "rules": {
+    "at-rule-no-unknown": [
+      true,
+      { "ignoreAtRules": [
+        "extend",
+        "if",
+        "for",
+        "each",
+        "while",
+        "mixin",
+        "include",
+        "debug",
+        "warn",
+        "error",
+        "at-root"
+      ] }
+    ],
+    "indentation": "tab",
+    "string-quotes": "single",
+    "declaration-empty-line-before": "never",
+    "property-no-unknown": [
+      true,
+      {
+        "ignoreProperties": [
+          "composes"
+          ]
+      }
+    ],
+    "selector-pseudo-class-no-unknown": [
+      true,
+      {
+        "ignorePseudoClasses": [
+          "global"
+          ]
+      }
+    ]
+  }
+}

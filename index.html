@@ -6,6 +6,13 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <link rel="apple-touch-icon" sizes="180x180" href="img/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="img/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="img/favicons/favicon-16x16.png">
+    <link rel="manifest" href="img/favicons/site.webmanifest">
+    <link rel="mask-icon" href="img/favicons/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
 
     <title>JustSketchMe - Interactive 3D models for figure drawing</title>
 
@@ -27,8 +34,17 @@
         }
 
         .intro-1 {
-            background: url("https://mdbootstrap.com/img/Photos/Others/images/59.jpg")no-repeat center center;
+            background: url("img/backgrounds/main.jpg")no-repeat top center;
             background-size: cover;
+        }
+
+        .logo {
+          vertical-align: text-bottom;
+          width: 33px;
+          height: 33px;
+        }
+        .navbar {
+            border-bottom: 1px solid #7d7d7d;
         }
 
         .navbar .btn-group .dropdown-menu a:hover {
@@ -65,9 +81,11 @@
     <header>
 
         <!--Navbar-->
-        <nav class="navbar navbar-expand-lg navbar-dark indigo fixed-top">
+        <nav class="navbar navbar-expand-lg navbar-dark grey fixed-top">
             <div class="container">
-                <a class="navbar-brand" href="#">JustSketchMe</a>
+                <a class="navbar-brand" href="#">
+                  <img class="logo" src="img/svg/icon.svg" /> JustSketchMe
+                </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                     aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -106,7 +124,7 @@
                             <h4 class="mt-4 mb-5 wow fadeInDown">Interactive 3D models for figure drawing</h4>
                         </li>
                         <li>
-                            <a target="_blank" href="" class="btn btn-indigo btn-lg wow fadeInLeft" data-wow-delay="0.2s"
+                            <a href="#home" class="btn btn-grey btn-lg wow fadeInLeft" data-wow-delay="0.2s"
                                 rel="nofollow">Start!</a>
                             <a href="#best-features" class="btn btn-outline-white btn-lg wow fadeInRight"
                                 data-wow-delay="0.2s" rel="nofollow">Learn more</a>
@@ -121,7 +139,7 @@
     <!-- Main container-->
     <div class="container">
       <div class="divider-new pt-5">
-          <h2 class="h2-responsive indigo-text mx-4 font-bold wow fadeIn">How it works</h2>
+          <h2 class="h2-responsive grey-text mx-4 font-bold wow fadeIn">How it works</h2>
       </div>
 
       <!--Section: Best features-->
@@ -141,7 +159,7 @@
                       <!--Card content-->
                       <div class="card-body">
                           <!--Title-->
-                          <h4 class="card-title text-center">Movement</h4>
+                          <h4 class="card-title grey-text text-center">Movement</h4>
                           <hr>
                           <!--Text-->
                           <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -163,7 +181,7 @@
                       <!--Card content-->
                       <div class="card-body">
                           <!--Title-->
-                          <h4 class="card-title text-center">Zooming</h4>
+                          <h4 class="card-title grey-text text-center">Zooming</h4>
                           <hr>
                           <!--Text-->
                           <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -185,7 +203,7 @@
                       <!--Card content-->
                       <div class="card-body">
                           <!--Title-->
-                          <h4 class="card-title text-center">Rotating</h4>
+                          <h4 class="card-title grey-text text-center">Rotating</h4>
                           <hr>
                           <!--Text-->
                           <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -207,7 +225,7 @@
                       <!--Card content-->
                       <div class="card-body">
                           <!--Title-->
-                          <h4 class="card-title text-center">The works</h4>
+                          <h4 class="card-title grey-text text-center">The works</h4>
                           <hr>
                           <!--Text-->
                           <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -224,7 +242,7 @@
 
 
         <div class="divider-new pt-5">
-            <h2 class="h2-responsive indigo-text mx-4 font-bold wow fadeIn" data-wow-delay="0.2s">
+            <h2 class="h2-responsive grey-text mx-4 font-bold wow fadeIn" data-wow-delay="0.2s">
                 <strong>About us</strong>
             </h2>
         </div>
@@ -243,7 +261,7 @@
         <!--Section: About-->
 
         <div class="divider-new pt-3">
-            <h2 class="h2-responsive indigo-text mx-4 font-bold wow fadeIn">Why is it so great?</h2>
+            <h2 class="h2-responsive grey-text mx-4 font-bold wow fadeIn">Why is it so great?</h2>
         </div>
 
         <!--Section: Features v.1-->
@@ -258,8 +276,8 @@
 
                 <!--Grid column-->
                 <div class="col-md-4 mb-r">
-                    <i class="fa fa-3x fa-area-chart pink-text"></i>
-                    <h5 class="font-bold mt-3">Analytics</h5>
+                    <i class="fa fa-3x fa-area-chart grey-text"></i>
+                    <h5 class="font-bold grey-text mt-3">Analytics</h5>
                     <p class="grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores nam, aperiam minima assumenda
                         deleniti hic.</p>
                 </div>
@@ -267,8 +285,8 @@
 
                 <!--Grid column-->
                 <div class="col-md-4 mb-r">
-                    <i class="fa fa-3x fa-book pink-text"></i>
-                    <h5 class="font-bold mt-3">Tutorials</h5>
+                    <i class="fa fa-3x fa-book grey-text"></i>
+                    <h5 class="font-bold grey-text mt-3">Tutorials</h5>
                     <p class="grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores nam, aperiam minima assumenda
                         deleniti hic.</p>
                 </div>
@@ -276,8 +294,8 @@
 
                 <!--Grid column-->
                 <div class="col-md-4 mb-r">
-                    <i class="fa fa-3x fa-coffee pink-text"></i>
-                    <h5 class="font-bold mt-3">Relax</h5>
+                    <i class="fa fa-3x fa-coffee grey-text"></i>
+                    <h5 class="font-bold grey-text mt-3">Relax</h5>
                     <p class="grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores nam, aperiam minima assumenda
                         deleniti hic.</p>
                 </div>
@@ -290,7 +308,7 @@
         <!--Section: Features v.1-->
 
         <div class="divider-new">
-            <h2 class="h2-responsive indigo-text mx-4 font-bold  wow fadeIn">Contact us</h2>
+            <h2 class="h2-responsive grey-text mx-4 font-bold  wow fadeIn">Contact us</h2>
         </div>
 
         <!--Section: Contact-->
@@ -306,17 +324,17 @@
                 <div class="col-md-4">
                     <ul class="text-center list-unstyled">
                         <li class="wow fadeIn" data-wow-delay="0.2s">
-                            <i class="fa fa-map-marker indigo-text fa-2x"></i>
+                            <i class="fa fa-map-marker grey-text fa-2x"></i>
                             <p>New York, NY 10012, USA</p>
                         </li>
 
                         <li class="wow fadeIn mt-5 pt-2" data-wow-delay="0.3s">
-                            <i class="fa fa-phone indigo-text fa-2x"></i>
+                            <i class="fa fa-phone grey-text fa-2x"></i>
                             <p>+ 01 234 567 89</p>
                         </li>
 
                         <li class="wow fadeIn mt-5 pt-2" data-wow-delay="0.4s">
-                            <i class="fa fa-envelope indigo-text fa-2x"></i>
+                            <i class="fa fa-envelope grey-text fa-2x"></i>
                             <p>contact@mdbootstrap.com</p>
                         </li>
                     </ul>
@@ -331,7 +349,7 @@
 
 
     <!--Footer-->
-    <footer class="page-footer center-on-small-only indigo mt-5">
+    <footer class="page-footer center-on-small-only grey mt-5">
 
         <!--Footer Links-->
         <div class="container-fluid pr-0 pl-0">
