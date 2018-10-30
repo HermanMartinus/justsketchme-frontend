@@ -6,7 +6,6 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"> 
   <link rel="apple-touch-icon" sizes="180x180" href="img/favicons/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="img/favicons/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="img/favicons/favicon-16x16.png">
@@ -76,10 +75,10 @@
 
   #web-app {
     display: none;
-    width: 100%;
+    /* width: 100%;
     height: 90vh;
     margin-top: 10vh;
-    background-color: lightgray;
+    background-color: lightgray; */
   }
 
   </style>
@@ -168,12 +167,19 @@
             data-wow-delay="0.2s" rel="nofollow">Learn the controls</a>
           </li>
         </ul>
-        <iframe
+        <!-- <iframe
           src="http://justsketch.me/wp-content/uploads/WebGL/index.html"
           class="row-fluid"
           id="web-app"
           frameBorder="0"
-        ></iframe>
+        ></iframe> -->
+        <div id="web-app" class="text-center">
+        For Herman being stupid reasons, you have to go <a target="_blank" href="http://justsketch.me/wp-content/uploads/WebGL/index.html">here</a> to use JustSketchMe
+        <br>
+        <a class="btn btn-grey" target="_blank" href="http://justsketch.me/wp-content/uploads/WebGL/index.html">
+          Take me there!
+        </a>
+      </div>
       </div>
     </div>
   </section>
