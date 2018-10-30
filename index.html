@@ -15,6 +15,7 @@
   <meta name="theme-color" content="#ffffff">
 
   <title>JustSketchMe - Interactive 3D models for figure drawing</title>
+  <meta name="description" content="Interactive 3D models for figure drawing, comic illustration, sketching, fashion design, and much more...">
 
   <!-- Font Awesome -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -81,10 +82,33 @@
   }
 
   </style>
-
 </head>
 
 <body>
+    <!-- Modal -->
+  <div class="modal fade" id="donate-modal" tabindex="-1" role="dialog" aria-labelledby="modal-label" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content text-center">
+        <div class="modal-header">
+          <h5 class="modal-title" id="modal-label">We see you like JustSketchMe</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <p>That's cool, we built it to be free.</p>
+          <p>All development is funded by donation as we want to keep this tool add-free. If you like what we're doing, please consider donating.</p>
+          <div id="paypal" class="call-to-action">
+            <h4 class="mb-5">Buy the developers a coffee!</h4>
+              <form style="margin: 0 auto;width: 160px;" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank"><input type="hidden" name="business" value="hfbmartinus@gmail.com"><input type="hidden" name="bn" value="mbjtechnolabs_SP"><input type="hidden" name="cmd" value="_donations"><input type="hidden" name="item_name" value="To make JustSketchMe even more awesome"><table><tbody><tr><td><input type="image" name="submit" border="0" src="https://www.paypalobjects.com/webstatic/en_US/btn/btn_donate_cc_147x47.png" alt="PayPal - The safer, easier way to pay online"></td></tr></tbody></table><input type="hidden" name="currency_code" value="USD"><input type="hidden" name="notify_url" value="http://justsketch.me/?Donation_Button&amp;action=ipn_handler"></form>
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-grey" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
 
   <header>
 
@@ -139,8 +163,8 @@
             >
               Start!
             </button>
-            <a href="#best-features" class="btn btn-outline-white btn-lg wow fadeInRight"
-            data-wow-delay="0.2s" rel="nofollow">Learn more</a>
+            <a href="#how-it-works" class="btn btn-outline-white btn-lg wow fadeInRight"
+            data-wow-delay="0.2s" rel="nofollow">Learn the controls</a>
           </li>
         </ul>
         <iframe
@@ -182,7 +206,7 @@
             <h4 class="card-title grey-text text-center">Movement</h4>
             <hr>
             <!--Text-->
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <p class="card-text">Move the viewport left/right/up/down using the arrow keys.</p>
           </div>
 
         </div>
@@ -204,7 +228,7 @@
             <h4 class="card-title grey-text text-center">Zooming</h4>
             <hr>
             <!--Text-->
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <p class="card-text">Zoom in and out using the scroll wheel (2 fingers on trackpad).</p>
           </div>
 
         </div>
@@ -226,7 +250,7 @@
             <h4 class="card-title grey-text text-center">Rotating</h4>
             <hr>
             <!--Text-->
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <p class="card-text">Rotate the viewport by holding right mouse button (press 2 fingers on trackpad).</p>
           </div>
 
         </div>
@@ -245,10 +269,10 @@
           <!--Card content-->
           <div class="card-body">
             <!--Title-->
-            <h4 class="card-title grey-text text-center">The works</h4>
+            <h4 class="card-title grey-text text-center">Reset</h4>
             <hr>
             <!--Text-->
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <p class="card-text">Reset the viewport to the default position by tapping the spacebar.</p>
           </div>
 
         </div>
@@ -269,13 +293,15 @@
       </h2>
     </div>
 
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit explicabo assumenda eligendi ex exercitationem
-      harum deleniti quaerat beatae ducimus dolor voluptates magnam, reiciendis pariatur culpa tempore quibusdam
-      quidem, saepe eius.
+    <p>
+      JustSketchMe was built by a duo of game developers who realise that having a wooden mannequin on hand all the time is fairly inconvenient.
     </p>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit explicabo assumenda eligendi ex exercitationem
-      harum deleniti quaerat beatae ducimus dolor voluptates magnam, reiciendis pariatur culpa tempore quibusdam
-      quidem, saepe eius.
+    <p>
+      This tool has a wooden figurine model, and anatomically correct male and female models.
+      It is for figure sketching, fashion design, comic illustration, and whatever else you can think of.
+    </p>
+    <p>
+      There is an adjustable light source which can be moved around the mannequins, for playing with shadows, highlighting and different thresholds.
     </p>
 
   </section>
@@ -290,7 +316,7 @@
 
     <!--Section description-->
     <p class="section-description lead grey-text mb-5 mx-lg-5">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+      JustSketchMe is free, easy-to-use, and has all the necessary features for budding artists through to fully fledged fashion designers.
     </p>
 
       <!--Grid row-->
@@ -299,9 +325,9 @@
         <!--Grid column-->
         <div class="col-md-4 mb-r">
           <i class="fa fa-3x fa-area-chart grey-text"></i>
-          <h5 class="font-bold grey-text mt-3">Analytics</h5>
+          <h5 class="font-bold grey-text mt-3">Multiple models</h5>
           <p class="grey-text">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores nam, aperiam minima assumenda deleniti hic.
+            Wooden Larry, Male, Female, with more on the way...
           </p>
           </div>
           <!--Grid column-->
@@ -309,9 +335,9 @@
           <!--Grid column-->
           <div class="col-md-4 mb-r">
             <i class="fa fa-3x fa-book grey-text"></i>
-            <h5 class="font-bold grey-text mt-3">Tutorials</h5>
+            <h5 class="font-bold grey-text mt-3">Easy-to-use</h5>
             <p class="grey-text">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores nam, aperiam minima assumenda deleniti hic.
+              The controls are simple and easy to understand, yet each pose you create is completely unique.
             </p>
             </div>
             <!--Grid column-->
@@ -319,15 +345,18 @@
             <!--Grid column-->
             <div class="col-md-4 mb-r">
               <i class="fa fa-3x fa-coffee grey-text"></i>
-              <h5 class="font-bold grey-text mt-3">Relax</h5>
+              <h5 class="font-bold grey-text mt-3">Funded with love</h5>
               <p class="grey-text">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores nam, aperiam minima assumenda deleniti hic.
+                This project is funded entirely by our users. Please consider <a href="#" data-toggle="modal" data-target="#donate-modal">donating</a>.
               </p>
               </div>
               <!--Grid column-->
 
             </div>
             <!--Grid row-->
+            <p class="section-description lead grey-text mb-5 mx-lg-5">
+              If you have any suggestions, or just want to chat, get it touch!
+            </p>
 
           </section>
           <!--Section: Features v.1-->
@@ -338,6 +367,7 @@
 
           <!--Section: Contact-->
           <section id="contact pb-5">
+
             <div class="row">
               <!--First column-->
               <div class="col-md-8 mb-5">
@@ -382,7 +412,7 @@
           <div class="container-fluid pr-0 pl-0">
 
             <!--Call to action-->
-            <div class="call-to-action">
+            <div id="paypal" class="call-to-action">
               <h4 class="mb-5">Buy the developers a coffee!</h4>
               <ul>
 
@@ -405,7 +435,6 @@
           </footer>
           <!--/.Footer-->
 
-
           <!-- SCRIPTS -->
 
           <!-- JQuery -->
@@ -420,12 +449,17 @@
           <!-- MDB core JavaScript -->
           <script type="text/javascript" src="js/mdb.min.js"></script>
 
+          <script>
+            setTimeout(function() {$('#donate-modal').modal('show')}, 300000);
+          </script>
+
+
           <!--Google Maps-->
           <script src="https://maps.google.com/maps/api/js"></script>
 
           <script>
           function init_map() {
-
+            return false;
             var var_location = new google.maps.LatLng(-33.920561073726596, 18.425272394458034);
 
             var var_mapoptions = {
