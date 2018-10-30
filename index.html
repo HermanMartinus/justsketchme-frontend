@@ -97,7 +97,7 @@
         </div>
         <div class="modal-body">
           <p>That's cool, we built it to be free.</p>
-          <p>All development is funded by donation as we want to keep this tool add-free. If you like what we're doing, please consider donating.</p>
+          <p>All development is funded by donation as we want to keep this tool ad-free. If you like what we're doing, please consider donating.</p>
           <div id="paypal" class="call-to-action">
             <h4 class="mb-5">Buy the developers a coffee!</h4>
               <form style="margin: 0 auto;width: 160px;" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank"><input type="hidden" name="business" value="hfbmartinus@gmail.com"><input type="hidden" name="bn" value="mbjtechnolabs_SP"><input type="hidden" name="cmd" value="_donations"><input type="hidden" name="item_name" value="To make JustSketchMe even more awesome"><table><tbody><tr><td><input type="image" name="submit" border="0" src="https://www.paypalobjects.com/webstatic/en_US/btn/btn_donate_cc_147x47.png" alt="PayPal - The safer, easier way to pay online"></td></tr></tbody></table><input type="hidden" name="currency_code" value="USD"><input type="hidden" name="notify_url" value="http://justsketch.me/?Donation_Button&amp;action=ipn_handler"></form>
@@ -176,9 +176,17 @@
         <div id="web-app" class="text-center">
         For Herman being stupid reasons, you have to go <a target="_blank" href="http://justsketch.me/wp-content/uploads/WebGL/index.html">here</a> to use JustSketchMe
         <br>
-        <a class="btn btn-grey" target="_blank" href="http://justsketch.me/wp-content/uploads/WebGL/index.html">
+        <a  class="btn btn-outline-white btn-lg wow fadeInRight"
+        data-wow-delay="0.2s" rel="nofollow" target="_blank" href="http://justsketch.me/wp-content/uploads/WebGL/index.html">
           Take me there!
         </a>
+        <button
+          class="btn btn-grey btn-lg wow fadeInLeft"
+          data-wow-delay="0.2s"
+          onclick="$('#intro-overlay').slideToggle();$('#web-app').slideToggle();"
+        >
+          Cancel
+        </button>
       </div>
       </div>
     </div>
