@@ -75,13 +75,17 @@
 
   #web-app {
     display: none;
-    /* width: 100%;
+    width: 100%;
     height: 90vh;
     margin-top: 10vh;
-    background-color: lightgray; */
   }
 
   </style>
+
+  <script src="WebGL/Build/UnityLoader.js"></script>
+  <script>
+    var gameInstance = UnityLoader.instantiate("gameContainer", "WebGL/Build/WebGL.json");
+  </script>
 </head>
 
 <body>
@@ -173,21 +177,24 @@
           id="web-app"
           frameBorder="0"
         ></iframe> -->
-        <div id="web-app" class="text-center">
+        <div id="web-app">
+          <div id="gameContainer"></div>
+        </div>
+        <!-- <div id="web-app" class="text-center">
         For Herman being stupid reasons, you have to go <a target="_blank" href="http://192.241.238.135/wp-content/uploads/WebGL/index.html">here</a> to use JustSketchMe
         <br>
         <a  class="btn btn-outline-white btn-lg wow fadeInRight"
         data-wow-delay="0.2s" rel="nofollow" target="_blank" href="http://192.241.238.135/wp-content/uploads/WebGL/index.html">
           Take me there!
-        </a>
-        <button
+        </a> -->
+        <!-- <button
           class="btn btn-grey btn-lg wow fadeInLeft"
           data-wow-delay="0.2s"
           onclick="$('#intro-overlay').slideToggle();$('#web-app').slideToggle();"
         >
           Cancel
-        </button>
-      </div>
+        </button> -->
+      <!-- </div> -->
       </div>
     </div>
   </section>
