@@ -1,4 +1,4 @@
-### JustSketchMe - Interactive 3D models for figure drawing
+# JustSketchMe - Interactive 3D models for figure drawing
 ## http://justsketch.me
 
 JustSketchMe was built by a duo of game developers who realise that having a wooden mannequin on hand all the time is fairly inconvenient.
