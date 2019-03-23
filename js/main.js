@@ -13,7 +13,7 @@ if(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine
 
 function showApp() {
     $('#intro-overlay').slideToggle();
-    $('#web-app').slideToggle();
+    $('#web-app').addClass("visible");
 }
 
 function navScrollTo(target) {
