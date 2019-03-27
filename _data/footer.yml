@@ -1,0 +1,26 @@
+- links:
+  - name: Apps
+    link: /pricing/
+  - name: Devlog
+    link: /blog/
+  - name: Us
+    link: /about/
+  - name: Contact
+    link: /contact/
+- links:
+  - name: Facebook
+    link: https://facebook.com/justsketchme
+    new_window: true
+    social_icon: Facebook
+  # - name: Twitter
+  #   link: https://twitter.com/
+  #   social_icon: Twitter
+  #   new_window: true
+  # - name: YouTube
+  #   link: https://youtube.com
+  #   social_icon: YouTube
+  #   new_window: true
+  - name: RSS
+    link: /feed.xml
+    social_icon: RSS
+    new_window: false

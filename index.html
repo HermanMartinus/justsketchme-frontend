@@ -1,541 +1,82 @@
-<!DOCTYPE html>
-<html lang="en" class="full-height">
-
-<head>
-
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-87109679-1"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-
-    function gtag() {
-      dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
-
-    gtag('config', 'UA-87109679-1');
-  </script>
-
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <link rel="apple-touch-icon" sizes="180x180" href="img/favicons/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="img/favicons/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="img/favicons/favicon-16x16.png">
-  <link rel="manifest" href="img/favicons/site.webmanifest">
-  <link rel="mask-icon" href="img/favicons/safari-pinned-tab.svg" color="#5bbad5">
-  <meta name="msapplication-TileColor" content="#da532c">
-  <meta name="theme-color" content="#ffffff">
-
-  <title>JustSketchMe - Interactive 3D models for figure drawing</title>
-  <meta name="description" content="Free interactive 3D models for figure drawing, comic illustration, sketching, fashion design and more. Use these male and female mannequins to create poses and references for all your artistic needs.">
-  <meta name="keywords" content="model, draw, drawing, figure drawing, comic illustration, sketching, fashion design, mannequin, 3d, 3d model, interactive model, art, male, female">
-
-  <!-- Font Awesome -->
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-
-  <!-- Bootstrap core CSS -->
-  <link href="css/bootstrap.min.css" rel="stylesheet">
-
-  <!-- Material Design Bootstrap -->
-  <link href="css/mdb.min.css" rel="stylesheet">
-
-  <!-- Template styles -->
-  <style>
-    /* TEMPLATE STYLES */
-
-  .flex-center {
-    color: #fff;
-  }
-
-  .intro-1 {
-    background: url("img/backgrounds/main.jpg")no-repeat top center;
-    background-size: cover;
-  }
-
-  .logo {
-    vertical-align: text-bottom;
-    width: 33px;
-    height: 33px;
-  }
-  .navbar {
-    border-bottom: 1px solid #7d7d7d;
-  }
-
-  .navbar .btn-group .dropdown-menu a:hover {
-    color: #000 !important;
-  }
-
-  .navbar .btn-group .dropdown-menu a:active {
-    color: #fff !important;
-  }
-  @media only screen and (max-width: 667px) {
-    .display-3 {
-      font-size: 3rem;
-    }
-  }
-  @media only screen and (max-width: 767px) {
-    .navbar {
-      background-color: #1C2331;
-    }
-    .display-3 {
-      font-size: 2rem;
-      margin-top: 5rem;
-    }
-    h3 {
-      font-size: 1rem;
-    }
-  }
-
-  #web-app {
-    visibility: hidden;
-    position: absolute;
-    height: 90vh;
-    left: 2vw;
-    right: 2vw;
-    top: 70px;
-    bottom: 2vh;
-    text-align: center;
-  }
-
-  .visible {
-    visibility: visible;
-  }
-
-  #gameContainer {
-    position:  relative;
-    height: 100%;
-    margin: 0 auto;
-    background-color: white;
-  }
-
-  .toast {
-    position: absolute;
-    top: 5px;
-    left: 5px;
-    right: 5px;
-    z-index: 100;
-  }
-
-  </style>
-
-  <script src="WebGL/Build/UnityLoader.js"></script>
-  <script>
-    var gameInstance = UnityLoader.instantiate("gameContainer", "WebGL/Build/WebGL.json");
-  </script>
-</head>
-
-<body>
-  <!-- Modal -->
-  <div class="modal fade" id="donate-modal" tabindex="-1" role="dialog" aria-labelledby="modal-label" aria-hidden="true">
-    <div class="modal-dialog" role="document">
-      <div class="modal-content text-center">
-        <div class="modal-header">
-          <h5 class="modal-title" id="modal-label">We see you like JustSketchMe</h5>
-          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">&times;</span>
-          </button>
-        </div>
-        <div class="modal-body">
-          <p>That's cool, we built it to be free.</p>
-          <p>All development is funded by donation as we want to keep this tool ad-free. If you like what we're doing,
-            please consider donating.</p>
-          <div id="paypal" class="call-to-action">
-            <h4 class="mb-5">Buy the developers a coffee!</h4>
-            <form style="margin: 0 auto;width: 160px;" action="https://www.paypal.com/cgi-bin/webscr" method="post"
-              target="_blank"><input type="hidden" name="business" value="hfbmartinus@gmail.com"><input type="hidden"
-                name="bn" value="mbjtechnolabs_SP"><input type="hidden" name="cmd" value="_donations"><input type="hidden"
-                name="item_name" value="To make JustSketchMe even more awesome">
-              <table>
-                <tbody>
-                  <tr>
-                    <td><input type="image" name="submit" border="0" src="https://www.paypalobjects.com/webstatic/en_US/btn/btn_donate_cc_147x47.png"
-                        alt="PayPal - The safer, easier way to pay online"></td>
-                  </tr>
-                </tbody>
-              </table><input type="hidden" name="currency_code" value="USD"><input type="hidden" name="notify_url"
-                value="http://justsketch.me/?Donation_Button&amp;action=ipn_handler">
-            </form>
-          </div>
-        </div>
-        <div class="modal-footer">
-          <button type="button" class="btn btn-grey" data-dismiss="modal">Close</button>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <header>
-
-    <!--Navbar-->
-    <nav class="navbar navbar-expand-lg navbar-dark grey fixed-top">
-      <div class="container">
-        <a class="navbar-brand" href="#">
-          <img class="logo" src="img/svg/icon.svg" /> JustSketchMe
-        </a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
-          aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul class="navbar-nav mr-auto">
-            <li id="home-link" class="nav-item">
-              <a class="nav-link" onclick="navScrollTo('home')">Home
-                <span class="sr-only">(current)</span>
-              </a>
-            </li>
-            <li id="how-it-works-link" class="nav-item">
-              <a class="nav-link" onclick="navScrollTo('how-it-works')">How it works</a>
-            </li>
-            <li id="about-us-link" class="nav-item">
-              <a class="nav-link" onclick="navScrollTo('about-us')">About</a>
-            </li>
-            <li id="features-link" class="nav-item">
-              <a class="nav-link" onclick="navScrollTo('features')">Features</a>
-            </li>
-            <li id="contact-link" class="nav-item">
-              <a class="nav-link" onclick="navScrollTo('contact')">Contact</a>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </nav>
-  <!--/.Navbar-->
-
-  <!--Intro Section-->
-  <section id="home" class="view intro-1 hm-black-slight">
-    <div class="full-bg-img flex-center">
-      <div class="container">
-        <ul id="intro-overlay">
-          <li>
-            <h1 class="display-3 font-bold">JustSketchMe</h1>
-          </li>
-          <li>
-            <h4 class="mt-4 mb-5">Interactive 3D models for figure drawing</h4>
-          </li>
-          <li>
-            <button
-              class="btn btn-grey btn-lg"
-              onclick="showApp()"
-            >
-              Start!
-            </button>
-            <a href="#how-it-works" class="btn btn-outline-white btn-lg">
-              Learn the controls
-            </a>
-          </li>
-        </ul>
-        <div id="web-app">
-          <div class="toast alert alert-warning alert-dismissible fade show" role="alert">
-            <strong>We're releasing an Android app soon! </strong>
-              Leave your email address in the feedback form below to keep updated :) </a>
-            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
-              <span aria-hidden="true">&times;</span>
-            </button>
-          </div>
-          <div id="gameContainer"></div>
-        </div>
-      </div>
-    </section>
-
-  </header>
-
-  <!-- Main container-->
-  <div class="container">
-
-    <!--Section: Best features-->
-    <section id="how-it-works">
-
-      <div class="divider-new pt-5">
-        <h2 class="h2-responsive grey-text mx-4 font-bold wow fadeIn">How it works</h2>
-      </div>
-
-      <div class="row pt-3">
-
-        <!--First columnn-->
-        <div class="col-lg-3 mb-r">
-
-          <!--Card-->
-          <div class="card hoverable wow fadeIn">
-
-            <!--Card image-->
-            <img class="img-fluid" src="https://mdbootstrap.com/img/Photos/Others/images/72.jpg" alt="Card image cap">
-
-            <!--Card content-->
-            <div class="card-body">
-              <!--Title-->
-              <h4 class="card-title grey-text text-center">Movement</h4>
-              <hr>
-              <!--Text-->
-              <p class="card-text">Move the viewport left/right/up/down using the arrow keys or holding Shift and
-                holding right mouse button (press 2 fingers on trackpad).</p>
-            </div>
-
-          </div>
-          <!--/.Card-->
-        </div>
-        <!--First columnn-->
-
-        <!--Second columnn-->
-        <div class="col-lg-3 mb-r">
-          <!--Card-->
-          <div class="card hoverable wow fadeIn" data-wow-delay="0.2s">
-
-            <!--Card image-->
-            <img class="img-fluid" src="https://mdbootstrap.com/img/Photos/Others/images/75.jpg" alt="Card image cap">
-
-            <!--Card content-->
-            <div class="card-body">
-              <!--Title-->
-              <h4 class="card-title grey-text text-center">Zooming</h4>
-              <hr>
-              <!--Text-->
-              <p class="card-text">Zoom in and out using the scroll wheel (2 fingers on trackpad).</p>
-            </div>
-
-          </div>
-          <!--/.Card-->
-        </div>
-        <!--Second columnn-->
-
-        <!--Third columnn-->
-        <div class="col-lg-3 mb-r">
-          <!--Card-->
-          <div class="card hoverable wow fadeIn" data-wow-delay="0.4s">
-
-            <!--Card image-->
-            <img class="img-fluid" src="https://mdbootstrap.com/img/Photos/Others/images/64.jpg" alt="Card image cap">
-
-            <!--Card content-->
-            <div class="card-body">
-              <!--Title-->
-              <h4 class="card-title grey-text text-center">Rotating</h4>
-              <hr>
-              <!--Text-->
-              <p class="card-text">Rotate the viewport by holding right mouse button (press 2 fingers on trackpad).</p>
-            </div>
-
-          </div>
-          <!--/.Card-->
-        </div>
-        <!--Third columnn-->
-
-        <!--First columnn-->
-        <div class="col-lg-3 mb-r">
-          <!--Card-->
-          <div class="card hoverable wow fadeIn" data-wow-delay="0.6s">
-
-            <!--Card image-->
-            <img class="img-fluid" src="https://mdbootstrap.com/img/Photos/Others/images/63.jpg" alt="Card image cap">
-
-            <!--Card content-->
-            <div class="card-body">
-              <!--Title-->
-              <h4 class="card-title grey-text text-center">Reset</h4>
-              <hr>
-              <!--Text-->
-              <p class="card-text">Reset the model using the reset button at the bottom of the screen.</p>
-            </div>
-
-          </div>
-          <!--/.Card-->
-        </div>
-        <!--First columnn-->
-      </div>
-
-    </section>
-    <!--/Section: Best features-->
-
-    <!--Section: About-->
-    <section id="about-us" class="text-center wow fadeIn" data-wow-delay="0.2s">
-
-      <div class="divider-new pt-5">
-        <h2 class="h2-responsive grey-text mx-4 font-bold wow fadeIn" data-wow-delay="0.2s">
-          <strong>About us</strong>
-        </h2>
-      </div>
-
-      <p>
-        JustSketchMe was built by a duo of game developers who realise that having a wooden mannequin on hand all the
-        time is fairly inconvenient.
-      </p>
-      <p>
-        This tool has a wooden figurine model, and anatomically correct male and female models.
-        It is for figure sketching, fashion design, comic illustration, and whatever else you can think of.
-      </p>
-      <p>
-        There is an adjustable light source which can be moved around the mannequins, for playing with shadows,
-        highlighting and different thresholds.
-      </p>
-
-    </section>
-    <!--Section: About-->
-
-    <!--Section: Features v.1-->
-    <section id="features" class="section feature-box text-center">
-
-      <div class="divider-new pt-3">
-        <h2 class="h2-responsive grey-text mx-4 font-bold wow fadeIn">Why is it so great?</h2>
-      </div>
-
-      <!--Section description-->
-      <p class="section-description lead grey-text mb-5 mx-lg-5">
-        JustSketchMe is free, easy-to-use, and has all the necessary features for budding artists through to fully
-        fledged fashion designers.
-      </p>
-
-      <!--Grid row-->
-      <div class="row text-center">
-
-        <!--Grid column-->
-        <div class="col-md-4 mb-r">
-          <i class="fa fa-3x fa-area-chart grey-text"></i>
-          <h5 class="font-bold grey-text mt-3">Multiple models</h5>
-          <p class="grey-text">
-            Wooden Larry, Male, Female, with more on the way...
-          </p>
-        </div>
-        <!--Grid column-->
-
-        <!--Grid column-->
-        <div class="col-md-4 mb-r">
-          <i class="fa fa-3x fa-book grey-text"></i>
-          <h5 class="font-bold grey-text mt-3">Easy-to-use</h5>
-          <p class="grey-text">
-            The controls are simple and easy to understand, yet each pose you create is completely unique.
-          </p>
-        </div>
-        <!--Grid column-->
-
-        <!--Grid column-->
-        <div class="col-md-4 mb-r">
-          <i class="fa fa-3x fa-coffee grey-text"></i>
-          <h5 class="font-bold grey-text mt-3">Funded with love</h5>
-          <p class="grey-text">
-            This project is funded entirely by our users. Please consider <a href="#" data-toggle="modal" data-target="#donate-modal">donating</a>.
-          </p>
-        </div>
-        <!--Grid column-->
-
-      </div>
-      <!--Grid row-->
-      <p class="section-description lead grey-text mb-5 mx-lg-5">
-        If you have any suggestions, or just want to chat, get it touch!
-      </p>
-      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSffAz81ZBvYMRnjGhQ6pIeycIHjyqC8ECaAFfFWuVgWDgh0CA/viewform?embedded=true" width="100%" height="650" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-    </section>
-    <!--Section: Features v.1-->
-
-    <div class="divider-new">
-      <h2 class="h2-responsive grey-text mx-4 font-bold  wow fadeIn">Contact us</h2>
-    </div>
-
-    <!--Section: Contact-->
-    <section id="contact">
-
-      <div class="row">
-        <!--First column-->
-        <div class="col-md-8 mb-5 hidden-md-down">
-          <div id="map-container">
-            <div class="mapouter">
-              <div class="gmap_canvas"><iframe width="480" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=Cape%20Town&t=&z=13&ie=UTF8&iwloc=&output=embed"
-                  frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.pureblack.de">pure
-                  black</a></div>
-              <style>.mapouter{text-align:right;height:300px;width:480px;}.gmap_canvas {overflow:hidden;background:none!important;height:300px;width:480px;}</style>
-            </div>
-          </div>
-        </div>
-        <!--/First column-->
-
-        <!--Second column-->
-        <div class="col-md-4">
-          <ul class="text-center list-unstyled">
-            <li class="wow fadeIn" data-wow-delay="0.2s">
-              <i class="fa fa-map-marker grey-text fa-2x"></i>
-              <p>Cape Town, South Africa</p>
-            </li>
-
-            <li class="wow fadeIn mt-5 pt-2" data-wow-delay="0.3s">
-              <i class="fa fa-facebook grey-text fa-2x"></i>
-              <p><a target="_blank" href="http://www.facebook.com/justsketchme">
-                  /justsketchme
-                </a></p>
-            </li>
-
-            <li class="wow fadeIn mt-5 pt-2" data-wow-delay="0.4s">
-              <i class="fa fa-envelope grey-text fa-2x"></i>
-              <p>hfbmartinus@gmail.com</p>
-            </li>
-          </ul>
-        </div>
-        <!--/Second column-->
-      </div>
-    </section>
-    <!--Section: Contact-->
-
-  </div>
-  <!--/ Main container-->
-
-
-  <!--Footer-->
-  <footer class="page-footer center-on-small-only grey mt-5">
-
-    <!--Footer Links-->
-    <div class="container-fluid pr-0 pl-0">
-
-      <!--Call to action-->
-      <div id="paypal" class="call-to-action">
-        <h4 class="mb-5">Buy the developers a coffee!</h4>
-        <ul>
-
-          <li>
-            <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank"><input type="hidden"
-                name="business" value="hfbmartinus@gmail.com"><input type="hidden" name="bn" value="mbjtechnolabs_SP"><input
-                type="hidden" name="cmd" value="_donations"><input type="hidden" name="item_name" value="To make JustSketchMe even more awesome">
-              <table>
-                <tbody>
-                  <tr>
-                    <td><input type="image" name="submit" border="0" src="https://www.paypalobjects.com/webstatic/en_US/btn/btn_donate_cc_147x47.png"
-                        alt="PayPal - The safer, easier way to pay online"></td>
-                  </tr>
-                </tbody>
-              </table><input type="hidden" name="currency_code" value="USD"><input type="hidden" name="notify_url"
-                value="http://justsketch.me/?Donation_Button&amp;action=ipn_handler">
-            </form>
-          </li>
-
-        </ul>
-      </div>
-      <!--/.Call to action-->
-
-      <!--Copyright-->
-      <div class="footer-copyright">
-        <div class="container-fluid">
-          © 2018 JustSketchMe
-        </div>
-      </div>
-      <!--/.Copyright-->
-
-  </footer>
-  <!--/.Footer-->
-
-  <!-- SCRIPTS -->
-
-  <!-- JQuery -->
-  <script type="text/javascript" src="js/jquery-3.1.1.min.js"></script>
-
-  <!-- Bootstrap dropdown -->
-  <script type="text/javascript" src="js/popper.min.js"></script>
-
-  <!-- Bootstrap core JavaScript -->
-  <script type="text/javascript" src="js/bootstrap.min.js"></script>
-
-  <!-- MDB core JavaScript -->
-  <script type="text/javascript" src="js/mdb.min.js"></script>
-
-  <script type="text/javascript" src="js/main.js"></script>
-
-</body>
-
-</html>
+---
+title: JustSketchMe
+description: Interactive 3D models for figure drawing
+---
+<section class="hero">
+	<div class="text-container">
+		<h1 class="editable">JustSketchMe</h1>
+		<h2>Interactive 3D models for figure drawing</h2>
+		<p class="subtext editable">...and sketching, fashion design, comic illustration, etc...</p>
+		<div class="cta button alt">
+			<a target="_blank" href="/assets/unity/WebGL/">Try It Free</a>
+		</div>
+		<div>
+			<img src="/images/making_art.svg" alt="Making art" class="editable" />
+		</div>
+	</div>
+</section>
+
+<div class="content">
+	<section>
+		<div class="container flex">
+			<div class="text editable">
+				<h2>A drawing tool</h2>
+				<p>
+						JustSketchMe was built by a duo of game developers who realise that having a wooden mannequin on hand all the time is fairly inconvenient.
+				<br>
+						This tool has a wooden figurine model, and anatomically correct male and female models, with more being added all the time. It is for figure sketching, fashion design, comic illustration, and whatever else you can think of.
+						
+						There is an adjustable light source which can be moved around the mannequins, for playing with shadows, highlighting and different thresholds.
+				</p>
+			</div>
+			<div class="image">
+				<img src="/images/art.svg" alt="Screenshot" class=" editable" />
+			</div>
+		</div>
+	</section>
+
+	<section>
+		<div class="container flex">
+			<div class="text editable">
+				<h2>Why is it so great?</h2>
+				<p>
+					JustSketchMe is free, easy-to-use, and has all the necessary features for budding artists through to fully fledged fashion designers.
+				</p>
+			</div>
+			<div class="image">
+				<img src="/images/working.svg" alt="Screenshot" class=" editable" />
+			</div>
+		</div>
+	</section>
+
+	<section>
+		<div class="container flex">
+			<div class="text editable">
+				<h2>Mobile app? Yes please</h2>
+				<p>
+					We have a mobile app for Android (beta), and an iOS one in the works!
+				</p>
+			</div>
+			<div class="image">
+				<img src="/images/working_2.svg" alt="Screenshot" class=" editable" />
+			</div>
+		</div>
+	</section>
+
+	<section class="testimonial">
+		<div class="container flex">
+			<div class="testimonial-block">
+				<div class="square-image"><img src="https://source.unsplash.com/6anudmpILw4/600x400" alt="Jim James" class="editable"></div>
+				<blockquote>
+					<p class="editable">Is JustSketchMe the best thing since the wheel? Probably not.</p>
+					<p class="editable author">Ryan McCarthy - CEO of Big Business.</p>
+				</blockquote>
+			</div>
+		</div>
+	</section>
+
+	<section class="bottom-cta">
+		<h2 class="editable"><strong>Draw</strong> dat good shit</h2>
+		<div class="button alt"><a target="_blank" href="/assets/unity/WebGL/">Try It Free</a></div>
+	</section>
+</div>
