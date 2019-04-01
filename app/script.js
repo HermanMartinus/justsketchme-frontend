@@ -45,7 +45,7 @@ function init() {
   grid.material.transparent = true;
   scene.add( grid );
 
-  loadModel('IdleF.fbx');
+  loadModel('IdleM.FBX');
 
   // Light
   light = new THREE.HemisphereLight( 0xffffff, 0x444444 );
@@ -80,13 +80,14 @@ function loadModel(model) {
     var joints = ["mixamorigHips", "mixamorigSpine", "mixamorigNeck", "mixamorigHead", "mixamorigLeftShoulder", "mixamorigLeftArm", "mixamorigLeftForeArm", "mixamorigLeftHand", "mixamorigRightShoulder", "mixamorigRightArm", "mixamorigRightForeArm", "mixamorigRightHand", "mixamorigRightUpLeg", "mixamorigRightLeg", "mixamorigRightFoot", "mixamorigRightToeBase", "mixamorigLeftUpLeg", "mixamorigLeftLeg", "mixamorigLeftFoot", "mixamorigLeftToeBase"];
     var loader = new THREE.FBXLoader();
     loader.load( model, function ( object ) {
-      mixer = new THREE.AnimationMixer( object );
   
       object.traverse( function ( child ) {
         if ( child.isMesh ) {
           child.castShadow = true;
           child.receiveShadow = true;
         }
+        // child.material =  new THREE.MeshPhongMaterial();
+
         if (child.isObject3D && child.name != "Alpha_Surface" && child.name != "Alpha_Joints"){
           // !joints.includes(child.name) && !/\d/.test(child.name) && joints.push(child.name);
           
@@ -170,4 +171,5 @@ window.addEventListener( 'keydown', function ( event ) {
 });
 
 document.addEventListener('mousedown', onDocumentMouseDown, false);
+document.addEventListener('touchstart', onDocumentMouseDown, false);
 
