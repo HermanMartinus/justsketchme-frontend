@@ -125,12 +125,11 @@ function render() {
   renderer.render( scene, camera );
 }
 
-function onDocumentMouseDown(event) {
-    event.preventDefault();
-    once = true;
-    mouse.x = (event.clientX / renderer.domElement.clientWidth) * 2 - 1;
-    mouse.y =  - (event.clientY / renderer.domElement.clientHeight) * 2 + 1;
+function selectJoint(event, x, y) {
 
+    mouse.x = (x / renderer.domElement.clientWidth) * 2 - 1;
+    mouse.y =  - (y / renderer.domElement.clientHeight) * 2 + 1;
+    console.log(mouse);
     raycaster.setFromCamera(mouse, camera);
     
     var intersects = raycaster.intersectObjects(childObjects);
@@ -170,6 +169,15 @@ window.addEventListener( 'keydown', function ( event ) {
     }
 });
 
-document.addEventListener('mousedown', onDocumentMouseDown, false);
-document.addEventListener('touchstart', onDocumentMouseDown, false);
+document.addEventListener('mousedown', function (event) {
+  event.preventDefault();
+  
+  selectJoint(event, event.clientX, event.clientY);
+}, false);
+
+document.addEventListener('touchstart', function (event) {
+  event.preventDefault();
+  selectJoint(event, event.touches[0].clientX, event.touches[0].clientY);
+}, false);
+// document.addEventListener('touchstart', onDocumentMouseDown, false);
 
