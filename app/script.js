@@ -45,7 +45,7 @@ function init() {
   grid.material.transparent = true;
   scene.add( grid );
 
-  loadModel('IdleM.FBX');
+  loadModel('IdleM.fbx');
 
   // Light
   light = new THREE.HemisphereLight( 0xffffff, 0x444444 );
@@ -179,5 +179,4 @@ document.addEventListener('touchstart', function (event) {
   event.preventDefault();
   selectJoint(event, event.touches[0].clientX, event.touches[0].clientY);
 }, false);
-// document.addEventListener('touchstart', onDocumentMouseDown, false);
 
