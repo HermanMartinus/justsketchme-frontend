@@ -32,18 +32,22 @@ function init() {
   controls.target.set( 0, 100, 0 );
   controls.update();
   scene = new THREE.Scene();
-  scene.background = new THREE.Color( 0xa0a0a0 );
-  scene.fog = new THREE.Fog( 0xa0a0a0, 200, 1000 );
+  scene.background = new THREE.Color( 0xffffff );
+  // scene.fog = new THREE.Fog( 0xffffff, 200, 1000 );
 
   // ground
   var mesh = new THREE.Mesh( new THREE.PlaneBufferGeometry( 2000, 2000 ), new THREE.MeshPhongMaterial( { color: 0x999999, depthWrite: false } ) );
   mesh.rotation.x = - Math.PI / 2;
   mesh.receiveShadow = true;
   scene.add( mesh );
-  var grid = new THREE.GridHelper( 2000, 20, 0x000000, 0x000000 );
-  grid.material.opacity = 0.2;
-  grid.material.transparent = true;
-  scene.add( grid );
+
+  // var grid = new THREE.GridHelper( 2000, 20, 0x000000, 0x000000 );
+  // grid.material.opacity = 0.2;
+  // grid.material.transparent = true;
+  // scene.add( grid );
+  var gridHelper = new THREE.PolarGridHelper( 300, 10 );
+  // gridHelper.position.y = - 6;
+  scene.add( gridHelper );
 
   loadModel('IdleM.fbx');
 
