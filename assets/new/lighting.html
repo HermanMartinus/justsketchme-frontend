@@ -146,13 +146,12 @@
 				orbit.addEventListener( 'change', render );
 			}
 
-			//
 			function onWindowResize() {
 				renderer.setSize( window.innerWidth, window.innerHeight );
 				camera.aspect = window.innerWidth / window.innerHeight;
 				camera.updateProjectionMatrix();
 			}
-			//
+	
 			function animate() {
 				requestAnimationFrame( animate );
 				render();
@@ -161,10 +160,7 @@
 			function render() {
 				renderer.render( scene, camera );
 			}
-
-			document.addEventListener('touchstart', function (event) {
-				event.preventDefault();
-			}, false);
+			document.addEventListener('touchmove', function() { e.preventDefault(); }, { passive:false });
 		</script>
 
 	</body>
