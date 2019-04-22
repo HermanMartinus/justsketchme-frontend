@@ -115,6 +115,11 @@
 				// scene.add( control );
 				scene.add( mesh );
 
+				// Orbit camera setup
+				orbit = new THREE.OrbitControls( camera, renderer.domElement );
+				orbit.update();
+				orbit.addEventListener( 'change', render );
+
 				// LIGHTS
 				scene.add( new THREE.HemisphereLight( 0x443333, 0x111122 ) );
 				spotLight = new THREE.SpotLight( 0xffffbb, 2 );
@@ -125,7 +130,7 @@
 				lightControl = new THREE.TransformControls( camera, renderer.domElement );
 				lightControl.addEventListener( 'change', render );
 				lightControl.addEventListener( 'dragging-changed', function ( event ) {
-					controls.enabled = ! event.value;
+					orbit.enabled = ! event.value;
 				} );
 				lightControl.attach( spotLight );
 				lightControl.setMode( "translate" );
@@ -140,11 +145,6 @@
 				spotLight.shadow.camera.fov = 40;
 				spotLight.shadow.bias = - 0.005;
 				//
-			
-				// Orbit camera setup
-				orbit = new THREE.OrbitControls( camera, renderer.domElement );
-				orbit.update();
-				orbit.addEventListener( 'change', render );
 			}
 
 			//
