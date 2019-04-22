@@ -161,6 +161,10 @@
 			function render() {
 				renderer.render( scene, camera );
 			}
+
+			document.addEventListener('touchstart', function (event) {
+				event.preventDefault();
+			}, false);
 		</script>
 
 	</body>

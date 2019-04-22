@@ -114,17 +114,18 @@ function loadModel(model) {
       scene.add( object );
     } );
 }
-//
+
 function onWindowResize() {
   renderer.setSize( window.innerWidth, window.innerHeight );
   camera.aspect = window.innerWidth / window.innerHeight;
   camera.updateProjectionMatrix();
 }
-//
+
 function animate() {
   requestAnimationFrame( animate );
   render();
 }
+
 function render() {
   renderer.render( scene, camera );
 }
