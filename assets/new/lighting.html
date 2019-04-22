@@ -120,15 +120,17 @@
 				spotLight = new THREE.SpotLight( 0xffffbb, 2 );
 				spotLight.position.set( 0.5, 0, 1 );
 				spotLight.position.multiplyScalar( 700 );
-
+				scene.add( spotLight );
+	
 				lightControl = new THREE.TransformControls( camera, renderer.domElement );
 				lightControl.addEventListener( 'change', render );
 				lightControl.addEventListener( 'dragging-changed', function ( event ) {
-					orbit.enabled = ! event.value;
+					controls.enabled = ! event.value;
 				} );
 				lightControl.attach( spotLight );
 				lightControl.setMode( "translate" );
 				scene.add( lightControl );
+				
 
 				spotLight.castShadow = true;
 				spotLight.shadow.mapSize.width = 2048;
@@ -145,12 +147,13 @@
 				orbit.addEventListener( 'change', render );
 			}
 
+			//
 			function onWindowResize() {
 				renderer.setSize( window.innerWidth, window.innerHeight );
 				camera.aspect = window.innerWidth / window.innerHeight;
 				camera.updateProjectionMatrix();
 			}
-	
+			//
 			function animate() {
 				requestAnimationFrame( animate );
 				render();
