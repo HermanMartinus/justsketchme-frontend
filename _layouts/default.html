@@ -35,7 +35,7 @@
 			<div class="container">
 				<div class="company-name">
 					<a href="{{ site.baseurl }}/">
-						<img src="{{ site.baseurl }}/images/logo.svg" alt="{{ site.title }}" width="95" height="33" />
+						<img src="{{ site.baseurl }}/images/hand.svg" alt="{{ site.title }}" width="95" height="33" />
 						{{ site.title }}
 					</a>
 				</div>
@@ -50,7 +50,7 @@
 					{% for column in site.data.footer %}
 					<ul class="footer-links">
 						{% for link in column.links %}
-							<li><a {% if link.new_window %}target="_blank"{% endif %} href="{% include relative-src.html src=link.link %}" {% if link.social_icon %}class="{{ link.social_icon }}-icon"{% endif %}>
+							<li><a {% if link.new_window %}target="_blank" rel="noopener noreferrer"{% endif %} href="{% include relative-src.html src=link.link %}" {% if link.social_icon %}class="{{ link.social_icon }}-icon"{% endif %}>
 								{% if link.social_icon %}
 									{% include social-icon.html icon=link.social_icon %}
 								{% endif %}
