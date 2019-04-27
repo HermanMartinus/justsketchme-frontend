@@ -10,10 +10,10 @@
     link: https://facebook.com/justsketchme
     new_window: true
     social_icon: Facebook
-  # - name: Twitter
-  #   link: https://twitter.com/
-  #   social_icon: Twitter
-  #   new_window: true
+  - name: Patreon
+    link: https://patreon.com/herman_martinus
+    social_icon: Patreon
+    new_window: true
   - name: Reddit
     link: https://reddit.com/r/JustSketchMe
     social_icon: Reddit

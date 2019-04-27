@@ -1,3 +1,7 @@
+- name: Contribute
+  link: 'https://www.patreon.com/herman_martinus'
+  highlight: true
+  new_window: true
 - name: Devlog
   link: /blog/
   new_window: false
