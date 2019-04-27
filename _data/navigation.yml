@@ -3,8 +3,8 @@
   highlight: true
   new_window: true
 - name: Devlog
-  link: /blog/
-  new_window: false
+  link: 'http://reddit.com/r/JustSketchMe'
+  new_window: true
   highlight: false
 - name: Us
   link: /about/
