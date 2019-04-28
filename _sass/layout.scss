@@ -212,14 +212,14 @@ blockquote:before {
 	display: none;
 }
 .mobile {
-	display: block;
+	display: none;
 }
 
-@media #{$desktop} {
-	.desktop {
-		display: block;
-	}
-	.mobile {
-		display: none;
-	}
-}
+// @media #{$desktop} {
+// 	.desktop {
+// 		display: block;
+// 	}
+// 	.mobile {
+// 		display: none;
+// 	}
+// }
