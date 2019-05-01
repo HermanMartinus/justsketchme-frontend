@@ -187,7 +187,7 @@ blockquote:before {
 	button {
     position: absolute;
     top: 10px;
-    right: 20px;
+    right: 100px;
     width: 50px;
 		height: 40px;
 		border: none;
@@ -214,12 +214,3 @@ blockquote:before {
 .mobile {
 	display: none;
 }
-
-// @media #{$desktop} {
-// 	.desktop {
-// 		display: block;
-// 	}
-// 	.mobile {
-// 		display: none;
-// 	}
-// }

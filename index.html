@@ -13,7 +13,9 @@ description: Interactive 3D models for figure drawing
 		</div>
 		<div class="desktop">
 			<div class="cta button alt">
-				<a href="/app/">Open webapp (beta)</a>
+				<a href="javascript:showPatreonPopup()">
+					Open webapp (beta)
+				</a>
 			</div>
 			<div class="cta button">
 				<a href="/webapp/">Use the old webapp</a>
@@ -126,11 +128,42 @@ description: Interactive 3D models for figure drawing
 	</section>
 </div>
 
+<div class="patreon-popup">
+	<button onclick="hidePatreonPopup()">Close</button>
+	<h2>Hey there, I'm Herman, one of the creators of JustSketchMe</h2>
+	<p>
+		We currently have ~10k people using this tool, which was crafted with love and care,
+		and we would like it to remain free-to-use for artists, yet servers cost money.
+	</p>
+	<p>
+		Unfortunately we live in a capitalist world where if becomes a necessity to get paid for your art, and this is my art.
+	</p>
+	<p>
+		Please consider contributing to the development of JustSketchMe on Patreon (you'll also get access to the mobile and desktop apps). 
+	</p>
+	<p>
+		&lt;3 Herman
+	</p>
+	<div class="cta button">
+		<a href="https://www.patreon.com/herman_martinus" target="_blank" rel="noopener noreferrer">
+			Support on Patreon
+		</a>
+	</div>
+	<a href="/app/">Just take me to the app...</a>
+</div>
+
 <script>
 	if (/Android|webOS|iPhone|iPad|BlackBerry|Windows Phone|Opera Mini|IEMobile|Mobile/i.test(navigator.userAgent)) {
 		document.querySelector('.mobile').style.display = "block";
 	} else {
 		document.querySelector('.desktop').style.display = "block";
+	}
+
+	function showPatreonPopup() {
+		document.querySelector('.patreon-popup').style.display = "block";
+	}
+	function hidePatreonPopup() {
+		document.querySelector('.patreon-popup').style.display = "none";
 	}
 
 </script>
