@@ -144,9 +144,11 @@ description: Interactive 3D models for figure drawing
 
 	function showContributePopup() {
 		document.querySelector('.contribute-popup').style.display = "block";
+		document.body.style.overflowY = "hidden";
 	}
 	function hideContributePopup() {
 		document.querySelector('.contribute-popup').style.display = "none";
+		document.body.style.overflowY = "auto";
 	}
 
 </script>
