@@ -11,29 +11,17 @@ description: Interactive 3D models for figure drawing
 		<div>
 			<img src="/images/hero.png" alt="Making art" />
 		</div>
-		<div class="desktop">
+		<div class="">
 			<div class="cta button alt">
-				<a href="/app/">
-					Open webapp (beta)
+				<a href="javascript:showContributePopup();">
+					Open beta webapp
 				</a>
 			</div>
-			<div class="cta button">
+			<div class="cta button desktop">
 				<a href="/webapp/">Use the old webapp</a>
 			</div>
-		</div>
-		<div class="mobile">
-			<p class="warning">
-				Right now JustSketchMe is only available on desktop browsers.<br><br>
-				For beta access to the <b>Android</b> and <b>iOS</b> app, contribute to JustSketchMe on Patreon and I'll send
-				you a link.<br>
-				Think of this as my artform; every artist has got to eat :)
-			</p>
-			<div class="cta button alt">
-				<a href="https://www.patreon.com/herman_martinus" target="_blank" rel="noopener noreferrer">Get the app via
-					Patreon</a>
-			</div>
 			<div class="cta button">
-				<a href="http://reddit.com/r/JustSketchMe" target="_blank" rel="noopener noreferrer">Follow on Reddit</a>
+				<a href="http://reddit.com/r/JustSketchMe" target="_blank" rel="noopener noreferrer">Get updates on Reddit</a>
 			</div>
 		</div>
 	</div>
@@ -84,8 +72,7 @@ description: Interactive 3D models for figure drawing
 			<div class="text">
 				<h2>Mobile app? Yes please</h2>
 				<p>
-					The app is in beta and is available for <b>Android</b> and <b>iOS</b> to patrons only.
-					Contribute on <a target="_blank" rel="noopener noreferrer" href="https://patreon.com/herman_martinus">Patreon</a> to get access.
+					JustSketchMe was built as a progressive web app. What this means is that you can install it to your <b>Android</b> or <b>iOS</b> device by going to the web app and selecting<br><b>"Add to Homescreen"</b>.
 				</p>
 			</div>
 			<div class="image">
@@ -99,7 +86,8 @@ description: Interactive 3D models for figure drawing
 				<h2>Community</h2>
 				<p>
 					Sharing of poses and other nifty things will be done on the <a href="https://www.reddit.com/r/JustSketchMe/"
-						target="_blank" rel="noopener noreferrer">reddit page</a>.
+						target="_blank" rel="noopener noreferrer">reddit page</a>.<br>
+						Contribute on <a target="_blank" rel="noopener noreferrer" href="https://patreon.com/herman_martinus">Patreon</a> to support the development. 
 				</p>
 			</div>
 			<div class="image">
@@ -128,38 +116,37 @@ description: Interactive 3D models for figure drawing
 	</section>
 </div>
 
-<div class="patreon-popup">
-	<button onclick="hidePatreonPopup()">Close</button>
-	<h2>Hello :)</h2>
+<div class="contribute-popup">
+	<button onclick="hideContributePopup()">Close</button>
+	<h2>Tip jar</h2>
 	<p>
-		The good news is that JustSketchMe is helping ~10,000 artists per month with their art!
+		Hey! JustSketchMe is free to use and doesn't contain ads. <b>We want to keep it that way!</b>
 	</p>
 	<p>
-		The bad news is that from next month our free hosting credit runs out and I'll have to start paying for hosting the site and app. 
+		Please consider supporting the developmemnt on <b>Patreon</b>, or popping some money in the <b>tip jar</b>!
 	</p>
-	<p>
-		Please consider contributing to the project on Patreon. You'll get access to the mobile apps as well!
-	</p>
-	<div class="cta button">
-		<a href="https://www.patreon.com/herman_martinus" target="_blank" rel="noopener noreferrer">
-			Support on Patreon
-		</a>
+	<div class="contribute">
+		<a href="https://www.patreon.com/bePatron?u=19607504" target="_blank" rel="noopener noreferrer"><img src="https://c5.patreon.com/external/logo/become_a_patron_button.png"/></a>
 	</div>
-	<a href="/app/">Just take me to the app...</a>
+	<div class="contribute">
+		<style>.bmc-button img{width: 27px !important;margin-bottom: 1px !important;box-shadow: none !important;border: none !important;vertical-align: middle !important;}.bmc-button{line-height: 36px !important;height:37px !important;text-decoration: none !important;display:inline-flex !important;color:#000000 !important;background-color:#FFFFFF !important;border-radius: 3px !important;border: 1px solid transparent !important;padding: 1px 9px !important;font-size: 22px !important;letter-spacing: 0.6px !important;box-shadow: 0px 1px 2px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;margin: 0 auto !important;font-family:'Cookie', cursive !important;-webkit-box-sizing: border-box !important;box-sizing: border-box !important;-o-transition: 0.3s all linear !important;-webkit-transition: 0.3s all linear !important;-moz-transition: 0.3s all linear !important;-ms-transition: 0.3s all linear !important;transition: 0.3s all linear !important;}.bmc-button:hover, .bmc-button:active, .bmc-button:focus {-webkit-box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;text-decoration: none !important;box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;opacity: 0.85 !important;color:#000000 !important;}</style><link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/AdmtxiM4N"><img src="https://www.buymeacoffee.com/assets/img/BMC-btn-logo.svg" alt="Buy me a coffee"><span style="margin-left:5px">Buy me a coffee</span></a>
+	</div>
+
+	<a href="https://justsketchme.firebaseapp.com" target="_blank" rel="noopener noreferrer">Take me to the app...</a>
 </div>
 
 <script>
-	if (/Android|webOS|iPhone|iPad|BlackBerry|Windows Phone|Opera Mini|IEMobile|Mobile/i.test(navigator.userAgent)) {
-		document.querySelector('.mobile').style.display = "block";
-	} else {
-		document.querySelector('.desktop').style.display = "block";
-	}
+	// if (/Android|webOS|iPhone|iPad|BlackBerry|Windows Phone|Opera Mini|IEMobile|Mobile/i.test(navigator.userAgent)) {
+	// 	document.querySelector('.mobile').style.display = "block";
+	// } else {
+	// 	document.querySelector('.desktop').style.display = "block";
+	// }
 
-	function showPatreonPopup() {
-		document.querySelector('.patreon-popup').style.display = "block";
+	function showContributePopup() {
+		document.querySelector('.contribute-popup').style.display = "block";
 	}
-	function hidePatreonPopup() {
-		document.querySelector('.patreon-popup').style.display = "none";
+	function hideContributePopup() {
+		document.querySelector('.contribute-popup').style.display = "none";
 	}
 
 </script>
