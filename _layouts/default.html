@@ -7,6 +7,8 @@
 
 		{% seo %}
 		<meta name="keywords" content="{{ site.keywords }}">
+		<meta property="og:image" content="{{ site.url }}{{ site.logo }}">
+		<meta property="og:type" content="website" />
 		{% feed_meta %}
 
 		<link rel="stylesheet" href="{{ site.baseurl }}/css/screen.css">
@@ -35,7 +37,7 @@
 			<div class="container">
 				<div class="company-name">
 					<a href="{{ site.baseurl }}/">
-						<img src="{{ site.baseurl }}/images/hand.svg" alt="{{ site.title }}" width="95" height="33" />
+						<img src="{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }}" width="95" height="33" />
 						{{ site.title }}
 					</a>
 				</div>
