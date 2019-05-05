@@ -36,7 +36,7 @@
 		<header>
 			<div class="container">
 				<div class="company-name">
-					<a href="{{ site.baseurl }}/">
+					<a href="{{ site.baseurl }}/" title="{{ site.title }}>
 						<img src="{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }}" width="95" height="33" />
 						{{ site.title }}
 					</a>
@@ -47,12 +47,11 @@
 		{{ content }}
 		<footer>
 			<div class="container">
-				<p class="editor-link"><a href="cloudcannon:collections/_data/footer.yml" class="btn"><strong>&#9998;</strong> Edit footer</a></p>
 				<div class="footer-columns">
 					{% for column in site.data.footer %}
 					<ul class="footer-links">
 						{% for link in column.links %}
-							<li><a {% if link.new_window %}target="_blank" rel="noopener noreferrer"{% endif %} href="{% include relative-src.html src=link.link %}" {% if link.social_icon %}class="{{ link.social_icon }}-icon"{% endif %}>
+							<li><a {% if link.new_window %}target="_blank" rel="noopener noreferrer"{% endif %} href="{% include relative-src.html src=link.link %}" {% if link.social_icon %}class="{{ link.social_icon }}-icon"{% endif %} title="{{ link.name }}">
 								{% if link.social_icon %}
 									{% include social-icon.html icon=link.social_icon %}
 								{% endif %}
@@ -61,7 +60,7 @@
 					</ul>
 					{% endfor %}
 				</div>
-				<p class="copyright">&copy; {{ site.time | date: '%Y' }} JustSketchMe Ltd. • <a href="#">Terms</a> &amp; <a href="#">Privacy</a></p>
+				<p class="copyright">&copy; {{ site.time | date: '%Y' }} JustSketchMe Ltd. • <a href="#" title="Terms">Terms</a> &amp; <a href="#" title="Privacy">Privacy</a></p>
 			</div>
 		</footer>
 		<script>
