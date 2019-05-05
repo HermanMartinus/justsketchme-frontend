@@ -10,7 +10,8 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: "/images/hand.svg"
-description: Free interactive 3D models for figure drawing, comic illustration, sketching, fashion design and more. Use these male and female mannequins to create poses and references for all your artistic needs.
+description: Free interactive 3D models for figure drawing.
+keywords: model, draw, drawing, figure drawing, comic illustration, sketch, figure sketching, fashion design, mannequin, 3d, 3d model, interactive model, art, male, female, character, pose, posing
 author:
   name:
   email:
