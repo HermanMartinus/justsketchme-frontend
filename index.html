@@ -117,15 +117,19 @@ description: Free character posing tool for figure drawing, comic illustration, 
 
 <div class="contribute-popup">
 	<button onclick="hideContributePopup()">Close</button>
-	<h2>Quick question</h2>
-	<p>
-		
-	</p>
+	<div class="upper">
+		<h2>Hey</h2>
+		<p>
+			If this isn't your first time on JustSketchMe, mind answering a few questions? (I'm trying to make JSM more awesome)
+		</p>
+		<a style="cursor: pointer; font-size:16px" onclick="document.querySelector('.leForm').style.display='block';document.querySelector('.upper').style.display='none'">Sure</a>
+	</div>
 	<form
 		action="https://docs.google.com/forms/d/e/1FAIpQLSdrIk52auf4W8AYtQfayZrBBMC201L0ixXU4iEr_Xdw3wRllA/formResponse"
 		method="POST"
 		target="no-target"
 		onsubmit="hideContributePopup()"
+		class="leForm"
 	>
 		<label>Do you attend a college or school? What institution do you attend?</label>
 		<input type="text" name="entry.760827440" />
@@ -133,7 +137,7 @@ description: Free character posing tool for figure drawing, comic illustration, 
 		<input type="text" name="entry.2142743065" />
 		<label>What would you like to see added to JustSketchMe?</label>
 		<textarea name="entry.2132877584"></textarea>
-		<label>Would a premium version with lots of other features interest you?</label>
+		<label>Would you be interested in a premium version?</label>
 		<input type="text" name="entry.1220813203" />
 		<input type="submit" value="Submit"/>
 	</form>
@@ -146,15 +150,15 @@ description: Free character posing tool for figure drawing, comic illustration, 
 	// 	document.querySelector('.desktop').style.display = "block";
 	// }
 
-	// showContributePopup();
+	showContributePopup();
 
 	function showContributePopup() {
 		document.querySelector('.contribute-popup').style.display = "block";
-		document.body.style.overflowY = "hidden";
+		// document.body.style.overflowY = "hidden";
 	}
 	function hideContributePopup() {
 		document.querySelector('.contribute-popup').style.display = "none";
-		document.body.style.overflowY = "auto";
+		// document.body.style.overflowY = "auto";
 	}
 
 </script>

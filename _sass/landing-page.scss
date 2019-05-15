@@ -90,7 +90,7 @@
 }
 
 .contribute-popup {
-	position: fixed;
+	position: absolute;
 	display: none;
 	max-width: 500px;
 	width: 100%;
@@ -126,6 +126,10 @@
 		width: 175px;
 		height:37px;
     margin: 0 auto 20px;
+	}
+
+	.leForm {
+		display:none;
 	}
 }
 
