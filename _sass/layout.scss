@@ -208,3 +208,14 @@ blockquote:before {
 			z-index: 10000;
 	}
 }
+
+.patreon {
+	padding: 0;
+
+	img {
+		width: 175px;
+		position: absolute;
+		right: 10px;
+		top: -14px;
+	}
+}
