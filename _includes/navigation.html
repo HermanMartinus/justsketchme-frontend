@@ -1,9 +1,6 @@
 <nav>
 	<a class="nav-toggle" id="open-nav" href="#" title="Nav">&#9776;</a>
 	<a class="editor-link btn" href="cloudcannon:collections/_data/navigation.yml" class="btn" title="Edit"><strong>&#9998;</strong> Edit navigation</a>
-	<a href="https://www.patreon.com/join/herman_martinus" target="_blank" rel="noopener noreferrer" class="patreon">
-		<img src="https://c5.patreon.com/external/logo/become_a_patron_button.png">
-	</a>
 	{% for link in site.data.navigation %}
 		{% assign class = "" %}
 		{% if link.highlight %}
