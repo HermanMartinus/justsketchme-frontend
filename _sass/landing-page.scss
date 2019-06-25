@@ -10,6 +10,31 @@
 	}
 }
 
+.share-buttons{
+  list-style: none;
+	padding: 0;
+	text-align: center;
+
+	li{
+		display: inline;
+	}
+
+	.sr-only{
+		position: absolute;
+		clip: rect(1px 1px 1px 1px);
+		clip: rect(1px, 1px, 1px, 1px);
+		padding: 0;
+		border: 0;
+		height: 1px;
+		width: 1px;
+		overflow: hidden;
+	}
+
+	img{
+		width: 32px;
+	}
+}
+
 .testimonial {
 	background: #f5f5f5;
 	margin: 0;
@@ -150,31 +175,5 @@
 @media screen and (min-width: 480px) {
 	.desktop {
 		display: block;
-	}
-}
-
-
-.share-buttons{
-  list-style: none;
-	padding: 0;
-	text-align: center;
-
-	li{
-		display: inline;
-	}
-
-	.sr-only{
-		position: absolute;
-		clip: rect(1px 1px 1px 1px);
-		clip: rect(1px, 1px, 1px, 1px);
-		padding: 0;
-		border: 0;
-		height: 1px;
-		width: 1px;
-		overflow: hidden;
-	}
-
-	img{
-		width: 32px;
 	}
 }
