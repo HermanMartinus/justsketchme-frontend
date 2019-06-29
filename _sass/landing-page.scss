@@ -111,12 +111,12 @@
 }
 
 .contribute-popup {
-	position: absolute;
+	position: fixed;
 	display: none;
 	max-width: 500px;
 	width: 100%;
 	left: calc(50% - 280px);
-	top: 50px;
+	top: calc(50% - 150px);
 	padding: 30px;
 	border-radius: 5px;
 	font-size: 14px;
