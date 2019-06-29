@@ -63,6 +63,9 @@
 				<p class="copyright">&copy; {{ site.time | date: '%Y' }} JustSketchMe Ltd. • <a href="#" title="Terms">Terms</a> &amp; <a href="#" title="Privacy">Privacy</a></p>
 			</div>
 		</footer>
+		{% if page.modal %}
+			{% include modal.html %}
+		{% endif %}
 		<script>
 			document.getElementById("open-nav").onclick = function () {
 				document.body.classList.toggle("nav-open");
