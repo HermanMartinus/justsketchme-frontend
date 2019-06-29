@@ -21,8 +21,9 @@ description: Free character posing tool for figure drawing, comic illustration, 
 					Use the old webapp
 				</a>
 			</div>
-			<a href="https://www.patreon.com/justsketchme" target="_blank" rel="noopener noreferrer" class="patreon-button">
-				<img src="https://c5.patreon.com/external/logo/become_a_patron_button.png">
+			<a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/AdmtxiM4N">
+				<img src="https://www.buymeacoffee.com/assets/img/BMC-btn-logo.svg" alt="Buy me a coffee">
+				<span style="margin-left:5px">Buy me a coffee</span>
 			</a>
 
 
@@ -103,8 +104,6 @@ description: Free character posing tool for figure drawing, comic illustration, 
 					<li><a href="http://www.tumblr.com/share?v=3&u=https%3A%2F%2Fjustsketch.me&quote=JustSketchMe%20-%20Character%20posing%20tool%20for%20artists&s=" target="_blank" title="Post to Tumblr"><img alt="Post to Tumblr" src="images/social/Tumblr.svg" /></a></li>
 					<li><a href="http://www.reddit.com/submit?url=https%3A%2F%2Fjustsketch.me&title=JustSketchMe%20-%20Character%20posing%20tool%20for%20artists" target="_blank" title="Submit to Reddit"><img alt="Submit to Reddit" src="images/social/Reddit.svg" /></a></li>
 				</ul>
-					
-
 			</div>
 			<div class="image">
 				<img src="/images/dash2.jpg" alt="Screenshot" />
@@ -134,6 +133,18 @@ description: Free character posing tool for figure drawing, comic illustration, 
 
 <div class="contribute-popup">
 	<button onclick="hideContributePopup()">Close</button>
+	<h2>
+		Hey artist!
+	</h2>
+	<p>
+		We don't do any marketing at JustSketchMe 
+		<br>(we just making stuff).
+	</p>
+	<h3>Could you tweet about us?</h3>
+	<ul class="share-buttons">
+		<li><a href="https://twitter.com/intent/tweet?source=https%3A%2F%2Fjustsketch.me&text=JustSketchMe%20-%20Character%20posing%20tool%20for%20artists:%20https%3A%2F%2Fjustsketch.me" target="_blank" title="Tweet"><img alt="Tweet" src="images/social/Twitter.svg" /></a></li>
+	</ul>
+	<!-- 
 	<h2>Hey there :)</h2>
 	<p>
 		JustSketchMe is free to use and doesn't contain ads.
@@ -144,7 +155,7 @@ description: Free character posing tool for figure drawing, comic illustration, 
 	</p>
 	<div class="contribute">
 		<style>.bmc-button img{width: 27px !important;margin-bottom: 1px !important;box-shadow: none !important;border: none !important;vertical-align: middle !important;}.bmc-button{line-height: 36px !important;height:37px !important;text-decoration: none !important;display:inline-flex !important;color:#000000 !important;background-color:#FFFFFF !important;border-radius: 3px !important;border: 1px solid transparent !important;padding: 1px 9px !important;font-size: 22px !important;letter-spacing: 0.6px !important;box-shadow: 0px 1px 2px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;margin: 0 auto !important;font-family:'Cookie', cursive !important;-webkit-box-sizing: border-box !important;box-sizing: border-box !important;-o-transition: 0.3s all linear !important;-webkit-transition: 0.3s all linear !important;-moz-transition: 0.3s all linear !important;-ms-transition: 0.3s all linear !important;transition: 0.3s all linear !important;}.bmc-button:hover, .bmc-button:active, .bmc-button:focus {-webkit-box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;text-decoration: none !important;box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;opacity: 0.85 !important;color:#000000 !important;}</style><link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/AdmtxiM4N"><img src="https://www.buymeacoffee.com/assets/img/BMC-btn-logo.svg" alt="Buy me a coffee"><span style="margin-left:5px">Buy me a coffee</span></a>
-	</div>
+	</div> -->
 	<!-- <div class="upper">
 		<h2>Hey</h2>
 		<p>
@@ -176,15 +187,15 @@ description: Free character posing tool for figure drawing, comic illustration, 
 	// 	document.querySelector('.desktop').style.display = "block";
 	// }
 
-	// showContributePopup();
+	showContributePopup();
 
 	function showContributePopup() {
 		document.querySelector('.contribute-popup').style.display = "block";
-		// document.body.style.overflowY = "hidden";
+		document.body.style.overflowY = "hidden";
 	}
 	function hideContributePopup() {
 		document.querySelector('.contribute-popup').style.display = "none";
-		// document.body.style.overflowY = "auto";
+		document.body.style.overflowY = "auto";
 	}
 
 	function showLeForm() {
