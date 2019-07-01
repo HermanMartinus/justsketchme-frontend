@@ -43,6 +43,17 @@
 			}
 		}
 	}
+
+	.testimonial-image {
+		text-align: center;
+		
+		img {
+			width: 150px;
+			height: 150px;
+			overflow: hidden;
+			margin: 25px auto 0 auto;
+		}
+	}
 }
 
 .hero {
