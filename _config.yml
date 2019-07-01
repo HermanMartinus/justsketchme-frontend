@@ -10,12 +10,12 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: "/images/hand.svg"
-description: Free interactive 3D models for figure drawing.
+description: Free interactive 3D characters for figure drawing.
 keywords: model, draw, drawing, figure drawing, comic illustration, sketch, figure sketching, fashion design, mannequin, 3d, 3d model, interactive model, art, male, female, character, pose, posing
 author:
   name:
   email:
-  twitter: # twitter username without the @ symbol
+  twitter: justsketchme
 social:
   name: JustSketchMe
   links:
