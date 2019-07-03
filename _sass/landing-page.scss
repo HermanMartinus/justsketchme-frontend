@@ -10,16 +10,16 @@
 	}
 }
 
-.share-buttons{
-  list-style: none;
+.share-buttons {
+	list-style: none;
 	padding: 0;
 	text-align: center;
 
-	li{
+	li {
 		display: inline;
 	}
 
-	img{
+	img {
 		width: 32px;
 	}
 }
@@ -45,7 +45,7 @@
 
 	.testimonial-image {
 		text-align: center;
-		
+
 		img {
 			width: 150px;
 			height: 150px;
@@ -96,7 +96,8 @@
 		align-items: center;
 		flex-direction: row;
 
-		.text, .image {
+		.text,
+		.image {
 			-webkit-flex: 1;
 			flex: 1;
 			padding: 0 20px;
@@ -116,6 +117,7 @@
 .desktop {
 	display: none;
 }
+
 .mobile {
 	display: none;
 }

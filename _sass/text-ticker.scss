@@ -1,0 +1,59 @@
+$duration: 50s;
+
+@-webkit-keyframes ticker {
+    0% {
+        -webkit-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+        visibility: visible;
+    }
+
+    100% {
+        -webkit-transform: translate3d(-100%, 0, 0);
+        transform: translate3d(-100%, 0, 0);
+    }
+}
+
+@keyframes ticker {
+    0% {
+        -webkit-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+        visibility: visible;
+    }
+
+    100% {
+        -webkit-transform: translate3d(-100%, 0, 0);
+        transform: translate3d(-100%, 0, 0);
+    }
+}
+
+.ticker-wrap {
+    width: 650px;
+    overflow: hidden;
+    margin: 0 auto;
+    box-sizing: content-box;
+
+    .ticker {
+
+        display: inline-block;
+        white-space: nowrap;
+        box-sizing: content-box;
+
+        -webkit-animation-iteration-count: infinite;
+        animation-iteration-count: infinite;
+        -webkit-animation-timing-function: linear;
+        animation-timing-function: linear;
+        -webkit-animation-name: ticker;
+        animation-name: ticker;
+        -webkit-animation-duration: $duration;
+        animation-duration: $duration;
+
+        &__item {
+            box-sizing: border-box;
+            display: inline-block;
+            font-size: 2rem;
+            color: white;
+        }
+
+    }
+
+}
