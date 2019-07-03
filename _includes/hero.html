@@ -1,0 +1,104 @@
+<section class="hero">
+    <div class="text-container">
+        <h1 class="title">JustSketchMe<br> <small>Interactive character posing tool for <span>drawing.</span><span
+                    class="caret" aria-hidden="true"></span></small></h1>
+        <h2 class="subtext">
+            ...and sketching, fashion design, comic illustration, exploring poses and lighting, etc...
+        </h2>
+
+        <div>
+            <img src="/images/hero.png" alt="Making art" />
+        </div>
+        <div class="">
+            <div class="cta button alt">
+                <a href="https://justsketchme.web.app" target="_blank" rel="noopener noreferrer" title="Webapp">
+                    Open beta webapp
+                </a>
+            </div>
+            <div class="cta button desktop">
+                <a href="/assets/unity/WebGL/" target="_blank" rel="noopener noreferrer" title="Old webapp">
+                    Use the old webapp
+                </a>
+            </div>
+            <a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/AdmtxiM4N">
+                <img src="https://www.buymeacoffee.com/assets/img/BMC-btn-logo.svg" alt="Buy me a coffee">
+                <span style="margin-left:5px">Buy me a coffee</span>
+            </a>
+        </div>
+    </div>
+</section>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function (event) {
+        var dataText = [" drawing.", " sketching.", " posing.", " perspective.", " character design."];
+        var typingSpeed = 100;
+        var timeBetweenWords = 2000;
+        var startTime = 1000;
+
+        // type one text in the typwriter
+        // keeps calling itself until the text is finished
+        function typeWriterAdd(text, i, fnCallback) {
+            // check if text isn't finished yet
+            if (i < (text.length)) {
+                // add next character to h1
+                document.querySelector(".hero .title span").innerHTML = text.substring(0, i + 1);
+
+                // wait for a while and call this function again for next character
+                setTimeout(function () {
+                    typeWriterAdd(text, i + 1, fnCallback)
+                }, typingSpeed);
+            }
+            // text finished, call callback if there is a callback function
+            else if (typeof fnCallback == 'function') {
+                // call callback after timeout
+                setTimeout(fnCallback, timeBetweenWords);
+            }
+        }
+
+        function typeWriterRemove(text, i, fnCallback) {
+            // check if text isn't finished yet
+            if (i < (text.length)) {
+                var currentText = document.querySelector(".hero .title span").innerHTML;
+                document.querySelector(".hero .title span").innerHTML = currentText.substring(0, currentText
+                    .length - 1);
+                // wait for a while and call this function again for next character
+                setTimeout(function () {
+                    typeWriterRemove(text, i + 1, fnCallback)
+                }, 100);
+            }
+            // text finished, call callback if there is a callback function
+            else if (typeof fnCallback == 'function') {
+                // call callback after timeout
+                setTimeout(fnCallback, 500);
+            }
+        }
+        // start a typewriter animation for a text in the dataText array
+        function StartTextAnimation(i) {
+            if (typeof dataText[i] == 'undefined') {
+                setTimeout(function () {
+                    StartTextAnimation(0);
+                }, startTime);
+            }
+            // check if dataText[i] exists
+            if (dataText[i] && i < dataText[i].length) {
+                var word = dataText[i];
+                // text exists! start typewriter animation
+                typeWriterAdd(word, 0, function () {
+                    // text done! remove it
+                    typeWriterRemove(word, 0, function () {
+                        //after callback (and whole text has been animated), start next text
+                        StartTextAnimation(i + 1);
+                    });
+                });
+            }
+        }
+
+        function typewriterTitle() {
+            typeWriterRemove(dataText[0], 0, function () {
+                StartTextAnimation(1);
+            });
+        }
+
+        setTimeout(typewriterTitle, startTime);
+    });
+</script>
