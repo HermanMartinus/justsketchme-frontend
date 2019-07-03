@@ -1,725 +1,127 @@
-<!DOCTYPE html>
-<html lang="en" class="full-height">
-
-<head>
-
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <link rel="apple-touch-icon" sizes="180x180" href="img/favicons/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="img/favicons/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="img/favicons/favicon-16x16.png">
-  <link rel="manifest" href="img/favicons/site.webmanifest">
-  <link rel="mask-icon" href="img/favicons/safari-pinned-tab.svg" color="#5bbad5">
-  <meta name="msapplication-TileColor" content="#da532c">
-  <meta name="theme-color" content="#ffffff">
-
-  <title>JustSketchMe - Interactive 3D models for figure drawing</title>
-  <meta name="description" content="Interactive 3D models for figure drawing, comic illustration, sketching, fashion design, and much more...">
-
-  <!-- Font Awesome -->
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-
-  <!-- Bootstrap core CSS -->
-  <link href="css/bootstrap.min.css" rel="stylesheet">
-
-  <!-- Material Design Bootstrap -->
-  <link href="css/mdb.min.css" rel="stylesheet">
-
-  <!-- Template styles -->
-  <style>
-  /* TEMPLATE STYLES */
-
-  .flex-center {
-    color: #fff;
-  }
-
-  .intro-1 {
-    background: url("img/backgrounds/main.jpg")no-repeat top center;
-    background-size: cover;
-  }
-
-  .logo {
-    vertical-align: text-bottom;
-    width: 33px;
-    height: 33px;
-  }
-  .navbar {
-    border-bottom: 1px solid #7d7d7d;
-  }
-
-  .navbar .btn-group .dropdown-menu a:hover {
-    color: #000 !important;
-  }
-
-  .navbar .btn-group .dropdown-menu a:active {
-    color: #fff !important;
-  }
-  @media only screen and (max-width: 667px) {
-    .display-3 {
-      font-size: 3rem;
-    }
-  }
-  @media only screen and (max-width: 767px) {
-    .navbar {
-      background-color: #1C2331;
-    }
-    .display-3 {
-      font-size: 2rem;
-      margin-top: 5rem;
-    }
-    h3 {
-      font-size: 1rem;
-    }
-  }
-
-  #web-app {
-    display: none;
-    width: 1024px;
-    height: 768px;
-    margin-top: 63px;
-  }
-
-  </style>
-
-  <script src="WebGL/Build/UnityLoader.js"></script>
-  <script>
-    var gameInstance = UnityLoader.instantiate("gameContainer", "WebGL/Build/WebGL.json");
-  </script>
-</head>
-
-<body>
-    <!-- Modal -->
-  <div class="modal fade" id="donate-modal" tabindex="-1" role="dialog" aria-labelledby="modal-label" aria-hidden="true">
-    <div class="modal-dialog" role="document">
-      <div class="modal-content text-center">
-        <div class="modal-header">
-          <h5 class="modal-title" id="modal-label">We see you like JustSketchMe</h5>
-          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">&times;</span>
-          </button>
-        </div>
-        <div class="modal-body">
-          <p>That's cool, we built it to be free.</p>
-          <p>All development is funded by donation as we want to keep this tool ad-free. If you like what we're doing, please consider donating.</p>
-          <div id="paypal" class="call-to-action">
-            <h4 class="mb-5">Buy the developers a coffee!</h4>
-              <form style="margin: 0 auto;width: 160px;" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank"><input type="hidden" name="business" value="hfbmartinus@gmail.com"><input type="hidden" name="bn" value="mbjtechnolabs_SP"><input type="hidden" name="cmd" value="_donations"><input type="hidden" name="item_name" value="To make JustSketchMe even more awesome"><table><tbody><tr><td><input type="image" name="submit" border="0" src="https://www.paypalobjects.com/webstatic/en_US/btn/btn_donate_cc_147x47.png" alt="PayPal - The safer, easier way to pay online"></td></tr></tbody></table><input type="hidden" name="currency_code" value="USD"><input type="hidden" name="notify_url" value="http://justsketch.me/?Donation_Button&amp;action=ipn_handler"></form>
-          </div>
-        </div>
-        <div class="modal-footer">
-          <button type="button" class="btn btn-grey" data-dismiss="modal">Close</button>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <header>
-
-    <!--Navbar-->
-    <nav class="navbar navbar-expand-lg navbar-dark grey">
-      <div class="container">
-        <a class="navbar-brand" href="#">
-          <img class="logo" src="img/svg/icon.svg" /> JustSketchMe
-        </a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
-        aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav mr-auto">
-          <li class="nav-item active">
-            <a class="nav-link" href="#">Home
-              <span class="sr-only">(current)</span>
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#how-it-works">How it works</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#about-us">About</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#features">Features</a>
-          </li>
-        </ul>
-      </div>
-    </div>
-  </nav>
-  <!--/.Navbar-->
-
-  <!--Intro Section-->
-  <section class="view intro-1 hm-black-slight">
-    <div class="full-bg-img flex-center">
-      <div class="container">
-        <ul id="intro-overlay">
-          <li>
-            <h1 class="display-3 font-bold">JustSketchMe</h1>
-          </li>
-          <li>
-            <h4 class="mt-4 mb-5">Interactive 3D models for figure drawing</h4>
-          </li>
-          <li>
-            <button
-              class="btn btn-grey btn-lg"
-              onclick="$('#intro-overlay').slideToggle();$('#web-app').slideToggle();"
-            >
-              Start!
-            </button>
-            <a href="#how-it-works" class="btn btn-outline-white btn-lg">
-              Learn the controls
-            </a>
-          </li>
-        </ul>
-        <div id="web-app">
-          <div id="gameContainer"></div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-</header>
-
-<!-- Main container-->
-<div class="container">
-
-  <!--Section: Best features-->
-  <section id="how-it-works">
-
-    <div class="divider-new pt-5">
-      <h2 class="h2-responsive grey-text mx-4 font-bold wow fadeIn">How it works</h2>
-    </div>
-
-    <div class="row pt-3">
-
-      <!--First columnn-->
-      <div class="col-lg-3 mb-r">
-
-        <!--Card-->
-        <div class="card hoverable wow fadeIn">
-
-          <!--Card image-->
-          <img class="img-fluid" src="https://mdbootstrap.com/img/Photos/Others/images/72.jpg" alt="Card image cap">
-
-          <!--Card content-->
-          <div class="card-body">
-            <!--Title-->
-            <h4 class="card-title grey-text text-center">Movement</h4>
-            <hr>
-            <!--Text-->
-            <p class="card-text">Move the viewport left/right/up/down using the arrow keys.</p>
-          </div>
-
-        </div>
-        <!--/.Card-->
-      </div>
-      <!--First columnn-->
-
-      <!--Second columnn-->
-      <div class="col-lg-3 mb-r">
-        <!--Card-->
-        <div class="card hoverable wow fadeIn" data-wow-delay="0.2s">
-
-          <!--Card image-->
-          <img class="img-fluid" src="https://mdbootstrap.com/img/Photos/Others/images/75.jpg" alt="Card image cap">
-
-          <!--Card content-->
-          <div class="card-body">
-            <!--Title-->
-            <h4 class="card-title grey-text text-center">Zooming</h4>
-            <hr>
-            <!--Text-->
-            <p class="card-text">Zoom in and out using the scroll wheel (2 fingers on trackpad).</p>
-          </div>
-
-        </div>
-        <!--/.Card-->
-      </div>
-      <!--Second columnn-->
-
-      <!--Third columnn-->
-      <div class="col-lg-3 mb-r">
-        <!--Card-->
-        <div class="card hoverable wow fadeIn" data-wow-delay="0.4s">
-
-          <!--Card image-->
-          <img class="img-fluid" src="https://mdbootstrap.com/img/Photos/Others/images/64.jpg" alt="Card image cap">
-
-          <!--Card content-->
-          <div class="card-body">
-            <!--Title-->
-            <h4 class="card-title grey-text text-center">Rotating</h4>
-            <hr>
-            <!--Text-->
-            <p class="card-text">Rotate the viewport by holding right mouse button (press 2 fingers on trackpad).</p>
-          </div>
-
-        </div>
-        <!--/.Card-->
-      </div>
-      <!--Third columnn-->
-
-      <!--First columnn-->
-      <div class="col-lg-3 mb-r">
-        <!--Card-->
-        <div class="card hoverable wow fadeIn" data-wow-delay="0.6s">
-
-          <!--Card image-->
-          <img class="img-fluid" src="https://mdbootstrap.com/img/Photos/Others/images/63.jpg" alt="Card image cap">
-
-          <!--Card content-->
-          <div class="card-body">
-            <!--Title-->
-            <h4 class="card-title grey-text text-center">Reset</h4>
-            <hr>
-            <!--Text-->
-            <p class="card-text">Reset the viewport to the default position by tapping the spacebar.</p>
-          </div>
-
-        </div>
-        <!--/.Card-->
-      </div>
-      <!--First columnn-->
-    </div>
-
-  </section>
-  <!--/Section: Best features-->
-
-  <!--Section: About-->
-  <section id="about-us" class="text-center wow fadeIn" data-wow-delay="0.2s">
-
-    <div class="divider-new pt-5">
-      <h2 class="h2-responsive grey-text mx-4 font-bold wow fadeIn" data-wow-delay="0.2s">
-        <strong>About us</strong>
-      </h2>
-    </div>
-
-    <p>
-      JustSketchMe was built by a duo of game developers who realise that having a wooden mannequin on hand all the time is fairly inconvenient.
-    </p>
-    <p>
-      This tool has a wooden figurine model, and anatomically correct male and female models.
-      It is for figure sketching, fashion design, comic illustration, and whatever else you can think of.
-    </p>
-    <p>
-      There is an adjustable light source which can be moved around the mannequins, for playing with shadows, highlighting and different thresholds.
-    </p>
-
-  </section>
-  <!--Section: About-->
-
-  <!--Section: Features v.1-->
-  <section id="features" class="section feature-box text-center">
-
-    <div class="divider-new pt-3">
-      <h2 class="h2-responsive grey-text mx-4 font-bold wow fadeIn">Why is it so great?</h2>
-    </div>
-
-    <!--Section description-->
-    <p class="section-description lead grey-text mb-5 mx-lg-5">
-      JustSketchMe is free, easy-to-use, and has all the necessary features for budding artists through to fully fledged fashion designers.
-    </p>
-
-      <!--Grid row-->
-      <div class="row text-center">
-
-        <!--Grid column-->
-        <div class="col-md-4 mb-r">
-          <i class="fa fa-3x fa-area-chart grey-text"></i>
-          <h5 class="font-bold grey-text mt-3">Multiple models</h5>
-          <p class="grey-text">
-            Wooden Larry, Male, Female, with more on the way...
-          </p>
-          </div>
-          <!--Grid column-->
-
-          <!--Grid column-->
-          <div class="col-md-4 mb-r">
-            <i class="fa fa-3x fa-book grey-text"></i>
-            <h5 class="font-bold grey-text mt-3">Easy-to-use</h5>
-            <p class="grey-text">
-              The controls are simple and easy to understand, yet each pose you create is completely unique.
-            </p>
-            </div>
-            <!--Grid column-->
-
-            <!--Grid column-->
-            <div class="col-md-4 mb-r">
-              <i class="fa fa-3x fa-coffee grey-text"></i>
-              <h5 class="font-bold grey-text mt-3">Funded with love</h5>
-              <p class="grey-text">
-                This project is funded entirely by our users. Please consider <a href="#" data-toggle="modal" data-target="#donate-modal">donating</a>.
-              </p>
-              </div>
-              <!--Grid column-->
-
-            </div>
-            <!--Grid row-->
-            <p class="section-description lead grey-text mb-5 mx-lg-5">
-              If you have any suggestions, or just want to chat, get it touch!
-            </p>
-
-          </section>
-          <!--Section: Features v.1-->
-
-          <div class="divider-new">
-            <h2 class="h2-responsive grey-text mx-4 font-bold  wow fadeIn">Contact us</h2>
-          </div>
-
-          <!--Section: Contact-->
-          <section id="contact pb-5">
-
-            <div class="row">
-              <!--First column-->
-              <div class="col-md-8 mb-5">
-                <div id="map-container" class="z-depth-1 wow fadeIn" style="height: 300px"></div>
-              </div>
-              <!--/First column-->
-
-              <!--Second column-->
-              <div class="col-md-4">
-                <ul class="text-center list-unstyled">
-                  <li class="wow fadeIn" data-wow-delay="0.2s">
-                    <i class="fa fa-map-marker grey-text fa-2x"></i>
-                    <p>Cape Town, South Africa</p>
-                  </li>
-
-                  <li class="wow fadeIn mt-5 pt-2" data-wow-delay="0.3s">
-                    <i class="fa fa-facebook grey-text fa-2x"></i>
-                    <p><a target="_blank" href="http://www.facebook.com/justsketchme">
-                      /justsketchme
-                    </a></p>
-                  </li>
-
-                  <li class="wow fadeIn mt-5 pt-2" data-wow-delay="0.4s">
-                    <i class="fa fa-envelope grey-text fa-2x"></i>
-                    <p>hfbmartinus@gmail.com</p>
-                  </li>
-                </ul>
-              </div>
-              <!--/Second column-->
-            </div>
-          </section>
-          <!--Section: Contact-->
-
-        </div>
-        <!--/ Main container-->
-
-
-        <!--Footer-->
-        <footer class="page-footer center-on-small-only grey mt-5">
-
-          <!--Footer Links-->
-          <div class="container-fluid pr-0 pl-0">
-
-            <!--Call to action-->
-            <div id="paypal" class="call-to-action">
-              <h4 class="mb-5">Buy the developers a coffee!</h4>
-              <ul>
-
-                <li>
-                  <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank"><input type="hidden" name="business" value="hfbmartinus@gmail.com"><input type="hidden" name="bn" value="mbjtechnolabs_SP"><input type="hidden" name="cmd" value="_donations"><input type="hidden" name="item_name" value="To make JustSketchMe even more awesome"><table><tbody><tr><td><input type="image" name="submit" border="0" src="https://www.paypalobjects.com/webstatic/en_US/btn/btn_donate_cc_147x47.png" alt="PayPal - The safer, easier way to pay online"></td></tr></tbody></table><input type="hidden" name="currency_code" value="USD"><input type="hidden" name="notify_url" value="http://justsketch.me/?Donation_Button&amp;action=ipn_handler"></form>
-                </li>
-
-              </ul>
-            </div>
-            <!--/.Call to action-->
-
-            <!--Copyright-->
-            <div class="footer-copyright">
-              <div class="container-fluid">
-                © 2018 JustSketchMe
-              </div>
-            </div>
-            <!--/.Copyright-->
-
-          </footer>
-          <!--/.Footer-->
-
-          <!-- SCRIPTS -->
-
-          <!-- JQuery -->
-          <script type="text/javascript" src="js/jquery-3.1.1.min.js"></script>
-
-          <!-- Bootstrap dropdown -->
-          <script type="text/javascript" src="js/popper.min.js"></script>
-
-          <!-- Bootstrap core JavaScript -->
-          <script type="text/javascript" src="js/bootstrap.min.js"></script>
-
-          <!-- MDB core JavaScript -->
-          <script type="text/javascript" src="js/mdb.min.js"></script>
-
-          <script>
-            setTimeout(function() {$('#donate-modal').modal('show')}, 900000);
-          </script>
-
-
-          <!--Google Maps-->
-          <script src="https://maps.google.com/maps/api/js"></script>
-
-          <script>
-          function init_map() {
-            return false;
-            var var_location = new google.maps.LatLng(-33.920561073726596, 18.425272394458034);
-
-            var var_mapoptions = {
-              center: var_location,
-
-              zoom: 9,
-              styles: [
-                {
-                  "elementType": "geometry",
-                  "stylers": [
-                    {
-                      "color": "#242f3e"
-                    }
-                  ]
-                },
-                {
-                  "elementType": "labels.text",
-                  "stylers": [
-                    {
-                      "color": "#383310"
-                    }
-                  ]
-                },
-                {
-                  "elementType": "labels.text.fill",
-                  "stylers": [
-                    {
-                      "color": "#746855"
-                    }
-                  ]
-                },
-                {
-                  "elementType": "labels.text.stroke",
-                  "stylers": [
-                    {
-                      "color": "#242f3e"
-                    }
-                  ]
-                },
-                {
-                  "featureType": "administrative",
-                  "elementType": "geometry",
-                  "stylers": [
-                    {
-                      "visibility": "off"
-                    }
-                  ]
-                },
-                {
-                  "featureType": "administrative.locality",
-                  "elementType": "labels.text.fill",
-                  "stylers": [
-                    {
-                      "color": "#d59563"
-                    }
-                  ]
-                },
-                {
-                  "featureType": "poi",
-                  "stylers": [
-                    {
-                      "visibility": "off"
-                    }
-                  ]
-                },
-                {
-                  "featureType": "poi",
-                  "elementType": "labels.text.fill",
-                  "stylers": [
-                    {
-                      "color": "#d59563"
-                    }
-                  ]
-                },
-                {
-                  "featureType": "poi.park",
-                  "elementType": "geometry",
-                  "stylers": [
-                    {
-                      "color": "#263c3f"
-                    }
-                  ]
-                },
-                {
-                  "featureType": "poi.park",
-                  "elementType": "labels.text.fill",
-                  "stylers": [
-                    {
-                      "color": "#6b9a76"
-                    }
-                  ]
-                },
-                {
-                  "featureType": "road",
-                  "elementType": "geometry",
-                  "stylers": [
-                    {
-                      "color": "#38414e"
-                    }
-                  ]
-                },
-                {
-                  "featureType": "road",
-                  "elementType": "geometry.stroke",
-                  "stylers": [
-                    {
-                      "color": "#212a37"
-                    }
-                  ]
-                },
-                {
-                  "featureType": "road",
-                  "elementType": "labels.icon",
-                  "stylers": [
-                    {
-                      "visibility": "off"
-                    }
-                  ]
-                },
-                {
-                  "featureType": "road",
-                  "elementType": "labels.text.fill",
-                  "stylers": [
-                    {
-                      "color": "#9ca5b3"
-                    }
-                  ]
-                },
-                {
-                  "featureType": "road.arterial",
-                  "elementType": "labels",
-                  "stylers": [
-                    {
-                      "visibility": "off"
-                    }
-                  ]
-                },
-                {
-                  "featureType": "road.highway",
-                  "elementType": "geometry",
-                  "stylers": [
-                    {
-                      "color": "#746855"
-                    }
-                  ]
-                },
-                {
-                  "featureType": "road.highway",
-                  "elementType": "geometry.stroke",
-                  "stylers": [
-                    {
-                      "color": "#1f2835"
-                    }
-                  ]
-                },
-                {
-                  "featureType": "road.highway",
-                  "elementType": "labels",
-                  "stylers": [
-                    {
-                      "visibility": "off"
-                    }
-                  ]
-                },
-                {
-                  "featureType": "road.highway",
-                  "elementType": "labels.text.fill",
-                  "stylers": [
-                    {
-                      "color": "#f3d19c"
-                    }
-                  ]
-                },
-                {
-                  "featureType": "road.local",
-                  "stylers": [
-                    {
-                      "visibility": "off"
-                    }
-                  ]
-                },
-                {
-                  "featureType": "transit",
-                  "stylers": [
-                    {
-                      "visibility": "off"
-                    }
-                  ]
-                },
-                {
-                  "featureType": "transit",
-                  "elementType": "geometry",
-                  "stylers": [
-                    {
-                      "color": "#2f3948"
-                    }
-                  ]
-                },
-                {
-                  "featureType": "transit.station",
-                  "elementType": "labels.text.fill",
-                  "stylers": [
-                    {
-                      "color": "#d59563"
-                    }
-                  ]
-                },
-                {
-                  "featureType": "water",
-                  "elementType": "geometry",
-                  "stylers": [
-                    {
-                      "color": "#17263c"
-                    }
-                  ]
-                },
-                {
-                  "featureType": "water",
-                  "elementType": "labels.text.fill",
-                  "stylers": [
-                    {
-                      "color": "#515c6d"
-                    }
-                  ]
-                },
-                {
-                  "featureType": "water",
-                  "elementType": "labels.text.stroke",
-                  "stylers": [
-                    {
-                      "color": "#17263c"
-                    }
-                  ]
-                }
-              ]
-            };
-
-            var var_marker = new google.maps.Marker({
-              position: var_location,
-              map: var_map,
-              title: "Cape Town"
-            });
-
-            var var_map = new google.maps.Map(document.getElementById("map-container"),
-            var_mapoptions);
-
-            var_marker.setMap(var_map);
-
-          }
-
-          google.maps.event.addDomListener(window, 'load', init_map);
-          </script>
-
-          <!-- Animations init-->
-          <script>
-          new WOW().init();
-          </script>
-
-
-        </body>
-
-        </html>
+---
+title: JustSketchMe
+description: Free character posing tool for figure drawing, comic illustration, sketching, fashion design. Create poses and references with realistic lighting.
+modal: yes
+---
+<section class="hero">
+	<div class="text-container">
+		<h1>JustSketchMe<br> <small>Interactive character posing tool for drawing.</small></h1>
+		<h2 class="subtext">...and sketching, fashion design, comic illustration, exploring poses and lighting, etc...</h2>
+
+		<div>
+			<img src="/images/hero.png" alt="Making art" />
+		</div>
+		<div class="">
+			<div class="cta button alt">
+				<a href="https://justsketchme.web.app" target="_blank" rel="noopener noreferrer" title="Webapp">
+					Open beta webapp
+				</a>
+			</div>
+			<div class="cta button desktop">
+				<a href="/assets/unity/WebGL/" target="_blank" rel="noopener noreferrer" title="Old webapp">
+					Use the old webapp
+				</a>
+			</div>
+			<a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/AdmtxiM4N">
+				<img src="https://www.buymeacoffee.com/assets/img/BMC-btn-logo.svg" alt="Buy me a coffee">
+				<span style="margin-left:5px">Buy me a coffee</span>
+			</a>
+		</div>
+	</div>
+</section>
+
+<div class="content">
+	<section>
+		<div class="container flex">
+			<div class="text editable">
+				<h2>A drawing tool</h2>
+				<p>
+						JustSketchMe is a free online interactive character reference tool for artists.
+				</p>
+				<p>					
+					Realistic lighting, detailed anatomy, and simple controls make JustSketchme a pleasure to use. 
+				</p>
+				<p>		
+					It is for figure sketching, fashion design, comic illustration, and anyone else who needs to reference anatomy.
+				</p>
+				<p>
+					No wooden mannequin? No worries!
+				</p>
+			</div>
+			<div class="image">
+				<img src="/images/dance1.jpg" alt="Dash" />
+			</div>
+		</div>
+	</section>
+
+	<section>
+		<div class="container flex">
+			<div class="text editable">
+				<h2>Why is it so great?</h2>
+				<p>
+					JustSketchMe is free and easy-to-use.
+				</p>
+				<ul>
+					<li>Multiple character models</li>
+					<li>Full interactive joint control</li>
+					<li>Realistic adjustable lighting</li>
+					<li>Fully controllable perspective camera</li>
+					<li>Saveable and shareable poses</li>
+				</ul>
+			</div>
+			<div class="image">
+				<img src="/images/dance2.jpg" alt="Dash" />
+			</div>
+		</div>
+	</section>
+
+	<section id="app">
+		<div class="container flex">
+			<div class="text">
+				<h2>Mobile app? Yes please</h2>
+				<p>
+					JustSketchMe was built as a progressive web app. What this means is that you can install it to your <b>Android</b> or <b>iOS</b> device for free by going to the web app and selecting<br><b>"Add to Homescreen"</b>.
+				</p>
+			</div>
+			<div class="image">
+				<img src="/images/dash1.jpg" alt="Screenshot" />
+			</div>
+		</div>
+	</section>
+	<section>
+		<div class="container flex">
+			<div class="text">
+				<h2>Community</h2>
+				<p>
+					Sharing figure poses and other nifty things will be done on the <a href="https://www.reddit.com/r/JustSketchMe/"
+						target="_blank" rel="noopener noreferrer" title="Reddit">reddit page</a>.<br>	
+				</p>
+				<p>
+					Follow the development on Twitter
+				</p>
+				<p>
+					<a href="https://twitter.com/JustSketchMe?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @JustSketchMe</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+				</p>
+			</div>
+			<div class="image">
+				<img src="/images/dash2.jpg" alt="Screenshot" />
+			</div>
+		</div>
+	</section>
+
+	<section class="testimonial">
+		<div class="container flex">
+			<div class="testimonial-block">
+				<!-- <div class="testimonial-image"><img src="images/brush.svg" alt="Testomonial"></div> -->
+				<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/JustSketchMe">@JustSketchMe</a> Just discovered your tool, can&#39;t believe I never thought to look for a 3D Art Mannequin tool before, but now I can&#39;t be without it. I&#39;m good at proportions, horrible with perspective and I never think to buy an art mannequin for myself. Thanks!</p>&mdash; Aric Williams (@AricRWilliams) <a href="https://twitter.com/AricRWilliams/status/1108994583466311680">March 22, 2019</a></blockquote>
+			</div>
+		</div>
+	</section>
+
+	<section class="bottom-cta">
+		<h2><strong>Draw</strong> dat good shit</h2>
+		<div class="image">
+			<img src="/images/blankcanvas.svg" alt="Blank canvas" />
+		</div>
+	</section>
+</div>

@@ -1,0 +1,85 @@
+<!doctype html>
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		{% seo %}
+		<meta name="keywords" content="{{ site.keywords }}">
+		<meta property="og:image" content="https://i.imgur.com/XAUj0VT.jpg">
+		<meta property="og:type" content="website" />
+
+		<meta name="twitter:card" content="summary_large_image">
+		<meta name="twitter:url" content="https://justsketch.me">
+		<meta name="twitter:title" content="JustSketchMe">
+		<meta name="twitter:description" content="Free character posing tool for figure drawing, comic illustration, sketching, fashion design. Create poses and references with realistic lighting.">
+		<meta name="twitter:image" content="https://i.imgur.com/XAUj0VT.jpg">
+		<meta name="twitter:site" content="@justsketchme">
+		<meta name="twitter:creator" content="@justsketchme">
+
+		{% feed_meta %}
+
+		<link rel="stylesheet" href="{{ site.baseurl }}/css/screen.css">
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<meta http-equiv="x-ua-compatible" content="ie=edge">
+		<link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/images/favicons/apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/images/favicons/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="{{ site.baseurl }}/images/favicons/favicon-16x16.png">
+		<link rel="manifest" href="{{ site.baseurl }}/images/favicons/site.webmanifest">
+		<link rel="mask-icon" href="{{ site.baseurl }}/images/favicons/safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="msapplication-TileColor" content="#da532c">
+		<meta name="theme-color" content="#ffffff">
+
+		{% if jekyll.environment == 'production' and site.google_analytics_key != '' %}
+			<script>
+				window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+				ga('create', '{{ site.google_analytics_key }}', 'auto');
+				ga('send', 'pageview');
+			</script>
+			<script async src='https://www.google-analytics.com/analytics.js'></script>
+		{% endif %}
+	</head>
+	<body>
+		<header>
+			<div class="container">
+				<div class="company-name">
+					<a href="{{ site.baseurl }}/" title="{{ site.title }}">
+						<img src="{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }}" width="95" height="33" />
+						{{ site.title }}
+					</a>
+				</div>
+				{% include navigation.html %}
+			</div>
+		</header>
+		{{ content }}
+		<footer>
+			<div class="container">
+				<div class="footer-columns">
+					{% for column in site.data.footer %}
+					<ul class="footer-links">
+						{% for link in column.links %}
+							<li><a {% if link.new_window %}target="_blank" rel="noopener noreferrer"{% endif %} href="{% include relative-src.html src=link.link %}" {% if link.social_icon %}class="{{ link.social_icon }}-icon"{% endif %} title="{{ link.name }}">
+								{% if link.social_icon %}
+									{% include social-icon.html icon=link.social_icon %}
+								{% endif %}
+								{{ link.name }}</a></li>
+						{% endfor %}
+					</ul>
+					{% endfor %}
+				</div>
+				<p class="copyright">&copy; {{ site.time | date: '%Y' }} JustSketchMe Ltd. • <a href="#" title="Terms">Terms</a> &amp; <a href="#" title="Privacy">Privacy</a></p>
+			</div>
+		</footer>
+		{% if page.modal %}
+			{% include modal.html %}
+		{% endif %}
+		<script>
+			document.getElementById("open-nav").onclick = function () {
+				document.body.classList.toggle("nav-open");
+				return false;
+			};
+		</script>
+	</body>
+</html>
