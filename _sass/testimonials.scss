@@ -38,7 +38,9 @@
         width: 100%;
         display: flex;
         justify-content: center;
-
+        blockquote {
+            background-color: #fff;
+        }
         @media #{$desktop} {
             opacity: 0.3;
             position: relative;
