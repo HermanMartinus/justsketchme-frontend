@@ -1,9 +1,8 @@
-$duration: 5s;
+$duration: 3s;
 
 
 @keyframes fade {
-    0%   { opacity:1; }
-    50%  { opacity:0; }
+    0%   { opacity:0; }
     100% { opacity:1; }
 }
 
@@ -20,11 +19,9 @@ $duration: 5s;
         width: 100%;
         object-fit: cover;
 
-        &.base {}
-
         &.art {
-            &.fadein{
-                opacity: 0;
+            opacity: 0;
+            &.visible{
                 -webkit-animation: fade $duration;
                 /* Safari, Chrome and Opera > 12.1 */
                 -moz-animation: fade $duration;
@@ -34,9 +31,8 @@ $duration: 5s;
                 -o-animation: fade $duration;
                 /* Opera < 12.1 */
                 animation: fade $duration;
-                // animation-fill-mode: forwards;
-                animation-iteration-count:infinite;
-                animation-timing-function: ease-out;
+                animation-fill-mode: forwards;
+                animation-timing-function: ease-in;
             }
         }
     }

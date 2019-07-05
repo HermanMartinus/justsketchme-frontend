@@ -13,7 +13,8 @@
 		<meta name="twitter:card" content="summary_large_image">
 		<meta name="twitter:url" content="https://justsketch.me">
 		<meta name="twitter:title" content="JustSketchMe">
-		<meta name="twitter:description" content="Free character posing tool for figure drawing, comic illustration, sketching, fashion design. Create poses and references with realistic lighting.">
+		<meta name="twitter:description"
+			content="Free character posing tool for figure drawing, comic illustration, sketching, fashion design. Create poses and references with realistic lighting.">
 		<meta name="twitter:image" content="https://i.imgur.com/XAUj0VT.jpg">
 		<meta name="twitter:site" content="@justsketchme">
 		<meta name="twitter:creator" content="@justsketchme">
@@ -33,14 +34,18 @@
 		<meta name="theme-color" content="#ffffff">
 
 		{% if jekyll.environment == 'production' and site.google_analytics_key != '' %}
-			<script>
-				window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-				ga('create', '{{ site.google_analytics_key }}', 'auto');
-				ga('send', 'pageview');
-			</script>
-			<script async src='https://www.google-analytics.com/analytics.js'></script>
+		<script>
+			window.ga = window.ga || function () {
+				(ga.q = ga.q || []).push(arguments)
+			};
+			ga.l = +new Date;
+			ga('create', '{{ site.google_analytics_key }}', 'auto');
+			ga('send', 'pageview');
+		</script>
+		<script async src='https://www.google-analytics.com/analytics.js'></script>
 		{% endif %}
 	</head>
+
 	<body>
 		<header>
 			<div class="container">
@@ -60,22 +65,67 @@
 					{% for column in site.data.footer %}
 					<ul class="footer-links">
 						{% for link in column.links %}
-							<li><a {% if link.new_window %}target="_blank" rel="noopener noreferrer"{% endif %} href="{% include relative-src.html src=link.link %}" {% if link.social_icon %}class="{{ link.social_icon }}-icon"{% endif %} title="{{ link.name }}">
+						<li><a {% if link.new_window %}target="_blank" rel="noopener noreferrer" {% endif %}
+								href="{% include relative-src.html src=link.link %}"
+								{% if link.social_icon %}class="{{ link.social_icon }}-icon" {% endif %}
+								title="{{ link.name }}">
 								{% if link.social_icon %}
-									{% include social-icon.html icon=link.social_icon %}
+								{% include social-icon.html icon=link.social_icon %}
 								{% endif %}
 								{{ link.name }}</a></li>
 						{% endfor %}
 					</ul>
 					{% endfor %}
 				</div>
-				<p class="copyright">&copy; {{ site.time | date: '%Y' }} JustSketchMe Ltd. • <a href="#" title="Terms">Terms</a> &amp; <a href="#" title="Privacy">Privacy</a></p>
+				<p class="copyright">&copy; {{ site.time | date: '%Y' }} JustSketchMe Ltd. • <a href="#"
+						title="Terms">Terms</a> &amp; <a href="#" title="Privacy">Privacy</a></p>
 			</div>
 		</footer>
 		{% if page.modal %}
-			{% include modal.html %}
+		{% include modal.html %}
 		{% endif %}
 		<script>
+			//image fade script
+			const IsInView = el => {
+				const scroll = window.scrollY || window.pageYOffset
+				const boundsTop = el.getBoundingClientRect().top + scroll
+
+				const viewport = {
+					top: scroll,
+					bottom: scroll + window.innerHeight,
+				}
+
+				const bounds = {
+					top: boundsTop,
+					bottom: boundsTop + el.clientHeight,
+				}
+
+				return (bounds.bottom >= viewport.top && bounds.bottom <= viewport.bottom) ||
+					(bounds.top <= viewport.bottom && bounds.top >= viewport.top);
+			}
+
+			document.addEventListener('DOMContentLoaded', () => {
+				const fadeImages = document.querySelectorAll('.art');
+
+				const handler = () => requestAnimationFrame(() => {
+					fadeImages.forEach(fadeImage => {
+						IsInView(fadeImage) ? fadeImage.classList.add('visible') : fadeImage.classList
+							.remove('visible')
+					});
+				})
+
+				handler()
+				window.addEventListener('scroll', handler)
+			})
+
+			const requestAnimationFrame =
+				window.requestAnimationFrame ||
+				window.webkitRequestAnimationFrame ||
+				window.mozRequestAnimationFrame ||
+				function (callback) {
+					window.setTimeout(callback, 1000 / 60)
+				}
+			//nav script
 			document.getElementById("open-nav").onclick = function () {
 				document.body.classList.toggle("nav-open");
 				return false;
