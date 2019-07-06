@@ -34,17 +34,31 @@
 	// base
 	.flip {
 		position: relative;
+		display: inline-block;
+		width: 200px;
+		height: 200px;
+		margin-right: 2px;
+		margin-bottom: 1em;
 
 		>.front,
 		>.back {
 			display: block;
+			color: white;
+			background-size: cover !important;
+			background-position: center !important;
+			width: 200px;
+			height: 200px;
+			transform: rotateY(0deg);
 			transition-timing-function: cubic-bezier(.175, .885, .32, 1.275);
 			transition-duration: .5s;
 			transition-property: transform, opacity;
-		}
 
-		>.front {
-			transform: rotateY(0deg);
+			h2 {
+				color: #FFFFFF;
+				font-size: 20px;
+				text-align: center;
+				margin-top: 70px;
+			}
 		}
 
 		>.back {
@@ -67,33 +81,6 @@
 				transform: rotateY(0deg);
 			}
 		}
-	}
-
-	.flip {
-		position: relative;
-		display: inline-block;
-		width: 200px;
-		height: 200px;
-		margin-right: 2px;
-		margin-bottom: 1em;
-
-		>.front,
-		>.back {
-			display: block;
-			color: white;
-			background-size: cover !important;
-			background-position: center !important;
-			width: 200px;
-			height: 200px;
-
-			h2 {
-				color: #FFFFFF;
-				font-size: 20px;
-				text-align: center;
-				margin-top: 70px;
-			}
-		}
-
 	}
 
 	.name {
