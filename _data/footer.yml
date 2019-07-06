@@ -1,8 +1,6 @@
 - links:
-  - name: Devlog
-    link: /blog/
-  - name: Us
-    link: /about/
+  - name: Team
+    link: /team/
   - name: Contact
     link: /contact/
 - links:

@@ -1,9 +1,5 @@
-- name: Devlog
-  link: 'http://reddit.com/r/JustSketchMe'
-  new_window: true
-  highlight: false
-- name: Us
-  link: /about/
+- name: Team
+  link: /team/
   new_window: false
   highlight: false
 - name: Contact
