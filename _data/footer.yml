@@ -16,6 +16,10 @@
     link: https://reddit.com/r/JustSketchMe
     social_icon: Reddit
     new_window: true
+  - name: Instagram
+    link: https://instagram.com/JustSketch.Me
+    social_icon: Instagram
+    new_window: true
   - name: RSS
     link: /feed.xml
     social_icon: RSS

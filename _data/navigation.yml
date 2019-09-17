@@ -2,7 +2,15 @@
   link: /team/
   new_window: false
   highlight: false
-- name: Contact
-  link: /contact/
-  new_window: false
+- name: Reddit
+  link: https://reddit.com/r/JustSketchMe/
+  new_window: true
+  highlight: false
+- name: Twitter
+  link: https://twitter.com/justsketchme/
+  new_window: true
+  highlight: false
+- name: Instagram
+  link: https://instagram.com/justsketch.me
+  new_window: true
   highlight: false
