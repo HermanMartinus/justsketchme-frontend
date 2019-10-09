@@ -1,6 +1,7 @@
 ---
 title: "Figure drawing reference"
 date: 2019-10-06
+permalink: /figure-drawing-reference/
 ---
 
 JustSketchMe is the perfect figure drawing reference tool. Set up your figure however you want.

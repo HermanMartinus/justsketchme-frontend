@@ -1,6 +1,7 @@
 ---
 title: "Digital body kun"
 date: 2019-10-06
+permalink: /digital-body-kun/
 ---
 
 [JustSketchMe](/) acts as a digital Body Kun with so much more.

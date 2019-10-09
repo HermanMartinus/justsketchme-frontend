@@ -2,6 +2,10 @@
   link: /team/
   new_window: false
   highlight: false
+- name: Blog
+  link: /blog/
+  new_window: false
+  highlight: false
 - name: Reddit
   link: https://reddit.com/r/JustSketchMe/
   new_window: true
