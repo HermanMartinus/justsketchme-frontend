@@ -1,7 +1,7 @@
 .button a, input[type=submit] {
 	color: #fff;
 	text-decoration: none;
-	padding: 10px 30px;
+	padding: 16px 50px;
 	background: $brand-color;
 	border-radius: 3px;
 	border: 1px solid rgba(255,255,255,.5);
@@ -15,10 +15,9 @@
 }
 
 .button.alt a {
-	background: rgba(255,255,255,0.15);
+	background: none;
 	border-radius: 3px;
-	border: 1px solid rgba(255, 255, 255, 0.3);
-	padding: 16px 50px;
+	border: 1px solid #fff;
 }
 
 .button.alt a:hover {
