@@ -5,6 +5,10 @@
 	padding: 50px 0;
 	height: 100vh;
 
+	.title {
+		font-family: 'Luna';
+	}
+
 	h1 {
 		color: $brand-color;
 		font-weight: bold;
@@ -18,7 +22,7 @@
 
 	small {
 		font-weight: 300;
-		font-size: 24px;
+		font-size: 18px;
 	}
 
 	p {

@@ -7,3 +7,8 @@ $tablet: "(min-width: 450px)";
 $mid-point: "(min-width: 620px)";
 $desktop: "(min-width: 768px)";
 $large-desktop: "(min-width: 1024px)";
+
+@font-face {
+    font-family: "Luna";
+    src: url("/fonts/Luna.ttf");
+}
