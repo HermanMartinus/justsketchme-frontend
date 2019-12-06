@@ -1,3 +1,8 @@
+.button a {
+	display: inline-block;
+    width: 150px;
+}
+
 .button a, input[type=submit] {
 	color: #fff;
 	text-decoration: none;
@@ -17,12 +22,13 @@
 .button.alt a {
 	background: none;
 	border-radius: 3px;
-	border: 1px solid #fff;
+	color: $secondary-brand-color;
+	border: 1px solid $secondary-brand-color;
 }
 
 .button.alt a:hover {
-	background: #fff;
-	color: $brand-color;
+	background: $secondary-brand-color;
+	color: white;
 }
 
 textarea, input, button, select { font-family: inherit; font-size: inherit; }

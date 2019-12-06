@@ -1,4 +1,5 @@
 <div class="image fade-image-wrapper ">
-    <img class="fade-image base" src="{{ include.base }}" alt="{{ include.alt }}" />
-    <img class="fade-image art" src="{{ include.overlap }}" alt="{{ include.alt }}" />
+    {% if include.base %}<img class="fade-image base" src="{{ include.base }}" alt="{{ include.alt }}" />{% endif %}
+    {% if include.overlap %}<img class="fade-image art" src="{{ include.overlap }}"
+        alt="{{ include.alt }}" />{% endif %}
 </div>

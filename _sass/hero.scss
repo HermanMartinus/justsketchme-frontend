@@ -1,15 +1,18 @@
 .hero {
-	color: #ffffff;
 	text-align: center;
-	background: linear-gradient(to bottom, $middle-gradient-color 0%, $secondary-brand-color 100%) no-repeat #a05fb7;
+	// background: linear-gradient(to bottom, $middle-gradient-color 0%, $secondary-brand-color 100%) no-repeat #a05fb7;
+	background: white;
 	padding: 50px 0;
 	height: 100vh;
 
 	h1 {
+		color: $brand-color;
+		font-weight: bold;
 		margin-bottom: 30px;
 	}
 
 	h2 {
+		color: #515151;
 		font-size: 18px;
 	}
 
