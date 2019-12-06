@@ -43,11 +43,14 @@ header {
     a {
       display: flex;
       align-items: center;
+      font-family: 'Luna';
+      font-size: 15px;
     }
 
     img {
       display: block;
       width: auto;
+      padding-right: 10px;
     }
   }
 }
