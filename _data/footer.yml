@@ -4,23 +4,18 @@
   - name: Blog
     link: /blog/
 - links:
-  - name: Facebook
-    link: https://facebook.com/justsketchme
+  - link: https://facebook.com/justsketchme
     new_window: true
     social_icon: Facebook
-  - name: Twitter
-    link: https://twitter.com/justsketchme
+  - link: https://twitter.com/justsketchme
     social_icon: Twitter
     new_window: true
-  - name: Reddit
-    link: https://reddit.com/r/JustSketchMe
+  - link: https://reddit.com/r/JustSketchMe
     social_icon: Reddit
     new_window: true
-  - name: Instagram
-    link: https://instagram.com/JustSketch.Me
+  - link: https://instagram.com/JustSketch.Me
     social_icon: Instagram
     new_window: true
-  - name: RSS
-    link: /feed.xml
+  - link: /feed.xml
     social_icon: RSS
     new_window: false
