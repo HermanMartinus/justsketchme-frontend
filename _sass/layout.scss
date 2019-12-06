@@ -147,6 +147,13 @@ blockquote:before {
 .page {
   margin-bottom: 0;
   padding-bottom: 80px;
+
+  h1,
+  .subtext {
+    color: $brand-color;
+    font-weight: bold;
+    font-family: 'Luna';
+  }
 }
 
 .center-text {
