@@ -1,12 +1,16 @@
-- name: Devlog
-  link: 'http://reddit.com/r/JustSketchMe'
+- name: Team
+  link: /team/
+  new_window: false
+  highlight: false
+- name: Reddit
+  link: https://reddit.com/r/JustSketchMe/
   new_window: true
   highlight: false
-- name: Us
-  link: /about/
-  new_window: false
+- name: Twitter
+  link: https://twitter.com/justsketchme/
+  new_window: true
   highlight: false
-- name: Contact
-  link: /contact/
-  new_window: false
+- name: Instagram
+  link: https://instagram.com/justsketch.me
+  new_window: true
   highlight: false

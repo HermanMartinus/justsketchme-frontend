@@ -1,8 +1,11 @@
 .testimonial {
     background: #f5f5f5;
     margin: 0;
-    padding: 50px 0 100px 0;
+    padding: 50px 20px 100px;
     
+    .container {
+        padding: 30px 0 0;
+    }
     .testimonial-block {
         margin: 0 auto;
         flex-flow: row wrap;

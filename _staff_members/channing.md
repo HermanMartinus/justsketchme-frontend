@@ -1,7 +1,8 @@
 ---
 name: Channing Tato
-position: CEO
+position: Is a sloth
 image_path: /images/team/channing.webp
-twitter: ChanningTato
+hover_image_path: /images/team/channing_drawn.jpeg
+website: https://twitter.com/JustSketchMe
 blurb: Runs the show (obvs.)
 ---
