@@ -43,7 +43,7 @@ header {
     a {
       display: flex;
       align-items: center;
-      font-family: 'Luna';
+      font-family: 'Luna', Arial, Helvetica, sans-serif;
       font-size: 15px;
     }
 
@@ -155,7 +155,7 @@ blockquote:before {
   .subtext {
     color: $brand-color;
     font-weight: bold;
-    font-family: 'Luna';
+    font-family: 'Luna', Arial, Helvetica, sans-serif;
   }
 }
 
