@@ -203,3 +203,9 @@ blockquote:before {
   opacity: 0.85 !important;
   color: #000000 !important;
 }
+
+@media #{$desktop} {
+  .is-hidden-desktop {
+    display: none;
+  }
+}
