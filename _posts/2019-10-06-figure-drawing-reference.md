@@ -15,4 +15,4 @@ It is a free online interactive character reference tool for artists.
 
 No wooden mannequin? No worries!
 
-Check it out https://justsketch.me
+Check it out [https://justsketch.me](https://justsketch.me)
