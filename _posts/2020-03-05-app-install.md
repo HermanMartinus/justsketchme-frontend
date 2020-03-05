@@ -1,7 +1,7 @@
 ---
 title: App install instructions
+date: 2020-03-05
 permalink: app-install
-class: align-left
 ---
 
 JustSketchMe is built as a Progressive Web App and can be installed to multiple devices and run as a native application.
