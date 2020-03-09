@@ -13,15 +13,15 @@
   <div class="container flex">
     <div class="testimonial-block">
       <div class="tweet">
-        <blockquote class="twitter-tweet" data-lang="en">
-          <p lang="en" dir="ltr"><a href="https://twitter.com/JustSketchMe">@JustSketchMe</a> Just discovered your
-            tool,
-            can&#39;t believe I never thought to look for a 3D Art Mannequin tool before, but now I can&#39;t be
-            without
-            it. I&#39;m good at proportions, horrible with perspective and I never think to buy an art mannequin for
-            myself. Thanks!</p>&mdash; Aric Williams (@AricRWilliams) <a
-            href="https://twitter.com/AricRWilliams/status/1108994583466311680">March 22, 2019</a>
+        <blockquote class="twitter-tweet">
+          <p lang="en" dir="ltr">So might have found my new favorite artist tool - this thing is amazing and free! .<a
+              href="https://twitter.com/JustSketchMe?ref_src=twsrc%5Etfw">@JustSketchMe</a> <br><br>Setup this pose of a
+            dude getting kicked in the... don&#39;t judge me... It took like 15 minutes to set this up and it was my
+            first time! <a href="https://t.co/FlphY7oFLr">pic.twitter.com/FlphY7oFLr</a></p>&mdash; Phil - Anatomy of a
+          Campaign (@anatomycamp) <a
+            href="https://twitter.com/anatomycamp/status/1234535058192637953?ref_src=twsrc%5Etfw">March 2, 2020</a>
         </blockquote>
+        <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
       </div>
       <div class="tweet active">
 
@@ -62,24 +62,3 @@
     </div>
   </div>
 </section>
-
-<script>
-  var tweets = document.getElementsByClassName("tweet");
-  Array.prototype.forEach.call(tweets, function (tweet) {
-    tweet.addEventListener("mouseenter", function (event) {
-      // highlight the mouseenter target
-      // var tweets = document.getElementsByClassName("tweet");
-      // tweets.forEach(tweet => {
-      //   event.target.classList.remove('active');
-      // });
-      removeActiveClass();
-      event.target.classList.add('active');
-    }, false);
-  });
-
-  function removeActiveClass() {
-    Array.prototype.forEach.call(tweets, function (tweet) {
-      tweet.classList.remove('active');
-    });
-  }
-</script>

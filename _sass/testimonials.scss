@@ -9,6 +9,7 @@
     .testimonial-block {
         margin: 0 auto;
         flex-flow: row wrap;
+        justify-content: space-around;
 
         @media #{$desktop} {
             height: 500px;
@@ -36,30 +37,18 @@
     }
 
     .tweet {
-        opacity: 1;
-        z-index: 11;
-        width: 100%;
-        display: flex;
-        justify-content: center;
-        blockquote {
-            background-color: #fff;
-        }
         @media #{$desktop} {
-            opacity: 0.3;
             position: relative;
             transition-duration: 1s;
             z-index: 9;
-            margin-right: -50px;
+
             transition-duration: 0.4s;
-            width: 250px;
+            width: 30%;
 
             &.active {
                 opacity: 1;
                 margin-top: -25px;
                 z-index: 11;
-            }
-            &:last-child {
-                margin-right: 0px;
             }
         }
         @media #{$large-desktop} {
