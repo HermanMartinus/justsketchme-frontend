@@ -10,7 +10,7 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: "/images/logo.svg"
-snippet_image: "/images/snippet.jpg"
+snippet_image: "https://justsketch.me/images/snippet.jpg"
 description: Free interactive 3D characters for reference poses.
 keywords: figure drawing reference, reference poses, posing reference, references for drawing, pose, posing, figures to draw
 author:
