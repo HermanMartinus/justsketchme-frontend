@@ -54,6 +54,7 @@ $duration: 1s;
 }
 
 .image-container {
+  position: relative;
   display: flex;
   justify-content: space-evenly;
   align-items: center;
@@ -61,8 +62,8 @@ $duration: 1s;
   margin-top: 200px;
 
   & img {
-	opacity: 0;
-	margin-top: -200px;
+    opacity: 0;
+    margin-top: -200px;
 
     &.one {
     }
@@ -77,7 +78,7 @@ $duration: 1s;
 
     &.four {
       animation-delay: 3s;
-	}
+    }
 
     -webkit-animation: fade $duration;
     /* Safari, Chrome and Opera > 12.1 */
@@ -93,12 +94,26 @@ $duration: 1s;
   }
 
   @media #{$desktop} {
-	flex-flow: row nowrap;
-	margin-top: 0px;
+    flex-flow: row nowrap;
+    margin-top: 0px;
 
-	& img {
-		margin-top: 0px;
-	}
+    & img {
+      margin-top: 0px;
+    }
+  }
+
+  .credits {
+    
+    font-size: 10px;
+    margin-top: -30px;
+    
+
+    @media #{$desktop} {
+      position: absolute;
+    bottom: 0;
+    left: 0;
+      text-align: left;
+    }
   }
 }
 
