@@ -26,4 +26,6 @@ JustSketchMe is built as a **Progressive Web App** and can be installed to any d
 - Go to Settings (top right corner)
 - Click “Install JustSketchMe”
 
+![Browser install](images/screenshots/browser.png)
+
 Feel free to reach out to me if you have any questions, comments or suggestions at [hello@justsketch.me](mailto:hello@justsketch.me) 💌
