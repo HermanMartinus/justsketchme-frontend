@@ -60,15 +60,16 @@
 				font-family: 'Luna', Arial, Helvetica, sans-serif;
 			}
 
-			a: {
-				color: $brand-color
+			a {
+				font-weight: bold;
+				color: $brand-color;
 			}
 		}
 
 
 		.team-member:nth-child(even) {
 			a {
-				color: $secondary-brand-color
+				color: $secondary-brand-color;
 			}
 		}
 	}
