@@ -27,9 +27,11 @@ description: Our story, kinda...
 		<div class="team-members">
 			{% for person in site.staff_members %}
 			<div class="team-member">
-				<p><span class="name"><a target="_blank" href="{{ person.website }}">{{ person.name }} -
-							{{ person.position }}</a></span></p>
+				<p><span class="name"><a target="_blank" href="{{ person.websiteUrl }}">{{ person.name }} -
+							{{ person.blurb }}</a></span></p>
 				<p>{{ person.description }}</p>
+				<br>
+				<p>{{ person.websiteLink }} <span><a target="_blank" href="{{ person.websiteUrl }}">here</a></span></p>
 			</div>
 			{% endfor %}
 		</div>

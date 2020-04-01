@@ -1,7 +1,7 @@
 ---
 name: Herman the Merman
-position: Wears socks rarely
-description: placeholder nonsense gere about stuff and other stuff
-website: https://wordbutter.online/about/
 blurb: Wears socks rarely
+description: Herman is a maker at heart, who is always tinkering at something
+websiteLink: 'See some things he is working on '
+websiteUrl: https://wordbutter.online/about/
 ---
