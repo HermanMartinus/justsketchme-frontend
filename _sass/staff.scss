@@ -1,5 +1,5 @@
 .team-container {
-	@media #{$desktop} {
+	@media #{$large-desktop} {
 		display: flex;
 		align-content: space-around;
 	}
@@ -22,7 +22,7 @@
 		.team-image {
 			width: 250px;
 			margin: 20px;
-
+			align-self: center;
 			@media #{$desktop} {
 				width: 450px;
 			}
