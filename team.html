@@ -3,41 +3,48 @@ title: Team
 description: Our story, kinda...
 ---
 
-<p>
-	JustSketchMe was built by us, a duo of developer/artist hybrids who realise that having a wooden mannequin for
-	dynamic poses and posing on hand all the time is fairly inconvenient.
-</p>
-<h3>
-	For bug reports and feature requests go
-	<a href="https://www.reddit.com/r/JustSketchMe/" target="_blank">
-		here.
-	</a>
-</h3>
-<p>
-	To get in contact directly
-	<a href="mailto:hello@justsketch.me">drop us a mail.</a>
-</p>
-<ul class="staff">
-	{% for person in site.staff_members %}
-	<li>
-		<div class="flip">
-			<div class="front">
-				<div class="square-image">
-					<img src="{% include relative-src.html src=person.image_path %}" alt="{{ person.name }}" />
-				</div>
+<section class="team-container">
+	<div class="img-container">
+		<img src="/images/team/the_team.jpeg" alt="The Team" class="team-image" />
+		<br>
+		<small class="credits">
+			Emma Connolly
+			<br>
+			<a href="https://www.instagram.com/waterkeee/" target="_blank" rel="noopener noreferrer"
+				title="Emma Connolly Instagram">
+				IG: @waterkeee
+			</a>
+		</small>
+	</div>
+	<div>
+		<p class="story">
+			<span class="title">JustSketchMe</span> was built by us, a duo of developer/artist hybrids who realise that
+			having a wooden mannequin
+			for
+			dynamic poses and posing on hand all the time is fairly inconvenient.
+		</p>
+
+		<div class="team-members">
+			{% for person in site.staff_members %}
+			<div class="team-member">
+				<p><span class="name"><a target="_blank" href="{{ person.websiteUrl }}">{{ person.name }} -
+							{{ person.blurb }}</a></span></p>
+				<p>{{ person.description }}</p>
+				<br>
+				<p>{{ person.websiteLink }} <span><a target="_blank" href="{{ person.websiteUrl }}">here</a></span></p>
 			</div>
-			<div class="back">
-				<div class="square-image">
-					<a target="_blank" href="{{ person.website }}">
-						<img src="{% include relative-src.html src=person.hover_image_path %}"
-							alt="{{ person.name }}" />
-					</a>
-				</div>
-				</a>
-			</div>
-			<div class="name"><a target="_blank" href="{{ person.website }}">{{ person.name }}</a></div>
-			<div class="position">{{ person.position }}</div>
+			{% endfor %}
 		</div>
-	</li>
-	{% endfor %}
-</ul>
+
+		<h3>
+			For bug reports and feature requests go
+			<a href="https://www.reddit.com/r/JustSketchMe/" target="_blank">
+				here.
+			</a>
+		</h3>
+		<p>
+			To get in contact directly
+			<a href="mailto:hello@justsketch.me">drop us a mail.</a>
+		</p>
+	</div>
+</section>

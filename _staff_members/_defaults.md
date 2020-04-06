@@ -1,7 +1,7 @@
 ---
 name:
-position:
-image_path:
-twitter:
 blurb:
+description:
+websiteLink:
+websiteUrl:
 ---

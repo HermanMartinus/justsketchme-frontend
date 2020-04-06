@@ -9,7 +9,7 @@ There is an adjustable light source which can be moved around the mannequins, fo
 
 
 ### Prerequisites
-Install the Jekyll gem files. `bundle installt`
+Install the Jekyll gem files. `bundle install`
 
 ### Run Locally
 To run locally on `bundle exec jekyll serve`
