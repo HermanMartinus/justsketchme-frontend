@@ -1,27 +1,53 @@
-$duration: 1s;
-
-@keyframes fade {
-  0% {
-    opacity: 0;
-  }
-
-  100% {
-    opacity: 1;
-  }
-}
-
 .hero {
-  text-align: center;
+  display: flex;
+  align-items: center;
+  height: calc(100vh - 168px);
   background: white;
   padding: 50px 0;
 
-  .title {
-    font-family: "Luna", Arial, Helvetica, sans-serif;
-    font-size: 1.8em;
+  .container {
+    display: flex;
+    flex-flow: column;
+    justify-content: space-evenly;
+    align-items: center;
 
-    @media #{$tablet} {
-      font-size: 2.3em;
+    .left-column {
+      padding: 20px;
+      text-align: center;
     }
+
+    .right-column {
+      max-width: 420px;
+    }
+
+    @media #{$desktop} {
+      flex-flow: row;
+      text-align: left;
+
+      .left-column {
+        max-width: 30vw;
+        text-align: left;
+
+        .title,
+        .subtext {
+          text-align:left !important;
+        }
+      }
+
+      .right-column {
+        max-width: 100%;
+      }
+    }
+  }
+
+  .title {
+    font-size: 1.8em;
+    text-align: center;
+  }
+
+  .subtext {
+    font-size: 14px;
+    text-align: center;
   }
 
   h1 {
@@ -45,86 +71,5 @@ $duration: 1s;
 
   p {
     color: #fff;
-  }
-
-  img {
-    width: 260px;
-    margin: 0 -50px;
-  }
-}
-
-.image-container {
-  position: relative;
-  display: flex;
-  justify-content: space-evenly;
-  align-items: center;
-  flex-flow: column nowrap;
-  margin-top: 200px;
-
-  & img {
-    opacity: 0;
-    margin-top: -200px;
-
-    &.one {
-    }
-
-    &.two {
-      animation-delay: 1s;
-    }
-
-    &.three {
-      animation-delay: 2s;
-    }
-
-    &.four {
-      animation-delay: 3s;
-    }
-
-    -webkit-animation: fade $duration;
-    /* Safari, Chrome and Opera > 12.1 */
-    -moz-animation: fade $duration;
-    /* Firefox < 16 */
-    -ms-animation: fade $duration;
-    /* Internet Explorer */
-    -o-animation: fade $duration;
-    /* Opera < 12.1 */
-    animation: fade $duration;
-    animation-fill-mode: forwards;
-    animation-timing-function: ease-in;
-  }
-
-  @media #{$desktop} {
-    flex-flow: row nowrap;
-    margin-top: 0px;
-
-    & img {
-      margin-top: 0px;
-    }
-  }
-
-  .credits {
-    
-    font-size: 10px;
-    margin-top: -30px;
-    
-
-    @media #{$desktop} {
-      position: absolute;
-    bottom: 0;
-    left: 0;
-      text-align: left;
-    }
-  }
-}
-
-.caret {
-  margin-left: 3px;
-  border-right: 0.05em solid;
-  animation: caret 1s steps(1) infinite;
-}
-
-@keyframes caret {
-  50% {
-    border-color: transparent;
   }
 }
