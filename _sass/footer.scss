@@ -20,13 +20,15 @@
 		}
 
 		a {
+			color: #ffffffcc;
+
 			&:hover {
 				text-decoration: none;
-				color: #666;
+				color: #fff;
 			}
 
 			svg {
-				fill: white;
+				fill: #ffffffcc;
 				margin-right: 10px;
 				transition: fill 0.2s ease;
 				vertical-align: middle;
@@ -37,11 +39,11 @@
 			}
 
 			&:hover svg {
-				fill: #666;
+				fill: #fff;
 			}
 
 			&.Reddit-icon:hover path {
-				fill: #666;
+				fill: #fff;
 			}
 		}
 	}

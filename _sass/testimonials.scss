@@ -6,6 +6,13 @@
     .container {
         padding: 30px 0 0;
     }
+
+    .title {
+        font-size: 1.8em;
+        font-weight: bold;
+        color: $secondary-brand-color
+    }
+
     .testimonial-block {
         margin: 0 auto;
         flex-flow: row wrap;

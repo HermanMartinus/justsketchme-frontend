@@ -1,3 +1,11 @@
+$duration: 1s;
+
+@keyframes fade {
+    100% {
+        opacity: 1;
+    }
+}
+
 .hero {
   display: flex;
   align-items: center;
@@ -18,6 +26,11 @@
 
     .right-column {
       max-width: 420px;
+
+      opacity: 0.1;
+      animation: fade $duration;
+      animation-fill-mode: forwards;
+      animation-timing-function: ease-in;
     }
 
     @media #{$desktop} {
@@ -30,7 +43,7 @@
 
         .title,
         .subtext {
-          text-align:left !important;
+          text-align: left !important;
         }
       }
 
@@ -58,18 +71,5 @@
   h2 {
     color: #666;
     font-size: 18px;
-  }
-
-  small {
-    font-weight: 300;
-    font-size: 11px;
-
-    @media #{$tablet} {
-      font-size: 17px;
-    }
-  }
-
-  p {
-    color: #fff;
   }
 }
