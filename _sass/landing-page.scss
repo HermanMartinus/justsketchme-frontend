@@ -30,14 +30,14 @@
 	}
 
 	h2, a {
-		color: $brand-color;
+		color: $secondary-brand-color;
 	}
 
 	section:nth-child(even) {
 
 		h2,
 		a {
-			color: $secondary-brand-color;
+			color: $brand-color;
 		}
 	}
 }
