@@ -1,6 +1,6 @@
 .footer-links {
-	width: 100%;
-	margin: 10px;
+	width: 200px;
+	margin: 10px auto;
 	padding: 0;
 	text-align: left;
 	display: flex;
@@ -53,8 +53,20 @@ footer {
 	padding: 50px 0 50px 0;
 	font-size: 1.1em;
 	position: relative;
-	background: $secondary-brand-color;
+	background: $brand-color;
+	background: linear-gradient(to left, $brand-color 0%, $secondary-brand-color 100%) no-repeat $brand-color;
 	color: #fff;
+
+	.team {
+		text-align: center;
+		p {
+			color: #ffffffcc;
+		}
+
+		img {
+			width: 200px;
+		}
+	}
 
 	.copyright {
 		font-size: .8em;
@@ -67,29 +79,8 @@ footer {
 
 	}
 
-	&,
 	a {
 		color: #fff;
-	}
-
-	h2 {
-		font-size: 1.4em;
-		margin: 30px 0;
-		color: #fff;
-	}
-
-	.footer-columns {
-		@extend %flexbox;
-		@include flex-flow(wrap);
-		margin: -10px -10px 10px -10px;
-	}
-
-	a {
-		text-decoration: none;
-
-		&:hover {
-			color: #fff;
-		}
 	}
 
 	.legal-line {

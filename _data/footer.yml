@@ -1,9 +1,4 @@
 - links:
-  - name: Team
-    link: /team/
-  - name: Blog
-    link: /blog/
-- links:
   - link: https://facebook.com/justsketchme
     new_window: true
     social_icon: Facebook

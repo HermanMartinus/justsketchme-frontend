@@ -65,24 +65,38 @@
 	{{ content }}
 	<footer>
 		<div class="container">
-			<div class="footer-columns">
-				{% for column in site.data.footer %}
-				<ul class="footer-links">
-					{% for link in column.links %}
-					<li><a {% if link.new_window %}target="_blank" rel="noopener noreferrer" {% endif %}
-							href="{% include relative-src.html src=link.link %}"
-							{% if link.social_icon %}class="{{ link.social_icon }}-icon" {% endif %}
-							title="{{ link.name }}">
-							{% if link.social_icon %}
-							{% include social-icon.html icon=link.social_icon %}
-							{% endif %}
-							{{ link.name }}</a></li>
-					{% endfor %}
-				</ul>
-				{% endfor %}
+			<div class="team">
+				<p>Made with love by</p>
+				<p>
+					<a href="https://wordbutter.online/about" alt="Herman Martinus" target="_blank">
+						Herman Martinus
+					</a>
+					and
+					<a href="https://www.instagram.com/skgarvie/" alt="Simon-Kai Garvie" target="_blank">
+						Simon-Kai Garvie
+					</a>
+				</p>
+				<img src="/images/team/the_team.png" alt="The Team" class="team-image" />
 			</div>
-			<p class="copyright">&copy; {{ site.time | date: '%Y' }} JustSketchMe Ltd. • <a href="#"
-					title="Terms">Terms</a> &amp; <a href="#" title="Privacy">Privacy</a></p>
+			{% for column in site.data.footer %}
+			<ul class="footer-links">
+				{% for link in column.links %}
+				<li><a {% if link.new_window %}target="_blank" rel="noopener noreferrer" {% endif %}
+						href="{% include relative-src.html src=link.link %}"
+						{% if link.social_icon %}class="{{ link.social_icon }}-icon" {% endif %}
+						title="{{ link.name }}">
+						{% if link.social_icon %}
+						{% include social-icon.html icon=link.social_icon %}
+						{% endif %}
+						{{ link.name }}</a></li>
+				{% endfor %}
+			</ul>
+			{% endfor %}
+
+			<p class="copyright">
+				&copy; {{ site.time | date: '%Y' }} JustSketchMe Ltd. • <a href="#"
+					title="Terms">Terms</a> &amp; <a href="#" title="Privacy">Privacy</a>
+			</p>
 		</div>
 	</footer>
 	{% if page.modal %}
