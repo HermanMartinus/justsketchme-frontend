@@ -1,4 +1,6 @@
 - links:
+  - link: mailto:hello@justsketch.me
+    social_icon: Email
   - link: https://facebook.com/justsketchme
     new_window: true
     social_icon: Facebook
