@@ -1,8 +1,8 @@
-.testimonial {
+.testimonials {
     background: #f5f5f5;
     margin: 0;
     padding: 50px 20px 100px;
-    
+
     .container {
         padding: 30px 0 0;
     }
@@ -10,53 +10,31 @@
     .title {
         font-size: 1.8em;
         font-weight: bold;
-        color: $secondary-brand-color
+        color: $secondary-brand-color;
     }
 
-    .testimonial-block {
+    .masonry {
+        width: 100%;
         margin: 0 auto;
-        flex-flow: row wrap;
+        flex-flow: column wrap;
         justify-content: space-around;
-
-        @media #{$desktop} {
-            height: 500px;
-        }
+        column-count: 1;
+        column-gap: 1em;
 
         @media #{$tablet} {
-            @include flexbox;
-
-            blockquote {
-                -webkit-flex: 1;
-                flex: 1;
-            }
+            column-count: 2;
         }
-    }
 
-    .testimonial-image {
-        text-align: center;
-        margin-bottom: 50px;
-        img {
-            width: 150px;
-            height: 150px;
-            overflow: hidden;
-            margin: 25px auto 0 auto;
+        @media #{$desktop} {
+            column-count: 3;
         }
     }
 
     .tweet {
-        @media #{$desktop} {
-            position: relative;
-            transition-duration: 1s;
-            z-index: 9;
-
-            transition-duration: 0.4s;
-            width: 30%;
-
-            &.active {
-                opacity: 1;
-                margin-top: -25px;
-                z-index: 11;
-            }
-        }
+        display: inline-block;
+        position: relative;
+        max-width: 100%;
+        transition-duration: 1s;
+        z-index: 9;
     }
 }
