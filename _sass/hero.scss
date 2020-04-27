@@ -1,4 +1,4 @@
-$duration: 1s;
+$duration: 2s;
 
 @keyframes fade {
     100% {
@@ -24,12 +24,16 @@ $duration: 1s;
     }
 
     .right-column {
+      background-image: url("/images/heros/app-image-background.jpg");
+      background-size: contain;
       max-width: 420px;
 
-      opacity: 0.1;
-      animation: fade $duration;
-      animation-fill-mode: forwards;
-      animation-timing-function: ease-in;
+      img {
+        opacity: 0;
+        animation: fade $duration;
+        animation-fill-mode: forwards;
+        animation-timing-function: ease-in;
+      }
     }
 
     @media #{$desktop} {
