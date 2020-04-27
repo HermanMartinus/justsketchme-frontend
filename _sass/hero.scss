@@ -1,6 +1,9 @@
 $duration: 2s;
 
 @keyframes fade {
+    50% {
+      opacity: 0;
+    }
     100% {
         opacity: 1;
     }
@@ -29,6 +32,8 @@ $duration: 2s;
       max-width: 420px;
 
       img {
+        width: 1024px;
+        max-width: 100%;
         opacity: 0;
         animation: fade $duration;
         animation-fill-mode: forwards;
