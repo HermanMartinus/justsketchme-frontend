@@ -34,10 +34,8 @@ $duration: 2s;
       img {
         width: 1024px;
         max-width: 100%;
-        opacity: 0;
-        animation: fade $duration;
-        animation-fill-mode: forwards;
-        animation-timing-function: ease-in;
+        animation: move 10s ease-in-out infinite;
+        transform-origin: 50% 50%;
       }
     }
 
@@ -81,4 +79,10 @@ $duration: 2s;
     color: #666;
     font-size: 18px;
   }
+}
+
+@keyframes move {
+  0% { transform: scale(1)}
+  50% { transform: scale(1.02)}
+  100% { transform: scale(1)}
 }
