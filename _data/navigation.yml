@@ -3,10 +3,14 @@
   link: /features/
   new_window: false
   highlight: false
-- name: Models
-  link: /models/
+- name: Gallery
+  link: /gallery/
   new_window: false
   highlight: false
+# - name: Models
+#   link: /models/
+#   new_window: false
+#   highlight: false
 - name: Learn
   link: /learn/
   new_window: false
