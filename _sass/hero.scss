@@ -63,6 +63,16 @@ $duration: 2s;
   .title {
     font-size: 1.8em;
     text-align: center;
+    height: 110px;
+    margin-bottom: 50px;
+
+    @media #{$large-desktop} {
+      margin-bottom: 50px;
+    }
+
+    @media #{$largest-desktop} {
+      margin-bottom: 20px;
+    }
   }
 
   .subtext {

@@ -2,13 +2,19 @@
     <div class="container">
         <div class="left-column">
             <h1 class="title">
-                A character posing tool for artists.
+                Interactive character posing tool for
+                <span><br></span>
+                <small>
+                    <span id="typewritten">reference poses.</span>
+                    <span class="caret" aria-hidden="true"></span>
+                </small>
             </h1>
+        
             <h2 class="subtext">
-                Try out the web app, it's free
-                <br>
-                and is loved by illustrators, fashion designers, comic artists, and more.
+                ...and figures to draw, art reference, comic illustration, exploring poses and lighting, etc...
             </h2>
+    
+
             <div class="cta button">
                 <a href="https://app.justsketch.me" target="_blank" rel="noopener noreferrer" title="Webapp">
                     Open the web app
@@ -20,3 +26,78 @@
         </div>
     </div>
 </section>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function (event) {
+        var dataText = [" drawing.", " practising anatomy.", " figure reference.", " life drawing.", " character design."];
+        var typingSpeed = 100;
+        var timeBetweenWords = 2000;
+        var startTime = 1000;
+
+        // type one text in the typwriter
+        // keeps calling itself until the text is finished
+        function typeWriterAdd(text, i, fnCallback) {
+            // check if text isn't finished yet
+            if (i < (text.length)) {
+                // add next character to h1
+                document.querySelector("#typewritten").innerHTML = text.substring(0, i + 1);
+
+                // wait for a while and call this function again for next character
+                setTimeout(function () {
+                    typeWriterAdd(text, i + 1, fnCallback)
+                }, typingSpeed);
+            }
+            // text finished, call callback if there is a callback function
+            else if (typeof fnCallback == 'function') {
+                // call callback after timeout
+                setTimeout(fnCallback, timeBetweenWords);
+            }
+        }
+
+        function typeWriterRemove(text, i, fnCallback) {
+            // check if text isn't finished yet
+            if (i < (text.length)) {
+                var currentText = document.querySelector("#typewritten").innerHTML;
+                document.querySelector("#typewritten").innerHTML = currentText.substring(0, currentText
+                    .length - 1);
+                // wait for a while and call this function again for next character
+                setTimeout(function () {
+                    typeWriterRemove(text, i + 1, fnCallback)
+                }, 100);
+            }
+            // text finished, call callback if there is a callback function
+            else if (typeof fnCallback == 'function') {
+                // call callback after timeout
+                setTimeout(fnCallback, 500);
+            }
+        }
+        // start a typewriter animation for a text in the dataText array
+        function StartTextAnimation(i) {
+            if (typeof dataText[i] == 'undefined') {
+                setTimeout(function () {
+                    StartTextAnimation(0);
+                }, startTime);
+            }
+            // check if dataText[i] exists
+            if (dataText[i] && i < dataText[i].length) {
+                var word = dataText[i];
+                // text exists! start typewriter animation
+                typeWriterAdd(word, 0, function () {
+                    // text done! remove it
+                    typeWriterRemove(word, 0, function () {
+                        //after callback (and whole text has been animated), start next text
+                        StartTextAnimation(i + 1);
+                    });
+                });
+            }
+        }
+
+        function typewriterTitle() {
+            typeWriterRemove(dataText[0], 0, function () {
+                StartTextAnimation(1);
+            });
+        }
+
+        setTimeout(typewriterTitle, startTime);
+    });
+</script>
