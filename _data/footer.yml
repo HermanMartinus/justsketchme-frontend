@@ -16,3 +16,6 @@
   - link: /feed.xml
     social_icon: RSS
     new_window: false
+  - link: /blog
+    social_icon: Blog
+    new_window: false
