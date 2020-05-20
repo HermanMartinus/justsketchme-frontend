@@ -1,0 +1,43 @@
+.image-slider {
+    max-width: 800px;
+    overflow: hidden;
+    transform: translate3d(0, 0, 0);
+    position: relative;
+    width: 100%;
+    height: 300px;
+    margin: 10px auto;
+    margin-right: 50px;
+    background-image: url("/images/heros/app-image-background.jpg");
+
+
+    @media #{$large-desktop} {
+        width: 600px;
+    }
+
+    @media #{$mid-point} {
+        width: 500px;
+    }
+
+    @media #{$tablet} {
+        width: 300px;
+    }
+}
+
+.image-slider > div {
+    width: 838px;
+    background: url("/images/features/models.png");
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    transform: translate3d(0, 0, 0);
+  }
+  .image-slider .models {
+    animation: moveSlideshow 12s linear infinite;
+  } 
+  
+  @keyframes moveSlideshow {
+    100% { 
+      transform: translateX(-66.6666%);  
+    }
+  }
