@@ -14,21 +14,10 @@
     }
 }
 
-.masonry {
-    width: 100%;
+.grid {
+    width:100%;
+    max-width: 940px;
     margin: 0 auto;
-    flex-flow: column wrap;
-    justify-content: space-around;
-    column-count: 1;
-    column-gap: 1em;
-
-    @media #{$tablet} {
-        column-count: 2;
-    }
-
-    @media #{$desktop} {
-        column-count: 3;
-    }
 }
 
 .tweet {
@@ -37,4 +26,5 @@
     max-width: 100%;
     transition-duration: 1s;
     z-index: 9;
+    width:300px;
 }
