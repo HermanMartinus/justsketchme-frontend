@@ -7,18 +7,13 @@ As with many websites, we collect the e-mail addresses of those who communicate 
 
 ## Information Gathering and Usage
 When you register on justsketch.me we ask for information such as your name, email address, billing address, credit card information. Members who sign up for the free account are not required to enter a credit card.
-Bear uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research.
-
-## Cookies
-A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive.
-Cookies are required to use the justsketch.me service.
-We use cookies to record current session information, but do not use permanent cookies. You are required to re-login to your justsketch.me account after a certain period of time has elapsed to protect you against others accidentally accessing your account contents.
+JustSketchMe uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research.
 
 ## Data Storage
-Bear uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run justsketch.me. Although Bear owns the code, databases, and all rights to the justsketch.me website, you retain all rights to your data.
+JustSketchMe uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run justsketch.me. Although JustSketchMe owns the code, databases, and all rights to the justsketch.me website.
 
 ## Disclosure
-Bear may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the Terms of Service.
+JustSketchMe may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the Terms of Service.
 
 ## Data Location
 If you choose to provide justsketch.me with your information, you consent to the transfer and storage of that information on our servers located in Amsterdam, The Netherlands.
