@@ -1,6 +1,5 @@
 ---
 title: 📥 App install instructions
-date: 2020-03-05
 permalink: app-install
 ---
 
@@ -26,7 +25,7 @@ JustSketchMe is built as a **Progressive Web App** and can be installed to any d
 - Go to Settings (top right corner)
 - Click “Install JustSketchMe”
 
-![Browser install](images/screenshots/browser.png)
+![Browser install](/images/screenshots/browser.png)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4ExW7LwgiC4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
