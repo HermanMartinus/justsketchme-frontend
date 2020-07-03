@@ -9,8 +9,13 @@ As with many websites, we collect the e-mail addresses of those who communicate 
 When you register on justsketch.me we ask for information such as your name, email address, billing address, credit card information. Members who sign up for the free account are not required to enter a credit card.
 JustSketchMe uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research.
 
+## Localstorage
+Localstorage is a small amount of data stored in your browser to identify you. In this case it stores your license key for verification. 
+Localstorage is required to use the justsketch.me paid service.
+We use localstorage to record current session information so you do not need to authenticate every time.
+
 ## Data Storage
-JustSketchMe uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run justsketch.me. Although JustSketchMe owns the code, databases, and all rights to the justsketch.me website.
+JustSketchMe uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run justsketch.me. JustSketchMe owns the code, databases, and all rights to the justsketch.me website.
 
 ## Disclosure
 JustSketchMe may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the Terms of Service.
