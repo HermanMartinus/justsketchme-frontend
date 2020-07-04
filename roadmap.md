@@ -1,6 +1,6 @@
 ---
 title: Roadmap
-permalink: roadmap
+permalink: /roadmap/
 ---
 
 ## Planned

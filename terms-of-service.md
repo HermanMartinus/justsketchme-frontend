@@ -1,6 +1,6 @@
 ---
 title: Terms of Service
-permalink: terms-of-service
+permalink: /terms-of-service/
 ---
 
 ## 1. Terms
