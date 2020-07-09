@@ -36,7 +36,21 @@
 	<meta name="msapplication-config" content="{{ site.baseurl }}/images/favicons/browserconfig.xml">
 	<meta name="theme-color" content="#a497f3">
 
-	<script async defer data-domain="justsketch.me" src="https://plausible.io/js/plausible.js"></script>
+	<!-- Fathom - simple website analytics - https://github.com/usefathom/fathom -->
+	<script>
+	(function(f, a, t, h, o, m){
+		a[h]=a[h]||function(){
+			(a[h].q=a[h].q||[]).push(arguments)
+		};
+		o=f.createElement('script'),
+		m=f.getElementsByTagName('script')[0];
+		o.async=1; o.src=t; o.id='fathom-script';
+		m.parentNode.insertBefore(o,m)
+	})(document, window, '//stats.justsketch.me/tracker.js', 'fathom');
+	fathom('set', 'siteId', 'PDWSF');
+	fathom('trackPageview');
+	</script>
+	<!-- / Fathom -->
 
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 	<script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>    
