@@ -14,7 +14,7 @@ When you’re designing an anime character, you’re trying to convey that chara
 
 ![Setup pose](/images/screenshots/animeposer-1.png)
 
-Use Just Sketch Me to set up a pose, a shot angle to make it more dynamic, and play around with the Field of View slider to warp it according to different camera lenses.
+Use [JustSketchMe](/) to set up a pose, a shot angle to make it more dynamic, and play around with the Field of View slider to warp it according to different camera lenses.
 
 ![Dynamic pose](/images/screenshots/animeposer-2.png)
 
@@ -24,7 +24,7 @@ An undersketch helps you to get a sense of where the overall forms will appear
 
 Finalising details such as the face, hair and clothes might take some time - but persevere!
 
-Use justsketch.me to nail your pose, and take considerable care to ensure that your character is set up exactly how you imagine it. If your anime character is a warrior, make sure that that is evident from their pose alone.This can be done with the help of a fighting stance or an outstretched hand ready for battle. If they are a shy schoolgirl, try slumping their shoulders a little bit or using their arms as a way to convey their shy body language.
+Use [JustSketchMe](/) to nail your pose, and take considerable care to ensure that your character is set up exactly how you imagine it. If your anime character is a warrior, make sure that that is evident from their pose alone.This can be done with the help of a fighting stance or an outstretched hand ready for battle. If they are a shy schoolgirl, try slumping their shoulders a little bit or using their arms as a way to convey their shy body language.
 
 ## Step 2 - Define Their Look
 
