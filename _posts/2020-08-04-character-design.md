@@ -10,9 +10,9 @@ Have a look around you in your daily life - everyone around you is a character. 
 
 This makes the field of character design an ever-evolving art form, as there are so many ways to go about character design. Some people will prefer to do silhouettes (see [Fheng Zhu](https://www.instagram.com/fengzhudesign/)) where some will prefer to do the rough outline of the human body and fill in the gaps.
 
-
-<iframe width="512" height="512" src="https://i.imgur.com/UG3WyXm.mp4" frameborder="0" allowfullscreen></iframe>
-
+ <video width="512" height="512" autoplay loop>
+  <source src="/images/screenshots/character-design.mp4" type="video/mp4">
+</video> 
 
 One thing I've learnt, however, is that when I focus on the outcome before I've even designed my character, I can get overwhelmed with how much there is to do. That's why it's often useful to design your character before you put them in their world, allowing the context to be secondary. Let's break down the process into some useful steps, so you can do what you do best - create!
 
