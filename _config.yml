@@ -25,7 +25,7 @@ social:
 timezone: Etc/UTC
 
 paginate: 10
-paginate_path: "/learn/:num/"
+paginate_path: "/blog/:num/"
 permalink: pretty
 
 defaults:
