@@ -1,21 +1,16 @@
 - links:
-  - link: mailto:hello@justsketch.me
-    social_icon: Email
   - link: https://facebook.com/justsketchme
     new_window: true
     social_icon: Facebook
   - link: https://twitter.com/justsketchme
     social_icon: Twitter
     new_window: true
-  - link: https://reddit.com/r/JustSketchMe
-    social_icon: Reddit
-    new_window: true
   - link: https://instagram.com/JustSketch.Me
     social_icon: Instagram
     new_window: true
-  - link: /feed.xml
-    social_icon: RSS
-    new_window: false
+  - link: https://reddit.com/r/JustSketchMe
+    social_icon: Reddit
+    new_window: true
   - link: /blog
     social_icon: Blog
     new_window: false
