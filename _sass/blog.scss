@@ -1,3 +1,15 @@
+.learn {
+	display: flex;
+	justify-content: space-around;
+	margin: 30px 0;
+}
+
+.videos {
+	display: flex;
+	flex-flow: column nowrap;
+	justify-content: center;
+}
+
 .blog-posts {
 	list-style: none;
 	padding: 0;
