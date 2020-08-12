@@ -15,8 +15,8 @@
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:site" content="@JustSketchMe">
 	<meta name="twitter:title" content="JustSketchMe - Free character posing tool">
-	<meta name="twitter:description"
-		content="Free character posing tool for figure drawing, comic illustration, sketching, fashion design. Create poses and references with realistic lighting.">
+	<meta name="twitter:image" content="{{ page.image | default: site.snippet_image }}">
+	<meta name="twitter:description" content="{{ page.meta_description | default: site.description }}">
 	<meta name="twitter:creator" content="@justsketchme">
 
 	{% feed_meta %}
