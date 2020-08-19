@@ -1,6 +1,6 @@
 ---
 title: How to create a flying pose
-date: 2020-10-19
+date: 2020-08-19
 permalink: /create-a-flying-pose/
 image: /images/screenshots/flying-pose-1.png
 meta_description: "Are they running toward danger, or from it? Are they flying to save the day, or whoop some ass?"
