@@ -6,6 +6,8 @@ image: /images/screenshots/flying-pose-0.png
 meta_description: "Are they running toward danger, or from it? Are they flying to save the day, or whoop some ass?"
 ---
 
+![Flying pose](/images/screenshots/flying-pose-0.png)
+
 Oh, flight. It’s one of the most basic and generic superpowers a hero can have, but it never stops being impressive and we all wish we could do it! But if you’ve ever failed at drawing a flying pose you’ll know that it is not the easiest thing to get right. To learn how to ensure that your superhero’s flying pose is impressive, read on!
 
 ![Flying pose](/images/screenshots/flying-pose-1.png)
