@@ -20,5 +20,3 @@ fields:
 - type: file
   name: image
   label: image
-pages:
-- _posts/2020-08-24-this-is-a-test-draft.md
