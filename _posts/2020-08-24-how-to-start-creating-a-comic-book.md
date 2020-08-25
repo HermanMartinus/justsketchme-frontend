@@ -2,9 +2,7 @@
 title: How to start writing a comic book
 date: 2020-08-24 22:00:00 +0000
 permalink: how-to-start-writing-a-comic-book
-description: ''
-meta_description: Here are some useful tip for getting into the world of comic book
-  illustration.
+description: 'Here are some useful tip for getting into the world of comic book illustration.'
 image: "/uploads/pexels-cottonbro-4841961.jpg"
 
 ---

@@ -3,7 +3,7 @@ title: How to draw a fight scene
 date: 2020-08-12
 permalink: draw-a-fight-scene
 image: /images/screenshots/boxing.png
-meta_description: "Action and fight scenes are a key part of comic books, anime, and manga and are part of the reason we just can’t get enough of our favourite titles."
+description: "Action and fight scenes are a key part of comic books, anime, and manga and are part of the reason we just can’t get enough of our favourite titles."
 ---
 
 Action and fight scenes are a key part of comic books, anime, and manga and are part of the reason we just can’t get enough of our favourite titles. There’s just something about seeing capable characters duck it out with dramatic flair. Read on and find out how to draw your own fight scenes.

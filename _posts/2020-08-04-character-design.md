@@ -2,6 +2,7 @@
 title: "5 Ways to Get Creative with Character Design"
 date: 2020-08-04
 permalink: /get-creative-with-character-design/
+description: 'Learn how to design awesome characters.'
 ---
 
 Why is character design one of the hardest things to get right in concept art? How can we improve? Let's explore how to get creative (and stay creative) in character design without coming up against one of the most notorious enemies in the field - CREATIVE BLOCK!

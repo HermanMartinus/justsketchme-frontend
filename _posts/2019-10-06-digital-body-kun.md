@@ -3,7 +3,6 @@ title: "Digital body kun"
 date: 2019-10-06
 permalink: /digital-body-kun/
 description: "Why references and visual guides are important"
-meta_description: "Why references and visual guides are important"
 image: /images/screenshots/body-kun.png
 ---
 *Use [JustSketchMe](/) for free online instead of a Body kun*

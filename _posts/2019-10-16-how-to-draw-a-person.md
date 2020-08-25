@@ -2,6 +2,7 @@
 title: "How to draw a person"
 date: 2019-10-16
 permalink: /how-to-draw-a-person/
+description: 'Learn some tricks and tips to sketch out a person.'
 ---
 
 ### Learn how to draw a person easily with [JustSketchMe](/)
