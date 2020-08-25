@@ -3,7 +3,7 @@ title: How to create a superhero pose
 date: 2020-08-19
 permalink: /draw-a-superhero-pose/
 image: /images/screenshots/superhero-pose-0.png
-description: "Being a super visual medium, comic books and their heroes go to great lengths to drip style and appeal, so why not have a go at it yourself and draw your own superhero today!"
+description: "Learn how to craft and illustrate a super hero from start to finish."
 ---
 ![Superhero pose](/images/screenshots/superhero-pose-0.png)
 

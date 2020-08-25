@@ -3,7 +3,7 @@ title: How to create a flying pose
 date: 2020-08-19
 permalink: /create-a-flying-pose/
 image: /images/screenshots/flying-pose-0.png
-description: "Are they running toward danger, or from it? Are they flying to save the day, or whoop some ass?"
+description: "Learn how to pose a character in flight for illustration."
 ---
 
 ![Flying pose](/images/screenshots/flying-pose-0.png)
