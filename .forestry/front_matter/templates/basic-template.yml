@@ -20,3 +20,5 @@ fields:
 - type: file
   name: image
   label: image
+pages:
+- _posts/how-to-start-creating-a-comic-book.md
