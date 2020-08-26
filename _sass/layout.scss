@@ -57,12 +57,6 @@ header {
   }
 }
 
-.content {
-  background: #fff;
-  padding: 1px 0 0 0;
-  position: relative;
-}
-
 section {
   padding: 100px 0;
 }
@@ -71,19 +65,27 @@ section+section {
   padding-top: 0;
 }
 
-.subtext {
-  margin-top: 10px;
-  text-align: center;
+.button {
+  padding: 10px 25px;
+  border-radius: 5px;
+  border: 2px solid $blackish;
+  box-shadow: 3px 3px 0 $blackish;
+  background-color: $yolo-yellow;
+  color: $blackish;
+  font-family: monospace;
   font-size: 20px;
-  font-weight: 400;
-  color: #424242;
-}
+  font-weight: 700;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
 
-.cta {
-  margin: 30px 0;
-  
-  & a {
-    text-align: center;
+  &.pink {
+    background-color: $chilled-pink;
+  }
+
+  &:hover {
+    box-shadow: 1px 1px 0 $blackish;
+    transform: translate(2px,2px);
   }
 }
 
@@ -92,6 +94,10 @@ blockquote {
   margin: 0;
   quotes: "\201C""\201D""\2018""\2019";
   font-style: italic;
+  border: 1px solid $blackish;
+  box-shadow: 4px 4px $blackish;
+  background-color: $fresh-mint;
+  
 
   .author {
     display: block;
@@ -103,34 +109,15 @@ blockquote {
 
   p {
     display: inline;
+    font-family: monospace;
+    font-size: 25px;
   }
-}
-
-blockquote:before {
-  color: #ccc;
-  content: open-quote;
-  font-size: 4em;
-  line-height: 0.1em;
-  margin-right: 0.25em;
-  vertical-align: -0.4em;
-}
-
-.square-image {
-  width: 150px;
-  height: 150px;
-  overflow: hidden;
-  margin: 25px auto 0 auto;
-  position: relative;
-  border-radius: 200px;
-
-  img {
-    position: absolute;
-    left: -1000%;
-    right: -1000%;
-    top: -1000%;
-    bottom: -1000%;
-    margin: auto;
-    width: 300px;
+  
+  &:before {
+    content: open-quote;
+    font-size: 40px;
+    font-weight: bold;
+    height: 100%;
   }
 }
 
@@ -138,14 +125,12 @@ blockquote:before {
   margin-bottom: 0;
   padding-bottom: 80px;
 
-  h1 {
-    color: $brand-color;
-    font-weight: bold;
-  }
-
   .subtext {
-    font-size: 14px;
-    color: #424242;
+    margin: 15px 0;
+    text-align: center;
+    font-family: "San Francisco", "Helvetica Neue", "Helvetica", "Arial";
+    font-size: 18px;
+    color: $blackish
   }
 }
 
@@ -159,10 +144,4 @@ blockquote:before {
 
 .left-text {
   text-align: left !important;
-}
-
-@media #{$desktop} {
-  .is-hidden-desktop {
-    display: none;
-  }
 }

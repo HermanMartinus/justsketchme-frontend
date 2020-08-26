@@ -12,7 +12,6 @@ $duration: 2s;
 .hero {
   display: flex;
   align-items: center;
-  background: white;
   padding: 50px 0;
 
   .container {
@@ -49,7 +48,7 @@ $duration: 2s;
         text-align: left;
 
         .title,
-        .subtext {
+        .subtitle {
           text-align: left !important;
         }
       }
@@ -61,23 +60,18 @@ $duration: 2s;
   }
 
   .title {
-    font-size: 2.2em;
+    font-family: "San Francisco", "Helvetica Neue", "Helvetica", "Arial";
+    font-size: 4em;
+    font-weight: 700;
     text-align: center;
+    line-height: 1;
+    margin-bottom: 20px;
   }
 
-  .subtext {
-    font-size: 18px;
+  .subtitle {
+    font-family: "San Francisco", "Helvetica Neue", "Helvetica", "Arial";
+    font-size: 23px;
     text-align: center;
-  }
-
-  h1 {
-    color: $brand-color;
-    font-weight: bold;
-  }
-
-  h2 {
-    color: #424242;
-    font-size: 18px;
   }
 }
 

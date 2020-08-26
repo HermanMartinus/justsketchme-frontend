@@ -1,0 +1,48 @@
+.masonry {
+    margin-top: 80px;
+    columns: 3 300px;
+    column-gap: 40px;
+
+    li {
+        position: relative;
+        width: 150px;
+        color: white;
+        margin: 0 1rem 1rem 0;
+        display: inline-block;
+        width: 100%;
+        padding: 20px 0;
+
+        a {
+            text-decoration: none;
+        }
+
+        .header {
+            position: absolute;
+            top: -20px;
+            left: 10px;
+            background: $fresh-mint;
+            padding: 5px 20px;
+            font-size: 1.5rem !important;
+            font-style: italic;
+            font-family: monospace;
+            border: 1px solid $blackish;
+        }
+
+        img {
+            border: 1px solid $blackish;
+            box-shadow: 4px 4px 0 $blackish;
+        }
+
+        &:hover {
+            transform: rotateZ(0deg) !important;
+        }
+    }
+    @media #{$desktop} {
+        @for $i from 1 through 36 {
+            li:nth-child(#{$i}) {
+                $r: random(3) + deg;
+                transform: rotateZ($r);
+            }
+        }
+    }
+}

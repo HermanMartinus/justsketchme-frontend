@@ -20,14 +20,6 @@
 }
 
 .blog-post {
-	h3 {
-		margin: 0;
-	}
-
-	h2 {
-		text-align: left;
-	}
-
 	.blog-navigation {
 		font-size: 14px;
 		display: block;
@@ -71,13 +63,6 @@
 			content: "";
 			display: table;
 			clear: both;
-		}
-	}
-
-	.post-content {
-		text-align: left;
-		.button {
-			margin: 30px 0 0 0;
 		}
 	}
 }

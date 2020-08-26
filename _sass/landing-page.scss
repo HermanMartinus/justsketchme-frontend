@@ -1,22 +1,3 @@
-.content {
-	h2 {
-		font-weight: bold;
-	}
-
-	h2, a {
-		color: $secondary-brand-color;
-	}
-
-	section:nth-child(even) {
-
-		h2,
-		a {
-			color: $brand-color;
-		}
-	}
-}
-
-
 @media #{$desktop} {
 	.flex {
 		@include flexbox;
@@ -37,24 +18,5 @@
 
 	.content section:nth-child(even) .flex {
 		flex-direction: row-reverse;
-	}
-}
-
-.warning {
-	font-size: 12px;
-	font-style: italic;
-}
-
-.desktop {
-	display: none;
-}
-
-.mobile {
-	display: none;
-}
-
-@media screen and (min-width: 480px) {
-	.desktop {
-		display: block;
 	}
 }

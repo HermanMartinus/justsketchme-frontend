@@ -1,54 +1,41 @@
 <section class="testimonials">
-  <h2 class="title center-text">
+  <h2 class="center-text">
     What will you create?
   </h2>
   <div class="masonry">
-    <div>
-      <a href="https://twitter.com/CarlzSays/status/1296982854749036544" target="_blank" title="Carlzsays">
-        <p class="header">@carlzsays</p>
-        <img src="/images/gallery/carlzsays1.jpg" alt="Carlzsays" />
-      </a>
-    </div>
-    
-    <div>
-      <a href="https://miscal.artstation.com/ " target="_blank" title="Aisenma Deadam">
-        <p class="header">Aisenma Deadam</p>
-        <img src="/images/gallery/aisenma1.png" alt="Aisenma Deadam" />
-      </a>
-    </div>
-    <div>
-      <a href="https://miscal.artstation.com/ " target="_blank" title="Aisenma Deadam">
-        <p class="header">Aisenma Deadam</p>
-        <img src="/images/gallery/aisenma2.png" alt="Aisenma Deadam" />
-      </a>
-    </div>
-
-    <div>
-      <a href="https://twitter.com/JustSketchMe/status/1251772503787294720" target="_blank" title="Skye Wainman">
-        <p class="header">Skye Wainman</p>
-        <img src="/images/gallery/skye.jpg" alt="Skye Wainman" />
-      </a>
-    </div>
-
-    <div>
-      <a href="https://twitter.com/CarlzSays/status/1296982854749036544" target="_blank" title="Carlzsays">
-        <p class="header">@carlzsays</p>
-        <img src="/images/gallery/carlzsays2.jpg" alt="Carlzsays" />
-      </a>
-    </div>
-    <div>
-      <a href="https://www.tiktok.com/@itsnicolesart/video/6864627322478234885" target="_blank" title="Nicole">
-        <p class="header">🦷Nicole🦷</p>
-        <img src="/images/gallery/nicole.png" alt="Nicole" />
-      </a>
-    </div>
-    
-    <div>
-      <a href="https://twitter.com/BrujaDelColor " target="_blank" title="Mikael T.">
-        <p class="header">Mikael T.</p>
-        <img src="/images/gallery/mikael.jpg" alt="Mikael T." />
-      </a>
-    </div>
-
+    {% for item in site.data.gallery %}
+      {% if item.favourite %}
+      <li>
+        <a href="{{ item.link }}" target="_blank" title="{{ item.title }}">
+          <p class="header">{{ item.title }}</p>
+          <img src="{{ item.image }}" alt="{{ item.title }}" />
+        </a>
+      </li>
+      {% endif %}
+    {% endfor %}
   </div>
+
+  <div class="center-text">
+    <br>
+    <br>
+    <br>
+    <a href="/gallery" title="gallery">
+        <button class="button pink">
+            Check out the gallery
+        </button>
+    </a>
+    <br>
+    <br>
+    <br>
+  </div>
+
+  <blockquote>
+    <p>
+      This is a unique and brilliant app.
+      I haven't found any modelling apps that can hold a candle to it.
+      It's only gotten better since the upgrade and pose gallaries!
+    </p>
+    <div class="author">Anka D. Bane</div>
+  </blockquote>
+
 </section>

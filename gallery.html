@@ -1,4 +1,28 @@
 ---
 title: Gallery
-description: Twitter has broken our gallery. We're in the process of fixing it ;) 
+description: Email us to have your artwork added to the gallery!
 ---
+
+<div class="masonry">
+    {% for item in site.data.gallery reversed %}
+    <li>
+        <a href="{{ item.link }}" target="_blank" title="{{ item.title }}">
+            <p class="header">{{ item.title }}</p>
+            <img src="{{ item.image }}" alt="{{ item.title }}" />
+        </a>
+    </li>
+    {% endfor %}
+</div>
+
+<div class="center-text">
+        <div class="container flex column">
+            <h2 class="title center-text">
+                Let's make some good art!
+            </h2>
+            <a href="https://app.justsketch.me" target="_blank" rel="noopener noreferrer" title="Webapp">
+                <button class="button">
+                    Try for Free!
+                </button>
+            </a>
+        </div>
+    </div>
