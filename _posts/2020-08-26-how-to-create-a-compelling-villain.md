@@ -15,7 +15,7 @@ Here are a few simple steps you can use to create a truly memorable and terrifyi
 
 ![](/uploads/3.png)
 
-Make sure your villain doesn’t think they are a villain:
+### Make sure your villain doesn’t think they are a villain:
 
 Do you think Poison Ivy thinks she’s evil in trying to save mother nature from corporate greed and pollution? Certainly not! Villains are compelling because the pursuit of their own twisted sense of judgement or retribution is paradoxical to that of the hero. Where the human seeks to maintain balance and peace, the villain wants to disrupt and exact their own version of justice - often to horrifying results!
 
@@ -23,20 +23,20 @@ Make sure your villain has a clear motivation for their heinous activities, and 
 
 ![](/uploads/4.png)
 
-Become the villain of your story
+### Become the villain of your story
 
 Think about something you care about and want to accomplish, and imagine the hero of your story is trying to thwart your advances. Get imaginative and spend some time blocking out possible interactions and scenarios with you at the centre of it - this will lead to more realistic and emotionally weighted scenarios for your villain and hero to immerse themselves in!
 
 ![](/uploads/5.png)
 
-Back story is everything
+### Back story is everything
 
 Just like making sure your villain doesn’t think they are the villain, the motivations and reasons behind their supposed villainy is super important in making them the perfect foil for the hero of your story. Magneto hates humans because he was persecuted first as a Jew and second as a mutant, so he redirects that hate back at them. His backstory informs his motivations completely because it is the central driving force behind his actions and deeds, and who can blame him?!
 
 ![](/uploads/6.png)
 
-Think about the way their villain expresses themselves
+### Think about the way their villain expresses themselves
 
 This is a more visual aspect to your villain’s overall presence but is still imperative nonetheless. The way your villain chooses to present themselves both to their victims and the hero of your story says a lot about them! Think about their pose and stature, as well as the more sartorial aspects of their character. What would The Joker, the clown prince of crime, be without his gauche purple three-piece suit and emerald locks? Emma Frost is another great example of a villain that balances style and substance - she’s super-wealthy so she always looks luxurious and impressive, but she also uses her sexuality to distract and intimidate people, providing perfect reasoning for her looks and visual presentation. The fact that she’s showing a lot of skin also enables the reader to clearly see when she turns herself into a bulletproof organic diamond!
 
-Have fun creating your own villains, and please tag us on Instagram or Twitter so we can take a look at them!
+Have fun creating your own villains, and please tag us on [Instagram](https://instagram.com/justsketch.me "Instagram") or [Twitter](https://twitter.com/justsketchme "Twitter") so we can take a look at them!
