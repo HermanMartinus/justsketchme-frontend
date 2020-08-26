@@ -2,8 +2,8 @@
 title: How to create a compelling villain
 date: 2020-08-26T22:00:00.000+00:00
 permalink: how-to-create-your-own-villain
-description: ''
-meta_description: 'How to create a villain for your story '
+description: 'Learn how you can create a compelling villain for your story '
+meta_description: ''
 image: "/uploads/pexels-photo-64699.jpeg"
 
 ---
