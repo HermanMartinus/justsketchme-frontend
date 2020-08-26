@@ -21,4 +21,5 @@ fields:
   name: image
   label: image
 pages:
+- _posts/character-posing-with-silhouettes.md
 - _posts/how-to-create-a-compelling-villain.md
