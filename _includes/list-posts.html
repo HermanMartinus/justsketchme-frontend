@@ -1,6 +1,9 @@
 {% for post in include.posts %}
 	<li class="blog-post">
+		{% if post.image %}<img src="{{ post.image }}" alt="{{ post.title }}" />{% endif %}
+		<div>
 		<h3><a href="{% include relative-src.html src=post.url %}">{{ post.title }}</a></h3>
-		{% include post-title.html post=post %}
+		<p>{{ post.description }}</p>
+		</div>
 	</li>
 {% endfor %}

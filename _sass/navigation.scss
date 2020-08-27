@@ -1,5 +1,5 @@
 .nav-open nav {
-	border-bottom: 1px dotted rgba(255, 255, 255, .2);
+	border-bottom: 1px solid $blackish;
 	padding: 10px 0;
 	a {
 		display: block;
@@ -32,8 +32,7 @@ nav {
 		margin: 0 3px;
 		padding: 20px 10px;
 		border-bottom: 1px solid rgba(255,255,255,0);
-		color: #fff;
-		transition: .2s ease-in-out;
+		color: $blackish;
 		display: none;
 
 		@media #{$mid-point} {
@@ -62,8 +61,7 @@ nav {
 	}
 
 	a:hover {
-		border-bottom: 1px solid rgba(255,255,255,.3);
-		color: #fffffccc;
+		border-bottom: 1px solid $blackish;
 	}
 
 	@media #{$mid-point} {
@@ -79,6 +77,6 @@ nav {
 	}
 
 	a.active {
-		color: #fff;
+		border-bottom: 1px dashed $blackish;
 	}
 }

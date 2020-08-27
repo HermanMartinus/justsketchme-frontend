@@ -1,43 +1,39 @@
 ---
 title: Learn
+description: News, tips and tricks from JustSketchMe's inner sanctum.
 permalink: /learn/
 ---
 <div class="learn">
+	<div class="videos">
+		{% for video in site.data.videos %}
+		<li>
+		<iframe src="{{ video.link }}"
+			frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture;"
+			allowfullscreen>
+		</iframe>
+		</li>
+		{% endfor %}
+	</div>
 	<div>
 		<ul class="blog-posts">
 			{% include list-posts.html posts=paginator.posts %}
 		</ul>
 
 		{% if paginator.total_pages > 1 %}
-			<!-- Pagination links -->
-			<div class="pagination">
-				{% if paginator.previous_page %}
-					<a href="{% include relative-src.html src=paginator.previous_page_path %}" class="previous btn">&larr; Newer posts</a>
-				{% endif %}
+		<!-- Pagination links -->
+		<div class="pagination">
+			{% if paginator.previous_page %}
+			<a href="{% include relative-src.html src=paginator.previous_page_path %}" class="previous btn">&larr; Newer
+				posts</a>
+			{% endif %}
 
-				<span class="page_number ">{{ paginator.page }} of {{ paginator.total_pages }}</span>
+			<span class="page_number ">{{ paginator.page }} of {{ paginator.total_pages }}</span>
 
-				{% if paginator.next_page %}
-					<a href="{% include relative-src.html src=paginator.next_page_path %}" class="next btn">Older posts &rarr;</a>
-				{% endif %}
-			</div>
+			{% if paginator.next_page %}
+			<a href="{% include relative-src.html src=paginator.next_page_path %}" class="next btn">Older posts
+				&rarr;</a>
+			{% endif %}
+		</div>
 		{% endif %}
-	</div>
-	<div class="videos">
-		<iframe style="margin: 20px" width="400" height="300" src="https://www.youtube.com/embed/Th1x2ljp-Rw"
-			frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-			allowfullscreen></iframe>
-
-		<iframe style="margin: 20px" width="400" height="300" src="https://www.youtube.com/embed/tt1noRMeVcE"
-			frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-			allowfullscreen></iframe>
-
-		<iframe style="margin: 20px" width="400" height="300" src="https://www.youtube.com/embed/AwhOKw7Jy-s"
-			frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-			allowfullscreen></iframe>
-
-		<iframe style="margin: 20px" width="400" height="300" src="https://www.youtube.com/embed/Z1_riWp2i8I"
-			frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-			allowfullscreen></iframe>
 	</div>
 </div>

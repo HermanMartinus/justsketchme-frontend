@@ -1,22 +1,83 @@
 .learn {
-	display: flex;
-	justify-content: space-around;
+
 }
 
 .videos {
 	display: flex;
-	flex-flow: column nowrap;
+	flex-flow: row wrap;
 	justify-content: center;
 	margin: 80px 0;
+	
+	li {
+		margin: 20px;
+		list-style: none;
+		
+		iframe {
+			width: 300px;
+			height: 170px;
+			border: 1px solid $blackish;
+			box-shadow: 4px 4px 0 $blackish;
+		}
+	}
+	
 }
 
 .blog-posts {
+	columns: 2 400px;
+	column-gap: 40px;
 	list-style: none;
 	padding: 0;
 
 	li {
-		margin: 100px 0;
+		display: inline-block;
+		margin: 20px 0;
+		padding: 20px;
+		border: 1px solid $blackish;
+		box-shadow: 4px 4px 0 $blackish;
+		background: #fff;
+		color: $blackish;
+		text-align: center;
+
+		&:nth-child(even) {
+			background: $chilled-electric;
+		}
+		&:hover {
+            transform: rotateZ(0deg) !important;
+        }
+
+		img {
+			width: 80px;
+			min-width: 80px;
+			height: 80px;
+			margin: 0 auto;
+			border-radius: 50%;
+			border: 1px solid $blackish;
+			box-shadow: 0 3px 1px $yolo-yellow;
+			object-fit: cover;
+		}
+
+		h3 {
+			margin: 0;
+
+			a {
+				color: $blackish;
+			}
+		}
+
+		p {
+			font-family: monospace;
+			font-size: 20px;
+			margin-bottom: 0;
+		}
 	}
+	@media #{$desktop} {
+        @for $i from 1 through 36 {
+            li:nth-child(#{$i}) {
+                $r: random(3) + deg;
+                transform: rotateZ($r);
+            }
+        }
+    }
 }
 
 .blog-post {
