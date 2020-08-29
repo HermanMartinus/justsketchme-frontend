@@ -59,53 +59,6 @@
 	{% if page.modal %}
 	{% include modal.html %}
 	{% endif %}
-	<script>
-		//image fade script
-		const IsInView = el => {
-			const scroll = window.scrollY || window.pageYOffset
-			const boundsTop = el.getBoundingClientRect().top + scroll
-
-			const viewport = {
-				top: scroll,
-				bottom: scroll + window.innerHeight,
-			}
-
-			const bounds = {
-				top: boundsTop,
-				bottom: boundsTop + el.clientHeight,
-			}
-
-			return (bounds.bottom >= viewport.top && bounds.bottom <= viewport.bottom) ||
-				(bounds.top <= viewport.bottom && bounds.top >= viewport.top);
-		}
-
-		document.addEventListener('DOMContentLoaded', () => {
-			const fadeImages = document.querySelectorAll('.art');
-
-			const handler = () => requestAnimationFrame(() => {
-				fadeImages.forEach(fadeImage => {
-					IsInView(fadeImage) ? fadeImage.classList.add('visible') : fadeImage.classList
-						.remove('visible')
-				});
-			})
-
-			handler()
-			window.addEventListener('scroll', handler)
-		})
-
-		const requestAnimationFrame =
-			window.requestAnimationFrame ||
-			window.webkitRequestAnimationFrame ||
-			window.mozRequestAnimationFrame ||
-			function (callback) {
-				window.setTimeout(callback, 1000 / 60)
-			}
-		//nav script
-		document.getElementById("open-nav").onclick = function () {
-			document.body.classList.toggle("nav-open");
-			return false;
-		};
-	</script>
 </body>
 
 </html>
