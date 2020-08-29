@@ -59,6 +59,15 @@
 	{% if page.modal %}
 	{% include modal.html %}
 	{% endif %}
+
+	<script>
+		//nav script
+		document.getElementById("open-nav").onclick = function () {
+			document.body.classList.toggle("nav-open");
+			return false;
+		};
+	</script>
+
 </body>
 
 </html>
