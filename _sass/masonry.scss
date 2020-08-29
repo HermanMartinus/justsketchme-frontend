@@ -41,7 +41,7 @@
     @media #{$desktop} {
         @for $i from 1 through 36 {
             li:nth-child(#{$i}) {
-                $r: random(3) + deg;
+                $r: (356 + random(8)) + deg;
                 transform: rotateZ($r);
             }
         }

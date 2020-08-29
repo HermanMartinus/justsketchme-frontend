@@ -51,52 +51,11 @@
 			{% include navigation.html %}
 		</div>
 	</header>
+	
 	{{ content }}
-	<footer>
-		<div class="container">
-			<div class="team">
-				<p>Made with love by</p>
-				<p>
-					<a href="https://herman.bearblog.dev" alt="Herman Martinus" target="_blank">
-						Herman Martinus
-					</a>
-					and
-					<a href="https://www.instagram.com/skgarvie/" alt="Simon-Kai Garvie" target="_blank">
-						Simon-Kai Garvie
-					</a>
-				</p>
-				<img src="/images/team/the_team.png" alt="The Team" class="team-image" />
-				<p>
-					Get in touch: 
-					<a href="mailto:hello@justsketch.me">
-						hello@justsketch.me
-					</a>
-				</p>
-			</div>
-			{% for column in site.data.footer %}
-			<ul class="footer-links">
-				{% for link in column.links %}
-				<li><a {% if link.new_window %}target="_blank" rel="noopener noreferrer" {% endif %}
-						href="{% include relative-src.html src=link.link %}"
-						{% if link.social_icon %}class="{{ link.social_icon }}-icon" {% endif %}
-						title="{{ link.name }}">
-						{% if link.social_icon %}
-						{% include social-icon.html icon=link.social_icon %}
-						{% endif %}
-						{{ link.name }}</a></li>
-				{% endfor %}
-			</ul>
-			{% endfor %}
 
-			<p class="copyright">
-				&copy; {{ site.time | date: '%Y' }} JustSketchMe Ltd. • 
-				<a href="/roadmap/" title="Roadmap">Roadmap</a> •
-				<a href="/terms-of-service/" title="Terms">Terms</a> •
-				<a href="/privacy-policy/" title="Privacy">Privacy</a>
-				
-			</p>
-		</div>
-	</footer>
+	{% include footer.html %}
+
 	{% if page.modal %}
 	{% include modal.html %}
 	{% endif %}

@@ -33,6 +33,7 @@ nav {
 		padding: 20px 10px;
 		border-bottom: 1px solid rgba(255,255,255,0);
 		color: $blackish;
+		font-weight: 700;
 		display: none;
 
 		@media #{$mid-point} {
@@ -62,6 +63,7 @@ nav {
 
 	a:hover {
 		border-bottom: 1px solid $blackish;
+		color: inherit;
 	}
 
 	@media #{$mid-point} {

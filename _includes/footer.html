@@ -1,0 +1,45 @@
+<footer>
+    <div class="container">
+        <h3>follow us...</h3>
+        <ul class="social-links">
+            {% for link in site.data.social %}
+            <li>
+                <a {% if link.new_window %}target="_blank" rel="noopener noreferrer" {% endif %}
+                    href="{% include relative-src.html src=link.link %}"
+                    {% if link.social_icon %}class="{{ link.social_icon }}-icon" {% endif %} title="{{ link.name }}">
+                    <button class="button">
+                        {% if link.social_icon %}
+                        {% include social-icon.html icon=link.social_icon %}
+                        {% endif %}
+                        {{ link.name }}
+                    </button>
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+        <h3>...or send us a mail</h3>
+        <a href="mailto:hello@justsketch.me">
+            <button class="button pink">hello@justsketch.me</button>
+        </a>
+        <div class="team">
+            <h4>Made with love by</h4>
+            <p>
+                <a href="https://herman.bearblog.dev" alt="Herman Martinus" target="_blank">
+                    Herman Martinus
+                </a>
+                and
+                <a href="https://www.instagram.com/skgarvie/" alt="Simon-Kai Garvie" target="_blank">
+                    Simon-Kai Garvie
+                </a>
+            </p>
+            <img src="/images/team/the_team.png" alt="The Team" class="team-image" />
+        </div>
+
+        <p class="copyright">
+            &copy; {{ site.time | date: '%Y' }} JustSketchMe Ltd. •
+            <a href="/roadmap/" title="Roadmap">Roadmap</a> •
+            <a href="/terms-of-service/" title="Terms">Terms</a> •
+            <a href="/privacy-policy/" title="Privacy">Privacy</a>
+        </p>
+    </div>
+</footer>

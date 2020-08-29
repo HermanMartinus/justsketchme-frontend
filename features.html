@@ -1,21 +1,26 @@
 ---
 title: Features
+description: Check out what makes JustSketchMe awesome!
 ---
 
 <div class="content">
-    <section>
+    {% for feature in site.data.features %}
+    <section class="feature">
         <div class="container flex">
-            <div class="text right-text">
-                <h2 class="right-text">Fully posable models</h2>
-                <p>
-                    Adjust the rotation of each joint for a natural pose of each of your characters.
-                    Create the perfect drawing reference for your art.
-                </p>
+            <div class="text">
+                <h2>{{ feature.title }}</h2>
+                <p>{{ feature.description }}</p>
             </div>
-            {% include fade-image.html base="/images/screenshots/thinker_base.jpg" overlap="/images/screenshots/preset.png" alt="Playful" %}
+            <div class="image">
+                <div class="toolbar">
+                    <span></span><span></span><span></span>
+                </div>
+                <img src="{{ feature.image }}" />
+            </div>
         </div>
     </section>
-
+    {% endfor %}
+{% comment %} 
     <section>
         <div class="container flex">
             <div class="text">
@@ -107,6 +112,22 @@ title: Features
             {% include fade-image.html base="/images/screenshots/box_base.jpg" overlap="/images/screenshots/export.png" alt="Export" %}
         </div>
     </section>
+        <section>
+        <div class="container flex">
+            <div class="text left-text">
+                <h2 class="left-text">More features in the works</h2>
+                <p>
+                <a href="/roadmap/" title="Roadmap">
+                    <button class="button pink">
+                        Let's see the roadmap!
+                    </button>
+                </a>
+                </p>
+            </div>
+            {% include fade-image.html base="/images/screenshots/box_base.jpg" overlap="/images/screenshots/export.png" alt="Export" %}
+        </div>
+    </section> {% endcomment %}
+
 
     <br>
     <br>
@@ -118,14 +139,10 @@ title: Features
                 Let's make some good art!
             </h2>
             <a href="https://app.justsketch.me" target="_blank" rel="noopener noreferrer" title="Webapp">
-                <button class="button">
+                <button class="button mint">
                     Try for Free!
                 </button>
             </a>
-            <br>
-            <p>
-                Check out what we have planned in our <a href="/roadmap/">Roadmap</a>
-            </p>
         </div>
     </div>
 </div>

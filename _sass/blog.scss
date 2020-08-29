@@ -1,7 +1,3 @@
-.learn {
-
-}
-
 .videos {
 	display: flex;
 	flex-flow: row wrap;
@@ -18,7 +14,19 @@
 			border: 1px solid $blackish;
 			box-shadow: 4px 4px 0 $blackish;
 		}
+
+		&:hover {
+            transform: rotateZ(0deg) !important;
+        }
 	}
+	@media #{$desktop} {
+        @for $i from 1 through 36 {
+            li:nth-child(#{$i}) {
+                $r: (356 + random(8)) + deg;
+                transform: rotateZ($r);
+            }
+        }
+    }
 	
 }
 
@@ -71,9 +79,9 @@
 		}
 	}
 	@media #{$desktop} {
-        @for $i from 1 through 36 {
+		@for $i from 1 through 36 {
             li:nth-child(#{$i}) {
-                $r: random(3) + deg;
+                $r: (356 + random(8)) + deg;
                 transform: rotateZ($r);
             }
         }

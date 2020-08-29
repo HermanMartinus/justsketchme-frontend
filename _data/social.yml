@@ -1,0 +1,12 @@
+- link: https://instagram.com/JustSketch.Me
+  social_icon: Instagram
+  new_window: true
+- link: https://twitter.com/justsketchme
+  social_icon: Twitter
+  new_window: true
+- link: https://facebook.com/justsketchme
+  new_window: true
+  social_icon: Facebook
+- link: https://reddit.com/r/JustSketchMe
+  social_icon: Reddit
+  new_window: true

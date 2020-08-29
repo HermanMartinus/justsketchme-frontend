@@ -1,6 +1,76 @@
-.footer-links {
-	width: 200px;
+footer {
+	padding: 50px 0 50px 0;
+	font-size: 1.1em;
+	position: relative;
+	text-align: center;
+	border-top: 3px dashed $blackish;
+
+	h3 {
+		width: 200px;
+		text-align: center;
+		padding: 5px;
+		margin: 30px auto;
+		background-color: $blackish;
+		font-size: 20px;
+		color: #fff;
+		transform: rotateZ(4deg);
+		box-shadow: 3px 3px $hot-pink;
+
+		&:nth-child(3) {
+			width: 300px;
+			transform: rotateZ(357deg);
+		}
+	}
+
+	.team {
+		margin-top: 50px;
+		font-family: SpaceMono;
+		text-align: center;
+
+		h4 {
+			margin: 0;
+			font-size: 30px;
+		}
+
+		p {
+			margin-top: 5px;
+		}
+		a {
+			color: $hot-pink;
+			border-bottom: 2px dashed $blackish;
+
+			&:hover {
+				text-decoration: none;
+				color: $tasty-teal;
+			}
+		}
+		img {
+			width: 200px;
+		}
+	}
+
+	.copyright {
+		background-color: $blackish;
+		font-size: .8em;
+		margin: 0 auto;
+		color: #fff;
+		text-align: center;
+		padding: 5px 10px;
+		box-shadow: 3px 3px $tasty-teal;
+
+		@media #{$tablet} {
+			width: max-content;
+		}
+	}
+
+	a {
+		color: #fff;
+	}
+}
+
+.social-links {
 	margin: 10px auto;
+	width: max-content;
 	padding: 0;
 	text-align: left;
 	display: flex;
@@ -13,22 +83,21 @@
 
 	li {
 		list-style: none;
-		margin: 15px auto;
-
-		@media #{$tablet} {
-			max-width: 150px;
-		}
+		margin: 0 15px;
 
 		a {
-			color: #ffffffcc;
+			color: $blackish;
 
 			&:hover {
 				text-decoration: none;
-				color: #fff;
+			}
+
+			button {
+				padding: 14px 5px 11px 15px;
 			}
 
 			svg {
-				fill: #ffffffcc;
+				fill: $blackish;
 				margin-right: 10px;
 				transition: fill 0.2s ease;
 				vertical-align: middle;
@@ -38,44 +107,10 @@
 				height: 22px;
 			}
 
-			&:hover svg {
-				fill: #fff;
-			}
 
-			&.Reddit-icon:hover path {
-				fill: #fff;
+			&.Reddit-icon path {
+				fill: $blackish;
 			}
 		}
-	}
-}
-
-footer {
-	padding: 50px 0 50px 0;
-	font-size: 1.1em;
-	position: relative;
-	background: $brand-color;
-	background: linear-gradient(to left, $brand-color 0%, $secondary-brand-color 100%) no-repeat $brand-color;
-	color: #fff;
-
-	.team {
-		text-align: center;
-		p {
-			color: #ffffffcc;
-		}
-
-		img {
-			width: 200px;
-		}
-	}
-
-	.copyright {
-		font-size: .8em;
-		margin: 0 auto;
-		color: #fff;
-		text-align: center;
-	}
-
-	a {
-		color: #fff;
 	}
 }

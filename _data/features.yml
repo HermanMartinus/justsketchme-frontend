@@ -1,0 +1,24 @@
+- title: Fully posable figures
+  description: Adjust the rotation of each joint for a natural pose of each of your characters. Create the perfect drawing reference for your art.
+  image: /images/screenshots/preset.png
+- title: Multiple characters and styles
+  description: Choose from a myriad of characters and styles, from anime to superheroes.
+  image: /images/screenshots/throw.png
+- title: Adjustable lighting
+  description: Control the position, direction and intensity of the lights in your scene. Or remove them entirely.
+  image: /images/screenshots/meditators.png
+- title: Dynamic perspective camera
+  description: Move the camera around the scene for the perfect shot, with an adjustable field of view for EXTREME PERSPECTIVE!
+  image: /images/screenshots/camera.png
+- title: Props and shapes
+  description: Basic shapes to create any prop you would need. Add images to the scene as backgrounds or props.
+  image: /images/screenshots/box.png
+- title: Pose library
+  description: A growing pose library of well crafted preset poses for characters to get you up and making art in no time.
+  image: /images/screenshots/ballet.png
+- title: Desktop and mobile application
+  description: For a smooth native device experience.
+  image: /images/screenshots/apps.png
+- title: Export 3D models
+  description: Export posed models to <code>.dae</code> and <code>.obj</code> format.
+  image: /images/screenshots/export.png

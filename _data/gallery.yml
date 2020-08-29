@@ -17,6 +17,10 @@
 - title: Aisenma Deadam
   image: /images/gallery/aisenma2.png
   link: https://miscal.artstation.com/
+  favourite: false
+- title: ElvenFlower
+  image: /images/gallery/elvenflower.png
+  link: https://www.instagram.com/p/CEbiLsKhBUl/
   favourite: true
 - title: Skye Wainman
   image: /images/gallery/skye.jpg
