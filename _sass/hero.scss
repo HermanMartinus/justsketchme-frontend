@@ -68,7 +68,7 @@
   }
 
   .title {
-    font-family: "San Francisco", "Helvetica Neue", "Helvetica", "Arial";
+    font-family: $title-font;
     font-size: 4em;
     font-weight: 700;
     text-align: center;
@@ -78,7 +78,7 @@
   }
 
   .subtitle {
-    font-family: "San Francisco", "Helvetica Neue", "Helvetica", "Arial";
+    font-family: $title-font;
     font-size: 23px;
     text-align: center;
   }

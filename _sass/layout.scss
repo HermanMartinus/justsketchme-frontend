@@ -33,7 +33,7 @@ section+section {
   box-shadow: 3px 3px 0 $blackish;
   background-color: $yolo-yellow;
   color: $blackish;
-  font-family: monospace;
+  font-family: $niche-font;
   font-size: 20px;
   font-weight: 700;
   text-align: center;
@@ -78,7 +78,7 @@ blockquote {
 
   p {
     display: inline;
-    font-family: monospace;
+    font-family: $niche-font;
     font-size: 25px;
   }
   
@@ -97,7 +97,7 @@ blockquote {
   .subtext {
     margin: 15px 0;
     text-align: center;
-    font-family: monospace;
+    font-family: $niche-font;
     font-size: 18px;
     color: $blackish;
     text-shadow: 1px 1px $fresh-mint;

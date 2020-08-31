@@ -33,6 +33,17 @@
 - title: Mikael T.
   image: /images/gallery/mikael.jpg
   link: https://twitter.com/BrujaDelColor
+  favourite: false
+- title: Simon-Kai
+  image: /images/gallery/skgarvie.png
+  link: https://instagram.com/skgarvie/
+  favourite: false
+- title: "@corrnflakes"
+  image: /images/gallery/corrnflakes.png
+  link: https://www.tiktok.com/@cornerflakes
   favourite: true
-
+- title: BEETLEINABOTTLE
+  image: /images/gallery/beetleinabottle.png
+  link: https://twitter.com/Suta_Still
+  favourite: false
 

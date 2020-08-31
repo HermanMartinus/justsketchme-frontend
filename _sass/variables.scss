@@ -1,7 +1,3 @@
-$brand-color: #06adcc;
-$secondary-brand-color: #A497F3;
-$middle-gradient-color: mix($brand-color, $secondary-brand-color, 95%);
-
 $blackish: #002f3c;
 $yolo-yellow: #FAF77D;
 $fresh-mint: #b8fff3;
@@ -9,6 +5,10 @@ $tasty-teal:#01D7B0;
 $chilled-electric: #effeff;
 $hot-pink: #FF269E;
 $chilled-pink: #ffdced;
+
+$title-font: "San Francisco", "Helvetica Neue", "Helvetica", "Arial";
+$secondary-font: "SpaceMono", cursive, sans-serif; 
+$niche-font: "Courier New", Courier, monospace;
 
 // Breakpoints
 $tablet: "(min-width: 450px)";
