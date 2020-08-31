@@ -10,7 +10,7 @@ image: "/uploads/wendy-scofield-aqkvtzm6equ-unsplash.jpg"
 ---
 So you’ve just settled on drawing two vampiric warriors and they are ready to duke it out and eviscerate one another. All you need now to create your epic battle is to set the scene. Here we’ll be going through a step by step process to create a spooky and dramatic graveyard scene. Have fun, and don’t forget to tag us in your creations.
 
-Head on over to the justsketch.me app to get started!
+Head on over to the [JustSketchMe](justketch.me  "JustSketchMe") web app to get started!
 
 Step 1: Go the shapes and props section
 
