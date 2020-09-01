@@ -12,7 +12,7 @@ So you’ve just settled on drawing two vampiric warriors and they are ready to 
 
 Head on over to the [JustSketchMe](justketch.me  "JustSketchMe") web app to get started!
 
-## Step 1:
+### Step 1:
 
 Go the shapes and props section
 
@@ -20,7 +20,7 @@ Go the shapes and props section
 
 Select 4-5 shapes from the drop-down menu, and keep the combination nice and irregular. For our scene, we used 3 box shapes and one cylinder and one sphere. Use the scale object tool to warp them and flatten them a bit.
 
-## Step 2:
+### Step 2:
 
 Use manipulate joints tool
 
@@ -28,7 +28,7 @@ Use manipulate joints tool
 
 Click on manipulate joints and turn the shapes to face you. Make sure to angle some slightly off to add some versatility, but don’t worry too much about this now because we’re going to be doing more of this later. When your shapes are facing you, congrats, you have now made your own tombstones!
 
-## Step 3:
+### Step 3:
 
 Use the move tool
 
@@ -36,13 +36,13 @@ Use the move tool
 
 Now select your tombstones and move them towards the back of your scene so you have space in the foreground to set your nocturnal fighters. Use the manipulate joints tool again to skew your tombstones a bit to give them an aged and worn feel.
 
-## Step 4:
+### Step 4:
 
 Click on options
 
 Play around with spot and ambient lighting to give you some visual cues about your moonlit battle. You can move the light source around freely with the move tool, so feel free to experiment.
 
-## Step 5:
+### Step 5:
 
 Click on add image
 
@@ -50,7 +50,7 @@ Click on add image
 
 Add an appropriately creepy background image to further guide you when you start drawing your scene and add a lunar flare to your graveyard.
 
-## Step 6:
+### Step 6:
 
 Add some more!
 
