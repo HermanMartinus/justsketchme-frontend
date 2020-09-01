@@ -9,7 +9,7 @@
 
 	{% seo %}
 	<meta name="keywords" content="{{ site.keywords }}">
-	<meta property="og:image" content="{{ site.snippet_image }}">
+	<meta property="og:image" content="{{ page.image | default: site.snippet_image }}">
 	<meta property="og:type" content="website" />
 
 	<meta name="twitter:card" content="summary_large_image">
