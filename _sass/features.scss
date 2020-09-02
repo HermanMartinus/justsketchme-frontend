@@ -17,6 +17,20 @@
 	}
 }
 
+.features {
+	h3 {
+		text-shadow: 3px 3px $yolo-yellow;
+
+		a {
+			border-bottom: 2px dashed $blackish;
+
+			&:hover {
+				text-decoration: none;
+			}
+		}
+	}
+}
+
 .feature {
 	text-align: right;
 
