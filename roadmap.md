@@ -4,7 +4,6 @@ permalink: /roadmap/
 ---
 
 ## Planned
-- Undo and redo buttons update/fix
 - Anime models
   - Better models (male, female and chibi)
   - Teen, tween and baby versions
@@ -19,8 +18,6 @@ permalink: /roadmap/
 - Horse model
 - Bird model
 - Additional prop models
-- Opaque ground toggle
-- "Put on ground" shortcut
 
 ## Under consideration
 - Ability to upload own props
@@ -30,8 +27,9 @@ permalink: /roadmap/
 - Dog & cat poses
 - Have a shared "Room" for a class
 
-
 ## Done
+- "Put on ground" shortcut
+- Undo and redo buttons update/fix
 - Rebuilt realistic male and female
 - Rebuilt UI
 - Adding anime models
