@@ -16,6 +16,18 @@ Coincidentally, a Shinto gate is also the perfect backdrop to set your own fight
 
 First, add 4 cylinders and two boxes from the shapes and props drop down menu. You can flatten and lengthen the boxes in the meantime and move them to the back of the scene. These will act as the wooden planks that sit atop your gate
 
-![](/uploads/justsketchme-screenshot-20.png)
+![](/uploads/justsketchme-screenshot-20.png)Step 2: 
 
-![](/uploads/justsketchme-screenshot-22.png)![](/uploads/justsketchme-screenshot-23.png)
+Move two cylinders, and shape them into narrow poles, so that it seems as if they are supporting your planks. 
+
+![](/uploads/justsketchme-screenshot-22.png)
+
+Step 3: 
+
+Shape the other two cylinders to be slightly flatter and bigger, and move these under the planks as well. This is to add some dimension and variety to your Shinto gate. The basic structure of your gate should now be complete. ![](/uploads/justsketchme-screenshot-23.png)
+
+Step 4: 
+
+Use a nice and dynamic angle to accentuate the lines and shape of your Shinto gate, and think of the two samurai warriors that will be duking it out in front of it! 
+
+Let us know if this was helpful and show us if you used similar techniques to perfect your next anime-inspired illustration!  
