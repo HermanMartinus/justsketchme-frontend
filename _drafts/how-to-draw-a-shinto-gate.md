@@ -14,7 +14,7 @@ The most iconic among these architectural wonders is the Japanese Shinto Gate. I
 
 Coincidentally, a Shinto gate is also the perfect backdrop to set your own fight scenes to, and it is super easy to make in the JustSketchMe app!![](/uploads/justsketchme-screenshot-17.png)Step1: 
 
-First, add 4 cylinders and two boxes from the shapes and props drop down menu. You can flatten and lengthen the boxes in the meantime and move them to the back of the scene. These will act as the wooden planks that sit atop your gate
+First, add 4 cylinders and two boxes from the shapes and props drop-down menu. You can flatten and lengthen the boxes in the meantime and move them to the back of the scene. These will act as the wooden planks that sit atop your gate
 
 ![](/uploads/justsketchme-screenshot-20.png)Step 2: 
 
