@@ -1,6 +1,6 @@
 ---
 title: 'No Choice But to Stan: Interview with Nicola Baalbergen '
-date: 2020-09-06 22:00:00 +0000
+date: 2020-09-06T22:00:00.000+00:00
 permalink: nicola-baalbergen-artist-interview
 description: 'Nicola Baalbergen, a concept artist and illustrator from Cape Town,
   shares some of her career experiences and tips with us. '
@@ -49,3 +49,7 @@ I find that doing Master Studies has been the most useful exercise in my career.
 ### What is your dream project and can you tell us a little more about it?
 
 My dream project would be to paint goblin creatures all day and get paid for it! But to answer the question more seriously, I would love to take the game project I worked on last year to complete. Unfortunately, I'm lacking in a lot of skills needed for that dream to come true but I'm slowly working towards it! Hopefully, in 5 years I'll have a game title under my belt as well.
+
+![](/uploads/nix-baalbergen-snow.jpg)
+
+_Written by Dante Ludolf_
