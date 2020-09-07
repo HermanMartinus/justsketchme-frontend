@@ -1,10 +1,11 @@
 ---
-title: "Anime poser - How to draw anime characters"
+title: Anime poser - How to draw anime characters
 date: 2020-07-27
-permalink: /how-to-draw-anime-characters/
-description: 'Here we’ll be going through some tips that you can use to nail your next anime character design!'
----
+permalink: "/how-to-draw-anime-characters/"
+description: Here we’ll be going through some tips that you can use to nail your next
+  anime character design!
 
+---
 Anime characters, we all love them! They can be crazy and out there or pared back and simple. About the only thing that anime characters have in common is that they are all pretty darn awesome and are super fun to look at.
 
 Here we’ll be going through some tips that you can use to nail your next anime character design!
@@ -54,3 +55,5 @@ If you’ve ever watched an anime or read a manga chances are you’ll have noti
 ![With thick outlines](/images/screenshots/animeposer-5.png)
 
 If you enjoyed this tutorial share your finished creation with us on [Instagram](https://instagram.com/justsketch.me){:target="_blank"}!
+
+_Written by Dante Ludolf_
