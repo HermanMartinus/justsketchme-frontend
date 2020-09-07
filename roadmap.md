@@ -1,6 +1,8 @@
 ---
 title: Roadmap
 permalink: /roadmap/
+description: Our super-secret blueprint for making JustSketchMe even more awesome.
+image: /images/screenshots/moved.png
 ---
 
 ## Planned
@@ -39,3 +41,5 @@ permalink: /roadmap/
 - Pose library
 - Hand pose library
 - Export to 3D object (dae and obj)
+
+![Moving](/images/screenshots/moved.png)
