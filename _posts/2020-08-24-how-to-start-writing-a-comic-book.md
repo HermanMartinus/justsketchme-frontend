@@ -1,8 +1,8 @@
 ---
 title: How to start writing a comic book
-date: 2020-08-24 22:00:00 +0000
+date: 2020-08-24T22:00:00.000+00:00
 permalink: how-to-start-writing-a-comic-book
-description: 'Here are some useful tip for getting into the world of comic book illustration.'
+description: Here are some useful tip for getting into the world of comic book illustration.
 image: "/uploads/pexels-cottonbro-4841961.jpg"
 
 ---
@@ -39,3 +39,5 @@ Have a look around at the ways people have constructed their own comic books in 
 ### Choose a publishing platform
 
 When you have a comic that is ready to be seen by the world, take the same amount of care you did in making it in the act of publishing it! There are so many options for publishing your content nowadays, and experimenting with platforms and format has yielded incredibly positive results for some! Webtoon, Instagram and Twitter have also seen their fair share of amazing and innovative comic books expertly geared toward the platform itself, so try out different places and pick the one that best represents your creative efforts. If you want to go the traditional route and print it, research marketing strategies that help you do that successfully.
+
+_Written by Dante Ludolf_

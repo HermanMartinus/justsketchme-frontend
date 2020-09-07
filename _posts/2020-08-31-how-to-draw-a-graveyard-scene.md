@@ -57,3 +57,5 @@ Add some more!
 ![](/uploads/justsketchme-screenshot-6.png)
 
 Experiment with foreground and background by adding more tombstones or dropping your fighters directly into the scene. Download the reference when you’re ready and sketch away! Don’t forget to tag us :)
+
+_Written by Dante Ludolf_
