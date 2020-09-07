@@ -8,20 +8,19 @@ meta_description: ''
 image: "/uploads/image.png"
 
 ---
-
 ![](/uploads/image.png)
 
-We sat down with Capetonian illustrator and concept artist Nicola Baalbergen to learn a bit more about her practice, experiences and hopes for the future. 
+We sat down with Capetonian illustrator and concept artist Nicola Baalbergen to learn a bit more about her practice, experiences and hopes for the future.
 
 Check out her amazing [Instagram](https://www.instagram.com/artofnixbee/ "artofnixbee") and [Artstation](https://www.artstation.com/nixbee "nixbee") pages!
 
 ### Tell us a bit about yourself and what you’re currently doing?
 
-Hey there! My name is Nix Baalbergen and I'm currently working in the concept art industry as an educator. I studied concept art for 1 year at the Academy of Digital Art and now currently lecture there part-time. I also work as a freelance illustrator and production artist for 2D games.
+Hey there! My name is Nix Baalbergen and I'm currently working in the concept art industry as an educator. I studied concept art for 1 year at the [Academy of Digital Art ](https://www.ada.ac.za/ "friends of design")and now currently lecture there part-time. I also work as a freelance illustrator and production artist for 2D games.
 
 ### What are your main inspirations and who are some artists you look up to?
 
-My main love of art is due to the comic series Calvin and Hobbes. I was obsessed with the comic series when I was younger and often tried to recreate some of the panels and characters I loved. From there I discovered the world of art online and fell in love with the concept art industry. My favourite artist is Sinix from youtube as I found his channel a few years ago and he constantly inspires me with his excellent use of colour and shape design. Some other artists I look up to are Rembrandt (for his use of lighting and composition), Kim Jung Gi, Darek Zabrocki and Craig Mullins.
+My main love of art is due to the comic series Calvin and Hobbes. I was obsessed with the comic series when I was younger and often tried to recreate some of the panels and characters I loved. From there I discovered the world of art online and fell in love with the concept art industry. My favourite artist is [Sinnix](https://www.youtube.com/user/Rol3Underline "sinnix") from youtube as I found his channel a few years ago and he constantly inspires me with his excellent use of colour and shape design. Some other artists I look up to are Rembrandt (for his use of lighting and composition), Kim Jung Gi, Darek Zabrocki and Craig Mullins.
 
 ### What do you consider the greatest contribution to your growth as an artist?
 
@@ -45,7 +44,7 @@ I'm currently trying to learn how to create an industry-ready portfolio. I find 
 
 ### What’s been the most useful or educational resource you’ve made use of in your career?
 
-I find that doing Master Studies has been the most useful exercise in my career. Whenever I don't know how to approach a project or a particular area of art (such as environment design or splash screen illustrations) I find the best artist out there that specializes in that area and I try to recreate their art. The most important part of this exercise is trying to reverse engineer their work process. So I think about how they created that particular design/painting. Did they sketch first in values or in line? When did they take their work to colour? How did they approach rendering different muscles or materials? It's very useful trying to get inside the heads of the amazing artists we look up to today!
+I find that doing Master Studies has been the most useful exercise in my career. Whenever I don't know how to approach a project or a particular area of art (such as environment design or splash screen illustrations) I find the best artist out there that specializes in that area and I try to recreate their art. The most important part of this exercise is trying to reverse engineer their work process. So I think about how they created that particular design/painting. Did they sketch first in values or in lines? When did they take their work to colour? How did they approach rendering different muscles or materials? It's very useful trying to get inside the heads of the amazing artists we look up to today!
 
 ### What is your dream project and can you tell us a little more about it?
 
