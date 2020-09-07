@@ -20,7 +20,7 @@ Hey there! My name is Nix Baalbergen and I'm currently working in the concept ar
 
 ### What are your main inspirations and who are some artists you look up to?
 
-My main love of art is due to the comic series Calvin and Hobbes. I was obsessed with the comic series when I was younger and often tried to recreate some of the panels and characters I loved. From there I discovered the world of art online and fell in love with the concept art industry. My favourite artist is [Sinnix](https://www.youtube.com/user/Rol3Underline "sinnix") from youtube as I found his channel a few years ago and he constantly inspires me with his excellent use of colour and shape design. Some other artists I look up to are Rembrandt (for his use of lighting and composition), Kim Jung Gi, Darek Zabrocki and Craig Mullins.
+My main love of art is due to the comic series Calvin and Hobbes. I was obsessed with the comic series when I was younger and often tried to recreate some of the panels and characters I loved. From there I discovered the world of art online and fell in love with the concept art industry. My favourite artist is [Sinix](https://www.youtube.com/user/sinixdesign/videos?app=desktop "sinnix") from youtube as I found his channel a few years ago and he constantly inspires me with his excellent use of colour and shape design. Some other artists I look up to are Rembrandt (for his use of lighting and composition), Kim Jung Gi, Darek Zabrocki and Craig Mullins.
 
 ### What do you consider the greatest contribution to your growth as an artist?
 
