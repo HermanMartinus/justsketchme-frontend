@@ -41,8 +41,10 @@
         }
     
         img {
-          transform: scale(1.2, 1.2) translateY(40px);
-          animation: move 10s ease-in-out infinite;
+          transform: scale(1.1, 1.1) translateY(40px);
+          @media #{$desktop} {
+            animation: move 10s ease-in-out infinite;
+          }
         }
       }
     }

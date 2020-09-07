@@ -3,6 +3,10 @@
   link: /features/
   new_window: false
   highlight: false
+- name: Pricing
+  link: /pricing/
+  new_window: false
+  highlight: false
 - name: Gallery
   link: /gallery/
   new_window: false
