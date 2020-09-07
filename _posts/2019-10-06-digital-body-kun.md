@@ -1,11 +1,12 @@
 ---
-title: "Digital body kun"
+title: Digital body kun
 date: 2019-10-06
-permalink: /digital-body-kun/
-description: "Why references and visual guides are important."
-image: /images/screenshots/body-kun.png
+permalink: "/digital-body-kun/"
+description: Why references and visual guides are important.
+image: "/images/screenshots/body-kun.png"
+
 ---
-*Use [JustSketchMe](/) for free online instead of a Body kun*
+_Use_ [_JustSketchMe_](/) _for free online instead of a Body kun_
 
 When you are trying to improve upon and master your art skills, there is a misconception that in order to do so you need to strike out completely by your own accord and rip the training wheels off of the bicycle that is your creative pursuits.
 
@@ -40,3 +41,5 @@ Pick your digital body kun, articulate their joints and limbs and pose them exac
 With the upload background feature you can add additional details to ensure that your character or characters are grounded in physical reality, and are informed by their surroundings and not in spite of them. This feature is really nifty because sometimes your two samurai duking it out in front of a temple just seem a bit lost in space and time, and the upload background feature really helps to negate that!
 
 We hope we have sold you on making use of visual reference and guides in your work, and that you see the potential merit of having a digital body kun (or three) to help you create your next masterpiece.
+
+_Written by Dante Ludolf_

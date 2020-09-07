@@ -40,3 +40,5 @@ Just like making sure your villain doesn’t think they are the villain, the mot
 This is a more visual aspect to your villain’s overall presence but is still imperative nonetheless. The way your villain chooses to present themselves both to their victims and the hero of your story says a lot about them! Think about their pose and stature, as well as the more sartorial aspects of their character. What would The Joker, the clown prince of crime, be without his gauche purple three-piece suit and emerald locks? Emma Frost is another great example of a villain that balances style and substance - she’s super-wealthy so she always looks luxurious and impressive, but she also uses her sexuality to distract and intimidate people, providing perfect reasoning for her looks and visual presentation. The fact that she’s showing a lot of skin also enables the reader to clearly see when she turns herself into a bulletproof organic diamond!
 
 Have fun creating your own villains, and please tag us on [Instagram](https://instagram.com/justsketch.me "Instagram") or [Twitter](https://twitter.com/justsketchme "Twitter") so we can take a look at them!
+
+_Written by Dante Ludolf_
