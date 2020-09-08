@@ -1,6 +1,6 @@
 ---
 title: How to draw a Shinto Gate
-date: 2020-09-02 22:00:00 +0000
+date: 2020-09-02T22:00:00.000+00:00
 permalink: how-to-draw-a-japanese-shinto-gate
 description: Need an impressive shinto gate to liven up your sketch's background?
   Read on to learn how to create it in the JustSketchMe app.
