@@ -7,7 +7,7 @@ $hot-pink: #fa00af;
 $chilled-pink: #fdcde4;
 
 $title-font: "San Francisco", "Helvetica Neue", "Helvetica", "Arial";
-$secondary-font: "Luna", cursive, sans-serif; 
+$secondary-font: "PermanentMarker-Regular", cursive, sans-serif; 
 $niche-font: "Courier New", Courier, monospace;
 
 // Breakpoints
@@ -23,7 +23,7 @@ $large-desktop: "(min-width: 1024px)";
 }
 
 @font-face {
-    font-family: "SpaceMono";
-    src: url("/fonts/SpaceMono-BoldItalic.ttf");
+    font-family: "PermanentMarker-Regular";
+    src: url("/fonts/PermanentMarker-Regular.ttf");
     font-display: swap;
 }
