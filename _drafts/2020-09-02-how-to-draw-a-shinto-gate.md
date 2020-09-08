@@ -16,7 +16,7 @@ Coincidentally, a Shinto gate is also the perfect backdrop to set your own fight
 
 ![](/uploads/justsketchme-screenshot-17.png)
 
-### Step1:
+### Step 1:
 
 First, add 4 cylinders and two boxes from the shapes and props drop-down menu. You can flatten and lengthen the boxes in the meantime and move them to the back of the scene. These will act as the wooden planks that sit atop your gate
 
@@ -30,7 +30,7 @@ Now, shape two of the cylinders into thin, round-ish poles to support the bottom
 
 ### Step 3:
 
-Shape the other two cylinders to be slightly flatter and bigger, and move these under the planks as well. This is to add some dimension and variety to your Shinto gate. The basic structure of your gate should now be complete. 
+Shape the other two cylinders to be slightly flatter and bigger, and move these under the planks as well. This is to add some dimension and variety to your Shinto gate. The basic structure of your gate should now be complete.
 
 ![](/uploads/justsketchme-screenshot-23.png)
 
