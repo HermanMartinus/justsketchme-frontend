@@ -12,6 +12,11 @@
     .left-column {
       padding: 20px;
       text-align: center;
+
+      small {
+        padding: 10px;
+        display: block;
+      }
     }
 
     .right-column {
@@ -61,6 +66,10 @@
         .title,
         .subtitle {
           text-align: left !important;
+        }
+
+        small {
+          display: inline-block;
         }
       }
 

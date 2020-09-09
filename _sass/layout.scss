@@ -22,13 +22,11 @@ section {
   padding: 30px 0;
 }
 
-// section+section {
-//   padding-top: 0;
-// }
 
 .button {
   padding: 10px 25px;
   border: 2px solid $blackish;
+  border-radius: 24px;
   box-shadow: 3px 3px 0 $blackish;
   background-color: $yolo-yellow;
   color: $blackish;
@@ -47,12 +45,16 @@ section {
     background-color: $fresh-mint;
   }
 
+  &.electric {
+    background-color: $chilled-electric;
+  }
+
   &.small {
     padding: 7px 17px;
     font-size: 17px;
   }
   &:hover {
-    box-shadow: 1px 1px 0 $blackish;
+    box-shadow: none;
     transform: translate(2px,2px);
   }
 }
