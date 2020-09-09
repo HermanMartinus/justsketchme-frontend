@@ -15,7 +15,7 @@ Need a reference for your spear-wielding warrior? Here are the simple steps you 
 
 ![](/uploads/spear-1.png)
 
-Add a cylinder and a cone to your scene. You can rotate the cylinder first so that it is diagonal. 
+Load up the [JustSketchMe](https://justsketch.me/ "justsketchme") app and add a cylinder and a cone to your scene. You can rotate the cylinder first so that it is diagonal. 
 
 ### Step 2
 
@@ -45,6 +45,6 @@ Select 'holding spear' from the pose menu and use the manipulate joints tool to 
 
 ![](/uploads/spear-8.png)
 
-Your drawing reference pose is complete. Take a screenshot and import it into your drawing software of choice. Tag us in your creations and have fun! 
+Your drawing reference pose is complete. Now you can create a staff-wielding anime fighter or Amazonian warrior woman with ease. Take a screenshot and import it into your drawing software of choice. Tag us in your creations and have fun! 
 
 _Written by Dante Ludolf._
