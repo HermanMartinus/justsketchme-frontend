@@ -4,6 +4,7 @@ date: 2020-08-24T22:00:00.000+00:00
 permalink: how-to-start-writing-a-comic-book
 description: Here are some useful tip for getting into the world of comic book illustration.
 image: "/uploads/pexels-cottonbro-4841961.jpg"
+author: ''
 
 ---
 It’s long been a fact that if you lock the world’s greatest director and the world’s greatest writer in a room, they’d come up with a comic book. Well, we’re not entirely sure of that fact, but we think so for sure! Creating comic books can be a daunting (and incredibly labour-intensive) process, but here we have a few tips that can help you in making your own.
