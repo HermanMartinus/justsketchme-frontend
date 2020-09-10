@@ -14,12 +14,15 @@ fields:
 - type: text
   name: description
   label: description
-- type: text
-  name: meta_description
-  label: meta_description
 - type: file
   name: image
   label: image
+- name: author
+  type: text
+  config:
+    required: false
+  label: Author
+  description: 'Who authored this article? '
 pages:
 - _posts/2020-08-26-how-to-create-a-compelling-villain.md
 - _posts/2020-08-31-how-to-draw-a-graveyard-scene.md
