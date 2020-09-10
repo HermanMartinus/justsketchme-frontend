@@ -1,12 +1,13 @@
 ---
 title: Character Design - How to go from silhouettes to thumbnails in 5 steps
-date: 
-description: 'Taking your '
+date: 2020-09-13 22:00:00 +0000
+permalink: how-to-take-your-character-design-silhouettes-to-thumnbail
+description: ''
 image: "/uploads/pexels-porapak-apichodilok-346885.jpg"
 author: Charlie Martinson
 
 ---
-Now that you've chosen your ideal [silhouette](https://justsketch.me/character-posing-silhouettes "silhouette") (and asked your friends which one speaks to them the most clearly) it's time to create several thumbnails. Choose your magic number and get creating. \[[https://drive.google.com/drive/u/0/folders/1-PxJQjwdfvQqwGpR2Q6ujPTbVi9iDoJr](https://drive.google.com/drive/u/0/folders/1-PxJQjwdfvQqwGpR2Q6ujPTbVi9iDoJr "https://drive.google.com/drive/u/0/folders/1-PxJQjwdfvQqwGpR2Q6ujPTbVi9iDoJr")\] \[timelapse\]
+Now that you've chosen your ideal [silhouette](https://justsketch.me/character-posing-silhouettes "silhouette") (and asked your friends which one speaks to them the most clearly) it's time to create several thumbnails. Choose your magic number and get creating. 
 
 Things you will want to consider when creating your characters:
 
