@@ -24,6 +24,7 @@ fields:
   label: Author
   description: 'Who authored this article? '
 pages:
+- _posts/2019-10-06-figure-drawing-reference.md
 - _posts/2020-08-24-how-to-start-writing-a-comic-book.md
 - _posts/2020-08-26-how-to-create-a-compelling-villain.md
 - _posts/2020-08-31-how-to-draw-a-graveyard-scene.md

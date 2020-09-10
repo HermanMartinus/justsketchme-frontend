@@ -1,9 +1,12 @@
 ---
-title: "Figure drawing reference"
+title: Figure drawing reference
 date: 2019-10-06
-permalink: /figure-drawing-reference/
----
+permalink: "/figure-drawing-reference/"
+description: Learn how to draw figures from reference poses.
+author: Herman Martinus
+image: "/uploads/gumroad-image.png"
 
+---
 JustSketchMe is the perfect figure drawing reference tool. Set up your figure however you want.
 ![Water](/images/screenshots/water.jpg)
 It is a free online interactive character reference tool for artists.
