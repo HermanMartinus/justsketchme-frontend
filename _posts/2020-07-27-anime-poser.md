@@ -57,5 +57,3 @@ If you’ve ever watched an anime or read a manga chances are you’ll have noti
 ![With thick outlines](/images/screenshots/animeposer-5.png)
 
 If you enjoyed this tutorial share your finished creation with us on [Instagram](https://instagram.com/justsketch.me){:target="_blank"}!
-
-_Written by Dante Ludolf_
