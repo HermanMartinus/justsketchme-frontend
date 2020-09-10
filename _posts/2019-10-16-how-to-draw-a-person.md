@@ -1,10 +1,12 @@
 ---
-title: "How to draw a person"
+title: How to draw a person
 date: 2019-10-16
-permalink: /how-to-draw-a-person/
-description: 'Learn some tricks and tips to sketch out a person.'
----
+permalink: "/how-to-draw-a-person/"
+description: Learn some tricks and tips to sketch out a person.
+author: Herman Martinus
+image: "/uploads/gumroad-image.png"
 
+---
 ### Learn how to draw a person easily with [JustSketchMe](/)
 
 Drawing a person, especially in an obscure pose, is pretty tough whether you’re just starting, or are experienced. The proportions of the human body need to be the correct ratio, the pose needs to be natural. Sometimes is just hard trying to start. With the aid of a wooden mannequin or the JustSketchMe web app, drawing a proportionally correct person is simple. This guide will talk you through it and give you some tricks to sketch out a person. You do not need to follow this guide verbatim. Try experimenting and drawing what you feel is right.
