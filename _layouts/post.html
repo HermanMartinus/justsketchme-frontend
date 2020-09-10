@@ -6,7 +6,9 @@ layout: page
 
 	<div class="post-content">
 		{{ content }}
-
+		<p>
+			<i>- {{ page.author }}</i>
+		</p>
 		<div class="blog-navigation">
 			{% if page.previous.url %}
 				<a class="prev" href="{% include relative-src.html src=page.previous.url %}">&laquo; {{ page.previous.title }}</a>
