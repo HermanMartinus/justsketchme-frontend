@@ -5,7 +5,7 @@ permalink: artist-interview-with-jay-kupiec
 description: 'We sat down with artist and animator Jay Kupiec to find out about what
   inspires their work and their experiences in the industry thus far. . '
 image: "/uploads/unnamed.jpg"
-author: ''
+author: Dante Ludolf
 
 ---
 ![](/uploads/static.png)
