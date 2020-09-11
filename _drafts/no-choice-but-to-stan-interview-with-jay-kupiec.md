@@ -8,6 +8,7 @@ image: "/uploads/unnamed.jpg"
 author: ''
 
 ---
+![](/uploads/static.png)
 
 **1. Tell us a bit about yourself and what you’re currently doing?**  
 Hey all! My name is Jay W. Kupiec and I'm a 2D character animator and artist who loves cartoons a little too much! I've studied digital animation at [Limerick Institute of Technology](https://lit.ie/) in Ireland for 4 years and I now search for professional work in studios. I also work as a freelance artist in the meantime.
@@ -23,6 +24,8 @@ Positive feedback from friends and family first and foremost of course. Though I
 **4. What would you tell your 18-year-old self about your career path and lessons?**
 
 Interesting question! It's only been around 4 years since I was at my prime time of 18, freshly walking through the doors of my college as the youngest of the class. I would probably tell my younger self and to anyone at that point in life is to explore all options you can, attend side events and mini-courses, just continue to stay busy while you can but make sure you're also taking care of yourself too. You can't grow as an artist if you only draw for other people, treat yourself with a drawing dedicated to you and only you, experiment, and have fun with it!
+
+![](/uploads/act3_medievalau.jpg)
 
 **5. Tell me about the most difficult project you’ve worked on and how you managed to finish it?**
 
@@ -42,4 +45,6 @@ There's a really old but extremely handy book called "An Animator's Survival Kit
 
 **9. What is your dream project and can you tell us a little more about it?**
 
-I mentioned earlier I created a whole short film as my thesis, and in all fairness, I would love to pursue it further. I always dreamed of making a small web series out of it- animated of course. A few short episodes to round off the tale of a beetle knight who saved a frog he was supposed to kill to protect his bug city. Who knows what kind of trouble the little frog can get herself into while he hides her from everyone else? Maybe in a couple of years you'll hear more about Beetle Knight!
+I mentioned earlier I created a whole short film as my thesis, and in all fairness, I would love to pursue it further. I always dreamed of making a small web series out of it- animated of course. A few short episodes to round off the tale of a beetle knight who saved a frog he was supposed to kill to protect his bug city. Who knows what kind of trouble the little frog can get herself into while he hides her from everyone else? Maybe in a couple of years, you'll hear more about Beetle Knight!
+
+![](/uploads/bunny.png)
