@@ -27,6 +27,8 @@ How can this be signified from things like their physical traits to their clothi
 
 When adding accessories etc think about how your character might still be recognisable in silhouette form. This will ensure that your character's key traits will stand out from far away. My dancer, if from a post-apocalyptic situation might be different from a dancer on an interstellar planet far far away. Can one dance in a spacesuit? I don't know... but it could add a cool contrast to the general stereotype of 'sleek dancers'. I considered adding a dress to my ballerina but thought a dress might cover the awesome pose too much so I checked out some dancer's silhouettes and found a flamenco dancer with a fan which makes a distinctive silhouette.
 
+![](/uploads/screenshot-2020-09-11-at-09-15-39.png)
+
 ### **Step 3:**
 
 ### **Connect with who they are.**
