@@ -31,8 +31,6 @@ When adding accessories etc think about how your character might still be recogn
 
 ### **Connect with who they are.**
 
-(Fig 3 from google drive [https://drive.google.com/drive/u/0/folders/1Shw47fMskuZPqEsepyCECuxQonJ7aKsN](https://drive.google.com/drive/u/0/folders/1Shw47fMskuZPqEsepyCECuxQonJ7aKsN "https://drive.google.com/drive/u/0/folders/1Shw47fMskuZPqEsepyCECuxQonJ7aKsN"))
-
 Zoom even closer into their personality. What are their personal effects? How do they operate? How do they get around, who are their friends? What music do they listen to? What books do they read? Such small details might even hint at what kind of wrist tattoo they might have! If I go with the space ballerina she really may not show a lot of skin, but I think a glimpse of her face and her facial expression will hint at who she is - whereas if I go with a leotard wearing Waterbender I can rely on the pose and the water to communicate who she is. This leads us to our next question...
 
 ![](/uploads/pexels-kaboompics-com-6224.jpg)
