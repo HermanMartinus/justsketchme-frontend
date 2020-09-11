@@ -8,6 +8,8 @@ image: "/uploads/unnamed.jpg"
 author: Dante Ludolf
 
 ---
+Artist, illustrator and animator Jay Kupiec took some time to tell us about what they're getting up to at the moment and what they have learned along the way.
+
 ![](/uploads/static.png)
 
 **1. Tell us a bit about yourself and what you’re currently doing?**  
