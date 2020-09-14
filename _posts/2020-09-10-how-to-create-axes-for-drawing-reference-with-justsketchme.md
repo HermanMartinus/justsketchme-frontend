@@ -1,10 +1,11 @@
 ---
 title: How to create axes for drawing reference with JustSketchMe
-date: 2020-09-10 22:00:00 +0000
+date: 2020-09-10T22:00:00.000+00:00
 permalink: how-to-create-an-axe-for-drawing-reference
 description: Learn how to create some fierce axes for you to use as reference
 meta_description: ''
 image: "/uploads/justsketchme-axe.jpg"
+author: Dante Ludolf
 
 ---
 Just can't seem to get it the perfect axe to use in your next masterpiece? Here we'll break down how you can make your own in no time at all.
