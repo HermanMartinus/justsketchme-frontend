@@ -19,15 +19,13 @@ image: /images/screenshots/moved.png
 - Dragon model
 - Horse model
 - Bird model
+- Grouping props and saving grouped props
 - Additional prop models
 
 ## Under consideration
-- Ability to upload own props
-- Scale individual parts of the character models
-- Sharing of scenes and poses
+- Sharing and embedding of scenes and poses
 - Toon shading
 - Dog & cat poses
-- Have a shared "Room" for a class
 
 ## Done
 - "Put on ground" shortcut
