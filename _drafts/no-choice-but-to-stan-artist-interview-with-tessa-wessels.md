@@ -15,13 +15,13 @@ Check out Tessa's [Instagram](https://www.instagram.com/_strawbs/) and [Artstati
 
 ### **Tell us a bit about yourself and what you’re currently doing?**
 
-As a kid I spent most of my time painting - I used to paint on my walls and on massive rolls of cardboard that I would lug to school and back on the train. There was a part of me that wanted to become a highfalutin artist in a big gallery like Anselm Kiefer but there was another part that just wanted to paint crocodiles real good. It was during my time at Stellenbosch University that the crocodiles won. I came across some concept artists online and went through this terrible cosmic realisation that I wasn’t nearly as good as I thought I was. Although that feeling never goes away, I’m much more comfortable with that fact these days.
+As a kid, I spent most of my time painting - I used to paint on my walls and on massive rolls of cardboard that I would lug to school and back on the train. There was a part of me that wanted to become a highfalutin artist in a big gallery like Anselm Kiefer but there was another part that just wanted to paint crocodiles real good. It was during my time at Stellenbosch University that the crocodiles won. I came across some concept artists online and went through this terrible cosmic realisation that I wasn’t nearly as good as I thought I was. Although that feeling never goes away, I’m much more comfortable with that fact these days.
 
-After my studies I was lucky enough to take a year to work on my portfolio while doing the concept art course at Friends of Design. It was during this year that my first few jobs came in. I’ve been working as a concept artist ever since!
+After my studies, I was lucky enough to take a year to work on my portfolio while doing the concept art course at Friends of Design. It was during this year that my first few jobs came in. I’ve been working as a concept artist ever since!
 
 ### **What are your main inspirations and who are some artists you look up to?**
 
-Oh man, I lose my mind around reference books! Finding new techniques, shapes and compositions to inform your visual library is a wonderful feeling. The funny thing is that the best reference books often have nothing to do with concept art, you can find great reference for armour in a jewelry design handbooks just like you can reference weird-ass fashion catalogues for mech design.
+Oh man, I lose my mind around reference books! Finding new techniques, shapes and compositions to inform your visual library is a wonderful feeling. The funny thing is that the best reference books often have nothing to do with concept art, you can find a great reference for armour in a jewellery design handbooks just like you can reference weird-ass fashion catalogues for mech design.
 
 Liana Anatolevich and Sergey Kolesov were two of my first discoveries as an aspiring concept artist. It’s an enviable skill to tell a story in a painting - you can look at their work for hours and keep finding little bits of information. For the more industrial stuff, Christian Pearce and Alice Bruderer. Their ability to bring personality and functionality into their concepts is something I really aspire to.
 
@@ -59,7 +59,7 @@ At the moment I’m trying to take the time to think things through before I put
 
 ### **What’s been the most useful or educational resource you’ve made use of in your career?**
 
-Other artists and the internet. I’ve noticed the most improvement in my work after critique from other concept artists. People usually know more about specific things than you do, getting your architect friend to look at your weird zombie castle can only be a good thing. You can find incredible, free resources online, I subscribe to art educators like Alphonso Dunn and Sinix Design. Whatever you’re struggling with, you can find tips and tricks on how to tackle it online.
+Other artists and the internet. I’ve noticed the most improvement in my work after critique from other concept artists. People usually know more about specific things than you do, getting your architect friend to look at your weird zombie castle can only be a good thing. You can find incredible, free resources online, I subscribe to art educators like [Alphonso Dunn](https://www.youtube.com/channel/UCoBapgfK_m6G7airg1rdn8w) and [Sinix Design](https://www.youtube.com/user/sinixdesign). Whatever you’re struggling with, you can find tips and tricks on how to tackle it online.
 
 ### **What is your dream project and can you tell us a little more about it?**
 
