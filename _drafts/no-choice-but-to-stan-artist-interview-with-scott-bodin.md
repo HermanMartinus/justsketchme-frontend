@@ -2,7 +2,7 @@
 title: 'No Choice but to Stan: Artist Interview with Scott Bodin'
 date: 2020-09-28 22:00:00 +0000
 permalink: artist-interview-scott-bodin
-description: ''
+description: 'Scott Bodin shares his love of creatures and how he commits to his craft. '
 image: "/uploads/pfp.png"
 author: Dante Ludolf
 
