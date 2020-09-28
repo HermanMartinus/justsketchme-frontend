@@ -3,10 +3,12 @@ title: 'No Choice but to Stan: Artist Interview with Scott Bodin'
 date: 2020-09-28 22:00:00 +0000
 permalink: artist-interview-scott-bodin
 description: ''
-image: ''
+image: "/uploads/pfp.png"
 author: ''
 
 ---
+![](/uploads/scott-bodin-fishing.jpg)
+
 * **Tell us a bit about yourself and what you’re currently doing?**
 
 Hi! The name is Scott Bodin and I’m an illustrator from Norway. I’m currently studying fine arts at [KiB](https://www.kib.no/) where I have taken a great interest in sculpting, but my heart lies with illustration, storytelling, and creatures of all sorts. In my free time, I dabble with freelance work and animal photography!
@@ -15,13 +17,17 @@ Hi! The name is Scott Bodin and I’m an illustrator from Norway. I’m currentl
 
 Animals, nature, and fantasy. Animals have always been my one true passion, I was that kid who would spend my TV time watching animal documentaries and this passion later moved on to books and stories about magic, fantasy, and mythological creatures. [Greg Manchess](https://www.manchess.com/) is by far my favorite painter, I adore the strokes in his oil paintings. [Devin Elle Kurtz's](http://www.devinellekurtz.com/) tutorials on animal paintings and art have helped me immensely. [Bobby Chiu](https://www.youtube.com/user/digitalbobert/videos) and [Adam Duff](https://www.youtube.com/user/AdamationStation) with their great art talks really changed my mindset towards art for the better. And these are just 4 out of so many artists that I look up to, I couldn’t possibly name them all.
 
+![](/uploads/scott-bodin-color-4.jpg)
+
 * **What do you consider the greatest contribution to your growth as an artist?**
 
 From the very beginning, my family has played a big role in my growth, and even now they continue to support and inspire me. My mom and I did a lot of fun and creative art projects together when I was young, and she used to paint a lot in her free time where I would peek at her paintings that were bigger than myself in awe. My grandfather on my father’s side was a painter and while he died when I was young I still get to see his works in person every summer. The older I get the more I appreciate his works. Now, the two people who have _really_ pushed me the most over the years are [NixBee](https://www.instagram.com/artofnixbee/) and [Erujayy](https://www.instagram.com/erujayy/) who you have already interviewed! Without them constantly breathing down my neck I probably would have quit before I even got started.
 
 * **What would you tell your 18-year-old self about your career path and lessons?**
 
-Seeing as I'm only 21, an art student, and have a lot of growing to do, I don't think there is too much to say just yet. But I would probably tell myself to not be afraid of being a total nerd over the things I love, to embrace, and follow those childhood passions. Jump on any opportunity to learn and explore something new. Put less focus on finding and having a style, it will come naturally over time
+Seeing as I'm only 21, an art student, and have a lot of growing to do, I don't think there is too much to say just yet. But I would probably tell myself to not be afraid of being a total nerd over the things I love, to embrace, and follow those childhood passions. Jump on any opportunity to learn and explore something new. Put less focus on finding and having a style, it will come naturally over time.
+
+![](/uploads/scott-bodin-titan.jpg)
 
 * **Tell me about the most difficult project you’ve worked on and how you managed to finish it?**
 
@@ -30,6 +36,8 @@ I wish I had something cool to tell you here but I honestly have to say that I h
 * **In stressful situations, how do you find ways to persevere?**
 
 I’m not the best under stressful situations, though I get the work done much faster that way so it's a love/hate thing. Setting up a daily schedule is extremely important for me, I need to have specific hours where I get up and go to bed and I prefer to work and have a break around the same hours every day so my body knows when it is “work time”. Going for walks in nature keeps me sane.
+
+![](/uploads/scott-bodin-titan.jpg)
 
 * **Are you currently trying to learn any specific skill, and how do you go about learning it.?**
 
