@@ -4,7 +4,7 @@ date: 2020-09-28 22:00:00 +0000
 permalink: artist-interview-scott-bodin
 description: ''
 image: "/uploads/pfp.png"
-author: ''
+author: Dante Ludolf
 
 ---
 ![](/uploads/scott-bodin-fishing.jpg)
@@ -50,3 +50,5 @@ Online art courses and tutorials are what I have been relying on the most, and c
 * **What is your dream project and can you tell us a little more about it?**
 
 I have always dreamt of making my own art book! Whether it be a “the art of” book, a book filled with art and short stories about specific characters, or a book with creature designs, I honestly want to do them all. I have such a love for art books and have a growing collection myself from various artists that I look up to so having one with my own name and art on it would really be a dream come true.
+
+> Interviewed by Dante Ludolf
