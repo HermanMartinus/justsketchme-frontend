@@ -4,7 +4,7 @@ date: 2019-10-16
 permalink: "/how-to-draw-a-person/"
 description: Learn some tricks and tips to sketch out a person.
 author: Herman Martinus
-image: "/uploads/untitled-artwork_-38.png"
+image: "/uploads/how-to-1.png"
 
 ---
 
