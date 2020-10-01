@@ -4,10 +4,12 @@ date: 2020-10-04 22:00:00 +0000
 permalink: 'mc-jordaan-concept-artist-interview '
 description: The incredibly talented MC Jordaan takes us on a tour through her love
   of animals, environmental splendour and some things she's learned along the way.
-image: ''
+image: "/uploads/final_fairy_artstation.png"
 author: Charlie Martinson
 
 ---
+![](/uploads/enviro_play.jpg)
+
 I studied Concept Art with M.C: a calm, intelligent presence. During college one could find her ruminating behind a PC monitor, considering her next project. She has only grown in her art style since then! Vibrant, spiritual and mystical, M.C. lets us into her world.
 
 Artstation: [https://www.artstation.com/mcjordaan](https://www.artstation.com/mcjordaan "https://www.artstation.com/mcjordaan") Instagram: [https://www.instagram.com/the_creative_wildling/](https://www.artstation.com/mcjordaan "https://www.artstation.com/mcjordaan")
@@ -24,6 +26,8 @@ If you feel that the piece is becoming more of an annoyance than a pleasure, wal
 
 Even 30 minutes away from a screen or a page can bring new perspectives to art.
 
+![](/uploads/shark_study.png)
+
 **CM: All of your work seems to involve a strong sense of spirituality, either through celestial beings or through an animal presence - does this pertain to any personal beliefs?**
 
 MC: Honestly? I really just like animals more than people. I feel a stronger connection to nature and animals than I do with humans in general.
@@ -37,6 +41,8 @@ They inspire me. I am one of those things.
 **What is your dream project and can you tell us a little more about it?**
 
 MC: I've recently gotten to be part of an amazing project that is part of one of my all-time favourite game series', the Elderscrolls as a Freelance Artist. I've always wanted to work on games creating new worlds, creatures and characters and hopefully I'll find my place among people like Eytan Zana, Shaddy Safadi and Darek Zabrocki.
+
+![](/uploads/final_fairy_artstation.png)
 
 **CM: Oh wow! What are you doing for them?**
 
@@ -55,6 +61,8 @@ MC: Damn! That's hectic! But the limits are being pushed much farther than befor
 \**CM: What would you tell yourself if you could talk to yourself five years before now?
 
 MC:** What I'd tell myself is to breathe. To not let my anxiety and self-doubt get the better of me. To just create and not worry about who's work is better than mine or who isn't going to like it, but to focus on progress and learning what it means to be an artist and enjoying that process to the fullest. Nobody holds you back quite like yourself.
+
+![](/uploads/final_fairy_artstation.png)
 
 ***
 
