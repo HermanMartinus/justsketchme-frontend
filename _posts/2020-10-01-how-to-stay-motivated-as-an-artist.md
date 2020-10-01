@@ -17,9 +17,9 @@ Don't let anyone tell you what to do. Find things that work for you, and try the
 
 For example, I'm a huge fan of process work because there is no right way of making process work. The value is in the process.
 
-Of course, this advice only really works in personal practise.
+Of course, this advice only really works in personal practice.
 
-If you are making work for a studio, or Freelance on the side, it might be useful to figure out a "how to" that works for both you and the superiors in charge. Teamwork and collaboration is super important when it comes to working in a team.
+If you are making work for a studio, or Freelance on the side, it might be useful to figure out a "how-to" that works for both you and the superiors in charge. Teamwork and collaboration is super important when it comes to working in a team.
 
 ![](/uploads/2-2.png)
 
@@ -29,7 +29,7 @@ The only constant is change.
 
 We live in a capitalist world.
 
-Just because everyone around you is trying to punt day-to-day productivity it might be a good idea to set a specific goal, and set achievable milestones so that you know when you've achieved one of these milestones. This allows you to say - okay - cool. I've done this, now I can rest! Remember that your worth doesn't depend on your worth as an artist, and sometimes the process of getting to the product is as important as the product itself. If you're not a happy person, or constantly putting yourself down, it might get harder and harder to get yourself to sit down and make something.
+Just because everyone around you is trying to punt day-to-day productivity it might be a good idea to set a specific goal and set achievable milestones so that you know when you've achieved one of these milestones. This allows you to say - okay - cool. I've done this, now I can rest! Remember that your worth doesn't depend on your worth as an artist, and sometimes the process of getting to the product is as important as the product itself. If you're not a happy person, or constantly putting yourself down, it might get harder and harder to get yourself to sit down and make something.
 
 Allow for flux, while keeping your eye on the prize.
 
