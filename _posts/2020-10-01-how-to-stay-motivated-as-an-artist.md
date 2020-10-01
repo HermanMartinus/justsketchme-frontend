@@ -6,7 +6,7 @@ description: 'Staying motivated is one of the most persistent problems an artist
   in the pursuit of their craft and their career, so here are some tips to help you
   stay on track and top of mind. '
 image: "/uploads/untitled-artwork_-42.png"
-author: ''
+author: Charlie Martinson
 
 ---
 ![](/uploads/justsketchme-how-to-stay-motivated.png)
@@ -72,3 +72,5 @@ Other ways of staying motivated:
 * Join an art group.
 * Look at others' work for inspiration (especially within your chosen style or field).
 * Try online challenges.
+
+> Written by Charlie Martinson
