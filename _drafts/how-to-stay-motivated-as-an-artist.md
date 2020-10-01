@@ -5,12 +5,13 @@ permalink: how-stay-motivated-as-an-artist
 description: 'Staying motivated is one of the most persistent problems an artist faces
   in the pursuit of their craft and their career, so here are some tips to help you
   stay on track and top of mind. '
-image: ''
+image: "/uploads/untitled-artwork_-42.png"
 author: ''
 
 ---
+![](/uploads/justsketchme-how-to-stay-motivated.png)
 
-**"How To"**
+### **"How To"**
 
 Don't let anyone tell you what to do. Find things that work for you, and try them out. If they don't work, or if they don't suit your style, are inhibiting, or drain energy from your day - try to find a way to re-frame it in a way that works for you and your personality. This is part of why knowing yourself is a really important part of being an artist. Set your own course.
 
@@ -20,7 +21,9 @@ Of course, this advice only really works in personal practise.
 
 If you are making work for a studio, or Freelance on the side, it might be useful to figure out a "how to" that works for both you and the superiors in charge. Teamwork and collaboration is super important when it comes to working in a team.
 
-**"Stay"**
+![](/uploads/2-2.png)
+
+### **"Stay"**
 
 The only constant is change.
 
@@ -30,7 +33,9 @@ Just because everyone around you is trying to punt day-to-day productivity it mi
 
 Allow for flux, while keeping your eye on the prize.
 
-**"Motivated"**
+![](/uploads/3-2.png)
+
+### **"Motivated"**
 
 For me Motivated = Joy.
 
@@ -46,7 +51,9 @@ Below is an illustration that a friend of mine helped me with. I really struggle
 
 Allow room for growth by swallowing your pride!
 
-**"As an artist."**
+![](/uploads/4-2.png)
+
+### **"As an artist."**
 
 There are different kinds of styles and types of artists, philosophies, arts practises, and styles. I started by studying figure drawing, later studying Fine Arts, and then Concept Art. I now facilitate Figure Drawing classes and organise Workshops. I find it extremely rewarding to learn from people who are themselves learning.
 
