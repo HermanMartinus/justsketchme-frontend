@@ -43,3 +43,5 @@ I really enjoyed using the shapes from the app to translate into the body shapes
 This week has been intense, and I'm needing some calm in my life, so for my turn, I thought I'd set up a pose that mirrored my needs!
 
 I definitely felt a sense of calm in being able to draw this character from the side. It's reassuring using an app like Just Sketch Me in order to compare the proportions against something else. I'm tempted to digitize all the drawings I've done and see how they compare to my original character sketch!
+
+![](/uploads/9.png)
