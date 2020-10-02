@@ -12,7 +12,9 @@ author: Charlie Martinson
 
 I studied Concept Art with M.C: a calm, intelligent presence. During college one could find her ruminating behind a PC monitor, considering her next project. She has only grown in her art style since then! Vibrant, spiritual and mystical, M.C. lets us into her world.
 
-Artstation: [https://www.artstation.com/mcjordaan](https://www.artstation.com/mcjordaan "https://www.artstation.com/mcjordaan") Instagram: [https://www.instagram.com/the_creative_wildling/](https://www.artstation.com/mcjordaan "https://www.artstation.com/mcjordaan")
+Artstation: [https://www.artstation.com/mcjordaan](https://www.artstation.com/mcjordaan "https://www.artstation.com/mcjordaan") 
+
+Instagram: [https://www.instagram.com/the_creative_wildling/](https://www.artstation.com/mcjordaan "https://www.artstation.com/mcjordaan")
 
 **CM: Quite a lot of your pieces have a lot of elements to them. For example, differing focal points in the environments etc. It must take quite a lot of time to get these things done. So I wanted to know, how do you stick to one piece for so long, and how do you decide when it's finished?**
 
