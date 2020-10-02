@@ -2,9 +2,10 @@
 title: 'Buddy Up: Character Design Challenge'
 date: 2020-10-01 22:00:00 +0000
 permalink: character-design-buddy-challenge
-description: Friends Charlotte Martinson and Ja
-image: ''
-author: ''
+description: 'Friends Charlotte Martinson and Jasmine Hawkins embark on a days long
+  character challenge. Read on to see how they fared. '
+image: "/uploads/3-3.png"
+author: 'Charlie Martinson '
 
 ---
 Jazz and Charlie challenge themselves to design characters using the Just Sketch Me app.
