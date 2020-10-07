@@ -1,7 +1,7 @@
 ---
 title: What a concept! Artist Interview with M.C. Jordaan
 date: 2020-10-04 22:00:00 +0000
-permalink: 'mc-jordaan-concept-artist-interview '
+permalink: 'mc-jordaan-concept-artist-interview'
 description: The incredibly talented MC Jordaan takes us on a tour through her love
   of animals, environmental splendour and some things she's learned along the way.
 image: "/uploads/final_fairy_artstation.png"
