@@ -66,4 +66,12 @@
   image: /images/gallery/thatartist.png
   link: https://vm.tiktok.com/@random.doodles37/
   favourite: false
+- title: Bonnnie Foster
+  image: /images/gallery/bonniefoster.png
+  link: https://twitter.com/BonnieFosterArt
+  favourite: false
+- title: Alvin Mendez
+  image: /images/gallery/alvinmendez.png
+  link: https://www.instagram.com/undecidead/
+  favourite: false
 
