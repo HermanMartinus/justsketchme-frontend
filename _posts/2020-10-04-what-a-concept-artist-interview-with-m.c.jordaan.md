@@ -1,7 +1,7 @@
 ---
 title: What a concept! Artist Interview with M.C. Jordaan
-date: 2020-10-04 22:00:00 +0000
-permalink: 'mc-jordaan-concept-artist-interview'
+date: 2020-10-04T22:00:00.000+00:00
+permalink: mc-jordaan-concept-artist-interview
 description: The incredibly talented MC Jordaan takes us on a tour through her love
   of animals, environmental splendour and some things she's learned along the way.
 image: "/uploads/final_fairy_artstation.png"
@@ -12,7 +12,7 @@ author: Charlie Martinson
 
 I studied Concept Art with M.C: a calm, intelligent presence. During college one could find her ruminating behind a PC monitor, considering her next project. She has only grown in her art style since then! Vibrant, spiritual and mystical, M.C. lets us into her world.
 
-Artstation: [https://www.artstation.com/mcjordaan](https://www.artstation.com/mcjordaan "https://www.artstation.com/mcjordaan") 
+Artstation: [https://www.artstation.com/mcjordaan](https://www.artstation.com/mcjordaan "https://www.artstation.com/mcjordaan")
 
 Instagram: [https://www.instagram.com/the_creative_wildling/](https://www.artstation.com/mcjordaan "https://www.artstation.com/mcjordaan")
 
@@ -64,9 +64,7 @@ MC: Damn! That's hectic! But the limits are being pushed much farther than befor
 
 MC:** What I'd tell myself is to breathe. To not let my anxiety and self-doubt get the better of me. To just create and not worry about who's work is better than mine or who isn't going to like it, but to focus on progress and learning what it means to be an artist and enjoying that process to the fullest. Nobody holds you back quite like yourself.
 
-![](/uploads/final_fairy_artstation.png)
-
-***
+![](/uploads/morla_mood.jpg)
 
 **CM: Damn this is some good advice. I'd tell myself that too!**
 
