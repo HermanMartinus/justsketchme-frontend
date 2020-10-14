@@ -1,3 +1,19 @@
+.special {
+    margin: 0 auto;
+    max-width: 720px;
+    background: $chilled-electric;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 3px 3px $blackish;
+    text-align: center;
+    transform: rotateZ(2deg);
+
+    h3 {
+        margin: 0 0 10px;
+        text-shadow: 3px 3px $fresh-mint;
+    }
+}
+
 .pricing {
     display: flex;
     flex-flow: row wrap;
@@ -29,13 +45,23 @@
             }
         }
 
+        .frequency {
+            display: flex;
+            flex-direction: column;
+            margin-top: 10px;
+
+            a {
+                margin-bottom: 3px;
+            }
+        }
+
         h3 {
             font-size: 25px;
             margin-top: 0;
         }
 
         h4 {
-            font-size: 70px;
+            font-size: 30px;
             margin: 0;
             small {
                 font-size: 14px;
