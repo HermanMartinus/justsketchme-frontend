@@ -1,6 +1,6 @@
 ---
 title: 'Watch: How to make a Lightsaber '
-date: 2020-10-14 22:00:00 +0000
+date: 2020-10-14T22:00:00.000+00:00
 permalink: how-to-make-a-lightsaber-in-justsketchme
 description: Watch a video tutorial and see how you can create a lightsaber using
   JustSketchMe.
