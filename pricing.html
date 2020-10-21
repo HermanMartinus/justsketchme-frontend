@@ -2,6 +2,18 @@
 title: Pricing
 description: But how much will it cost though?
 ---
+<script src="https://cdn.paddle.com/paddle/paddle.js"></script>
+<script>
+Paddle.Setup({ vendor: 122413 });
+Paddle.Product.Prices(634227, prices => {
+	const price = prices.price.gross.replace('.00', '').replace(',','');
+	document.querySelector('.monthly-price').innerHTML = price;
+});
+Paddle.Product.Prices(634245, prices => {
+	const price = prices.price.gross.replace('.00', '').replace(',','');
+	document.querySelector('.yearly-price').innerHTML = price;
+});
+</script>
 {% comment %} <div class="special">
     <h3>Lifetime access now on SALE!</h3>
     <p>Only <b>$49</b> on <b>AppSumo</b> (75% off). This deal expires soon!</p>
@@ -10,7 +22,7 @@ description: But how much will it cost though?
     </a>
     <br>
     <small>Please make sure to leave a review on AppSumo!</small>
-</div> {% endcomment %}
+</div>  {% endcomment %}
 <div class="pricing">
     <div class="tier free">
         <h3>For artists</h3>
@@ -31,6 +43,14 @@ description: But how much will it cost though?
     </div>
     <div class="tier pro">
         <h3>For spicy artists</h3>
+        <div class="frequency">
+            <h4><span class="monthly-price"></span>/mo</h4>
+            <small>Billed monthly</small>
+        </div>
+        <div class="frequency">
+            <h4><span class="yearly-price"></span>/yr</h4>
+            <small>Billed yearly (30% off)</small>
+         </div>
         <p>For serious artists. Power artists. Artists with audacity.</p>
         <ul>
             <li>Everything in the free tier</li>
@@ -44,33 +64,11 @@ description: But how much will it cost though?
             <li>Adding images to the scene</li>
             <li>Exporting to 3D objects</li>
         </ul>
-        <div class="frequency">
-            <a href="https://gumroad.com/l/justsketchme?monthly=true&wanted=true" target="_blank"
-                rel="noopener noreferrer" title="Gumroad">
-                <button class="button small">
-                    Pay $9/mo
-                </button>
-            </a>
-            <small>Billed monthly</small>
-        </div>
-        <div class="frequency">
-            <a href="https://gumroad.com/l/justsketchme?yearly=true&wanted=true" target="_blank" rel="noopener noreferrer"
-                title="Gumroad">
-                <button class="button small">
-                    Pay $72/yr
-                </button>
-            </a>
-            <small>Billed yearly - 30% off</small>
-        </div>
-        <div class="frequency">
-            <a href="https://gumroad.com/l/justsketchme-lifetime?wanted=true" target="_blank" rel="noopener noreferrer"
-                title="Gumroad">
-                <button class="button small">
-                    Pay $199/once-off
-                </button>
-            </a>
-            <small>Billed once for lifetime access</small>
-        </div>
+        <a href="https://app.justsketch.me" target="_blank" rel="noopener noreferrer" title="Webapp">
+            <button class="button mint">
+                Upgrade in app!
+            </button>
+        </a>
     </div>
     <img src="/images/screenshots/presenting.png" />
 </div>
@@ -79,13 +77,20 @@ description: But how much will it cost though?
     <h4>How does subscribing work?</h4>
     <p>
         You will be issued a license key after payment (it will also be emailed to you).
-        You can then copy and paste the key into the app to activate all the features.
+        You can then copy and paste the key into the app to activate all the features in the app. 
     </p>
 
     <h4>Can I use this license key on multiple devices?</h4>
     <p>
         The same license key can be used on all of your devices. All devices using the same license key will share saved
         poses and scenes.
+    </p>
+
+    <h4>Is there a one-time payment option?</h4>
+    <p>
+        We have a lifetime access option on
+        <a href="https://gum.co/justsketchme-lifetime" target="_blank">on Gumroad</a>
+        for $199 (once-off payment).
     </p>
 
     <h4>How do I download the app?</h4>
@@ -103,6 +108,11 @@ description: But how much will it cost though?
     <p>
         We're trying our best to make JustSketchMe available to everyone.
         <a href="/cant-afford/">More info.</a>
+    </p>
+
+    <h4>Do you offer bulk discounts for educational institutions and organizations?</h4>
+    <p>
+        We do! Send an email to <a href="mailto:hello@justsketch.me">hello@justsketch.me</a> with your details and we'll get back to you. 
     </p>
 
     <h4>What if I have other questions?</h4>

@@ -46,12 +46,20 @@
         }
 
         .frequency {
-            display: flex;
-            flex-direction: column;
-            margin-top: 10px;
+            text-align: center;
+            padding: 5px;
+            margin: 30px auto;
+            background-color: #012c38;
+            color: #fff;
+            transform: rotateZ(4deg);
+            box-shadow: 3px 3px #fa00af;
 
-            a {
-                margin-bottom: 3px;
+            h4 {
+                font-size: 20px;
+            }
+
+            &:nth-child(2) {
+                transform: rotateZ(357deg);
             }
         }
 
@@ -63,9 +71,6 @@
         h4 {
             font-size: 30px;
             margin: 0;
-            small {
-                font-size: 14px;
-            }
         }
 
         small {
