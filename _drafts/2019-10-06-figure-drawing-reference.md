@@ -31,4 +31,12 @@ Step 3 - Apply body proportions to your own character! - Draw your character and
 
 ![](/uploads/untitled-artwork_-53.png)
 
-Step 4 - Pose in JustSketch.Me! - Now that you've solidified your character it's time to move onto posing! Open up [https://justsketch.me/](https://justsketch.me/ "https://justsketch.me/") - press start - and start manipulating joints. We've chosen a figure skating inspired theme - so our character is going to be doing crazy bends, and twists - which are best viewed from interesting camera angles. The camera in JustSketch.Me can be rotated to do just this.
+Step 4 - Pose in JustSketch.Me! - Now that you've solidified your character it's time to move onto posing! Open up [https://justsketch.me/](https://justsketch.me/ "https://justsketch.me/") - press start - and start manipulating joints. We've chosen a figure skating inspired theme - so our character is going to be doing crazy bends, and twists - which are best viewed from interesting camera angles. The camera in JustSketchMe can be rotated to do just this.
+
+![](/uploads/justsketchme_-_screenshot_-10-_-1.png)
+
+Step 5 - Finesse! - Now's the time to compare your character's proportions to the original design. Do some things need to be tweaked, or proportioned differently? Be sure to use this time to create a recognisable character presence.
+
+![](/uploads/untitled-artwork_-54.png)
+
+Did you enjoy this how-to? Share your results on social media and tag us!
