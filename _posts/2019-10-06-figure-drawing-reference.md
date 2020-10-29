@@ -4,10 +4,11 @@ date: 2019-10-06
 permalink: "/figure-drawing-reference/"
 description: Learn how to draw figures from reference poses.
 author: Herman Martinus
-image: "/uploads/gumroad-image.png"
+image: "/uploads/untitled-artwork_-48.png"
 
 ---
-Figure drawing is a discipline that traditional artists and animators alike agree should be the cornerstone from which every artist starts their journey. In order to create one's own characters it is absolutely imperative that one develop an internal sense of proportions of the body. What with all the different poses & perspective points- this can be difficult to do!
+
+Figure drawing is a discipline that traditional artists and animators alike agree should be the cornerstone from which every artist starts their journey. In order to create one's own characters, it is absolutely imperative that one develop an internal sense of proportions of the body. What with all the different poses & perspective points- this can be difficult to do!
 
 The task of translating 3-dimensional life into 2 dimensions is a skill that can only be developed with patience, focus and time.
 
