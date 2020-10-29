@@ -3,7 +3,7 @@ title: Figure drawing reference
 date: 2019-10-05 22:00:00 +0000
 permalink: "/figure-drawing-reference/"
 description: Learn how to draw figures from reference poses.
-author: Herman Martinus
+author: 'Charlie Martinson '
 image: "/uploads/untitled-artwork_-48.png"
 
 ---
