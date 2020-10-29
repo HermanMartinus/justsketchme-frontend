@@ -18,3 +18,17 @@ There are many ways that one can use google and the internet to draw figures, bu
 Below you will find my suggestions for optimal ways to use Figure Drawing References & Just Sketch Me to create your own characters & poses from your imagination.
 
 Step 1 - Start by warming up. - Use a site like [https://line-of-action.com/](https://line-of-action.com/ "https://line-of-action.com/") to do 30-second gestural poses. You can set a timer to change poses quickly. Be sure to focus on the gesture rather than trying to get every detail in.
+
+[untitled-artwork_-12.mp4](/uploads/untitled-artwork_-12.mp4 "untitled-artwork_-12.mp4")
+
+![](/uploads/untitled-artwork_-48.png)
+
+Step 2 - Body Proportions! - After warming up you can familiarise yourself with the standard body proportions. A typical human is 8 heads, with the fingertips aligning at five heads, the waist and elbows aligning at 4, the knees aligning at 6, and the feet at 8.
+
+![](/uploads/untitled-artwork_-51.png)
+
+Step 3 - Apply body proportions to your own character! - Draw your character and their proportions over the 8 heads. Maybe your character is very box-like, maybe your character is triangular or circular. Women generally have an hourglass type figure for the waist, whereas men generally have a more v-like shape. Refine these shapes and make sure they're recognisable.
+
+![](/uploads/untitled-artwork_-53.png)
+
+Step 4 - Pose in JustSketch.Me! - Now that you've solidified your character it's time to move onto posing! Open up [https://justsketch.me/](https://justsketch.me/ "https://justsketch.me/") - press start - and start manipulating joints. We've chosen a figure skating inspired theme - so our character is going to be doing crazy bends, and twists - which are best viewed from interesting camera angles. The camera in JustSketch.Me can be rotated to do just this.
