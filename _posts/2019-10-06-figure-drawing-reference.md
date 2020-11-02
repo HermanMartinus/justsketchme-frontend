@@ -1,6 +1,6 @@
 ---
 title: Figure drawing reference
-date: 2019-10-05 22:00:00 +0000
+date: 2019-10-05T22:00:00.000+00:00
 permalink: "/figure-drawing-reference/"
 description: Learn how to draw figures from reference poses.
 author: 'Charlie Martinson '
@@ -19,7 +19,11 @@ Below you will find my suggestions for optimal ways to use Figure Drawing Refere
 
 Step 1 - Start by warming up. - Use a site like [https://line-of-action.com/](https://line-of-action.com/ "https://line-of-action.com/") to do 30-second gestural poses. You can set a timer to change poses quickly. Be sure to focus on the gesture rather than trying to get every detail in.
 
-[untitled-artwork_-12.mp4](/uploads/untitled-artwork_-12.mp4 "untitled-artwork_-12.mp4")
+<video width="512" height="512" playsinline autoplay muted loop>
+
+<source src="/uploads/untitled-artwork -12.mp4" type="video/mp4">
+
+</video>
 
 ![](/uploads/untitled-artwork_-48.png)
 
