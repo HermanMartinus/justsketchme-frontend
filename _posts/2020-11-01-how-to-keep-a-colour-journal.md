@@ -5,7 +5,7 @@ permalink: how-to-make-a-colour-journal
 description: 'Colours! Anyone who''s tried to embark on a journey to the wonderful
   world of hues and shades knows it can be a tricky thing to master. Solution: a colour
   journal of your own!'
-image: "/uploads/colour-journal-2.png"
+image: "/uploads/pexels-free-creative-stuff-1193743.jpg"
 author: Charlie Martinson
 
 ---
@@ -19,9 +19,9 @@ Step 2 - Look around you! Write an account of your day. What colours make up the
 
 ![](/uploads/colour-journal-3.png)
 
-Step 3 - Expand on your account by backing it up with pictures - It helps if you take photo's of what inspired you. For example, because It was a friend of mine who inspired the colour picking (looking at complementary colours in her eyes, hair and make-up) I started by using those colours to colour pick, but then took it further by searching pictures that those colours made me think of.
+Step 3 - Expand on your account by backing it up with pictures - It helps if you take photos of what inspired you. For example, because It was a friend of mine who inspired the colour picking (looking at complementary colours in her eyes, hair and make-up) I started by using those colours to colour pick, but then took it further by searching pictures that those colours made me think of.
 
-[picture_search.mp4](/uploads/picture_search.mp4 "picture_search.mp4")
+[picture_search.mp4](/uploads/picture_search.mp4 "picture_search.mp4") 
 
 Step 4 - Analyse the colours that you've chosen. Are the colours you've chosen high or low in value? Are they high or low in saturation?
 
