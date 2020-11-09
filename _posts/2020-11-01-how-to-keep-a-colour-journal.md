@@ -1,5 +1,5 @@
 ---
-title: 'How to keep a colour journal '
+title: How to keep a colour journal
 date: 2020-11-01 22:00:00 +0000
 permalink: how-to-make-a-colour-journal
 description: 'Colours! Anyone who''s tried to embark on a journey to the wonderful
