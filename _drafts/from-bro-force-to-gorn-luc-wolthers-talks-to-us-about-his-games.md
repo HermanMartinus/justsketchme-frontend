@@ -1,16 +1,18 @@
 ---
-title: 'From Bro Force to Gorn: Luc Wolthers talks to us about his games'
+title: 'From Bro Force to Gorn: Luc Wolthers talks game development'
 date: 2020-11-09 22:00:00 +0000
 permalink: luc-wolthers-artist-interviews
 description: Luc Wolthers is a concept artist at Free Lives - a game studio local
   to Cape Town. Best known for its debut game BroForce, a witty commentary on America
   and its hypermasculine culture, talks about his experience in becoming a super rad
   artist for games such as Gorn.
-image: ''
+image: "/uploads/luc-wolthers-launchkeyart-layercleanup-02.jpg"
 author: Charlie Martinson
 
 ---
 Luc Wolthers is a concept artist at Free Lives - a game studio local to Cape Town. Best known for its debut game BroForce, a witty commentary on America and its hypermasculine culture, talks about his experience in becoming a super rad artist for games such as Gorn.
+
+![](/uploads/monsterdesigns.png)
 
 **Would you describe yourself as a game designer & concept artist? Or a generalist?**
 
@@ -38,6 +40,8 @@ It is disappointing to have to discard work, but there are many future projects 
 
 Dodge brawl also had Jem Smith as gameplay designer. We are still being surprised by Gorn's continued success. :D
 
+![](/uploads/luc-wolthers-screenshot030.jpg)
+
 **So would you say you chose to take Gorn further because you could develop so much in so little time? Were you the sole artist on the project?**
 
 I was not the sole artist, I worked with Marcelle Marais. In total the Gorn team was; myself and Marcelle(artists) Ruan(Programmer and designer), Jay(Sound design) and a lot of help from Shaz and Adone(producers at different times).
@@ -47,6 +51,8 @@ and Jem - support code -
 Jonathan and Jarred also contributed art and shaders.
 
 as well as fil and Dawid who were early artists on the project.
+
+![](/uploads/characterdeisgns_02.png)
 
 **And so for yourself, what would you say was the most important element or mindset to ensure that you improved as an artist? The last time we spoke you said you'd been in the industry for about 4-5 years - and you've really skyrocketed. Was there an attitude or an approach that you undertook that steered you towards success?**
 
