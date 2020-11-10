@@ -5,7 +5,7 @@ permalink: /learn/
 image: /images/screenshots/thinker.png
 ---
 <div class="learn">
-	<div class="videos">
+	{% comment %} <div class="videos">
 		{% for video in site.data.videos %}
 		<li>
 		<iframe src="{{ video.link }}"
@@ -14,7 +14,7 @@ image: /images/screenshots/thinker.png
 		</iframe>
 		</li>
 		{% endfor %}
-	</div>
+	</div> {% endcomment %}
 	<div>
 		<ul class="blog-posts">
 			{% include list-posts.html posts=paginator.posts %}
