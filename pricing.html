@@ -2,17 +2,6 @@
 title: Pricing
 description: But how much will it cost though?
 ---
-<script src="https://cdn.paddle.com/paddle/paddle.js"></script>
-<script>
-Paddle.Setup({ vendor: 122413 });
-Paddle.Product.Prices(634227, prices => {
-	const price = prices.price.gross.replace('.00', '').replace(',','');
-	document.querySelector('.monthly-price').innerHTML = price;
-});
-Paddle.Product.Prices(634245, prices => {
-	const price = prices.price.gross.replace('.00', '').replace(',','');
-	document.querySelector('.yearly-price').innerHTML = price;
-});
 </script>
 {% comment %} <div class="special">
     <h3>Lifetime access now on SALE!</h3>
@@ -43,14 +32,6 @@ Paddle.Product.Prices(634245, prices => {
     </div>
     <div class="tier pro">
         <h3>For spicy artists</h3>
-        <div class="frequency">
-            <h4><span class="monthly-price"></span>/mo</h4>
-            <small>Billed monthly</small>
-        </div>
-        <div class="frequency">
-            <h4><span class="yearly-price"></span>/yr</h4>
-            <small>Billed yearly (30% off)</small>
-         </div>
         <p>For serious artists. Power artists. Artists with audacity.</p>
         <ul>
             <li>Everything in the free tier</li>
@@ -65,9 +46,21 @@ Paddle.Product.Prices(634245, prices => {
             <li>iOS, Android, Mac and Windows app</li>
             <li>Exporting to 3D objects</li>
         </ul>
-        <a href="https://app.justsketch.me" target="_blank" rel="noopener noreferrer" title="Webapp">
-            <button class="button mint">
-                Upgrade in app!
+        <div class="frequency">
+            <h4>$9/mo</h4>
+            <small>Billed monthly</small>
+        </div>
+        <div class="frequency">
+            <h4>$72/yr</h4>
+            <small>Billed yearly (30% off)</small>
+         </div>
+         <div class="frequency">
+            <h4>$199/lifetime</h4>
+            <small>Once-off payment</small>
+         </div>
+        <a href="https://gum.co/justsketchme" target="_blank" rel="noopener noreferrer" title="Gumroad">
+            <button class="button">
+                Get full access!
             </button>
         </a>
     </div>
