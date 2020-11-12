@@ -27,3 +27,8 @@ $large-desktop: "(min-width: 1024px)";
     src: url("/fonts/PermanentMarker-Regular.ttf");
     font-display: swap;
 }
+
+@keyframes fade-in {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+}
