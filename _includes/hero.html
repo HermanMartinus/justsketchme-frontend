@@ -14,6 +14,7 @@
                 </button>
             </a>
             <small>It's free!</small>
+            <p>Or check out all <a href="/features/">the features</a></p>
 
         </div>
         <div class="right-column">
@@ -28,3 +29,15 @@
         </div>
     </div>
 </section>
+
+<script>
+document.querySelectorAll(".sam").forEach((element, i) => {
+    const timeout = (i+1)*1000;
+    setTimeout(() => element.classList.add('show'), timeout);
+});
+
+window.onscroll = () => {
+    const element =  document.querySelector('.sam.mid');
+    element.classList.toggle("faded", element.scrollTop > 50 || document.documentElement.scrollTop > 50);
+};
+</script>
