@@ -5,7 +5,7 @@ permalink: how-to-draw-hands
 description: 'Hands are super tricky and can really come out looking very strange.
   Learn some basics on how to get hands right from the jump and give yourself a thumb''s
   up. '
-image: ''
+image: "/uploads/untitled-artwork-64.png"
 author: Charlie Martinson
 
 ---
