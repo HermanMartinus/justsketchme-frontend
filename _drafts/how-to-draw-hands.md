@@ -17,8 +17,8 @@ Drawing hands is notoriously tricky. Hopefully reading this article will help yo
 
 3\.Trace your own hand and divide it into segments. The palm of the hand, the thumb, and its curve where it intersects with the palm, the fingers and the different knuckles of the different fingers. It's also worth noting that the hand has a certain rhythm. The tip of the thumb aligns with the topmost knuckles of the rest of the fingers, while the topmost knuckle of the thumb aligns with the middle knuckle of the rest of the fingers. Being aware of these things will help you to draw the hand more consciously.
 
-4\.Look at the 3-dimensional forms of the hands. Take the structure you've learned about and break them into two things - cylinders for the fingers, and a cube for the palm.  
-  
+4\.Look at the 3-dimensional forms of the hands. Take the structure you've learned about and break them into two things - cylinders for the fingers, and a cube for the palm.
+
 5\. Take this learning and draw your hand from different angles.
 
 This tutorial should help you to start drawing burly, exciting, gentle, boxy hands. All hands are different! Draw different hands and tag us on Instagram or Twitter.
