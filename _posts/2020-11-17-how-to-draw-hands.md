@@ -16,7 +16,6 @@ Drawing hands is notoriously tricky. Hopefully reading this article will help yo
 ![](/uploads/hands0.png)
 
 2. Use different references. There are 3 forms of reference - real life, the internet, and using books can also really help. I've prepared the following guidelines to help you get the most out of your references!
-
 3. Trace your own hand and divide it into segments. The palm of the hand, the thumb, and its curve where it intersects with the palm, the fingers and the different knuckles of the different fingers. It's also worth noting that the hand has a certain rhythm. The tip of the thumb aligns with the topmost knuckles of the rest of the fingers, while the topmost knuckle of the thumb aligns with the middle knuckle of the rest of the fingers. Being aware of these things will help you to draw the hand more consciously.
 
 ![](/uploads/hands1.png)
