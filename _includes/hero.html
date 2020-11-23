@@ -13,7 +13,7 @@
                 Start now!
                 </button>
             </a>
-            <small>It's free!</small>
+            <small class="speech-bubble">It's free!</small>
             <p>Or check out all <a href="/features/">the features</a></p>
 
         </div>
@@ -30,6 +30,10 @@
     </div>
 </section>
 
+<section class="second-hero">
+    <img src="images/heros/spidey-bugle.png" alt="Spiderman" />
+</section>
+
 <script>
 document.querySelectorAll(".sam").forEach((element, i) => {
     const timeout = (i+1)*1000;
@@ -38,6 +42,6 @@ document.querySelectorAll(".sam").forEach((element, i) => {
 
 window.onscroll = () => {
     const element =  document.querySelector('.sam.mid');
-    element.classList.toggle("faded", element.scrollTop > 50 || document.documentElement.scrollTop > 50);
+    element.classList.toggle("faded", element.scrollTop > 70 || document.documentElement.scrollTop > 70);
 };
 </script>
