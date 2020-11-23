@@ -41,7 +41,7 @@
 - title: "@corrnflakes"
   image: /images/gallery/corrnflakes.png
   link: https://www.tiktok.com/@cornerflakes
-  favourite: true
+  favourite: false
 - title: BEETLEINABOTTLE
   image: /images/gallery/beetleinabottle.png
   link: https://twitter.com/Suta_Still
@@ -77,5 +77,9 @@
 - title: Mathias Ball
   image: /images/gallery/mathiasball.png
   link: https://twitter.com/MathiassJB/status/1314291446569152518
-  favourite: false
+  favourite: true
+- title: Spidey Bugle
+  image: /images/gallery/spidey-bugle.jpg
+  link: https://www.youtube.com/channel/UCNnd18SA4o_khzJzllCcxuA
+  favourite: true
 
