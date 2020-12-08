@@ -5,16 +5,19 @@ permalink: /learn/
 image: /images/screenshots/thinker.png
 ---
 <div class="learn">
-	{% comment %} <div class="videos">
+	<div class="videos">
 		{% for video in site.data.videos %}
 		<li>
-		<iframe src="{{ video.link }}"
-			frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture;"
-			allowfullscreen>
+		<iframe
+			src="{{ video.link }}"
+			frameborder="0"
+			allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture;"
+			allowfullscreen
+		>
 		</iframe>
 		</li>
 		{% endfor %}
-	</div> {% endcomment %}
+	</div>
 	<div>
 		<ul class="blog-posts">
 			{% include list-posts.html posts=paginator.posts %}
