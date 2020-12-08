@@ -82,4 +82,8 @@
   image: /images/gallery/spidey-bugle.jpg
   link: https://www.youtube.com/channel/UCNnd18SA4o_khzJzllCcxuA
   favourite: true
+- title: "@wizardvendor"
+  image: /images/gallery/wizardvendor.png
+  link: https://wizardvendor.weebly.com/
+  favourite: false
 
