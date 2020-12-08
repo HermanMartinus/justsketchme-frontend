@@ -4,7 +4,7 @@ date: 2020-12-07 22:00:00 +0000
 permalink: 'popular-tropes-in-anime-and-manga '
 description: If you’ve watched a few anime series in your life, chances are you’ll
   have seen some familiar faces or at least personalities popping up time and again.
-image: ''
+image: "/uploads/anime-trope-3.png"
 author: Dante Ludolf
 
 ---
@@ -12,35 +12,45 @@ This is because anime, like a lot of soap operas and film and TV genres, make us
 
 As we’ve recently partnered with the incredible indie manga publication [Saturday AM](https://www.saturday-am.com/), we thought we’d run through some of the characters that could be popping up in your new favourite manga series. Head on over to their site to learn more and get a feel for some truly diverse and eclectic manga from the indie scene.
 
+![](/uploads/anime-trope-1.png)
+
 ### Tsundere
 
-There are so many variations of the Tsundere trope that we could probably spend a whole article talking about their various iterations and characteristics.
+There are so many variations of the Tsundere trope that we could probably spend a whole article talking about their iterations and characteristics.
 
 Tsundere are hot-headed, emotional, childish, bratty and hostile but over the course of the story become fierce, loving and warm. They make frequent appearances in anime and manga, and some of the most memorable characters in recent years stem from the Tsundere trope.
 
 Think Asuka Langley Soryu from _Evangelion_ and Rin Tohsaka from _Fate/Stay Night_. Tsundere also are frequently depicted with pigtails.
 
+![](/uploads/anime-trope-3.png)
+
 ### Yamato Nadeshiko
 
-Roughly translated as a wallflower, the Yamato Nadeshiko is a subtle, meek and extremely submissive trope that has complicated roots in Japanese notions of womanhood and femininity. While some narratives suggest the wallflower is actually a wildflower at heart, many of the times the mild-mannered and gentle Yamato Nadeshiko tend to be sidelined in favour of more overt and charismatic characters like Tsundere or Genki Girl.
+Roughly translated as a wallflower, the Yamato Nadeshiko is a subtle, meek and extremely submissive character that has complicated roots in Japanese notions of womanhood and femininity. While some narratives suggest the wallflower is actually a wildflower at heart, many of the times the mild-mannered and gentle Yamato Nadeshiko tend to be sidelined in favour of more overt and charismatic characters like Tsundere or Genki Girl.
 
 Some examples of the Yamato Nadeshiko are Belldandy from _Ah! My Goddess_ and Rika Sasaki from _Cardcopter Sakura_.
 
+![](/uploads/anime-trope-2.png)
+
 ### Genki Girl
 
-Love them or hate them, the super chipper and cheerful Genki Girl is here to stay. Usually a side or supporting character, the Genki Girl usually functions as comic relief and stirs up the narrative a bit with her boundless energy, high-pitched voice and chaotic energy.
+Love them or hate them, the super chipper and cheerful Genki Girl is here to stay. Usually a supporting character, the Genki Girl usually functions as comic relief and stirs up the narrative a bit with her boundless energy, high-pitched voice and chaotic energy.
 
-They are usually younger in age or size, and can be seen as aloof and stupid but also genuinely caring and emotional. The Genki Girl can be seen as a Japanese version of the Western Pollyanna, and even shares traits with the Manic Pixie Dream Girl.
+They are usually younger in age or smaller in size, and can be seen as aloof and stupid but also genuinely caring and emotional. The Genki Girl can be seen as a Japanese version of the Western Pollyanna, and even shares traits with the Manic Pixie Dream Girl.
 
-Some examples of Genki Girls in anime are Mako from _Kill la Kill,_ Pino from _Ergo Proxy_ and even Winry Rockbell from _Fullmetal Alchemist._
+Some examples of Genki Girls in anime are Mako from _Kill la Kill,_ Pino from _Ergo Proxy_ and even Winry Rockbell from _Fullmetal Alchemist_ to some extent_._
+
+![](/uploads/anime-trope-5.png)
 
 ### Hikikomori
 
 The Hikikomori is a quiet, reserved character that suffers from acute social withdrawal. These sombre and secluded individuals are often the protagonists in their respective anime film or series and have to overcome their inhibitions to rise to the occasion and emerge victoriously.
 
-Hikikomori is unfortunately not just a trope or stock character in anime and manga, as studies conducted across Japan has found almost a million people of varying ages have become social recluses and choose to abstain from human interaction.
+Hikikomori is unfortunately not just a trope or stock character in anime and manga, as studies conducted across Japan have found almost a million people of varying ages have become social recluses and choose to abstain from human interaction.
 
 Some popular anime featuring hikikomori are _Chaos;Head, RELife_ and _Welcome to the NHK_.
+
+![](/uploads/anime-trope-4.png)
 
 ### Shonen Hero
 
