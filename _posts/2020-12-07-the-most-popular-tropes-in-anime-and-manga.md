@@ -1,7 +1,7 @@
 ---
 title: The most popular tropes in anime and manga!
 date: 2020-12-07 22:00:00 +0000
-permalink: 'popular-tropes-in-anime-and-manga '
+permalink: popular-tropes-in-anime-and-manga
 description: If you’ve watched a few anime series in your life, chances are you’ll
   have seen some familiar faces or at least personalities popping up time and again.
 image: "/uploads/anime-trope-3.png"
