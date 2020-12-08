@@ -5,7 +5,7 @@ permalink: 'popular-tropes-in-anime-and-manga '
 description: If you’ve watched a few anime series in your life, chances are you’ll
   have seen some familiar faces or at least personalities popping up time and again.
 image: ''
-author: ''
+author: Dante Ludolf
 
 ---
 This is because anime, like a lot of soap operas and film and TV genres, make use of stock character or tropes to populate their narratives. While this could be seen as unoriginal or uninspired, some of these anime stock characters have become so popular that not including them would be a missed opportunity for a lot of studios who want to maximise their show or film’s potential to be popular.
