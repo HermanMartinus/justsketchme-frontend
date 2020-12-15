@@ -9,11 +9,11 @@ image: "/uploads/joel-muniz-ibo4uc9winc-unsplash.jpg"
 author: 'Dante Ludolf '
 
 ---
-![](/uploads/brett-jordan-xtpzlk6zlxa-unsplash.jpg)
-
-There’s a lot of content being generated right now, but thanks to the internet you could potentially reach millions of people through your work.
+There’s a lot of content being generated right now and thanks to the internet you could potentially reach millions of people through your work.
 
 Here are a few things that could help you do just that.
+
+![](/uploads/brett-jordan-xtpzlk6zlxa-unsplash.jpg)
 
 **Step 1: Promote it through other forms of content**
 
@@ -37,13 +37,13 @@ Seeing how other artists create and go about their practice can be really helpfu
 
 While this might not always allow you to directly promote your manga or comic book, participating in challenges is a huge activity amongst the online drawing communities and can help you gain followers and reach new people with your art.
 
-Inktober is a massive annual challenge series that is super fun to do and has loads of participants and fans, but a lesser-known but equally impressive one is the monthly [Character Design Challenge](https://www.facebook.com/groups/CharacterDesignChallenge), that has featured tasks or briefs that you can then execute in your style.
+Inktober is a massive annual challenge series that is super fun to do and has loads of participants and fans. A lesser-known but equally impressive one is the monthly [Character Design Challenge](https://www.facebook.com/groups/CharacterDesignChallenge) which has featured tasks or briefs that you can then execute in your style.
 
-If you have built up a solid fan base for your art or manga, why not also try doing a Draw This in Your Style Challenge (or #DTIYS) of one of your characters and let people get creative on their own accord.
+If you have built up a solid fan base for your art or manga why not also try doing a Draw This in Your Style Challenge (or #DTIYS) of one of your characters and let people get creative on their own accord.
 
 **Step 5: Try to get spotted!**
 
-Sometimes to get ahead you need a little help. While certain publishers like to stick to tried and tested formulas that are guaranteed at least a certain level of success with their existing readers, some are eager to try new things and experiment to create awesome new things that resonate with people unexpectedly. Think Webtoon and Saturday AM, and try and see if you can’t make use of tone these amazing platforms to rocket your manga to the big leagues.
+Sometimes to get ahead you need a little help. While certain publishers like to stick to tried and tested formulas that are guaranteed at least a certain level of success with their existing readers, some are eager to try new things and experiment to create awesome new things that resonate with people unexpectedly. Think [Webtoon](https://www.webtoons.com/en/) and [Saturday AM](https://www.saturday-am.com/), and try and see if you can’t make use of tone these amazing platforms to rocket your manga to the big leagues.
 
 ![](/uploads/brett-jordan-nrwvt3z5dnc-unsplash.jpg)
 
