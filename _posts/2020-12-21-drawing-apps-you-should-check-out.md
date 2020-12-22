@@ -2,8 +2,8 @@
 title: Drawing apps you should check out!
 date: 2020-12-21 22:00:00 +0000
 permalink: drawing-apps-to-check-out
-description: 'Looking for some fresh new software to give a go? Here''s a list of
-  some lesser known beauties worthy of your attention. '
+description: 'Looking for some fresh new art and drawing software to give a go? Here''s
+  a list of some lesser known beauties worthy of your attention. '
 image: "/uploads/draw2.png"
 author: Dante Ludolf
 
@@ -39,3 +39,5 @@ Panelle is an open-source tool that isn’t explicitly a drawing app per se, but
 ### **JustSketchMe**
 
 Last, but hopefully not least, we have our very own app that we’d like to tell you about! Similarly to Panelle, ours is not exactly a drawing app, but something that will fundamentally change how you go about your digital art. Looking for and finding the perfect reference for your next character design or digital painting can be a tedious and frustrating exercise, but with JustSketchMe you can shape, pose and fashion your character into whatever you desire. We have over 18 models available for you to use, as well as shapes and props to build and flesh out scenes and additional items. You can also insert images with transparent backgrounds right into the app should you want to incorporate it into your drawing. Then, all you need to do is import it into your preferred drawing software and get drawing! It’s a bit hard to explain, so why not just try it out here. We promise it will all make sense. ;)
+
+> by Dante Ludolf
