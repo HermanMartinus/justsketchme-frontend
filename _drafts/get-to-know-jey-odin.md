@@ -2,9 +2,11 @@
 title: Get to know Jey Odin!
 date: 2021-01-07 22:00:00 +0000
 permalink: jey-odin-interview-justsketchme
-description: ''
+description: 'We sat down with the inimitable Jey Odin, creator of Lemonade Code and
+  Hammer, to get the low down on his career and journey to becoming a graphic novel
+  demigod. '
 image: ''
-author: ''
+author: 'Dante Ludolf '
 
 ---
 
