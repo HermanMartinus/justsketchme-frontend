@@ -31,20 +31,28 @@ Remember that the model is fully rotatable, so you can draw Usagi in this pose f
 
 ### Step 2
 
-![](/uploads/sailor-moon.png)
+![](/uploads/sailor-moon.png)Draw the outlines and secure the base for your Sailor Moon sketch. 
 
 ### Step 3
 
 ![](/uploads/sailor-moon4.png)
 
+Next, draw additional details and lines on a new layer over your base outlines. When you're done, go to the base outline and erase the parts that overlap with the top most layer. 
+
 ### Step 4
 
 ![](/uploads/sailor-moon5.png)
+
+It's face time!
 
 ### Step 5
 
 ![](/uploads/sailor-moon2.png)
 
+Add some flat colours. Feel free to colour drop the colour's from a sketch or image of Usagi.
+
 ### Step 6
 
 ![](/uploads/sailor-moon1.png)
+
+Add some shadows if you like and you have a simple Sailor Moon sketch made with JustSketchMe. Tag us when you make your own!
