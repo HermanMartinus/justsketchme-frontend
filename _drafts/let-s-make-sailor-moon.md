@@ -43,7 +43,7 @@ Next, draw additional details and lines on a new layer over your base outlines. 
 
 ![](/uploads/sailor-moon5.png)
 
-It's face time!
+It's face time! Use the symmetry function and angle it to line up with the head. 
 
 ### Step 5
 
