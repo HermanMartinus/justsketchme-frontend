@@ -1,6 +1,6 @@
 ---
 title: 'Let''s Make: Sailor Moon'
-date: 2021-01-12 22:00:00 +0000
+date: 2021-01-12T22:00:00.000+00:00
 permalink: sailor-moon-justsketchme
 description: As part of our ongoing collaboration with indie manga publisher Saturday
   AM, we're taking a deep dive into the wonderfully insane and exciting worlds of
@@ -11,13 +11,13 @@ author: Dante Ludolf
 ---
 ![](/uploads/00-promo-sailor-moon.jpg)
 
-Needing something magical to bide your time while you wait for the apocalypse that is 2020-2021 to end? We have just the thing!
+In need of something magical to bide your time while you wait for the apocalypse that is 2020-2021 to end? We have just the thing!
 
 Sailor Moon is right up there as one of the all-time greats, and what better way to celebrate it's pretty, escapist and hilarious charms than to draw your own.
 
 The Sailor Moon challenge last year proved that Usagi and her friends are here to stay, and their inspiration and legacy are endless.
 
-So without further ado, let's make Sailor Moon's iconic pose in JustSketchMe and draw it out step by step.
+So without further ado, let's make Sailor Moon's iconic pose in [JustSketchMe](https://justsketch.me/) and draw it out step by step.
 
 Have fun, and please share your creations with us.
 
@@ -31,19 +31,19 @@ Remember that the model is fully rotatable, so you can draw Usagi in this pose f
 
 ### Step 2
 
-![](/uploads/sailor-moon.png)Draw the outlines and secure the base for your Sailor Moon sketch. 
+![](/uploads/sailor-moon.png)Draw the outlines and secure the base for your Sailor Moon sketch.
 
 ### Step 3
 
 ![](/uploads/sailor-moon4.png)
 
-Next, draw additional details and lines on a new layer over your base outlines. When you're done, go to the base outline and erase the parts that overlap with the top most layer. 
+Next, draw additional details and lines on a new layer over your base outlines. When you're done, go to the base outline and erase the parts that overlap with the topmost layer.
 
 ### Step 4
 
 ![](/uploads/sailor-moon5.png)
 
-It's face time! Use the symmetry function and angle it to line up with the head. 
+It's face time! Use the symmetry function and angle it to line up with the head.
 
 ### Step 5
 
@@ -55,4 +55,4 @@ Add some flat colours. Feel free to colour drop the colour's from a sketch or im
 
 ![](/uploads/sailor-moon1.png)
 
-Add some shadows if you like and you have a simple Sailor Moon sketch made with JustSketchMe. Tag us when you make your own!
+Add some shadows if you like and you have a simple Sailor Moon sketch made with JustSketchMe. [Tag us](https://www.instagram.com/justsketch.me/) when you make your own!
