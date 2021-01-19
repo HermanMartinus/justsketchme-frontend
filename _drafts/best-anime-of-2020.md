@@ -50,4 +50,16 @@ Just… watch it.
 
 ![](/uploads/11-1.png)
 
-Made in Abyss: Dawn of the Deep Soul
+### Made in Abyss: Dawn of the Deep Soul
+
+Released to little fanfare right in the beginning of 2020, this continuation of the incomparable _Made in Abyss_ series is a pioneering example of the anime adventure genre and a truly heartbreaking exploration of naivety and growing up.
+
+The anime series released in 2017 was a beautiful, harrowing and exciting adventure that saw two friends, Riko and Reg (and later Nanachi) take a journey down the Abyss. The Abyss is a gigantic crater that extends multiple levels and contains ancient technology, relics and creatures that can be found nowhere else.
+
+This sequel film sees the trio enter the 5th layer, where the horrifying scoundrel Bondrewd and his acolytes reside in a long-abandoned ritual site left there by the ancient civilisations. Here they meet his daughter, Prushka, and try to convince him to let them continue on their adventure past the gate that lies at the layer’s centre.
+
+Made in Abyss is incredibly gruesome, upsetting and disturbing while simultaneously being heartfelt, cute and joyous. We recommend it to anyone that is fans of Studio Ghibli, _Shadow of the Colossus_ and _Tomb Raider_. (Just trust us)
+
+***
+
+What were some of your favourite anime series of 2020? Let us know and we'll add them to this list!
