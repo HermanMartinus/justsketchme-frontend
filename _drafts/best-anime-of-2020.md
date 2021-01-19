@@ -30,9 +30,15 @@ With crisp animation, a bizarre and delightfully uneven tone and enough twists t
 
 ### Great Pretender   
 
+Taking cues from classic heavyweights like Cowboy Bebop, Michiko & Hachin and Lupin III, this gem of a show takes all of its inspirations and runs wild with them. A more grounded and realistic take on a heist/ caper story, Great Pretender centres its action on the convoluted, messy and often ingenious schemes of its motley crew of thieves of con artists.
+
+Its a nuanced, impressive display of storytelling that doesn’t skimp on representation, realism, backstory and intrigue.
+
+We thoroughly recommend diving straight into this one and going in with no expectations whatsoever. You won’t regret it.
+
 ![](/uploads/13-2.png)
 
-Deca-Dence
+### Deca-Dence
 
 ![](/uploads/11-1.png)
 
