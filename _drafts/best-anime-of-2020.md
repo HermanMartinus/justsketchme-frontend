@@ -20,7 +20,7 @@ If you haven’t had a chance to check them out, here are our top picks for anim
 
 ### Tower of God
 
-Starting off as a simple story about a young boy in search of his missing friends, Tower of God is a (excuse the pun|) towering adaptation of the beloved Korean manga webtoon.
+Starting off as a simple story about a young boy in search of his missing friends, _Tower of God_ is a (excuse the pun|) towering adaptation of the beloved Korean manga webtoon.
 
 The boy, the bizarrely named Twenty-fifth Bam, soon finds a slew of mysterious friends on his journey as they all try to conquer the tower and its challenges. Speaking of the challenges, there are some truly strange and bizarre tasks and trials that wait in store for the characters, and they are an absolute joy to watch.
 
@@ -30,7 +30,7 @@ With crisp animation, a bizarre and delightfully uneven tone and enough twists t
 
 ### Great Pretender   
 
-Taking cues from classic heavyweights like Cowboy Bebop, Michiko & Hachin and Lupin III, this gem of a show takes all of its inspirations and runs wild with them. A more grounded and realistic take on a heist/ caper story, Great Pretender centres its action on the convoluted, messy and often ingenious schemes of its motley crew of thieves of con artists.
+Taking cues from classic heavyweights like _Cowboy Bebop, Michiko & Hachin_ and _Lupin III_, this gem of a show takes all of its inspirations and runs wild with them. A more grounded and realistic take on a heist/ caper story, _Great Pretender_ centres its action on the convoluted, messy and often ingenious schemes of its motley crew of thieves of con artists.
 
 Its a nuanced, impressive display of storytelling that doesn’t skimp on representation, realism, backstory and intrigue.
 
@@ -39,6 +39,14 @@ We thoroughly recommend diving straight into this one and going in with no expec
 ![](/uploads/13-2.png)
 
 ### Deca-Dence
+
+So this show is at first glance about a humongous, titanic mobile city fortress kind of thing that kind of riffs off of the idea present in _The Mortal Instruments_ series.
+
+The roaming city was created to protect humanity from the advances of freaky, colourful and fearsome creatures and to ensure that this mission is achieved, the society living within the city’s armoured walls is heavily stratified and citizens are divided into rigid social castes.
+
+This is… not the story at all though, and at the end of the first episode, there is an absolute whopper of a plot twist that will leave you reeling.
+
+Just… watch it.
 
 ![](/uploads/11-1.png)
 
