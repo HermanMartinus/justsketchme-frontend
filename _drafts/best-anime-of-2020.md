@@ -14,15 +14,21 @@ Namely, our favourite anime series and films to rear their bright, pretty heads 
 
 Hobbies are often a perfect way to retreat into oneself and get a bit of distance and perspective away from the external world, and we’d like to think that these beauts popping up helped quite a few people deal with the dread and find some joy.
 
-If you haven’t had a chance to check them out, here’s our top picks for anime series debuting in 2020. We hope you like them as much as we did.
+If you haven’t had a chance to check them out, here are our top picks for anime series debuting in 2020. We hope you like them as much as we did.
 
 ![](/uploads/12-1.png)
 
-Tower of God
+### Tower of God
+
+Starting off as a simple story about a young boy in search of his missing friends, Tower of God is a (excuse the pun|) towering adaptation of the beloved Korean manga webtoon.
+
+The boy, the bizarrely named Twenty-fifth Bam, soon finds a slew of mysterious friends on his journey as they all try to conquer the tower and its challenges. Speaking of the challenges, there are some truly strange and bizarre tasks and trials that wait in store for the characters, and they are an absolute joy to watch.
+
+With crisp animation, a bizarre and delightfully uneven tone and enough twists to make a rollercoaster jealous, this one is an absolute must for fans of both the shonen and mystery genres and features an intriguing take on the rapidly stagnating deus-ex-machina style of shonen story progression.
 
 ![](/uploads/14.png)
 
-Great Pretender
+### Great Pretender   
 
 ![](/uploads/13-2.png)
 
