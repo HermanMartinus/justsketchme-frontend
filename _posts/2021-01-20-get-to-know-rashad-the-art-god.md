@@ -12,7 +12,7 @@ author: Dante Ludolf
 ---
 ### JSM: Tell us a bit about yourself and what you’re currently doing?
 
-Rashad - I’m working on Saturday Wars at the moment. A Saturday Wars crossover event featuring Saturday AM’s most popular characters and then some. It's all apart of our first physical magazine ever: Super Saturday. You can find me on Instagram at @rashodtheartgod.
+Rashad - I’m working on Saturday Wars at the moment. A Saturday Wars crossover event featuring [Saturday AM](https://www.saturday-am.com/)’s most popular characters and then some. It's all apart of our first physical magazine ever: Super Saturday. You can find me on Instagram at [@rashodtheartgod](https://www.instagram.com/rashodtheartgod/).
 
 ### JSM: What are your main inspirations and who are some artists you look up to?
 
@@ -32,7 +32,7 @@ Rashad - My dad. Ever since I was young he always encouraged me to draw the thin
 
 ### JSM: Tell me about the most difficult project you’ve worked on and how you managed to finish it?
 
-Rashad - Anything project I do for the first time is always difficult, which brings me to my first chapter of Outland. Trying to figure out my process wasn’t easy. Which program to use, which tools work best, and remembering all the dos and don’ts. Luckily I have a wonderful team with Saturday AM, to help me with whatever questions I may have. No matter how difficult a project.
+Rashad - Anything project I do for the first time is always difficult, which brings me to my first chapter of [Outland](https://www.saturday-pm.com/manga). Trying to figure out my process wasn’t easy. Which program to use, which tools work best, and remembering all the dos and don’ts. Luckily I have a wonderful team with [Saturday AM](https://www.saturday-am.com/), to help me with whatever questions I may have. No matter how difficult a project.
 
 ![](/uploads/screenshot-2021-01-20-at-11-53-17.png)
 
@@ -42,7 +42,7 @@ Rashad - I fall back on all the stories I’ve heard from my favourite artists. 
 
 ### JSM: Are you currently trying to learn any specific skill, and how do you go about learning it?
 
-Rashad - Yes. Toning. I’m basically studying the graphic novels that I own, and experimenting to see what I can come up with to make it resemble as close as possible to what I see from the professionals.
+Rashad - Yes. Toning. I’m basically studying the graphic novels that I own and experimenting to see what I can come up with to make it resemble as close as possible to what I see from the professionals.
 
 ![](/uploads/screenshot-2021-01-20-at-11-52-28.png)
 
