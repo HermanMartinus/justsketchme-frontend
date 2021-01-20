@@ -44,4 +44,4 @@ Rashad - I’d say, the use of realism. I love painting and drawing portraits. T
 
 ### JSM: What is your dream project and can you tell us a little more about it?
 
-Rashad - There is a concept for a story that my brother and I came up with when we were younger. It was so good we agreed we were not old enough or experienced enough to tell that tale. We put it on whole and developed certain aspects of the story as we got older. I can’t wait to actually work on it some day.
+Rashad - There is a concept for a story that my brother and I came up with when we were younger. It was so good we agreed we were not old enough or experienced enough to tell that tale. We put it on whole and developed certain aspects of the story as we got older. I can’t wait to actually work on it someday.
