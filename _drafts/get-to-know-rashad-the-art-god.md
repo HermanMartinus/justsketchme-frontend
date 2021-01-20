@@ -6,17 +6,19 @@ description: As part of our ongoing collaboration with indie manga publisher Sat
   AM, we're taking a deep dive into the wonderfully insane and exciting worlds of
   anime and manga. For our Creator Series, get to know the talented people behind
   some of your favourite titles!
-image: ''
+image: "/uploads/screenshot-2021-01-20-at-11-52-47.png"
 author: Dante Ludolf
 
 ---
 ### JSM: Tell us a bit about yourself and what you’re currently doing?
 
-Rashad - I’m working on Saturday Wars at the moment. A Saturday wars crossover event featuring Saturday AM’s most popular characters and then some. It's all apart of our first physical magazine ever: Super Saturday. You can find me on instagram at @rashodtheartgod
+Rashad - I’m working on Saturday Wars at the moment. A Saturday Wars crossover event featuring Saturday AM’s most popular characters and then some. It's all apart of our first physical magazine ever: Super Saturday. You can find me on Instagram at @rashodtheartgod.
 
 ### JSM: What are your main inspirations and who are some artists you look up to?
 
 Rashad - It’s hard to say because there are so many, but Jim Lee and Todd Mcfarlane are the artists that really propelled me into comics as a kid. I knew their work before I even knew their names.
+
+![](/uploads/screenshot-2021-01-20-at-11-53-35.png)
 
 ### JSM: How do you use your inspirations and references in your work?
 
@@ -26,9 +28,13 @@ Rashad: While obviously, I love Manga, I also realize I’m a westerner who love
 
 Rashad - My dad. Ever since I was young he always encouraged me to draw the things I’d always say I couldn’t draw.
 
+![](/uploads/screenshot-2021-01-20-at-11-53-47.png)
+
 ### JSM: Tell me about the most difficult project you’ve worked on and how you managed to finish it?
 
 Rashad - Anything project I do for the first time is always difficult, which brings me to my first chapter of Outland. Trying to figure out my process wasn’t easy. Which program to use, which tools work best, and remembering all the dos and don’ts. Luckily I have a wonderful team with Saturday AM, to help me with whatever questions I may have. No matter how difficult a project.
+
+![](/uploads/screenshot-2021-01-20-at-11-53-17.png)
 
 ### JSM: In stressful situations, how do you find ways to persevere?
 
@@ -37,6 +43,8 @@ Rashad - I fall back on all the stories I’ve heard from my favourite artists. 
 ### JSM: Are you currently trying to learn any specific skill, and how do you go about learning it?
 
 Rashad - Yes. Toning. I’m basically studying the graphic novels that I own, and experimenting to see what I can come up with to make it resemble as close as possible to what I see from the professionals.
+
+![](/uploads/screenshot-2021-01-20-at-11-52-28.png)
 
 ### JSM: What’s been the most useful or educational resource you’ve made use of in your career?
 
