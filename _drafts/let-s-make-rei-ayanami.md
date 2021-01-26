@@ -10,3 +10,14 @@ image: "/uploads/rei-nge.jpg"
 author: Marlize Eckard
 
 ---
+**Step one** : Overlay just sketch me on your selected background, set opacity to 50% and rough sketch the basics, like the eye placement and key elements of the costume. **(Pro tip: Keep all your references close in a group that you can turn on and off when you get stuck.)**
+
+**Step two**: I always start with the face and the more detailed elements like the hands, hair and feet.
+
+  
+**Step three**: Add extra details like buttons folds and darker armor elements
+
+**Step four**: Add a colour base, each colour on a separate layer so you can easily change it when needed.
+
+  
+**Step Five** : Add any extra detail like shadows and highlights. **(Pro tip is to add the shadows as a solid colour on a seperate layer so you can just adjust the opacity instead of the colour.)**
