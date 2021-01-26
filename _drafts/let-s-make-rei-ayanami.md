@@ -10,14 +10,32 @@ image: "/uploads/rei-nge.jpg"
 author: Marlize Eckard
 
 ---
-**Step one** : Overlay just sketch me on your selected background, set opacity to 50% and rough sketch the basics, like the eye placement and key elements of the costume. **(Pro tip: Keep all your references close in a group that you can turn on and off when you get stuck.)**
+![](/uploads/rei-1.png)
 
-**Step two**: I always start with the face and the more detailed elements like the hands, hair and feet.
+### **Step one**: 
 
-  
-**Step three**: Add extra details like buttons folds and darker armor elements
+Overlay JustSketchMe on your selected background, set the opacity to 50% and rough sketch the basics, like the eye placement and key elements of the costume. Pro tip: Keep all your references close to your sketch that you can turn on and off when you get stuck.
 
-**Step four**: Add a colour base, each colour on a separate layer so you can easily change it when needed.
+![](/uploads/rei-2.png)
 
-  
-**Step Five** : Add any extra detail like shadows and highlights. **(Pro tip is to add the shadows as a solid colour on a seperate layer so you can just adjust the opacity instead of the colour.)**
+### **Step two**: 
+
+I always start with the face and the more detailed elements like the hands, hair and feet.
+
+![](/uploads/rei-3.png)
+
+### **Step three**: 
+
+Add extra details like buttons folds and darker armour elements
+
+![](/uploads/rei-4.png)
+
+### **Step four**: 
+
+Add a colour base, each colour on a separate layer so you can easily change it when needed.
+
+![](/uploads/rei-5.png)
+
+### **Step Five**: 
+
+Add any extra detail like shadows and highlights. Pro-tip: Add the shadows like a solid colour on a separate layer so you can just adjust the opacity instead of the colour.
