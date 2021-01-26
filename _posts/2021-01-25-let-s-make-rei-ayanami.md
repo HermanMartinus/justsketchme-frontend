@@ -10,6 +10,10 @@ image: "/uploads/rei-nge.jpg"
 author: Marlize Eckard
 
 ---
+This time we're taking a look at one of the most popular characters of all time, Evangelion's Rei Ayanami. She's soft-spoken, strange, and she sometimes even gets into a giant mecha to kill angels. How's that for an intro, as if she even needed. 
+
+Here are 5 steps on how to draw Rei Ayanami. Have fun!
+
 ![](/uploads/rei-1.png)
 
 ### **Step one**: 
