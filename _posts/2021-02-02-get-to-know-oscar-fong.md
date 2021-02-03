@@ -10,9 +10,11 @@ image: "/uploads/eozcb3uu0ael6px.jpeg"
 author: Dante Ludolf
 
 ---
+![](/uploads/elbztiguuaa8tuj.jpeg)
+
 ### JSM: Tell us a bit about yourself and what you’re currently doing?
 
-I’m a manga artist and an illustrator contractor. I am currently setting up the final stage for the ongoing arc for the manga series Massively Multiplayer World of Ghosts and also some concept art for future arcs. I go by @fongfumaster for most of my social media.
+I’m a manga artist and an illustrator contractor. I am currently setting up the final stage for the ongoing arc for the manga series [Massively Multiplayer World of Ghosts](https://www.saturday-am.com/) and also some concept art for future arcs. I go by [@fongfumaster](https://twitter.com/fongfumaster) for most of my social media.
 
 ### JSM: What are your main inspirations and who are some artists you look up to?
 
@@ -21,6 +23,8 @@ Oscar - I take a lot of inspiration from all sorts of comics and manga so it’s
 ### JSM: What are the most important skills up and coming artists should focus on acquiring first?”
 
 Oscar: When it comes to drawing manga, being able to ink naturally and consistently to the style and tone of your story is one of the best skills to have. As someone who does more sketch drawing than inking it’s important to keep practising your inking skills. Also lighting and an understanding of colours.
+
+![](/uploads/erviugavcaavmud.jpeg)
 
 ### JSM: What do you consider the greatest contribution to your growth as an artist?
 
@@ -33,6 +37,8 @@ Oscar - Probably any or maybe all the comics I’ve worked on. I don’t really 
 ### JSM: In stressful situations, how do you find ways to persevere?
 
 Oscar - Free-style drawing seems to always relieve stress. Although when I get stressed from drawing too much, it's always good to take a break and do something else like read or play games.
+
+![](/uploads/elqfx_5woamlx1r.jpeg)
 
 ### JSM: Are you currently trying to learn any specific skill, and how do you go about learning it?
 
