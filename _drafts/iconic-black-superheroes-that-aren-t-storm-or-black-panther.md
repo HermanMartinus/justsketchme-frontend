@@ -12,11 +12,15 @@ author: Dante Ludolf
 
 ### Monet St. Croix
 
-Sometimes body-swapping, soul merging and composite beings can be a bit much for a reader to handle or relate to. (Think Kwannon and Betsy) 
+![](/uploads/m-1.png)
 
-Sometimes, however, it can be a damn good time and a wonderful element to a character. Monet St. Croix, otherwise known as M, is one of those times. 
+Sometimes body-swapping, soul merging and composite beings can be a bit much for a reader to handle or relate to. (Think Kwannon and Betsy)
+
+Sometimes, however, it can be a damn good time and a wonderful element to a character. Monet St. Croix, otherwise known as M, is one of those times.
 
 Consisting of multiple siblings, personalities and powers rolled into one, Monet is an absolutely mutant powerhouse and always proves to be a valuable addition to any X-Team she finds herself a part of. If you're keen to get to know her better, start with Generation X!
+
+![](/uploads/m-2.png)
 
 ### Batwing
 
