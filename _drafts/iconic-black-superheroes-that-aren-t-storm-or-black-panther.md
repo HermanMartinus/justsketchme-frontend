@@ -10,17 +10,21 @@ author: Dante Ludolf
 ---
 ### Aqualad
 
+![](/uploads/aqua-2.png)
+
 Aquaman's protege, Kaldur'ahm, made a huge splash after joining the roster of the super-popular animated television show Young Justice and has endured loads of popularity as he was embraced by the fandom and even eventually phased into the main DC comic continuity.
 
-An Atlantean with all of the usual aquatic powers as well as hydrokinesis and bio-electricity, Kaldur'ahm is a powerful member of the new generation of heroes and a force to be reckoned with. 
+An Atlantean with all the usual aquatic powers as well as hydrokinesis and bio-electricity, Kaldur'ahm is a powerful member of the new generation of heroes and a force to be reckoned with. 
 
 He's also one of the few openly queer characters in mainstream comic canon, and this has done even more to bolster his status as an absolute icon.
+
+![](/uploads/aqua-1.png)
 
 ### Monet St. Croix
 
 ![](/uploads/m-1.png)
 
-Sometimes body-swapping, soul merging and composite beings can be a bit much for a reader to handle or relate to. (Think Kwannon and Betsy)
+Sometimes body-swapping, soul merging and composite beings can be a bit much for a reader to handle or relate to. (Think Kwannon and Betsy.)
 
 Sometimes, however, it can be a damn good time and a wonderful element to a character. Monet St. Croix, otherwise known as M, is one of those times.
 
