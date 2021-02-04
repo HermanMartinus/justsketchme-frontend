@@ -36,6 +36,16 @@ Having lost both of his parents to HIV//AIDS and working as a police officer, Da
 
 ### Nubia
 
+![](/uploads/nubia-2.png)
+
+Nubia hasn't made much of a splash since she debuted all those years ago, but after actress Tiffany Haddish has recently heaped praise on the character and even showed interest in playing her, she's rightfully gaining traction and being the icon that she is. 
+
+Nubia is either Wonder Woman's long lost twin sister or the primary Wonder Woman from an alternate universe, depending on the comic you're reading. 
+
+Either way, she's powerful and amazing and Wonder Woman's equal in every way and we can't wait to see what she'll be getting up to in the future.
+
+![](/uploads/nuba-2.png)
+
 ### Photon
 
 ![](/uploads/monica-1.png)Monica Rambeau has always been an underrated hero in the greater Marvel universe, but now that she's made an appearance in the MCU by starring in Wandavision, that's all about to be a thing of the past. 
