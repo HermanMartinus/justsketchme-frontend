@@ -4,7 +4,7 @@ date: 2021-02-03 22:00:00 +0000
 permalink: iconic-black-superheroes-in-comics
 description: 'In honour of Black History Month. Let''s take a look at some black excellence
   in comics, manga and video games. '
-image: ''
+image: "/uploads/nubia-2.png"
 author: Dante Ludolf
 
 ---
@@ -23,6 +23,16 @@ Consisting of multiple siblings, personalities and powers rolled into one, Monet
 ![](/uploads/m-2.png)
 
 ### Batwing
+
+![](/uploads/batwing-1.png)
+
+Starting off as a member of the Batman Incorporated team, David Zavimbe is an iconic bat-hero that hails from the Democratic Republic of Congo. 
+
+Taking up the mantle of Batwing and eventually starring in his own series, David is a dynamic and influential hero that made the bat mantle his own. 
+
+Having lost both of his parents to HIV//AIDS and working as a police officer, David has seen and experienced his fair share of the atrocities of man, making him singularly dedicated to shape the world into a better place. His mechanised suit of bat armour is also just really, _really_ cool.
+
+![](/uploads/bat-2.png)
 
 ### Nubia
 
