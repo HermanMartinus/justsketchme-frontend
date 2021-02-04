@@ -10,6 +10,8 @@ author: Dante Ludolf
 ---
 ### Aqualad
 
+Aquaman's protege, Kaldur'ahm, made a huge splash after joining the roster of the super-popular animated television show Young Justice and has endured loads of popularity as h
+
 ### Monet St. Croix
 
 ![](/uploads/m-1.png)
