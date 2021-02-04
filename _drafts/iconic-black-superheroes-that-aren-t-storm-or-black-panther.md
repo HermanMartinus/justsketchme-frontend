@@ -28,8 +28,8 @@ Consisting of multiple siblings, personalities and powers rolled into one, Monet
 
 ### Photon
 
-![](/uploads/monica-1.png)
-
-Monica Rambeau has always been an underrated hero in the greater Marvel universe, but now that she's made an appearance in the MCU by starring in Wandavision, that's all about to be a thing of the past. 
+![](/uploads/monica-1.png)Monica Rambeau has always been an underrated hero in the greater Marvel universe, but now that she's made an appearance in the MCU by starring in Wandavision, that's all about to be a thing of the past. 
 
 Wielding insane powers like lightspeed flight, super strength and energy absorption, Rambeau is a titan and has even held the mantle of Captain Marvel herself. 
+
+![](/uploads/mnica-2.png)
