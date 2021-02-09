@@ -10,10 +10,20 @@ author: Dante Ludolf
 ---
 ### Nillin Cartier-Wells
 
+![](/uploads/game-1.png)
+
 ### Jax and Jacqui Briggs
+
+![](/uploads/game-5.png)
 
 ### Lincoln Clay
 
+![](/uploads/game-2.png)
+
 ### Barrett Wallace
 
+![](/uploads/game-4.png)
+
 ### Alyx Vance
+
+![](/uploads/game-3.png)
