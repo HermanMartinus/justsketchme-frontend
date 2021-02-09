@@ -22,7 +22,7 @@ Nilin is also an absolute rarity, a black female protagonist in a AAA game. If y
 
 ![](/uploads/game-5.png)
 
-Jax has been a keen fixture in the fight for the realms throughout the _Mortal Kombat_ series. His mechanised arms and tough demeanour is absolutely iconic, and we've seen him ripped people limb from limb and conquering the Outworld hordes for years and we're still not complaining. 
+Jax has been a keen fixture in the fight for the realms throughout the _Mortal Kombat_ series. His mechanised arms and tough demeanour is absolutely iconic, and we've seen him rip people limb from limb and conquering the Outworld hordes for years and we're still not complaining. 
 
 In _Mortal Kombat X_, we're introduced to his daughter, Jacqui Briggs, sporting her own versions of his iconic weapons, but in the form of a partial exoskeleton that is attached to her arms and legs. 
 
@@ -32,11 +32,17 @@ The Briggs family, now fighting side by side in their pursuit to save their belo
 
 ![](/uploads/game-2.png)
 
+Lincoln Clay is the protagonist of _Mafia III,_ and is a world-weary and embittered Vietnam war veteran who embarks on an epic journey to start a criminal empire in order avenge the death of his adopted family at the hands of a rival gang.  
+
+A calm and collected man who is galvanised by his thirst for revenge, Lincoln is the epitome of an anti-hero and is relentless in his war against the Marcano family. 
+
+Even though his desire to seize and replace rival gangs is not in itself a moral pursuit, he sees himself as a lesser of two evils and is resolute in trying to clean up and improve the mess made by other members of the mafia who have little regard for human life. 
+
 ### Barrett Wallace
 
 ![](/uploads/game-4.png)
 
-The quintessential tough guy with a big heart, Barrett Wallace rocketed t fame after appearing in the original _Final Fantasy VII_ and his appearance in last year's stellar remake has done nothing but increase his popularity and cement the reasons he is one of the most iconic black characters in video games. 
+The quintessential tough guy with a big heart, Barrett Wallace rocketed to fame after appearing in the original _Final Fantasy VII_ and his appearance in last year's stellar remake has done nothing but increase his popularity and cement the reasons he is one of the most iconic black characters in video games. 
 
 Sporting a railgun attached to his arm and a massive vendetta against the horrible Shinra Corporation, Barrett is determined to make the world a better place for his adopted daughter Marlene to grow up in. 
 
@@ -46,6 +52,6 @@ Sporting a railgun attached to his arm and a massive vendetta against the horrib
 
 Seeing as Gordon Freeman of _Half-Life 2_ fame gave rise to this annoying era of silent protagonists, much of the game's narrative and emotional heft was left up to its more than capable deuteragonist, one Alyx Vance.
 
-Alyx is the daughter of Eli and Azian Vance, and spent the majority of her childhood in the Black Mesa Research as her parents were both affiliated with the work being done there. 
+Alyx is the daughter of Eli and Azian Vance and spent the majority of her childhood in the Black Mesa Research as her parents were both affiliated with the work being done there. 
 
-After surviving the incident that occurred there along with her father, Alyx joins the resistance movement against the alien occupiers. She proves herself to be a capable strategist, combatant and hacker and is a serious boon to Freeman's efforts throughout _Half-Life 2_, even going on to star as the protagonist in her own prequel/ sequel _Half Life: Alyx._ 
+After surviving the incident that occurred there along with her father, Alyx joins the resistance movement against the alien occupiers. She proves herself to be a capable strategist, combatant and hacker and is a serious boon to Freeman's efforts throughout _Half-Life 2_, even going on to star as the protagonist in her own prequel/ sequel VR game _Half-Life: Alyx._ 
