@@ -36,6 +36,10 @@ The Briggs family, now fighting side by side in their pursuit to save their belo
 
 ![](/uploads/game-4.png)
 
+The quintessential tough guy with a big heart, Barrett Wallace rocketed t fame after appearing in the original _Final Fantasy VII_ and his appearance in last year's stellar remake has done nothing but increase his popularity and cement the reasons he is one of the most iconic black characters in video games. 
+
+Sporting a railgun attached to his arm and a massive vendetta against the horrible Shinra Corporation, Barrett is determined to make the world a better place for his adopted daughter Marlene to grow up in. 
+
 ### Alyx Vance
 
 ![](/uploads/game-3.png)
