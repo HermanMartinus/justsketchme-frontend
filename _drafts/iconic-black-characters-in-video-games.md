@@ -12,6 +12,10 @@ author: Dante Ludolf
 
 ![](/uploads/game-1.png)
 
+Starring in the super underrated game _Remember Me_, Nilin is a memory hacker that hails from a cyberpunk-y futuristic Paris and sets off to uncover her past and a wealth of technocratic conspiracies after having her own memory wiped. 
+
+Developed by Dontnod games of _Life is Strange_ fame, _Remember Me_ is by no means a perfect game but it is damn interesting and visually stunning. Nilin is also an absolute rarity, a black female protagonist in a AAA game. If you can find it, try giving this game a go it is a breath of fresh air in an otherwise stale and male-oriented genre.
+
 ### Jax and Jacqui Briggs
 
 ![](/uploads/game-5.png)
