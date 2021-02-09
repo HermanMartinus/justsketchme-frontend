@@ -43,3 +43,9 @@ Sporting a railgun attached to his arm and a massive vendetta against the horrib
 ### Alyx Vance
 
 ![](/uploads/game-3.png)
+
+Seeing as Gordon Freeman of _Half-Life 2_ fame gave rise to this annoying era of silent protagonists, much of the game's narrative and emotional heft was left up to its more than capable deuteragonist, one Alyx Vance.
+
+Alyx is the daughter of Eli and Azian Vance, and spent the majority of her childhood in the Black Mesa Research as her parents were both affiliated with the work being done there. 
+
+After surviving the incident that occurred there along with her father, Alyx joins the resistance movement against the alien occupiers. She proves herself to be a capable strategist, combatant and hacker and is a serious boon to Freeman's efforts throughout _Half-Life 2_, even going on to star as the protagonist in her own prequel/ sequel _Half Life: Alyx._ 
