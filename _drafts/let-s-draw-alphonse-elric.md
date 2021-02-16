@@ -10,3 +10,26 @@ image: "/uploads/alphonseelricep7.png"
 author: Dante Ludolf
 
 ---
+### **Step 1**: 
+
+Build a basic form of armour with the primitives found on the Justsketchme app.
+
+### **Step 2:** 
+
+Import the png into photoshop and give yourself a colour background. Add any reference images you'll need for the specific character pose.
+
+### **Step 3**: 
+
+Set the Justsketchme character model to 50% opacity. Do a rough layout of the details and forms of the armour. Pro tip: Using a different colour to do the rough sketch makes it easier to redraw the lines afterwards.
+
+### **Step 4**: 
+
+Redraw the lines with a thinner brush and make sure everything is neat and ready for the next step.
+
+### **Step 5**: 
+
+Colouring. Keep the initial body colour solid and make all the shadow layers on separate layers so you can select them separately if needed. Als add colour to the helmet arms and shoulders.
+
+### **Step 6**:
+
+My favourite part is adding the highlights and shadows to give the shiny chrome effect of steel. Pro tip: place your original Justsketchme character model next to your sketch so you can cross-reference the source of the light and where shadows will fall on your character.
