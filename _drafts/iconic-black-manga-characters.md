@@ -22,6 +22,8 @@ In a feudal yet futuristic world, populated by cyborgs and ninjas and men with g
 
 ### Yoruichi Shihōin
 
+A former Shinigami captain and also sometimes a cat, Yoruichi is a formidable warrior and knowledgable asset to the ragtag cast of would-be soul reapers in _Bleach_.
+
 ![](/uploads/anime-1.png)
 
 ### Atsuko Jackson
