@@ -14,13 +14,11 @@ author: Dante Ludolf
 
 ![](/uploads/anime-4.png)
 
-### Yoruichi Shihouin 
-
-![](/uploads/9-1.png)
+### Yoruichi Shihouin
 
 ![](/uploads/anime-1.png)
 
-### Michiko Malandro & Atsuko Jackson
+### Atsuko Jackson
 
 ![](/uploads/12-2.png)
 
