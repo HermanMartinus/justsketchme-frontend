@@ -26,7 +26,7 @@ A former Shinigami captain and also sometimes a cat, Yoruichi is a formidable wa
 
 Yoruichi is one, if not the fastest, characters in _Bleach_ and is highly skilled in the arts of Hoho, Hakuda and Shunpo. She holds the title of 'Flash Goddess' and has been known to decimate entire armies with her speed and agility. 
 
-She has a rich and complicated past, being born into nobility and leaving the ranks of the Shinigami to pursue a different life. Her rivalry with fellow Soul Reaper Sui Fong is also extremely intriguing, and their frenetic and super fast fight is one of the best of the entire series.
+She has a rich and complicated past, being born into nobility and leaving the ranks of the Shinigami to pursue a different life. Her rivalry with fellow Soul Reaper Sui Fong is also extremely intriguing, and their frenetic and super-fast fight is one of the best of the entire series.
 
 ![](/uploads/anime-1.png)
 
