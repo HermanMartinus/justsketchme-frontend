@@ -12,6 +12,10 @@ author: Dante Ludolf
 
 ### Afro Samurai 
 
+You'd be hard-pressed to find another character as versed in the art of killing as the inimitable Afro Samurai. 
+
+A lone killer on a quest for revenge, Afro Samurai is at the centre of a story so crazy, deranged and hyperbolic that it could only exist in anime form. A revenge saga for the ages, there's no way you can watch this quiet and determined warrior cut his way to vengeance and not walk away thinking it is one of the coolest things you've ever seen.
+
 ![](/uploads/anime-4.png)
 
 ### Yoruichi Shihouin
