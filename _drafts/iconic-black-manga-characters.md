@@ -51,3 +51,7 @@ Whether wielding his favourite Walter P999, a katana or his trademark charm, Jet
 ![](/uploads/anime-6.png)
 
 ### Muhammed Avdol
+
+A serious, resolute and righteous fighter is bound to stand out amongst the more flamboyant and overt characters that populate the frenzied world of _Jojo's Bizarre Adventure_, and Muhammed Avdol is exactly that. 
+
+A tall and imposing Egyptian man with a penchant for wielding magical fire and a deep knowledge of Tarot, Avdol is nothing if not an extremely specific and niche character, which is ultimately what makes him so enduring and continuously appealing. 
