@@ -55,3 +55,5 @@ Whether wielding his favourite Walter P999, a katana or his trademark charm, Jet
 A serious, resolute and righteous fighter is bound to stand out amongst the more flamboyant and overt characters that populate the frenzied world of _Jojo's Bizarre Adventure_, and Muhammed Avdol is exactly that. 
 
 A tall and imposing Egyptian man with a penchant for wielding magical fire and a deep knowledge of Tarot, Avdol is nothing if not an extremely specific and niche character, which is ultimately what makes him so enduring and continuously appealing. 
+
+Joining Jospeh Joestar's group in their efforts to defeat the evil DIO, Avdol is a force to be reckoned with and an iconic character that will stand the test of time for sure. 
