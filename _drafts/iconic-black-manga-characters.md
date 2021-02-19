@@ -42,6 +42,8 @@ She is incredibly vicious and hellbent on destroying Michiko forever, as she end
 
 ### Jet Black 
 
+All of the characters in _Cowboy Bebop_ are iconic in their own right and stand to show what can be achieved in terms of characterisation through the medium, but the gruff, tough and protective Jet stands out amongst his motley crew.
+
 ![](/uploads/anime-6.png)
 
 ### Muhammed Avdol
