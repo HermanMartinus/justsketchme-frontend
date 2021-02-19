@@ -44,7 +44,7 @@ She is incredibly vicious and hellbent on destroying Michiko forever, as she end
 
 All of the characters in _Cowboy Bebop_ are iconic in their own right and stand to show what can be achieved in terms of characterisation through the anime medium, but the gruff, tough and protective Jet stands out amongst his motley crew.
 
-Wielding a bionic arm and a lengthy frame, Jet is one of the most dangerous and feared bounty hunters in the galaxy - and rightly so. 
+Sporting a bionic arm and a lengthy frame, Jet is one of the most dangerous and feared bounty hunters in the galaxy - and rightly so. 
 
 Whether wielding his favourite Walter P999, a katana or his trademark charm, Jet is always a stable and calming presence amongst his more emotionally volatile peers and acts as the perfect foil to their antics. 
 
