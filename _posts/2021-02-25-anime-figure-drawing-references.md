@@ -2,9 +2,7 @@
 title: Anime figure drawing references
 date: 2021-02-24 22:00:00 +0000
 permalink: anime-figure-drawing-reference
-description: "We all love anime, and deep down we're all secretly yearning to make
-  our own. Have a look and see how JustSketchMe can help you in your anime and manga
-  drawing efforts."
+description: "We all love anime, and deep down we're all secretly yearning to make our own. Have a look and see how JustSketchMe can help you in your anime and manga drawing efforts."
 image: "/uploads/1-5.png"
 author: Dante Ludolf
 
