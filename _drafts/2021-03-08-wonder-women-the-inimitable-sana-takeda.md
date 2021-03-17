@@ -1,8 +1,9 @@
 ---
 title: 'Wonder Women: The inimitable Sana Takeda'
-date: 2021-03-08 22:00:00 +0000
+date: 2021-03-08T22:00:00.000+00:00
 permalink: sana-takeda-justsketchme
-description: In honour of Women's History Month, we are going to spotlight some of the amazing ladies at the forefront of comic, manga and digital art.
+description: In honour of Women's History Month, we are going to spotlight some of
+  the amazing ladies at the forefront of comic, manga and digital art.
 image: "/uploads/maika_parts_02.jpg"
 author: Dante Ludolf
 
