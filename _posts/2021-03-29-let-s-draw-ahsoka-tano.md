@@ -12,7 +12,7 @@ author: Marlize Eckard
 
 ### Step 1:
 
-Create the perfect pose on the JustSketchMe app
+Create the perfect pose on the JustSketchMe app.
 
 ![](/uploads/ahsoka-2.png)
 
