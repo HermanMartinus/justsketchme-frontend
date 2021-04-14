@@ -23,7 +23,7 @@ Here are a few examples of poses that you can use in different cases to accentua
 
 ![](/uploads/outfit-2.png)
 
-A pose like this is great because it immediately frames your character as someone of stature and rank. If you've got a snobbish queen in your story, use a pose like this combined with a regal and opulent outfit to create a sense of superiority to her. 
+A pose like this is great because it immediately frames your character as someone of stature and rank. If you've got a snobbish queen in your story, use a pose like this combined with a regal and opulent outfit to create a sense of superiority to her. Regalia? Never met her. 
 
 ### Jumping into the fray:
 
@@ -35,6 +35,10 @@ Poses like this one are great because you get to emphasise an action within a sc
 
 ![](/uploads/outfit-1.png)
 
+You know the vibe. You're drunk on ale, you've just had a fistfight with a rude bard and you need to check on your horse before you wobble back inside and go to bed at the inn. Suddenly, a mysterious stranger is behind you, offering a warning and a snide remark. What is she wearing? Oh, a scantily clad bikini in the middle of the snowy night. Oh well, at least she's wearing a cape to hide her bow and arrows. 
+
 ### Introducing yourself sword first:
 
 ![](/uploads/outfit-4.png)
+
+Think Wonder Woman, think Rey from Star Wars, think Iron Man properly suiting up for the first time. Angles and poses like this one work as a perfect two-way introduction to your character. First, let's say this is the first time your reader sees them as a warrior capable of battle. The hand drawing the sword from the back, and the stance showing their readiness to engage. Secondly, it introduces them to their costume or fighting garb, and the pose allows them to take it in and get a memorable impression of their new favourite character ever (hopefully). 
