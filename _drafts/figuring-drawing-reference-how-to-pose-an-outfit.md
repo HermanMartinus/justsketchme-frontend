@@ -18,3 +18,23 @@ You know sometimes it is just so easy to deck your highland warrior out in a flo
 Just like poses can convey action and intention in a scene, they can also work alongside other visual aspects like costume design to annunciate elements of your character and help the reader or viewer to contextualise them and even understand them as a person, and not just a character.
 
 Here are a few examples of poses that you can use in different cases to accentuate both the look you so carefully crafted and the character wearing them. 
+
+### Look down on the peasants:
+
+![](/uploads/outfit-2.png)
+
+A pose like this is great because it immediately frames your character as someone of stature and rank. If you've got a snobbish queen in your story, use a pose like this combined with a regal and opulent outfit to create a sense of superiority to her. 
+
+### Jumping into the fray:
+
+![](/uploads/outfit-3.png)
+
+Poses like this one are great because you get to emphasise an action within a scene as well as the costume at hand. Perhaps draw billowing sleeves or skirts as a way to make it clear that your character is leaping toward a victim and snarling all the way. Imagine Dracula's Bride in a pose like this, and you get the idea how pose and costume can perfectly inform character, and vice versa.
+
+### You will meet a sneaky fiend in a back alley:
+
+![](/uploads/outfit-1.png)
+
+### Introducing yourself sword first:
+
+![](/uploads/outfit-4.png)
