@@ -16,3 +16,5 @@ But we often run into trouble when trying to:
 You know sometimes it is just so easy to deck your highland warrior out in a flowing cape and a hulking great sword and set off to make them cool and dynamic. Then, when the sketch is nearing the final stages you realise to your utmost horror that you posed them like a pious nun and not at all like a fierce warrior.
 
 Just like poses can convey action and intention in a scene, they can also work alongside other visual aspects like costume design to annunciate elements of your character and help the reader or viewer to contextualise them and even understand them as a person, and not just a character.
+
+Here are a few examples of poses that you can use in different cases to accentuate both the look you so carefully crafted and the character wearing them. 
