@@ -41,3 +41,5 @@ A character sheet like the one above allows you to see how the same outfit or un
 ![](/uploads/5-t.png)
 
 ### Don't use it as a jumping-off point
+
+The T pose is great for reference and providing information to ensure your characters and designs remain consistent across the board. They are not, however, great for starting off on a design. The stiff and one-dimensional aspect of the pose often has that same effect on everything you are trying to create. Thus, we suggest going about your initial character sketches by showing them _in situ_ or in action and using the T pose to really nail and define whatever is you want to stand out about them. 
