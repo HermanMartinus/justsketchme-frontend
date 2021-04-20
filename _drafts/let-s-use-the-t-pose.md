@@ -28,13 +28,15 @@ If you are working with a cast of characters, chances are they are not going to 
 
 Creating a character sheet that includes every of your character's size and stature is a great way to not get mixed up when you are planning and drawing your panels. If Character A is gigantic in one frame and considerably less so in the next, then you're gonna have some trouble keeping things consistent in terms of characterisation and narrative as well. 
 
-![](/uploads/6-t.png)
-
-### Use it for reference 
-
 ![](/uploads/t-pose-blog-1.png)
 
 ### Use it to indicate association
+
+Sometimes you'll have multiple characters that belong to the same organization or group, and perhaps they are even wearing the same thing. 
+
+Think about the Dora Milaje from Black Panther and The Falcon and the Winter Soldier. They all belong to the same order, but they are slightly different in their frames and sizes. 
+
+A character sheet like the one above allows you to see how the same outfit or uniform might look on all of them, and keep track of those differences. 
 
 ![](/uploads/5-t.png)
 
