@@ -3,7 +3,7 @@ title: Plan your comic panels with JustSketchMe
 date: 2021-04-22 22:00:00 +0000
 permalink: how-to-plan-comic-panels-justsketchme
 description: 'Planning makes perfect. '
-image: ''
+image: "/uploads/panel-11.png"
 author: Dante Ludolf
 
 ---
@@ -24,5 +24,29 @@ LUCKILY, there’s an app for that. Well, kind of.
 Take a look below at how, with a bit of finesse and creativity, you can use our ol’ app to help you plan your panels without touching pen to paper (just yet). This way, you can nail angles and scene exposition and have a perfect jumping-off point for when you're ready to crank out some dope comic stuff.
 
 So without further ado, here’s the critically acclaimed **_Awkward Boardroom Meeting:_**
+
+![](/uploads/panel-1.png)
+
+![](/uploads/panel-2.png)
+
+![](/uploads/panel-3.png)
+
+![](/uploads/panel-4.png)
+
+![](/uploads/panel-5.png)
+
+![](/uploads/panel-6.png)
+
+![](/uploads/panel-7.png)
+
+![](/uploads/panel-8.png)
+
+![](/uploads/panel-9.png)
+
+![](/uploads/panel-10.png)
+
+![](/uploads/panel-11.png)
+
+![](/uploads/panel-12.png)
 
 We think it works pretty well, let us know if you have any other ingenious ways to make use of JustSketchMe and we’ll feature them.
