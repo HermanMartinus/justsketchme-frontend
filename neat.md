@@ -8,14 +8,66 @@ published: false
 ---
 ### Things to watch 
 
+drawfee
+
+ThorHighHeels
+
+The Sphere Hunter
+
+[http://www.thebridgepod.com/](http://www.thebridgepod.com/ "http://www.thebridgepod.com/")
+
 ### Things to learn 
 
-drawfee
+justsketch.me/learn
+
+[https://www.youtube.com/user/Kurzgesagt](https://www.youtube.com/user/Kurzgesagt "https://www.youtube.com/user/Kurzgesagt")
+
+[https://www.youtube.com/channel/UCR427OqwOrf_APbG8oIP14A](https://www.youtube.com/channel/UCR427OqwOrf_APbG8oIP14A "https://www.youtube.com/channel/UCR427OqwOrf_APbG8oIP14A")
 
 ### Things to play 
 
 itch.io
 
+[https://www.generatormix.com/mythical-creatures-generator](https://www.generatormix.com/mythical-creatures-generator "https://www.generatormix.com/mythical-creatures-generator")
+
+[https://www.character-generator.org.uk/](https://www.character-generator.org.uk/ "https://www.character-generator.org.uk/")
+
 ### Things to use
 
-cgtrader 
+[https://free3d.com/](https://free3d.com/ "https://free3d.com/")
+
+darek zabrocki brushes 
+
+rezkhan brushes 
+
+nanda's real pen and marker brushes 
+
+### Things to read
+
+[http://dresdencodak.com/](http://dresdencodak.com/ "http://dresdencodak.com/")
+
+[https://dinosandcomics.com/](https://dinosandcomics.com/ "https://dinosandcomics.com/")
+
+Saturday am 
+
+Artists we love (and love to work with) 
+
+snacktoast 
+
+Carolina alvarez 
+
+eyuki leaf 
+
+the spidey bugle 
+
+alida loubser 
+
+marlize eckard 
+
+betsy doodles 
+
+mio mio doodles 
+
+jey odin 
+
+fong fu master 
