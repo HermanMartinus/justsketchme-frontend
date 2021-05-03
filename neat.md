@@ -8,13 +8,11 @@ published: false
 ---
 ### Things to watch 
 
-drawfee
+Drawfee
 
 ThorHighHeels
 
 The Sphere Hunter
-
-[http://www.thebridgepod.com/](http://www.thebridgepod.com/ "http://www.thebridgepod.com/")
 
 ### Things to learn 
 
@@ -40,7 +38,7 @@ darek zabrocki brushes
 
 rezkhan brushes 
 
-nanda's real pen and marker brushes 
+deharme 
 
 ### Things to read
 
