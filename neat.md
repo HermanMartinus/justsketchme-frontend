@@ -6,23 +6,31 @@ image: "/images/screenshots/moved.png"
 published: false
 
 ---
-### Things to watch 
+### Things to watch
 
-Drawfee
+![](/uploads/dd9w1w9-65452fbb-3ee0-487d-9177-9199c3f83fa1.jpeg)Drawfee
+
+![](/uploads/channels4_banner.jpeg)
 
 ThorHighHeels
 
+![](/uploads/maxresdefault.jpeg)
+
 The Sphere Hunter
 
-### Things to learn 
+### Things to learn
 
 justsketch.me/learn
 
+![](/uploads/63565101.png)
+
 [https://www.youtube.com/user/Kurzgesagt](https://www.youtube.com/user/Kurzgesagt "https://www.youtube.com/user/Kurzgesagt")
+
+![](/uploads/screenshot-2021-05-03-at-12-31-48.png)
 
 [https://www.youtube.com/channel/UCR427OqwOrf_APbG8oIP14A](https://www.youtube.com/channel/UCR427OqwOrf_APbG8oIP14A "https://www.youtube.com/channel/UCR427OqwOrf_APbG8oIP14A")
 
-### Things to play 
+### Things to play
 
 itch.io
 
@@ -34,11 +42,11 @@ itch.io
 
 [https://free3d.com/](https://free3d.com/ "https://free3d.com/")
 
-darek zabrocki brushes 
+darek zabrocki brushes
 
-rezkhan brushes 
+rezkhan brushes
 
-deharme 
+deharme
 
 ### Things to read
 
@@ -46,26 +54,26 @@ deharme
 
 [https://dinosandcomics.com/](https://dinosandcomics.com/ "https://dinosandcomics.com/")
 
-Saturday am 
+Saturday am
 
-Artists we love (and love to work with) 
+Artists we love (and love to work with)
 
-snacktoast 
+snacktoast
 
-Carolina alvarez 
+Carolina alvarez
 
-eyuki leaf 
+eyuki leaf
 
-the spidey bugle 
+the spidey bugle
 
-alida loubser 
+alida loubser
 
-marlize eckard 
+marlize eckard
 
-betsy doodles 
+betsy doodles
 
-mio mio doodles 
+mio mio doodles
 
-jey odin 
+jey odin
 
-fong fu master 
+fong fu master
