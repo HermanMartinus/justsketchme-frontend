@@ -1,9 +1,8 @@
 ---
-title: Things we think you'd like!
+title: That's neat!
 permalink: "/neat/"
 description: 'Explore the www and let us be your tour guides. '
 image: "/images/screenshots/moved.png"
-published: false
 
 ---
 Henlo frenz, 
@@ -80,11 +79,11 @@ If you like painting and blending and doing the swoosh things, these [Rezkhan](h
 
 ### Things to read
 
-[http://dresdencodak.com/](http://dresdencodak.com/ "http://dresdencodak.com/")
+[Dresden Codak](http://dresdencodak.com/)
 
-[https://dinosandcomics.com/](https://dinosandcomics.com/ "https://dinosandcomics.com/")
+[Dinos and Comics ](https://dinosandcomics.com/)
 
-Saturday am
+[Saturday AM](https://www.saturday-am.com/)
 
 ### Artists we love (and love to work with)
 
