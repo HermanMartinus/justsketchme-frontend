@@ -68,15 +68,15 @@ If you're a writer and you're in need of flexing your muscles, head  here and ge
 
 ![](/uploads/11-droz-brushes-gimp.jpeg)
 
-darek zabrocki brushes
+[Darek Zabrocki](https://www.deviantart.com/darekzabrocki/art/FREE-PHOTOSHOP-BRUSHES-DAREK-ZABROCKI-BRUSH-SET-431393487) is a renowned artist in his own right, and his brush selection is reeeeal good too. A nice selection of good things to help you get your handle on brushes. See what we did there.  
 
 ![](/uploads/d5tmmhk-c8848b23-33b4-41fd-8968-57559cf6d5eb.jpeg)
 
-rezkhan brushes
+If you like painting and blending and doing the swoosh things, these [Rezkhan](https://www.deviantart.com/rezshirmeen/art/RezKhan-Brushes-2013-352095320) brushes are super good for that. 
 
 ![](/uploads/d779u6q-1c1a07b7-825d-48f0-8fee-7c0131d8ef64.jpeg)
 
-deharme
+[Deharme](https://www.deviantart.com/deharme/art/Deharme-BRUSHES-Photoshop-CC-435479570)'s brush has everything you could ever have wanted from a brush set. That's it, that's the tweet. 
 
 ### Things to read
 
@@ -88,22 +88,38 @@ Saturday am
 
 ### Artists we love (and love to work with)
 
-snacktoast
+Hunter Waldera
 
-Carolina alvarez
+![](/uploads/ef_pbpxwsaap_o0.jpeg)
 
-eyuki leaf
+Carolina Alvarez
 
-the spidey bugle
+![](/uploads/look-6.png)
+
+Alida Loubser
+
+Eyuki Leaf
+
+![](/uploads/screenshot-2021-05-04-at-13-35-31.png)
+
+The Spidey Bugle
 
 alida loubser
 
-marlize eckard
+![](/uploads/mikasa-5.png)
+
+Marlize Eckard
+
+![](/uploads/eputnurxmaardrf.jpeg)
 
 betsy doodles
 
 mio mio doodles
 
+![](/uploads/epsdba4xyaarv_a.jpeg)
+
 jey odin
 
-fong fu master
+![](/uploads/erviugavcaavmud.jpeg)
+
+Oscar Fong
