@@ -10,7 +10,7 @@ author: Dante Ludolf
 ---
 ![](/uploads/mv5bztqxyze0ngetogy5zi00ntkyltkwzdetytk4ogvhntc3mddixkeyxkfqcgdeqxrodw1ibmfpbc1pbml0awfsaxplcg-_v1_.jpg)
 
-### Lu Over the Wall
+### [Lu Over the Wall](https://www.youtube.com/watch?v=8eN5QnoNhx0&ab_channel=GKIDSFilms)
 
 Masaaki Yuasa is a verified genius, so it was safe to say that his 2017 punk rock mermaid saga would not detract from his body of work.
 
@@ -22,7 +22,7 @@ This leads to complicated hijinks and hilarity, and somehow these unlikely frien
 
 ![](/uploads/6142-header_mermaidsaga_2000x800.jpeg)
 
-### Mermaid Saga
+### [Mermaid Saga](https://www.youtube.com/watch?v=S3Sh9bzAsEA&ab_channel=AnimeSiries)
 
 While most of the anime on this list are cute and light-hearted, Rumiko Takashi (of Inuyasha and Ranma 1/2 fame) has created a series in Mermaid Saga that is anything but.
 
@@ -34,7 +34,7 @@ Give this one a chance if you like slow burn and eerie character-driven anime.
 
 ![](/uploads/ponyo-still.jpeg)
 
-### Ponyo
+### [Ponyo](https://www.youtube.com/watch?v=bskgNOXbdiE&ab_channel=WaltDisneyAnimationStudios)
 
 No mermaid anime list could be complete without the eponymous Ponyo! Being Hayao Miyazaki’s take on Hans Christian Anderson’s classic, The Little Mermaid, Ponyo is at once familiar and completely original and is one of the rare films that truly captures the sensibility of being for all ages.
 
@@ -48,10 +48,14 @@ Plus: If you think Lady Dimitrescu from RE: Village is the big beauty your dream
 
 ![](/uploads/children-of-the-sea-review.jpeg)
 
-### Children of the Sea
+### [Children of the Sea](https://www.youtube.com/watch?v=7WL_4mwpZ0I&ab_channel=MovieclipsIndie)
 
 So this one was a bit tough, as there exists another anime that is really quite similar and almost just as good called A Lull in the Sea, but Children of the Sea wins because of its unique and gorgeous art style that truly evokes a feeling of water and maritime whimsy.
 
 After a few spats with family and friends, Ruka decides to spend her summer hanging out at the aquarium and marine centre where her father works. There, she meets two curious boys who were raised by, wait for it, dugongs. These boys share aquatic traits never before witnessed in mammals or humans, and thus researchers have taken an interest.
 
 Before long, the three teens find themselves embroiled in a sea-spanning adventure and a series of events that would change the world forever.
+
+### Happy #Mermay everyone!
+
+![](/uploads/justsketchme-screenshot-2.png)
