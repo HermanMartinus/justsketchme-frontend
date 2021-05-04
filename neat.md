@@ -88,38 +88,42 @@ Saturday am
 
 ### Artists we love (and love to work with)
 
-Hunter Waldera
+![](/uploads/screenshot-2021-05-04-at-13-39-15.png)
+
+[Hunter Waldera](https://www.instagram.com/snacktoast/)
 
 ![](/uploads/ef_pbpxwsaap_o0.jpeg)
 
-Carolina Alvarez
+[Carolina Alvarez](https://twitter.com/CarlzSays)
 
 ![](/uploads/look-6.png)
 
-Alida Loubser
+[Alida Loubser](https://www.instagram.com/artofalida/)
 
-Eyuki Leaf
+![](/uploads/screenshot-2021-05-04-at-13-37-58.png)
+
+[Eyuki Leaf]()
 
 ![](/uploads/screenshot-2021-05-04-at-13-35-31.png)
 
-The Spidey Bugle
+[The Spidey Bugle](https://twitter.com/TheSpideyBugle)
 
 alida loubser
 
 ![](/uploads/mikasa-5.png)
 
-Marlize Eckard
+[Marlize Eckard](https://www.instagram.com/voilent_vi/)
 
 ![](/uploads/eputnurxmaardrf.jpeg)
 
-betsy doodles
+[Betsy Doodles](https://www.instagram.com/betsy_doodles/)
 
 mio mio doodles
 
 ![](/uploads/epsdba4xyaarv_a.jpeg)
 
-jey odin
+[Jey Odin](https://twitter.com/JeyOdin)
 
 ![](/uploads/erviugavcaavmud.jpeg)
 
-Oscar Fong
+[Oscar Fong](https://twitter.com/fongfumaster)
