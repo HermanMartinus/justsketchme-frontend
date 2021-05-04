@@ -6,21 +6,29 @@ image: "/images/screenshots/moved.png"
 published: false
 
 ---
+Henlo frenz, 
+
+Herman, Simon and Dante here. 
+
+Here's our collective list of things we like and think you might too. 
+
+If you have anything to add or suggest, please drop us a [mail](dante@justsketch.me). 
+
 ### Things to watch
 
-![](/uploads/dd9w1w9-65452fbb-3ee0-487d-9177-9199c3f83fa1.jpeg)Drawfee
+![](/uploads/dd9w1w9-65452fbb-3ee0-487d-9177-9199c3f83fa1.jpeg)[Drawfee]()
 
-Four friends get together and draw whack things. It really is that simple and also completely not! A wonderful way to spend your time and something truly worthy of your attention, Drawfee is fun, funny and super inspirational to artists everywhere
+Four friends get together and draw whack things. It really is that simple and also completely not! A wonderful way to spend your time and something truly worthy of your attention, Drawfee is fun, funny and super inspirational to artists everywhere. It's also, as they say, people turning dumb ideas into dumb drawings and... that just sounds really good.
 
 ![](/uploads/channels4_banner.jpeg)
 
-Thor High Heels 
+[Thor High Heels](https://www.youtube.com/user/ThorHighHeels) 
 
 Ever wondered what happened to the games of yesteryear forgotten by time and corporate greed? Thor High Heels has truly got you covered. From looks into the libraries of long lost consoles to explorations of your favourite publishers' forgotten games, this channel is a must. 
 
 ![](/uploads/maxresdefault.jpeg)
 
-The Sphere Hunter
+[The Sphere Hunter]()
 
 Speaking of video games, Suzi Hunter of Sphere Hunter fame has got to be one of the best gamers on the ol' Youtube. She does reviews, yes, but she also waxes poetic on her favourite games and does a great job of setting the mood and tone of her videos to the games she's talking about, giving people a double whammy introduction that is as fun as it is informative.
 
