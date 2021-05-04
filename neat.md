@@ -32,19 +32,29 @@ justsketch.me/learn
 
 [Kurzgesagt](https://www.youtube.com/user/Kurzgesagt)
 
+Got a question about...well, anything? You're probably gonna find the answer here and have a good time doing it.
+
 ![](/uploads/screenshot-2021-05-03-at-12-31-48.png)
 
 [CarzSays](https://www.youtube.com/channel/UCR427OqwOrf_APbG8oIP14A)
+
+Our regular contributor and super skilled artist Carolina Alvarez is one to watch. Expert skills and hacks and a super great aesthetic is to be found here. Her [Twitter](https://twitter.com/CarlzSays) is a pretty fun place too.
 
 ### Things to play
 
 ![](/uploads/collections-1x.png)
 
-itch.io
+[Itch](itch.io)
 
-[https://www.generatormix.com/mythical-creatures-generator](https://www.generatormix.com/mythical-creatures-generator "https://www.generatormix.com/mythical-creatures-generator")
+Play cool, little games. 'Nuff said.
 
-[https://www.character-generator.org.uk/](https://www.character-generator.org.uk/ "https://www.character-generator.org.uk/")
+[Mythical Creature Generator](https://www.generatormix.com/mythical-creatures-generator)
+
+This site generates random creatures that you probably didn't think of. Great to use as a prompt for drawing or for populating your D&D games with scary nasties. 
+
+[Character Generator](https://www.character-generator.org.uk/)
+
+If you're a writer and you're in need of flexing your muscles, head  here and get a fresh character to use as a jumping-off point for your next scribe session.
 
 ### Things to use
 
