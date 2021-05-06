@@ -4,7 +4,7 @@ date: 2021-05-05 22:00:00 +0000
 permalink: cool-mermaid-movies-mermay
 description: 'For #Mermay, we''re going under and taking a look at some of our favourite
   mermaid or mermaid-adjacent characters in pop culture. Set sail!'
-image: ''
+image: "/uploads/fghgjfjghgjhgh.png"
 author: Dante Ludolf
 
 ---
