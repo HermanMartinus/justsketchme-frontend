@@ -8,6 +8,8 @@ image: "/uploads/fghgjfjghgjhgh.png"
 author: Dante Ludolf
 
 ---
+![](/uploads/41b9f0f0a466843ff5c47e6684279f57.jpeg)
+
 **She-Creature**
 
 So this is a pretty low budget entry on the list, but it sure is creepy and perfect for people who like a bit of a Victorian tinge to their mermaid fiction.
@@ -15,6 +17,8 @@ So this is a pretty low budget entry on the list, but it sure is creepy and perf
 When two curmudgeonly guys manage to capture a real live mermaid in an era where their presence at fairs and cabinets of curiosities are extremely popular, all hell breaks loose when one too many people take an interest in the mythical being.
 
 She Creature veers from spooky to downright disgusting real quick, so tread carefully and try not to gawk at the bad VFX too much!
+
+![](/uploads/65b7a6b025f57e3dd24e8b8dc9e110a4.jpeg)
 
 **The Lighthouse**
 
@@ -26,9 +30,13 @@ It is a truly difficult film to describe, but basically, it’s about two wickie
 
 It’s a crazy, crazy film and the mermaid that one of the wickies encounters is both grotesque and mesmerising.
 
+![](/uploads/000069-26559-16196_thelure_still1_michalinaolszanska__byrobertpalka_-_h_2016.jpeg)
+
 **The Lure**
 
 A polish mermaid musical about two slimy and carnivorous mermaids who join a revue club and become the main attraction. Just… watch it.
+
+![](/uploads/the-mermaid-2016-1200-1200-675-675-crop-000000.jpeg)
 
 **The Mermaid**
 
@@ -37,6 +45,8 @@ An arrogant and selfish tycoon snatches up a coastal wildlife reserve known as t
 He soon discovers that his efforts have disrupted and disturbed a tribe of mermaids, who take it to task to assassinate him and save their home.
 
 The Mermaid is hysterical and over the top and heartwarming and truly just a great time. Fingers crossed there’s a number two!
+
+![](/uploads/fghgjfjghgjhgh.png)
 
 **A Mermaid in Paris** 
 
