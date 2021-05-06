@@ -50,7 +50,7 @@ The Mermaid is hysterical and over the top and heartwarming and truly just a gre
 
 **A Mermaid in Paris** 
 
-Okay so this one is a bit, for lack of a better word, hipster but it's a lovely and inspiring experience nonetheless. 
+Okay so this one, for lack of a better word, is a bit hipster but it's a lovely and inspiring experience nonetheless. 
 
 After stumbling upon a mermaid in dire need of a rescuer, a man takes her in and slowly starts falling in love with her. 
 
