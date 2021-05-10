@@ -11,6 +11,10 @@
   link: /gallery/
   new_window: false
   highlight: false
+- name: FAQ
+  link: /faq/
+  new_window: false
+  highlight: false
 - name: Learn
   link: /learn/
   new_window: false
