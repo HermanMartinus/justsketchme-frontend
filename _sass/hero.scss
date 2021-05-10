@@ -55,23 +55,19 @@
     
         .sam {
           position: absolute;
-          top: -20px;
-          left: 0;
-          transform: scale(1.1,1.1);
+          bottom: -20px;
+          left: calc(50% - 160px);
           opacity: 0;
           transition-duration: 1s;
           transition-timing-function: ease-in;
+          transform: scale(1.2);
+          width: 320px;
 
           &.back {
           }
           &.mid {
-            &:hover,
-            &.faded {
-              opacity: 20%;
-            }
           }
           &.fore {
-            pointer-events: none;
           }
 
           &.show {
