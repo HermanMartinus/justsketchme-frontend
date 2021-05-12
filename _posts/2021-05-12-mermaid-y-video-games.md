@@ -30,7 +30,7 @@ Beyond Blue is very much an exercise in education, and evokes the same feeling a
 
 # [Abzu]()
 
-Okay but this is the best underwater game ever made. Subnautica? Never met her. Abzu's development team consists of some of the visionaries who worked on Journey, another game that moved the needle for the entire industry. Abzu doesn't move any needles, per se, but it does throw you into a hauntingly beautiful and often spectacular underwater world that feels alive and pulsing. You play as a reconnaissance robot (I think) and as you explore the dazzling depths you slowly start to realise there might be a little more to it than that. The game features no dialogue and relies heavily on visual storytelling to forward its plot, but oh my God it's so much better for it. Please play this game, it's a thing of rare beauty. 
+Okay but this is the best underwater game ever made. Subnautica? Never met her. Abzu's development team consists of some of the visionaries who worked on Journey, another game that moved the needle for the entire industry. Abzu doesn't move any needles, per se, but it does throw you into a hauntingly beautiful and often spectacular underwater world that feels alive and pulsing. You play as a reconnaissance robot (I think) and as you explore the dazzling depths you slowly start to realise there might be a little more to this world than you originally thought. The game features no dialogue and relies heavily on visual storytelling to forward its plot, but oh my God it's so much better for it. Please play this game, it's a thing of rare beauty. 
 
 ![](/uploads/mermagame-2.jpg)
 
