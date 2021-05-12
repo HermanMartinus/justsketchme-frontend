@@ -36,7 +36,11 @@ Okay but this is the best underwater game ever made. Subnautica? Never met her. 
 
 # Shantae and the Seven Sirens
 
-gfdgdffgfdg
+A while back there was chatter that Shantae was going to be the next Pokémon-esque franchise for Nintendo, with hopes to turn it into one of the sprawling media franchises its IP's are so known for. 
+
+That hasn't really happened yet, but Shantae is nevertheless a darling and daring hero who inhabits a world ripe for exploring and adventuring. 
+
+In the Seven Sirens, our half-genie hero is dropped in the middle of a surprisingly vast tropical oasis, complete with half-sunken cities and, yes, seven sirens to duke it out with!
 
 ![](/uploads/mermagame-4.jpg)
 
