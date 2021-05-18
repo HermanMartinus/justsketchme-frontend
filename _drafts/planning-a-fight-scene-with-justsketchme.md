@@ -23,13 +23,11 @@ Next, try misdirecting the viewer even if you both know what's about to go down.
 
 ![](/uploads/fightfight-3.png)
 
-Here you could drop a hint to the viewer that something is about to happen, that is incongruent with the narrative up until now.
-
-Element of Surprise
+Here you could drop a hint to the viewer that something is about to happen, that is incongruent with the narrative up until now. Let's call it the element of surprise, because spoiler alert that is what it is called. :)
 
 ![](/uploads/fightfight-4.png)
 
-It's important to remember that every actor in a scene or scenario has a perspective that needs to be conveyed, and by not doing so you will result in a very one-sided and perhaps nonsensical series of events. Try not to focus exclusively on the aggressor or the recipient.
+It's important to remember that every actor in a scene or scenario has a perspective that needs to be conveyed, and in not doing so will result in a very one-sided and perhaps nonsensical series of events. Try not to focus exclusively on the aggressor _or_ the recipient.
 
 # Fight!
 
@@ -39,7 +37,7 @@ She run.
 
 ![](/uploads/fightfight-6.png)
 
-She attack.
+She sneak attack.
 
 ![](/uploads/fightfight-7.png)
 
@@ -47,18 +45,18 @@ He counters!
 
 ![](/uploads/fightfight-8.png)
 
-When drawing/ planning particularly significant or spectacular actions, try to conjure some continuity by making the cause and effect of actions performed super clear. It also helps you to land that 'Thud' or 'Bang' sound effect you're planning on using.
+When drawing/ planning particularly significant or spectacular actions, try to conjure some continuity by making the cause and effect of actions performed super clear. It also helps you to earn that 'Thud' or 'Bang' sound effect you're planning on using.
 
 ![](/uploads/fightfight-9.png)
 
-Fighting stance time! There's a reason these are so popular in the action genre. It not only sets up the rest of the scene but gives both of the characters or actors present to flex their stuff before proving their mettle. Just try not to overuse them as they can be too convenient when you're breaking up your action to convey dialogue.  
+Fighting stance time! There's a reason these are so popular in the action genre. It not only sets up the rest of the scene but gives both of the characters or actors present the chance to flex their stuff before proving their mettle. Just try not to overuse them as they can be a little too convenient when you're constantly breaking up your action to convey dialogue.  
 ![](/uploads/fightfight-10.png)
 
-And the real fighting begins. You don't have to plan every single blow that is going to take place, but try to envision the way your combatants move and the space they take up in doing so.
+And the real fighting begins. You don't have to plan every single blow that is going to take place but try to envision the way your combatants move and the space they take up in doing so.
 
 ![](/uploads/fightfight-11.png)
 
-He dodge and pivot.
+He dodge. He pivot.
 
 # Climax
 
