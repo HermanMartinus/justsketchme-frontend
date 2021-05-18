@@ -9,6 +9,8 @@ author: Dante Ludolf
 ---
 So last time we showed you how to plan some [scene](https://justsketch.me/how-to-plan-comic-panels-justsketchme) exposition using JustSketchMe, and we thought why stop there. Here we'll be breaking down how you can use the app in making your fisticuffs come to life before your pen even hits the page, as well as giving you some tips on what makes fight scenes work in the first place.
 
+For this kind of scene planning, we suggest keeping your field grid on so that you can use their surroundings and environment to help you place them correctly and stay away from unrealistic proportions. 
+
 # Exposition
 
 ![](/uploads/fightfight-1.png)
@@ -30,6 +32,8 @@ Element of Surprise
 ![](/uploads/fightfight-4.png)
 
 It's important to remember that every actor in a scene or scenario has a perspective that needs to be conveyed, and by not doing so you will result in a very one-sided and perhaps nonsensical series of events. Try not to focus exclusively on the aggressor or the recipient.
+
+# Fight!  
 
 ![](/uploads/fightfight-5.png)
 
