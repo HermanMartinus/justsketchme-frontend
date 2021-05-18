@@ -9,35 +9,33 @@ author: Dante Ludolf
 ---
 So last time we showed you how to plan some [scene](https://justsketch.me/how-to-plan-comic-panels-justsketchme) exposition using JustSketchMe, and we thought why stop there. Here we'll be breaking down how you can use the app in making your fisticuffs come to life before your pen even hits the page, as well as giving you some tips on what makes fight scenes work in the first place.
 
-For this kind of scene planning, we suggest keeping your field grid on so that you can use their surroundings and environment to help you place them correctly and stay away from unrealistic proportions. 
+For this kind of scene planning, we suggest keeping your field grid on so that you can use their surroundings and environment to help you place them correctly and stay away from unrealistic proportions.
 
 # Exposition
 
 ![](/uploads/fightfight-1.png)
 
-Any scene, whether they include fighting or not, needs some kind of exposition for it to make sense to the viewer. Let's say that these two would-be combatants consist of a scrappy female hacker wanting to get into a heavily guarded building and an imposing cyborg bodyguard. You don't have to know that per se, but it helps to set them up in a way that suggests he's blocking her path and she's not happy about it. 
+Any scene, whether they include fighting or not, needs some kind of exposition for it to make sense to the viewer. Let's say that these two would-be combatants consist of a scrappy female hacker wanting to get into a heavily guarded building and an imposing cyborg bodyguard. You don't have to know that per se, but it helps to set them up in a way that suggests he's blocking her path and she's not happy about it.
 
 ![](/uploads/fightfight-2.png)
 
 Next, try misdirecting the viewer even if you both know what's about to go down. She waves him off and leaves, and he returns to his post. OR dOes sHeE?!?****
 
-Initiation 
-
 ![](/uploads/fightfight-3.png)
 
-Here you could drop a hint to the viewer that something is about to happen, that is incongruent with the narrative up until now. 
+Here you could drop a hint to the viewer that something is about to happen, that is incongruent with the narrative up until now.
 
-Element of Surprise 
+Element of Surprise
 
 ![](/uploads/fightfight-4.png)
 
 It's important to remember that every actor in a scene or scenario has a perspective that needs to be conveyed, and by not doing so you will result in a very one-sided and perhaps nonsensical series of events. Try not to focus exclusively on the aggressor or the recipient.
 
-# Fight!  
+# Fight!
 
 ![](/uploads/fightfight-5.png)
 
-She run. 
+She run.
 
 ![](/uploads/fightfight-6.png)
 
@@ -56,27 +54,27 @@ When drawing/ planning particularly significant or spectacular actions, try to c
 Fighting stance time! There's a reason these are so popular in the action genre. It not only sets up the rest of the scene but gives both of the characters or actors present to flex their stuff before proving their mettle. Just try not to overuse them as they can be too convenient when you're breaking up your action to convey dialogue.  
 ![](/uploads/fightfight-10.png)
 
-And the real fighting begins. You don't have to plan every single blow that is going to take place, but try to envision the way your combatants move and the space they take up in doing so. 
-
-fdsfdsfdsfsd
+And the real fighting begins. You don't have to plan every single blow that is going to take place, but try to envision the way your combatants move and the space they take up in doing so.
 
 ![](/uploads/fightfight-11.png)
 
 He dodge and pivot.
 
+# Climax
+
 ![](/uploads/fightfight-12.png)
 
-He kick. 
+He kick.
 
 ![](/uploads/fightfight-13.png)
 
-So a cyborg just kicked our scrappy hacker in the face. That's a pretty big deal, and your panels should reflect that. Try to show the effect of a performed action as much as the act of doing so. 
+So a cyborg just kicked our scrappy hacker in the face. That's a pretty big deal, and your panels should reflect that. Try to show the effect of a performed action as much as the act of doing so.
+
+# Denouement 
 
 ![](/uploads/fightfight-14.png)
 
 Once again, this is an effort to convey the effects of what just happened. Here you can also zoom out and add background detail for some environmental storytelling. (The field grid is also helpful here to situate them in their larger context.)
-
-fdsfdsfdsfsdfd
 
 ![](/uploads/fightfight-15.png)
 
