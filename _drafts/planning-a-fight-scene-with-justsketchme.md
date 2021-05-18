@@ -29,23 +29,23 @@ Element of Surprise
 
 ![](/uploads/fightfight-4.png)
 
-It's important to remember that every actor in a scene or scenario has a perspective that needs to be conveyed, and by not doing so you will result in a very one-sided and perhaps nonsensical series of events. 
+It's important to remember that every actor in a scene or scenario has a perspective that needs to be conveyed, and by not doing so you will result in a very one-sided and perhaps nonsensical series of events. Try not to focus exclusively on the aggressor or the recipient.
 
 ![](/uploads/fightfight-5.png)
 
-gfdgdffgdf
+She run. 
 
 ![](/uploads/fightfight-6.png)
 
-gfdgdfgfdgfd
+She attack.
 
 ![](/uploads/fightfight-7.png)
 
-gfdgfdgdfgfdg
+He counters!
 
 ![](/uploads/fightfight-8.png)
 
-gfdgdfgdf  continuity 
+When drawing/ planning particularly significant or spectacular actions, try to conjure some continuity by making the cause and effect of actions performed super clear. It also helps you land that 'Thud' or 'Bang' sound effect you're planning on using.
 
 ![](/uploads/fightfight-9.png)
 
