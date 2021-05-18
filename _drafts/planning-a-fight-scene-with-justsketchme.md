@@ -2,7 +2,7 @@
 title: Planning a fight scene with JustSketchMe
 date: 2021-05-17 22:00:00 +0000
 permalink: how-to-plan-a-fight-scene
-description: ''
+description: Ready... FIGHT!
 image: "/uploads/fightfight-5.png"
 author: Dante Ludolf
 
@@ -70,7 +70,7 @@ He kick.
 
 So a cyborg just kicked our scrappy hacker in the face. That's a pretty big deal, and your panels should reflect that. Try to show the effect of a performed action as much as the act of doing so.
 
-# Denouement 
+# Denouement
 
 ![](/uploads/fightfight-14.png)
 
@@ -78,4 +78,6 @@ Once again, this is an effort to convey the effects of what just happened. Here 
 
 ![](/uploads/fightfight-15.png)
 
-fdsfsdfdsfsdfds
+As an extra touch, perhaps show an action or reaction of one of the combatants that hints at something else that hints at a cliffhanger of sorts or piques interest to keep reading. 
+
+Hope this helps, happy planning :) 
