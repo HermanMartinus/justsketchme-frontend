@@ -52,21 +52,25 @@ When drawing/ planning particularly significant or spectacular actions, try to c
 Fighting stance time! There's a reason these are so popular in the action genre. It not only sets up the rest of the scene but gives both of the characters or actors present to flex their stuff before proving their mettle. Just try not to overuse them as they can be too convenient when you're breaking up your action to convey dialogue.  
 ![](/uploads/fightfight-10.png)
 
+And the real fighting begins. You don't have to plan every single blow that is going to take place, but try to envision the way your combatants move and the space they take up in doing so. 
+
 fdsfdsfdsfsd
 
 ![](/uploads/fightfight-11.png)
 
-fdfdsfdsfdsfsd
+He dodge and pivot.
 
 ![](/uploads/fightfight-12.png)
 
-fdsfdsfdsf
+He kick. 
 
 ![](/uploads/fightfight-13.png)
 
-fdsfsdfdsfdsf
+So a cyborg just kicked our scrappy hacker in the face. That's a pretty big deal, and your panels should reflect that. Try to show the effect of a performed action as much as the act of doing so. 
 
 ![](/uploads/fightfight-14.png)
+
+Once again, this is an effort to convey the effects of what just happened. Here you can also zoom out and add background detail for some environmental storytelling. (The field grid is also helpful here to situate them in their larger context.)
 
 fdsfdsfdsfsdfd
 
