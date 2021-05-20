@@ -4,7 +4,7 @@ date: 2021-05-20 22:00:00 +0000
 permalink: best-mermaid-tv-shows
 description: 'For #Mermay, we''re going under and taking a look at some of our favourite
   mermaid or mermaid-adjacent characters in pop culture. Set sail!'
-image: ''
+image: "/uploads/mermaid-tvshows3.png"
 author: Dante Ludolf
 
 ---
@@ -32,7 +32,7 @@ The CGI, although sparingly used, is actually rather good and the divide between
 
 # Tidelands
 
-Another Australian entry on the list, (do y’all just really like mermaids?) Tidelands released on Netflix a few years back and didn’t garner much fanfare, unfortunately, but has developed a warm reaction over time.
+Another Australian entry on the list, (do y’all just really like mermaids?) Tidelands released on Netflix a few years back and didn’t garner much fanfare, unfortunately, but has developed a warmer reaction over time.
 
 Tidelands concerns a young, rebellious girl who returns to her home town to… we don’t know exactly. What we do know is that her family is caught up in some kind of illegal fishing activities alongside a group of mysterious outsiders who keep mostly to themselves and can breathe underwater, amongst other quasi-aquatic superhuman traits.
 
