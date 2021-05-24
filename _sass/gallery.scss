@@ -9,6 +9,7 @@
 .neat {
     img {
         max-height: 300px;
-        width: unset;
+        width: 100%;
+        object-fit: contain;
     }
 }
