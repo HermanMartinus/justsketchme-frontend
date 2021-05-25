@@ -51,4 +51,4 @@ Star Wars meets Legend of Zelda? We love to see it.
 
 ![](/uploads/drawfee-jsm8.png)
 
-Frozen's Elsa is not feeling so good. 
+Elsa is not feeling so good. 
