@@ -7,7 +7,7 @@ image: "/uploads/drawfee-jsm5.png"
 author: Dante Ludolf
 
 ---
-So we recently added a page of things on the internet that we find neat, and you can check that out **here**. To truly honour the channels, comics and artists on the neat page, we thought we’d take a bit of a deeper dive into some of them and wax poetic about what makes them so great in the first place.
+So we recently added a page of things on the internet that we find neat, and you can check that out [**here**](https://justsketch.me/neat/). To truly honour the channels, comics and artists on the neat page, we thought we’d take a bit of a deeper dive into some of them and wax poetic about what makes them so great in the first place.
 
 We’re starting off with the Youtube Channel at the very top of the list, the inimitable Drawfee.
 
@@ -33,6 +33,22 @@ Jacob Andrews
 
 The prompts provided are also truly spectacular. I mean, we’re talking Disney characters as Dark Souls bosses, new Eevee evolutions, drawing historical figures as anime characters and _much much_ more. The channel is pretty expansive so you could hypothetically spend days laughing and getting inspired in equal measure, and that doesn’t sound like a bad idea to us at all actually. :D
 
-Another thing that’s pretty cool is that the Drawfee team managed to wrest their channel away from their corporate overlords and after lengthy legal procedures now have full control and ownership of it. Thus, if you’re keen to help them keep doing their thing, consider donating **here**.
+Another thing that’s pretty cool is that the Drawfee team managed to wrest their channel away from their corporate overlords and after lengthy legal procedures now have full control and ownership of it. Thus, if you’re keen to help them keep doing their thing, consider donating [**here**](https://www.patreon.com/drawfee).
 
 Have a look at some of the insane things they come up with, and give these guys a follow they’re too good not to.
+
+![](/uploads/drawfee-jsm7.png)
+
+This is Bambi, otherwise known Bambeon, if he were found in Dark Souls.
+
+![](/uploads/drawfee-jsm9.png)
+
+Game of Thrones + Dragonball mash-up? Here for it. 
+
+![](/uploads/drawfee-jsm6.png)
+
+Star Wars meets Legend of Zelda? We love to see it.
+
+![](/uploads/drawfee-jsm8.png)
+
+Frozen's Elsa is not feeling so good. 
