@@ -19,11 +19,11 @@ No? Just me? Okay.
 
 Photoshop brushes vary greatly, and exploring the tools at your disposal is extremely fun but can also lead to an urgent need for editing because it is just _so_ easy to get carried away.
 
-But sometimes, experimenting with a given brush pack is just _chef’s kiss_ because they are _all_ good and worthy of your attention and carry the potential to be an asset to your piece.
+But sometimes, experimenting with a given brush pack is just ** _chef’s kiss_ **because they are _all_ good and worthy of your attention and carry the potential to be an asset to your piece.
 
 The packs that appear here, dear reader, are exactly that.
 
-We’re talking ink brush swoop-y wow, we’re talking painterly smudgering texture yass, we’re talking cross-hatch snatched goodness and line making goodness for days.
+We’re talking ink brush swoopy wow, we’re talking painterly smudging texture yass, we’re talking cross-hatch snatched goodness and lines for days.
 
 P.S. That is not hyperbole, these brushes are just so good!
 
@@ -32,3 +32,9 @@ P.S. That is not hyperbole, these brushes are just so good!
 ![](/uploads/vault_by_darekzabrocki_dds6qeh-350t.jpeg)
 
 ![](/uploads/free-ps-brushes.jpeg)
+
+So these are wonderfully diverse and cover a range of textures and styles to get you going and help you experiment with expressive linework and get a handle on how to make your art pop. 
+
+We've got some really graphic-y and swoosh-y boys up for grabs, as well as more delicate strokes that work really well with Wacom's sensitivity and pressure.
+
+You can download them [here]().
