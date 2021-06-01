@@ -2,7 +2,8 @@
 title: Introducing the new Stylized Models!
 date: 2021-05-31 22:00:00 +0000
 permalink: how-to-draw-a-shonen-hero
-description: ''
+description: 'Our new models are perfect for drawing Shonen heroes (and villains)
+  so let''s do just that. '
 image: ''
 author: Dante Ludolf
 
