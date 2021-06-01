@@ -1,14 +1,13 @@
 ---
-title: Introducing the new Stylized Models!
+title: How to draw a male SHONEN character
 date: 2021-05-31 22:00:00 +0000
 permalink: how-to-draw-a-shonen-hero
-description: 'Our new models are perfect for drawing Shonen heroes (and villains)
+description: 'Our new stylized models are perfect for drawing Shonen heroes (and villains)
   so let''s do just that. '
-image: "/uploads/anime-trope-4.png"
+image: "/uploads/screenshot-2021-06-01-at-09-52-50.png"
 author: Alida Loubser
 
 ---
-**How to draw a SHONEN male character**
 
 First up, let’s make sure all of us are on the same page when we ask the question: “What is Shonen?”
 
