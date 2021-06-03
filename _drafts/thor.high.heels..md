@@ -3,10 +3,15 @@ title: 'Thor. High. Heels. '
 date: 2021-06-02 22:00:00 +0000
 permalink: thor-high-heels-youtube-channel
 description: Let's dive into our neat list!
-image: "/uploads/channels4_banner.jpeg"
+image: "/uploads/thorhighheels4.png"
 author: Dante Ludolf
 
 ---
+![](/uploads/thorhighheels-1.png)
+
+![](/uploads/thorhighheels2.png)
+
+![](/uploads/thorhighheels3.png)
 
 I think that perhaps the only thing better than cracking open a new title and getting ready to embark on a maiden video game voyage is thinking back fondly on your gaming memories of yesteryear.
 
@@ -14,11 +19,11 @@ To many of us, especially so before their move to mainstream media, video games 
 
 Personally speaking, the first time I booted up a cracked disc copy of Tomb Raider (piracy was cool in the early 00’s okay) was as close to an encounter with God as I have yet to come. Facts?
 
-But if you’ve ever felt the need revisit the titles of your youth and reacquaint yourselves with games that inform your tastes today, you might be met with a little issue.
+But if you’ve ever felt the need to revisit the titles of your youth and reacquaint yourselves with games that inform your tastes today, you might be met with a little issue.
 
 We are now in the 8th/ 9th console generation, meaning we’ve seen a slew of consoles, games and experiments both failed and successful cross our paths and meet our wallets.
 
-Somehow, as with more overtly sinister industries like fast fashion and crude oil, our beloved (?) video game industry has followed suit with the age old adage that permeates so much of what is wrong with Earth circa 2021. The adage being out with the old and in with the new.
+Somehow, as with more overtly sinister industries like fast fashion and crude oil, our beloved (?), video game industry has followed suit with the age-old adage that permeates so much of what is wrong with Earth circa 2021. The adage being out with the old and in with the new.
 
 And while many developers and publishers take their consumer into account by releasing remakes and remasters of their games for newer consoles, others simply issue shovelware that is barely playable and for the most part, and most heinously, they simply let their libraries rot away and fade into obscurity.
 
@@ -30,6 +35,22 @@ Look, I could make a Youtube channel dedicated squarely to the games I grew up w
 
 Thor High Heels (can we call you Thor for short plez) provides a kind of anthropological overview of video games at large and what goes into making them weird, wonderful and memorable.
 
-He also bemoans the anti-consumer tactics and decisions of Big Game Corpa and the lack of respect and reverence they display for their own products and IP’s. He does so buy hilariously making use of meme lingo in a SoftBoy™ cadence and the result is just… gewd.
+He also bemoans the anti-consumer tactics and decisions of Big Game Corpa and the lack of respect and reverence they display for their own products and IP’s. He does so by hilariously making use of meme lingo in a SoftBoy™ cadence and the result is just… gewd.
 
 But don’t take our word for it, here are some of the videos I think any gamer, both yung and old, could benefit from watching:
+
+![](/uploads/thorhighheels7.png)
+
+gfdgdfgfgfd
+
+![](/uploads/thorhighheels12.png)
+
+fvfgdfgdfxgfdg
+
+![](/uploads/thorhighheels6.png)
+
+gdfgfdgdfgfd
+
+![](/uploads/thorhighheels9.png)
+
+We hope you enjoy this channel as much as we do. If you're able to support this creator, please consider their Patreon [here](https://www.patreon.com/thorhighheels).
