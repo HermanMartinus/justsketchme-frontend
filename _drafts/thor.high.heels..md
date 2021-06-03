@@ -3,7 +3,7 @@ title: 'Thor. High. Heels. '
 date: 2021-06-02 22:00:00 +0000
 permalink: thor-high-heels-youtube-channel
 description: Let's dive into our neat list!
-image: ''
+image: "/uploads/channels4_banner.jpeg"
 author: Dante Ludolf
 
 ---
