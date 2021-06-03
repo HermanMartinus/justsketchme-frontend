@@ -27,9 +27,13 @@ Somehow, as with more overtly sinister industries like fast fashion and crude oi
 
 And while many developers and publishers take their consumer into account by releasing remakes and remasters of their games for newer consoles, others simply issue shovelware that is barely playable and for the most part, and most heinously, they simply let their libraries rot away and fade into obscurity.
 
-This fading into obscurity is perhaps one of the central motivations of our next Neat List feature, and his name is, drumroll please, Thor. High. Heels.
+This fading into obscurity is perhaps one of the central motivations of our next [Neat List](https://justsketch.me/neat/) feature, and his name is, drumroll please, [Thor. High. Heels.](https://www.youtube.com/user/ThorHighHeels)
 
 What makes this channel special, barring the INCREDIBLE thumbnails which deserve a post on their own, is the strange thematic mix of pop culture enthusiasm, digital archaeology and innate weirdness of the games discussed.
+
+![](/uploads/screenshot-2021-06-02-at-12-51-49.png)
+
+![](/uploads/screenshot-2021-06-02-at-12-52-01.png)
 
 Look, I could make a Youtube channel dedicated squarely to the games I grew up with, and that would probably be fine and kinda fun, but what we have here goes so far beyond personal affinity and into something considerably more informative and inspirational.
 
@@ -39,17 +43,27 @@ He also bemoans the anti-consumer tactics and decisions of Big Game Corpa and th
 
 But don’t take our word for it, here are some of the videos I think any gamer, both yung and old, could benefit from watching:
 
+# From Software's old weird games? 
+
+[Click.](https://www.youtube.com/watch?v=T6UfiVuYkUU&ab_channel=ThorHighHeels)
+
 ![](/uploads/thorhighheels7.png)
 
-gfdgdfgfgfd
+# What the hell is PC-98 and where do I get one?
+
+[Clickk](https://www.youtube.com/watch?v=OVpX2y6KjwA&ab_channel=ThorHighHeels).
 
 ![](/uploads/thorhighheels12.png)
 
-fvfgdfgdfxgfdg
+# Obscure Japanese Mac games?
+
+[Clickkk.](https://www.youtube.com/watch?v=IE4PrIGtoO0&t=252s&ab_channel=ThorHighHeels)
 
 ![](/uploads/thorhighheels6.png)
 
-gdfgfdgdfgfd
+# Final Fantasy fashion?!?
+
+[fjndsknfjkdsnfds.](https://www.youtube.com/watch?v=x3Yl0Moy_ic&ab_channel=ThorHighHeels)
 
 ![](/uploads/thorhighheels9.png)
 
