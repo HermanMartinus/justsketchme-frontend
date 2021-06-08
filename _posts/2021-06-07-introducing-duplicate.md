@@ -1,7 +1,7 @@
 ---
 title: 'Introducing: Duplicate'
 date: 2021-06-07 22:00:00 +0000
-permalink: 'new-justsketchme-feature-duplicate '
+permalink: 'new-justsketchme-feature-duplicate'
 description: Let's use our new features and make cool things
 image: "/uploads/justsketchme-screenshot-3.png"
 author: Dante Ludolf
@@ -30,10 +30,10 @@ Here we have some beam me up Scotty stuff going on. If you toggle the camera loc
 
 Next up, we have a kind of roman forum moment going on, and by making use of duplicate you can recreate the level of precision and symmetry that is so indicative of the architecture of that period.
 
-[screen-recording-2021-06-08-at-08-34-35.mp4](/uploads/screen-recording-2021-06-08-at-08-34-35.mp4 "screen-recording-2021-06-08-at-08-34-35.mp4")
+<video width="512" height="512" playsinline autoplay muted loop> <source src="/uploads/screen-recording-2021-06-08-at-08-34-35.mp4" type="video/mp4"> </video>
 
 Even more basic concepts like jumping over spikes or meandering through… poles can be created easily and neatly.
 
-[screen-recording-2021-06-08-at-08-40-35.mov](/uploads/screen-recording-2021-06-08-at-08-40-35.mov "screen-recording-2021-06-08-at-08-40-35.mov")
+<video width="512" height="512" playsinline autoplay muted loop> <source src="/uploads/screen-recording-2021-06-08-at-08-40-35.mov"> </video>
 
 Let us know what you come up with and how you’re making use of the new duplicate function.
