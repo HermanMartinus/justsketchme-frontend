@@ -7,6 +7,7 @@ image: "/uploads/justsketchme-screenshot-3.png"
 author: Dante Ludolf
 
 ---
+
 We’ve got some good news for y’all!
 
 JustSketchMe now has two new features, and their names are Flip and Duplicate.
@@ -25,8 +26,14 @@ But perhaps the most useful of its applications lies in creating intricate shape
 
 Here we have some beam me up Scotty stuff going on. If you toggle the camera lock and have a clear sense of movement, you can even make some nifty animations.
 
+![](/uploads/new-gif-for-duplicate.gif)
+
 Next up, we have a kind of roman forum moment going on, and by making use of duplicate you can recreate the level of precision and symmetry that is so indicative of the architecture of that period.
 
+[screen-recording-2021-06-08-at-08-34-35.mp4](/uploads/screen-recording-2021-06-08-at-08-34-35.mp4 "screen-recording-2021-06-08-at-08-34-35.mp4")
+
 Even more basic concepts like jumping over spikes or meandering through… poles can be created easily and neatly.
+
+[screen-recording-2021-06-08-at-08-40-35.mov](/uploads/screen-recording-2021-06-08-at-08-40-35.mov "screen-recording-2021-06-08-at-08-40-35.mov")
 
 Let us know what you come up with and how you’re making use of the new duplicate function.
