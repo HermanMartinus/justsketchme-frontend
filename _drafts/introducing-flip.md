@@ -3,7 +3,7 @@ title: 'Introducing: Flip'
 date: 2021-06-10 22:00:00 +0000
 permalink: new-feature-flip
 description: Let's use our new features and make cool things
-image: ''
+image: "/uploads/hfjdshfgjkdshg.png"
 author: Dante Ludolf
 
 ---
