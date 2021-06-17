@@ -1,10 +1,10 @@
 ---
-title: How to draw a female Shonen character
+title: How to draw a FEMALE Shonen character
 date: 2021-06-14 22:00:00 +0000
 permalink: how-to-draw-female-shonen-character
 description: Our new stylized models are perfect for drawing Shonen heroes (and villains)
   so let's do just that.
-image: "/uploads/shonen-girl-d.png"
+image: "/uploads/shonen-female-media-header.png"
 author: Alida Loubser
 
 ---
