@@ -2,7 +2,7 @@
 title: 'Getting rid of creative block '
 date: 2021-06-17 22:00:00 +0000
 permalink: how-to-get-rid-of-creative-block
-description: ''
+description: Let's talk about the elephant-shaped sleep paralysis demon in the room.
 image: "/uploads/creativeblock-17.png"
 author: Dante Ludolf
 
@@ -21,17 +21,15 @@ We’ve all been there. One day you hit flow and the words/ brush strokes/ Apple
 
 So without further ado, let’s dive into ways that you can curb and cure creative block and get on with the damn thing you so desperately want to do but can’t find the will for.
 
-Problems that lead to creative blockage:
-
 # You’re in a rut
 
 Rats, it’s the rut! Look, when you’re stuck in the process of something, like smack in the middle with no guidance or clear goal in sight, the best way through it is through it.
 
-Whether it’s a drawing, a script or a heartfelt message, everything looks better in the rearview mirror. Just do what needs to be done in whatever way is available to you resource-wise, be they emotional or vocational.
+Whether it’s a drawing, a script or a heartfelt message, everything looks better in the rearview mirror. Just do what needs to be done in whatever way is available to you resource-wise, be they emotional, financial or vocational.
 
-Then, once the doing is out of the way, you can get to make it good. You could even get to make it inspired. Crazy things happen, you know.
+Then, once the doing is out of the way, you can get to make it good. You could even get to make it amazing . Crazy things happen, you know.
 
-\- insert is this a butterfly meme -
+![](/uploads/creativeblock-1.png)
 
 # You’re uninspired
 
@@ -41,19 +39,19 @@ Let’s say you start an art piece. You’ve got the character down, now you nee
 
 Go back to the drawing board and soak up the things that made you want to design or get into this character in the first place. Creativity is not a journey, so much as a process. The steps in your process that lead you to be stuck are usually the steps that can get you unstuck.
 
-\- insert math meme -
+![](/uploads/creativeblock-16.png)
 
 # You’re being excessively critical
 
-Write/ draw/ paint/ sing dumb shit. Period.
+Write/ draw/ paint/ sing all the dumb shit. Period.
 
 If you’re worried about being good or iconic or whether or not the thing you’re working on is The Thing™ that is going to catapult you into the public sphere and anoint you as the next luminary in the field you’re destined to be in, calm down.
 
 The important part is getting it done in the first place. If your own sense of self-awareness or self-critique is preventing you from doing it, eat a slice of humble pie and make an absolute ass of yourself by writing or drawing the worst thing you can possibly imagine.
 
-Then, even if the piece you’re working on doesn’t turn out to be the best, you can always say its not the worst thing you’ve ever done.
+Then, even if the piece you’re working on doesn’t turn out to be the best, you can always say it's not the worst thing you’ve ever done.
 
-\- insert meme of guy tapping head. -
+![](/uploads/creativeblock-14.png)
 
 # You’re not in the mood
 
@@ -80,6 +78,10 @@ Seek help. Get better. Read. Learn. Google. Ask. Do.
 If the only way to get closer to making something is by doing it then learning how to do it in the first place is even more important.
 
 I’m not talking college degree in ‘insert relevant vocation’ learning-how-to-do-it, I’m talking ride a bicycle by busting your knees learning-how-to-do-it.
+
+Make sense? 
+
+![](/uploads/creativeblock-15.png)
 
 There we have it, a rumination on the creative block and ways to get over it, ironic because in writing this I got over my own creative block. See? Just do it. (Sorry)
 
