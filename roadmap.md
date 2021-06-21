@@ -7,7 +7,7 @@ image: /images/screenshots/moved.png
 
 ## Planned
 - Anime models
-  - Better models (male, female and chibi)
+  - V3 models
   - Teen, tween and baby versions
 - More realistic model body types
   - Better defined muscles on muscular models
@@ -21,13 +21,12 @@ image: /images/screenshots/moved.png
 - Bird model
 - Grouping props and saving grouped props
 - Additional prop models
-
-## Under consideration
+- Export full scene as 3d model
 - Sharing and embedding of scenes and poses
-- Toon shading
-- Dog & cat poses
+
 
 ## Done
+- Anime model v2
 - "Put on ground" shortcut
 - Undo and redo buttons update/fix
 - Rebuilt realistic male and female
