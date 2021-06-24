@@ -17,13 +17,13 @@ Now I know what you're thinking, an obviously gay person talking about clothes i
 
 Nowadays, video games' longstanding history of eccentric clothing is being refreshed with more practical, and often tactical, accoutrements and this isn't necessarily a bad thing.
 
-Look to one of gaming's most sartorial icons, the one and only Lara Croft, who eschewed shorty short daisy dukes in favour of attire more suited to getting the shit beaten out of her and the occasional tumble off a steep cliff.
+Look to one of gaming's most enduring sartorial icons, the one and only Lara Croft. She eschewed shorty short daisy dukes in favour of attire more suited to getting the shit beaten out of her and the occasional tumble off a steep cliff. That's perfectly okay, and probably favourable to her previous lack of protection against the... elements. 
 
 But on the other end of the proverbial fashion spectrum lie the most egregious of offenders, inspired by none other than mediocrity and mass-market appeal. The idea that a contemporary male protagonist can sport billowing sleeves and the occasional accessory is now but a whisper of yesteryear and even those aforementioned JRPG's are following suit and ramping up testosterone and banality in order to hit as many of those demographic quads as possible.
 
 ![](/uploads/yucihq0djipbj5jn3wtk.jpeg)
 
-I imagine the conversation goes something like this, 'Nah that title won't sell at all, middle America won't want their kids to play as a guy wearing a skirt unless he's a samurai and also a grey-haired white male. It'll do poorly with the 18-49, trust me. Let's go ahead and secure distribution for that one with the ex-marine that needs to save his wife and is also in space. No, not that one, the other one. No, not that one...' You get the point.
+I imagine the conversation goes something like this, 'Nah that title won't sell at all, middle America won't want their kids to play as a guy wearing a skirt unless he's a samurai and also a grey-haired white male. It'll do poorly with  18-49, trust me. Let's go ahead and secure distribution for that one with the ex-marine that needs to save his wife and is also in space. No, not that one, the other one. No, not that one...' You get the point.
 
 No one, and I mean no one, wants to play a game as a woman or a man that might be mistaken for one, right? (Eyeroll and drum roll please) This kind of preemptive creative decision, one that is meant to increase appeal and decrease any opportunity for misunderstanding, is not borne from the creative output of qualified artists and designers, but from a boardroom.
 
@@ -33,15 +33,15 @@ Let's take for example the iconic and revered Final Fantasy series.
 
 These titles have always had a very go-for-broke approach to their design, from fashion and monsters to world-building. Hell, their storylines suffer from such obscene delusions of grandeur that you'd have to consult every wikia you can to gleam a fraction of what is going on in the narrative you hold in your hands.
 
+The look and feel of FF is largely thanks to two very arch and very eccentric artists. 
+
+Tetsuya Nomura and Yoshitaka Amano, two veteran artists and character designers that have shaped both FF and the gaming industry as a whole, made sure that Final Fantasy is instantly recognisable and idiosyncratic, even though almost none of the mainline titles follow directly from the one that precedes it. This is because every time they took a title to market, it looked different and it looked _interesting._
+
 Final Fantasy's overall fashion oeuvre is so seminal, one of its characters even made the seamless jump to an actual fashion campaign for Louis Vuitton.
 
 ![](/uploads/lv-series-4.jpeg)
 
-Tetsuya Nomura and Yoshitaka Amano, two veteran artists and character designers that have shaped both FF and the gaming industry as a whole, made sure that Final Fantasy is instantly recognisable and idiosyncratic, even though almost none of the mainline titles follow directly from the one that precedes it. This is because every time they took a title to market, it looked different and it looked _interesting._
-
 If you've even so much as looked at a gaming blog the past few weeks, you would've seen that Square Enix (the company that oversees the Final Fantasy IP, among others) has teamed with the folks over at Team Ninja (Of Dead or Alive, Nioh and Ninja Gaiden fame). Now that's a super powerful cross-brand team-up. Should be exciting and fresh. Should be exciting and fresh RIGHT?!
-
-The protagonist, dear reader, looks like this:
 
 ![](/uploads/videogamefashion-2.png)
 
