@@ -33,7 +33,11 @@ If you've even so much as looked at a gaming blog the past few weeks, you would'
 
 The protagonist, dear reader, looks like this:
 
+![](/uploads/videogamefashion-2.png)
+
 Y'all, I'm not playing when I say this must be one of the most offensive outfits I've seen, just because it is so calculatedly _unoffensive_. Remember when Assassin's Creed decided to try and do fashion merch? No? Good. Unfortunately, I must refresh your memory.
+
+![](/uploads/videogamefashion-1.png)
 
 Yep. Those are things that happened and that were made and people maybe even wore.
 
@@ -45,12 +49,24 @@ To heal your eyes, and my soul, here are a few standout sartorial moments that c
 
 And hey, we'll always have Bayonetta.
 
+![](/uploads/videogamefashion-3.png)
+
 Death Stranding's utilitarian futuristic Patagonia vibes slapped.
+
+![](/uploads/videogamefashion-4.png)
 
 Devil May Cry is Final Fantasy for goths and it just works.
 
+![](/uploads/videogamefashion-8.png)
+
 Chris Redfield's coat can do no wrong.
+
+![](/uploads/videogamefashion-7.png)
 
 Lara's SOTTR look was a fun throwback to the old costume but kept it very much in line with her new Katniss in the Valley of Broken Down Paternal Relationship vibe.
 
+![](/uploads/videogamefashion-6.png)
+
 Side note: Ellie's forearm tattoo in TLOU2 is also just... no. She's a gay guitar playing outcast that's not like the other girls. We get it.
+
+![](/uploads/videogamefashion-5.png)
