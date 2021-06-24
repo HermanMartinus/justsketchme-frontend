@@ -8,6 +8,7 @@ image: ''
 author: 'Rachel Torgerson '
 
 ---
+This post is brought to you by our friends over at [No Filler Anime](https://www.nofilleranime.com/), and you should definitely check them out if you like anime but you don't like filler episodes. Duh.
 
 You can't help but judge an [anime](https://justsketch.me/justsketchme-best-anime-of-2020) on how good it looks as the whole notion of anime revolves around eye candy and beauty. To stand out in the ocean of similar-looking animations, art style and aesthetics characters are the keys.
 
