@@ -17,7 +17,7 @@ Now I know what you're thinking, an obviously gay person talking about clothes i
 
 Nowadays, video games' longstanding history of eccentric clothing is being refreshed with more practical, and often tactical, accoutrements and this isn't necessarily a bad thing.
 
-Look to one of gaming's most enduring sartorial icons, the one and only Lara Croft. She eschewed shorty short daisy dukes in favour of attire more suited to getting the shit beaten out of her and the occasional tumble off a steep cliff. That's perfectly okay, and probably favourable to her previous lack of protection against the... elements. 
+Look to one of gaming's most enduring sartorial icons, the one and only Lara Croft. She eschewed shorty short daisy dukes in favour of attire more suited to getting the shit beaten out of her and the occasional tumble off a steep cliff. That's perfectly okay, and probably favourable to her previous lack of protection against the... elements.
 
 But on the other end of the proverbial fashion spectrum lie the most egregious of offenders, inspired by none other than mediocrity and mass-market appeal. The idea that a contemporary male protagonist can sport billowing sleeves and the occasional accessory is now but a whisper of yesteryear and even those aforementioned JRPG's are following suit and ramping up testosterone and banality in order to hit as many of those demographic quads as possible.
 
@@ -33,7 +33,7 @@ Let's take for example the iconic and revered Final Fantasy series.
 
 These titles have always had a very go-for-broke approach to their design, from fashion and monsters to world-building. Hell, their storylines suffer from such obscene delusions of grandeur that you'd have to consult every wikia you can to gleam a fraction of what is going on in the narrative you hold in your hands.
 
-The look and feel of FF is largely thanks to two very arch and very eccentric artists. 
+The look and feel of FF is largely thanks to two very arch and very eccentric artists.
 
 Tetsuya Nomura and Yoshitaka Amano, two veteran artists and character designers that have shaped both FF and the gaming industry as a whole, made sure that Final Fantasy is instantly recognisable and idiosyncratic, even though almost none of the mainline titles follow directly from the one that precedes it. This is because every time they took a title to market, it looked different and it looked _interesting._
 
@@ -51,11 +51,11 @@ Y'all, I'm not playing when I say this must be one of the most offensive outfits
 
 Yep. Those are things that happened and that were made and people maybe even wore.
 
-So what I gather from this is that someone from the Ubisoft merch team is now moonlighting as a character designer. Not really, but I need someone to explain that triangular hem to me and the decision to put anyone in a henley.
+So what I gather from this is that someone from the Ubisoft merch team is now moonlighting as a character designer. Not really, but I need someone to explain that triangular droop hem to me and the decision to put anyone in a henley.
 
 I'm not saying that in order to keep video games an interesting and conceptually verdant space we need to populate them with garishly overdressed iconoclasts (hmmm) but I would personally like to see decided efforts being made to not be so dreadfully conformist.
 
-To heal your eyes, and my soul, here are a few standout sartorial moments that could and should restore hope for better days, and better clothes.
+To heal your eyes, and my soul, here are a few standout sartorial moments from AAA (read: mainstream, read: sold) games that could and should restore hope for better days, and better clothes.
 
 And hey, we'll always have Bayonetta.
 
@@ -80,3 +80,5 @@ Lara's SOTTR look was a fun throwback to the old costume but kept it very much i
 Side note: Ellie's forearm tattoo in TLOU2 is also just... no. She's a gay guitar playing outcast that's not like the other girls. We get it.
 
 ![](/uploads/videogamefashion-5.png)
+
+Rant over, brb just preordering that Final Fantasy game anyway. 
