@@ -4,7 +4,7 @@ date: 2021-06-23 22:00:00 +0000
 permalink: best-aesthetically-pleasing-anime-to-watch
 description: 'Beauty is in the eye of the beholder, so why not feast yours on these
   visually arresting titles. '
-image: ''
+image: "/uploads/i4wxank.png"
 author: 'Rachel Torgerson '
 
 ---
