@@ -2,12 +2,16 @@
 title: How video game fashion went from Inspired to K-pop to Nickelback... to worse.
 date: 2021-06-24 22:00:00 +0000
 permalink: video-game-fashion-today
-description: ''
+description: 'Look, we need to talk about the looks. '
 image: ''
 author: Dante Ludolf
 
 ---
 Video game fashion has always been an extremely iconic aspect of the medium, if not always an immediately endearing one. Think of the JRPG’s of ye olden 90’s days where every character was decked out in the most ostentatious and surreal garb this side of a Christmas tree.
+
+![](/uploads/vagrant-story-2-prologue-710x400.jpeg)
+
+(That young man is wearing a tiddy cloth, and he also wears assless chaps if you were wondering.)
 
 Now I know what you're thinking, an obviously gay person talking about clothes in video games. I know. I hear you, I feel you, we've all been on Twitter before. But hear me out.
 
@@ -16,6 +20,8 @@ Nowadays, video games' longstanding history of eccentric clothing is being refre
 Look to one of gaming's most sartorial icons, the one and only Lara Croft, who eschewed shorty short daisy dukes in favour of attire more suited to getting the shit beaten out of her and the occasional tumble off a steep cliff.
 
 But on the other end of the proverbial fashion spectrum lie the most egregious of offenders, inspired by none other than mediocrity and mass-market appeal. The idea that a contemporary male protagonist can sport billowing sleeves and the occasional accessory is now but a whisper of yesteryear and even those aforementioned JRPG's are following suit and ramping up testosterone and banality in order to hit as many of those demographic quads as possible.
+
+![](/uploads/yucihq0djipbj5jn3wtk.jpeg)
 
 I imagine the conversation goes something like this, 'Nah that title won't sell at all, middle America won't want their kids to play as a guy wearing a skirt unless he's a samurai and also a grey-haired white male. It'll do poorly with the 18-49, trust me. Let's go ahead and secure distribution for that one with the ex-marine that needs to save his wife and is also in space. No, not that one, the other one. No, not that one...' You get the point.
 
@@ -26,6 +32,10 @@ This is also not a new point of contention, as gaming media, as well as legions 
 Let's take for example the iconic and revered Final Fantasy series.
 
 These titles have always had a very go-for-broke approach to their design, from fashion and monsters to world-building. Hell, their storylines suffer from such obscene delusions of grandeur that you'd have to consult every wikia you can to gleam a fraction of what is going on in the narrative you hold in your hands.
+
+Final Fantasy's overall fashion oeuvre is so seminal, one of its characters even made the seamless jump to an actual fashion campaign for Louis Vuitton.
+
+![](/uploads/lv-series-4.jpeg)
 
 Tetsuya Nomura and Yoshitaka Amano, two veteran artists and character designers that have shaped both FF and the gaming industry as a whole, made sure that Final Fantasy is instantly recognisable and idiosyncratic, even though almost none of the mainline titles follow directly from the one that precedes it. This is because every time they took a title to market, it looked different and it looked _interesting._
 
