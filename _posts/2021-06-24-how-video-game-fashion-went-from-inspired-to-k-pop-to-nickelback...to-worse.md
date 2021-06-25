@@ -1,9 +1,9 @@
 ---
-title: How video game fashion went from Inspired to K-pop to Nickelback... to worse.
+title: How video game fashion went from Inspired to Nickelback... to worse.
 date: 2021-06-24 22:00:00 +0000
 permalink: video-game-fashion-today
 description: 'Look, we need to talk about the looks. '
-image: ''
+image: "/uploads/vagrant-story-2-prologue-710x400.jpeg"
 author: Dante Ludolf
 
 ---
@@ -31,7 +31,7 @@ This is also not a new point of contention, as gaming media, as well as legions 
 
 Let's take for example the iconic and revered Final Fantasy series.
 
-These titles have always had a very go-for-broke approach to their design, from fashion and monsters to world-building. Hell, their storylines suffer from such obscene delusions of grandeur that you'd have to consult every wikia you can to gleam a fraction of what is going on in the narrative you hold in your hands.
+These titles have always had a very go-for-broke approach to their design, from fashion and monsters to world-building. Hell, their storylines suffer from such obscene delusions of grandeur that you'd have to consult every Wikia you can to glean a fraction of what is going on in the narrative you hold in your hands.
 
 The look and feel of FF is largely thanks to two very arch and very eccentric artists.
 
@@ -77,8 +77,8 @@ Lara's SOTTR look was a fun throwback to the old costume but kept it very much i
 
 ![](/uploads/videogamefashion-6.png)
 
-Side note: Ellie's forearm tattoo in TLOU2 is also just... no. She's a gay guitar playing outcast that's not like the other girls. We get it.
+Side note: Ellie's forearm tattoo in TLOU2 is also just... no. She's a guitar playing outcast that's not like the other girls. We get it.
 
 ![](/uploads/videogamefashion-5.png)
 
-Rant over, brb just preordering that Final Fantasy game anyway. 
+Rant over, brb just preordering that Final Fantasy game anyway.
