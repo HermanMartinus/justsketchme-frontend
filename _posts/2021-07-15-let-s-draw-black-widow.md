@@ -2,13 +2,12 @@
 title: Let's draw Black Widow!
 date: 2021-07-15 22:00:00 +0000
 permalink: how-to-draw-mcu-black-widow
-description: ''
+description: The wait for the movie is finally over, now let's celebrate with fan
+  art.
 image: "/uploads/black-widow5.png"
 author: Alida Loubser
 
 ---
-**How to draw Black Widow with justsketchme?**
-
 Do you love the MCU? Marvel’s Black Widow launched on the 7th and we hope you are just as excited as we are about it!
 
 Black Widow is a fan favourite, and we sure agree. In celebration, let’s take a look at how we can draw a Black Widow of our own with the help of _JustSketchMe._
@@ -31,4 +30,4 @@ We just love her new suit design! Even though we adored the new White Widow, we 
 
 Maybe you like her old suits better? It’s a good excuse to rewatch the old Avengers movies, again. ;)
 
-And just like that, quickly and simply, justsketchme helps anyone draw their own Black Widow fan art to share with your friends and online communities!
+And just like that, quickly and simply, JustSketchMe helps anyone draw their own Black Widow fan art to share with your friends and online communities!
