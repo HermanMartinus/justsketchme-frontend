@@ -4,7 +4,7 @@ date: 2021-07-15 22:00:00 +0000
 permalink: how-to-draw-mcu-black-widow
 description: The wait for the movie is finally over, now let's celebrate with fan
   art.
-image: "/uploads/black-widow5.png"
+image: "/uploads/blackwidow894032.png"
 author: Alida Loubser
 
 ---
