@@ -24,6 +24,7 @@ fields:
   label: Author
   description: 'Who authored this article? '
 pages:
+- _posts/10-characters-we-d-like-to-see-in-the-next-suicide-squad.md
 - _posts/2019-10-06-figure-drawing-reference.md
 - _posts/2019-10-16-how-to-draw-a-person.md
 - _posts/2020-07-27-anime-poser.md
