@@ -1,6 +1,7 @@
 ---
 title: Terms of Service
 permalink: /terms-of-service/
+class: text-container docs
 ---
 
 ## Terms

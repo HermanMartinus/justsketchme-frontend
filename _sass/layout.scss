@@ -10,6 +10,26 @@
   background-color: #fff;
 }
 
+.docs {
+  h1, h2, h3, h4, h5, h6 {
+    font-family: $title-font;
+  }
+
+  .app-tool {
+    background-color: $fresh-mint;
+    padding-left: 3px;
+    svg {
+      width: 22px;
+      height: 22px;
+      fill: none;
+      stroke: $hot-pink;
+      stroke-width: 2;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+    }
+  }
+}
+
 .container {
   max-width: 1140px;
 
