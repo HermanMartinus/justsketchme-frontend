@@ -18,9 +18,11 @@
   .app-tool {
     background-color: $fresh-mint;
     padding-left: 3px;
+
     svg {
       width: 22px;
       height: 22px;
+      margin-right: -3px;
       fill: none;
       stroke: $hot-pink;
       stroke-width: 2;
