@@ -13,8 +13,7 @@ You can then copy and paste the key into the app to activate all the features in
 
 ### How do I cancel my subscription?
 
-Find out how to cancel your subscription
-<a href="https://customers.gumroad.com/article/192-how-do-i-cancel-my-subscription" target="_blank">here</a>.
+Follow [these instructions](/docs/#manage-subscription) to cancel or manage your subscription. 
 
 ---
 

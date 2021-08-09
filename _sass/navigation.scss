@@ -21,7 +21,7 @@ header {
 		a {
 			display: flex;
 			align-items: center;
-			font-family: 'Luna', Arial, Helvetica, sans-serif;
+			font-family: $logo-font;
 			font-size: 17px;
 			width: max-content;
 		}
