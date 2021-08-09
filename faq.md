@@ -4,6 +4,10 @@ description: Common questions answered
 class: text-container
 ---
 
+### Documentation
+
+For detailed documentation on how to use JustSketchMe use the [docs](/docs/).
+
 ### How does subscribing work? 
 
 You will be issued a license key after payment (it will also be emailed to you).
