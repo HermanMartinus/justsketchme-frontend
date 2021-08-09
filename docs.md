@@ -219,15 +219,15 @@ These two tools work as expected, undoing or redoing the last action. They are a
 
 ### Place on ground
 
-This tool places the active object on the ground (floor grid). Select the object you want to place on the ground then click the place on ground button <span class="app-tool"><svg><use xlink:href="/images/feather-sprite.svg#chevrons-down" /></svg></span> in the top right of the screen. 
+This tool places the active object on the ground (floor grid). Select the object you want to place on the ground then click the place on ground button <span class="app-tool"><svg><use xlink:href="/images/feather-sprite.svg#chevrons-down" /></svg></span> in the top right of the screen or using the shortcut `J`. 
 
 ### Hide all tools
 
-This tool hides all the joints and active gizmos in the scene so you can observe it without all the clutter. Select the hide tools button <span class="app-tool"><svg><use xlink:href="/images/feather-sprite.svg#eye" /></svg></span> in the top right corner to toggle.
+This tool hides all the joints and active gizmos in the scene so you can observe it without all the clutter. Select the hide tools button <span class="app-tool"><svg><use xlink:href="/images/feather-sprite.svg#eye" /></svg></span> in the top right corner or using the shortcut `K` to toggle.
 
 ### Lock screen
 
-This tool locks the camera of the scene in place so as to not accidentally move it if you've found the perfect perspective. You can toggle the camera lock using the button <span class="app-tool"><svg><use xlink:href="/images/feather-sprite.svg#lock" /></svg></span> in the top right of the screen.
+This tool locks the camera of the scene in place so as to not accidentally move it if you've found the perfect perspective. You can toggle the camera lock using the button <span class="app-tool"><svg><use xlink:href="/images/feather-sprite.svg#lock" /></svg></span> in the top right of the screen or using the shortcut `L`.
 
 ---
 
