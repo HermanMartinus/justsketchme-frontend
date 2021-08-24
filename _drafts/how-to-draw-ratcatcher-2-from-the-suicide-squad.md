@@ -3,7 +3,7 @@ title: 'How to draw Ratcatcher 2 from The Suicide Squad '
 date: 2021-08-22 22:00:00 +0000
 permalink: how-to-draw-ratcatcher2
 description: Suicide Squad 2 stars a new character - Ratcatcher 2 - and we love her!
-image: ''
+image: "/uploads/the-suicide-squad-ratcatcher-2-daniela-melchior-1626710050.jpg"
 author: Alida Loubser
 
 ---
