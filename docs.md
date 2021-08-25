@@ -181,6 +181,8 @@ Full scenes with models, props, light settings and perspective info can be saved
 
 ### Save/load scenes
 
+Saved scenes are snapshots of the scene at the time of saving. This is slightly different from, say, Photoshop. 
+
 When you're happy with the layout of your scene you can save it by going to the scenes menu <span class="app-tool"><svg><use xlink:href="/images/feather-sprite.svg#image" /></svg></span> in the bottom right of the screen and clicking `Save scene`. The scene name will then appear beneath the save button and can be loaded by clicking it. You can group scenes together using categories when saving. This will create an accordion menu of scenes. 
 
 ---
