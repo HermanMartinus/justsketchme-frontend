@@ -13,22 +13,22 @@ author: Alida Loubser
 
 Cleo Cazo, known as Ratcatcher 2, is the soul of Task Force X. She did indeed get her friends out of there alive (well, most of them), as she promised. Her compassionate and sympathetic personality has caught our attention, and we would love to make some fanart of her, and her cute pet rat, Sebastian.
 
-![](/uploads/ratcatcher2-a.png)
+![](/uploads/ratcatcher-compressed-1.png)
 
 For Cazo, we used the “realistic female” mannequin and posed her like she is standing in the promotional poster with her beacon of hope up high. _JustSketchMe_ has a handy screenshot function, and we used it to drag the pose easily into Procreate.
 
-![](/uploads/ratcatcher2-b.png)
+![](/uploads/ratcatcher-compressed-2.png)
 
 Start with the rough sketch to block out the different parts of her outfit. We wanted to see her lovely face, but you might want to draw her with her exterminator mask.
 
-![](/uploads/ratcatcher2-c.png)
+![](/uploads/ratcatcher-compressed-3.png)
 
 With the opacity lowered, we drew the final lines before we went over to the colouring phase. Her outfit might seem bland, but we can amp up the saturation or add cool light effects to make it more interesting.
 
-![](/uploads/ratcatcher2-d.png) 
+![](/uploads/ratcatcher-compressed-4.png)
 
 Maybe you want to go for the creepy sewer Ratcatcher look, or maybe you liked her floral dress. It’s all up to you!
 
-![](/uploads/ratcatcher2-e.png)
+![](/uploads/ratcatcher-compressed-5.png)
 
 And just like that, your Ratcatcher 2 fanart is done and dusted!
