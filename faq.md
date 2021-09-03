@@ -15,6 +15,12 @@ You can then copy and paste the key into the app to activate all the features in
 
 ---
 
+### I've lost my license key, what do I do? 
+
+Your license key should be in an email sent to you by Gumroad. Try searching your inbox for an email from them. It should also be available in your [Gumroad library](https://gumroad.com/library/). If you still can't find it, send an email to [hello@justsketch.me](mailto:hello@justsketch.me).
+
+---
+
 ### How do I cancel my subscription?
 
 Follow [these instructions](/docs/#manage-subscription) to cancel or manage your subscription. 
