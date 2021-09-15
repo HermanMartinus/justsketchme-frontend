@@ -8,7 +8,7 @@ author: ''
 published: false
 
 ---
-![](/uploads/blogimages-planetary.png)
+![](/uploads/untitled_artwork-2.png)
 
 Ahoy matey,
 
@@ -20,6 +20,10 @@ We do, however, recognise that times are tough and people are struggling.
 
 Hence, we’d like to offer you this discount code as a way to still use our app and pursue truth, justice and the JustSketchMe way.
 
+[https://justsketchme.gumroad.com/l/justsketchme/artist-emergency](https://justsketchme.gumroad.com/l/justsketchme/artist-emergency "https://justsketchme.gumroad.com/l/justsketchme/artist-emergency")
+
 Hope this helps, you dirty pirate!
 
 ;)
+
+![](/uploads/blogimages-planetary.png)
