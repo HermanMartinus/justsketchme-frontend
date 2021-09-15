@@ -5,7 +5,6 @@ permalink: justsketchme-crack-full-2021-SKIDROW
 description: ''
 image: ''
 author: ''
-published: false
 
 ---
 ![](/uploads/untitled_artwork-2.png)
@@ -18,7 +17,7 @@ Unfortunately, you won’t find a crack for JustSketchMe because we’re beings 
 
 We do, however, recognise that times are tough and people are struggling.
 
-Hence, we’d like to offer you this discount code as a way to still use our app and pursue truth, justice and the JustSketchMe way.
+So, we’d like to offer you this discount code as a way to still use our app and pursue truth, justice and the JustSketchMe way.
 
 [https://justsketchme.gumroad.com/l/justsketchme/artist-emergency](https://justsketchme.gumroad.com/l/justsketchme/artist-emergency "https://justsketchme.gumroad.com/l/justsketchme/artist-emergency")
 
