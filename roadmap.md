@@ -27,6 +27,8 @@ class: text-container
 
 
 ## Done
+- Hand editor
+- Upload props
 - Anime model v2
 - "Put on ground" shortcut
 - Undo and redo buttons update/fix
