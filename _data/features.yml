@@ -1,24 +1,38 @@
 - title: Fully posable figures
-  description: Adjust the rotation of each joint for a natural pose of each of your characters. Create the perfect drawing reference for your art.
+  description: Create references for your art exactly how you imagine it; with fully rotatable models, joints and camera angles.
   image: /images/features/fully-posable.png
 - title: Multiple characters and styles
-  description: Choose from a myriad of characters and styles, from anime to superheroes.
-  image: /images/features/throw.png
+  description: Choose from an ever-growing range of character models in a variety of styles to give your pieces a good jumping off point.
+  image: https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/e782d55f-dbd2-43a4-14d2-af76934f4600/optimised
+  image-scale: 1.2
+  image-translate-y: 40
+- title: Nifty controls
+  description: We’ve added extra features to help you finesse your JustSketchMe experience and have even more control of your drawing references. Use Clone, Flip and Colour options to diversify and distinguish your scenes.
+  image: https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/c04cbee2-efb7-439d-19f5-e5dfe15c5600/optimised
+  image-scale: 2
+  image-translate-y: 40
 - title: Adjustable lighting
-  description: Control the position, direction and intensity of the lights in your scene. Or remove them entirely.
+  description: Set the scene with customisable lighting sources and add dramatic flair to your next piece.
   image: /images/features/lighting.png
-- title: Dynamic perspective camera
-  description: Move the camera around the scene for the perfect shot, with an adjustable field of view for EXTREME PERSPECTIVE!
+- title: Dynamic perspective
+  description: Use our Field of View slider to create complex and intricate perspectives to add dynamism and dimension to your drawing references. 
   image: /images/features/perspective.png
-- title: Props and shapes
-  description: Basic shapes to create any prop you would need. Add images to the scene as backgrounds or props.
+- title: Shapes
+  description: Use fully rotatable and scalable shapes to add depth to your references and block out increasingly complex scenes.
   image: /images/features/box.png
+- title: Props
+  description: Drop in any .obj prop of your choosing to arm your model or add life to their surroundings and create super specific references exactly how you imagined.
+  image: https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/66e30617-41fa-440c-6b7d-67a661fcef00/optimised
+  image-scale: 2
+  image-translate-y: 20
 - title: Pose library
   description: A growing pose library of well crafted preset poses for characters to get you up and making art in no time.
   image: /images/features/pose-library.png
 - title: Desktop and mobile application
-  description: For a smooth native device experience.
+  description: Go native for a smoother and even more accessible JustSketchMe experience.
   image: /images/features/apps.png
 - title: Export 3D models
-  description: Export posed models to <code>.dae</code> and <code>.obj</code> format.
-  image: /images/features/export.png
+  description: Take it offscreen with our 3D exporting options and add your JustSketchMe scenes elsewhere. Export posed models to <code>.dae</code> and <code>.obj</code> format.
+  image: https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/df56910d-ecde-4b14-714b-e43bd021a600/optimised
+  image-scale: 1.2
+  image-translate-y: 50
