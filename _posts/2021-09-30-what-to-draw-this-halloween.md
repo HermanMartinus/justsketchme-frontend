@@ -25,11 +25,11 @@ Art by @BS_artsss (Twitter)
 
 Ghosts, ghouls and graveyard folk are super fun but also stock standard. Why not try conjuring up a different kind of creature and differentiating your #Spooktober with something unexpected.
 
-Looking to draw a vampire in fight? Try a harpy instead! A werewolf? What about a centaur! A witch? A necromancer could be cool!
+Looking to draw a vampire in a fight? Try a harpy instead! A werewolf? What about a centaur! A witch? A necromancer could be cool!
 
-Obviously these creature variants do bleed into each other and overlap quite a bit, and that’s good because nuanced character should is all about pooling from different sources to create something cool, but going at them via a different angle can help you create something interesting from the jump.
+Obviously these creature variants do bleed into each other and overlap quite a bit, and that’s good because nuanced characters should is all about pooling from different sources to create something cool, but going at them via a different angle can help you create something interesting from the jump.
 
-!\[harpy \]([https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/2343efe7-99ea-4862-5d93-a4de20f00300/optimised](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/2343efe7-99ea-4862-5d93-a4de20f00300/optimised "https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/2343efe7-99ea-4862-5d93-a4de20f00300/optimised"))
+[optimised](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/2343efe7-99ea-4862-5d93-a4de20f00300/optimised "optimised")
 
 Art by Sunshine Kim.
 
