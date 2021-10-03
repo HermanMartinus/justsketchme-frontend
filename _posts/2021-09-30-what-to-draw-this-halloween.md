@@ -17,7 +17,7 @@ In searching for things to inspire our own Halloween activities, I thought I’d
 
 Mood is such a big part of what makes great artworks great. If you’re trying to evoke something a little more complex, downplay the more typical conventions of the Halloween aesthetic and ramp up the mood with softer tones, darker bits and some grain.
 
-!\[spooky art\]([https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/666ae8c4-9b63-4f80-fa5a-32daaf276500/optimised](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/666ae8c4-9b63-4f80-fa5a-32daaf276500/optimised "https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/666ae8c4-9b63-4f80-fa5a-32daaf276500/optimised"))
+![spooky art](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/666ae8c4-9b63-4f80-fa5a-32daaf276500/optimised)
 
 Art by @BS_artsss (Twitter)
 
@@ -29,7 +29,7 @@ Looking to draw a vampire in a fight? Try a harpy instead! A werewolf? What abou
 
 Obviously these creature variants do bleed into each other and overlap quite a bit, and that’s good because nuanced characters should is all about pooling from different sources to create something cool, but going at them via a different angle can help you create something interesting from the jump.
 
-[optimised](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/2343efe7-99ea-4862-5d93-a4de20f00300/optimised "optimised")
+![optimised](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/2343efe7-99ea-4862-5d93-a4de20f00300/optimised)
 
 Art by Sunshine Kim.
 
@@ -45,6 +45,6 @@ Check out the sites below to get some colour inspo on the fly and try using them
 
 [https://colorhunt.co/palettes/halloween](https://colorhunt.co/palettes/halloween "https://colorhunt.co/palettes/halloween")
 
-!\[colour theory\]([https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/a9d5297f-6775-4479-604c-058274116100/optimised](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/a9d5297f-6775-4479-604c-058274116100/optimised "https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/a9d5297f-6775-4479-604c-058274116100/optimised"))
+![colour theory](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/a9d5297f-6775-4479-604c-058274116100/optimised)
 
-!\[colour theory\](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/a9d5297f-6775-4479-604c-058274116100/optimised)
+![colour theory](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/a9d5297f-6775-4479-604c-058274116100/optimised)
