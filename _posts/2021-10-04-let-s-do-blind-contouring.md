@@ -7,17 +7,19 @@ image: "/uploads/screenshot-2021-10-05-at-08-36-43.png"
 author: Alida Loubser
 
 ---
-# Task 1
+We've recently introduced a new subscription tier that lets you sign up for 3 months of JustSketchMe. 3 months is a perfect timeframe to polish your skills and hone your craft, so we're going to be running a little boot camp to help you get started on your journey to artistic greatness. Sign up today and let's get good, together. 
+
+[https://gumroad.com/l/justsketchme](https://gumroad.com/l/justsketchme "https://gumroad.com/l/justsketchme")
 
 ## What do you need?
 
-* Something to draw (JustSketchMe's models, animals, objects) 
+* Something to draw (JustSketchMe's models, animals, objects)
 * Something to draw on (paper_/_tablet)
 * Something to draw with (Pen, pencil, stylus)
 
 (We used Procreate & iPad mini & apple pencil)
 
-# Task 2
+# Task 1
 
 Pick a body type, and select a pose to draw from JustSketchMe's pose library.
 
@@ -36,7 +38,7 @@ Put your pen down and start drawing what you see.
 
 ![C1](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/0247fca6-a041-473f-90a2-dffa7f4e7f00/optimised)
 
-# Task 3
+# Task 2
 
 ## Tips
 
@@ -52,8 +54,7 @@ Don’t worry about controlling the result. It’s not about what you made, it�
 
 ![E2](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/cb20139a-8dc9-4ae2-45ac-0e9488050b00/optimised)
 
-
-# Task 4
+# Task 3
 
 ## Tips
 
@@ -69,8 +70,7 @@ Try drawing the same pose several times.
 
 ![A5](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/e943266a-0a7d-493f-9b80-087db5bf2000/optimised)
 
-
-# Task 5
+# Task 4
 
 ## What does it teach you?
 
