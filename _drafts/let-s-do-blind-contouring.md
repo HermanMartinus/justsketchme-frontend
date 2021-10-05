@@ -11,23 +11,17 @@ author: Alida Loubser
 
 **_What do you need?_**
 
-Something to draw (justsketchme’s people, animals, objects) _B.png_
+* Something to draw (JustSketchMe's models, animals, objects) 
+* Something to draw on (paper_/_tablet)
+* Something to draw with (Pen, pencil, stylus)
 
-&
-
-Something to draw on (paper / tablet)
-
-&
-
-Something to draw with (Pen, pencil, stylus)
-
-(We used Procreate & ipad mini & apple pencil)
+(We used Procreate & iPad mini & apple pencil)
 
 _Brush.png_ - Technical Pen brush on Procreate
 
 **_CARD 2_**
 
-Pick a body type, and select a pose to draw from justsketchme’s pose library.
+Pick a body type, and select a pose to draw from JustSketchMe's pose library.
 
 Put your pen down and start drawing what you see.
 
@@ -76,31 +70,3 @@ _A5-8.png_
 _G.png_
 
 _G1.png_
-
-**_CARD 6_**
-
-**YES NO**
-
-_A.png_
-
-\- original reference
-
-_A4.png_
-
-\- Ugly ✔
-
-\- Messy ✔
-
-\- Followed the rules ✔
-
-_A2.png_
-
-\- We’ll give you the benefit of the doubt ;)
-
-_A1.png_
-
-\- Too neat ❌
-
-\- Lifted your hand ❌
-
-\- Not a blind contour drawing ❌
