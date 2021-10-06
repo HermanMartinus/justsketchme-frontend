@@ -7,9 +7,9 @@ image: "/uploads/screenshot-2021-10-05-at-08-36-43.png"
 author: Alida Loubser
 
 ---
-We've recently introduced a new subscription tier that lets you sign up for 3 months of JustSketchMe. 3 months is a perfect timeframe to polish your skills and hone your craft, so we're going to be running a little boot camp to help you get started on your journey to artistic greatness. Sign up today and let's get good, together. 
+We've recently introduced a new subscription tier that lets you sign up for 3 months of JustSketchMe. 3 months is a perfect timeframe to polish your skills and hone your craft, so we're going to be running a little boot camp to help you get started on your journey to artistic greatness. Sign up today and let's get good, together.
 
-[https://gumroad.com/l/justsketchme](https://gumroad.com/l/justsketchme "https://gumroad.com/l/justsketchme")
+[https://gum.co/justsketchme](https://gum.co/justsketchme "https://gum.co/justsketchme")
 
 ## What do you need?
 
