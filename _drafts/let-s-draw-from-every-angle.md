@@ -2,7 +2,7 @@
 title: 'Let''s draw from every angle '
 date: 2021-10-11 22:00:00 +0000
 permalink: how-to-draw-poses-from-every-angle
-description: ''
+description: 'Let''s get angular and see our art from a new angle '
 image: ''
 author: Alida Loubser
 
