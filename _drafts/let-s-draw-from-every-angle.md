@@ -7,9 +7,6 @@ image: ''
 author: Alida Loubser
 
 ---
-
-**_CARD 1_**
-
 **_Where do I start?_**
 
 1\. Load justsketchme.
@@ -22,23 +19,23 @@ author: Alida Loubser
 
 We chose > Combat > “Vampire claws”
 
-_Figure D.png_
+![360 pose figure drawing 4](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/5c53c267-af6a-4dc6-da54-2e6a8ef7e100/optimised)
 
-**_CARD 2_**
 
 **_Draw A Full Turnaround_**
 
 Make a quick sketch of each angle. Don’t spend more than a few minutes on each side.
 
-_Figure I.png_
+![360 pose figure drawing 9](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/563a1d59-f18e-45d5-9e67-92ebb6e1d200/optimised)
 
 This will help you grow your 3D perception and anatomy skills!
 
 Tip:
 
-\- Try to use only curves or a straight line (No ‘S’ shapes!) _Figure E.png_
+\- Try to use only curves or a straight line (No ‘S’ shapes!) 
 
-**_CARD 3_**
+![360 pose figure drawing 5](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/816dae4b-8f5f-4554-8a75-b7ebd17a9a00/optimised)
+
 
 **_Change Lighting_**
 
@@ -46,13 +43,12 @@ Light and shadow creates the illusion of volume!
 
 Practice sketching the same pose with different lighting.
 
-_Figure G.png_
+![360 pose figure drawing 7](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/26662f16-9a80-433f-a824-eda11bcd9e00/optimised)
 
 Tip:
 
 These are exercises, not completed drawings.
 
-**_CARD 4_**
 
 **_Line of action_**
 
@@ -60,9 +56,9 @@ To make it easier: find the line of action before drawing your pose.
 
 Line of action: The internal line that spans from the head to the feet that conveys the action carried out by the figure.
 
-_Figure A.png_
+![360 pose figure drawing 1](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/ca8a5001-dd72-4f18-4ba8-3fe0db0f9200/optimised)
 
-_Figure B.png_
+![360 pose figure drawing 2](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/ea9fd78d-3cb8-48be-128e-2e37264cf800/optimised)
 
 Tip:
 
@@ -70,11 +66,10 @@ Imagine the line is connected to the spine.
 
 Tip 2:
 
-Draw circles for the head, ribcage and hips along this line. _Figure H.png_
+![360 pose figure drawing 8](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/845e2711-f8c3-4aeb-504e-75052e0b3300/optimised)
 
-**_CARD 5_**
 
-_Figure C.png_
+![360 pose figure drawing 3](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/84a2d227-f5cb-4a4d-4727-42e23572e700/optimised)
 
 **YES NO**
 
