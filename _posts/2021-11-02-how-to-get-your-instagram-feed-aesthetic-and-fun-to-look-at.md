@@ -3,7 +3,7 @@ title: How to get your instagram feed aesthetic and fun to look at
 date: 2021-11-02 22:00:00 +0000
 permalink: how-to-make-your-instagram-aesthetic
 description: Let's get those IG's popping!
-image: ''
+image: "/uploads/aeshetic-feed-cover.png"
 author: Dante Ludolf
 
 ---
