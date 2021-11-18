@@ -189,13 +189,15 @@ When you're happy with the layout of your scene you can save it by going to the 
 
 ## Props
 
-Props are shapes that can be scaled and moved around in scene to illustrate certain things. They can be used to create large backgrounds (think buildings), or smaller foreground objects (think tables or coffee cups). 
+Props are shapes and objects that can be scaled and moved around in scene to illustrate certain things. They can be used to create large backgrounds (think buildings), or smaller foreground objects (think tables or coffee cups). 
 
 ### Adding props
 
-Open the props menu <span class="app-tool"><svg><use xlink:href="/images/feather-sprite.svg#box" /></svg></span> in the top left corner of the screen and select the shape you would like to import into the scene. 
+Open the props menu <span class="app-tool"><svg><use xlink:href="/images/feather-sprite.svg#box" /></svg></span> in the top left corner of the screen and select the shape or object you would like to import into the scene. 
 
-### Modifying props
+Props can also be uploaded by selecting the upload <span class="app-tool"><svg><use xlink:href="/images/feather-sprite.svg#upload" /></svg></span> button and selecting "Upload prop". Note that only `.obj` files can be uploaded.
+
+### Transforming props
 
 Props can be modified using the [gizmos](#gizmos) in the bottom right corner. The props can be scaled along certain planes, moved around, and rotated according to the specific function of the prop. 
 
@@ -255,12 +257,14 @@ JustSketchMe runs on all devices in web browser, as well as locally on all devic
 
 ### iOS
 
-To download the app on iOS:
+The iOS app is available on the Apple App store. You can follow this [link](https://apps.apple.com/app/justsketchme/id1543663234) or search "justsketchme". 
 
-- Open the JustSketchMe webapp in Safari
-- Tap the Share button <span class="app-tool"><svg><use xlink:href="/images/feather-sprite.svg#share" /></svg></span> in the Safari toolbar
-- Tap `Add to Home Screen` <span class="app-tool"><svg><use xlink:href="/images/feather-sprite.svg#plus-square" /></svg></span>
-- Confirm the download
+If you have an existing license key:
+
+- Select "Upgrade"
+- Select "Restore purchase"
+- Allow it to sign in with your Apple ID
+- It will then ask you to insert your license key
 
 ### Android
 
