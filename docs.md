@@ -195,7 +195,7 @@ Props are shapes and objects that can be scaled and moved around in scene to ill
 
 Open the props menu <span class="app-tool"><svg><use xlink:href="/images/feather-sprite.svg#box" /></svg></span> in the top left corner of the screen and select the shape or object you would like to import into the scene. 
 
-Props can also be uploaded by selecting the upload <span class="app-tool"><svg><use xlink:href="/images/feather-sprite.svg#upload" /></svg></span> button and selecting "Upload prop". Note that only `.obj` files can be uploaded.
+Props can also be uploaded by selecting the upload <span class="app-tool"><svg><use xlink:href="/images/feather-sprite.svg#upload" /></svg></span> button and selecting `Upload prop`. Note that only `.obj` files can be uploaded.
 
 ### Transforming props
 
@@ -257,12 +257,12 @@ JustSketchMe runs on all devices in web browser, as well as locally on all devic
 
 ### iOS
 
-The iOS app is available on the Apple App store. You can follow this [link](https://apps.apple.com/app/justsketchme/id1543663234) or search "justsketchme". 
+The iOS app is available on the Apple App store. You can follow this [link](https://apps.apple.com/app/justsketchme/id1543663234) or search `justsketchme`. 
 
 If you have an existing license key:
 
-- Select "Upgrade"
-- Select "Restore purchase"
+- Select `Upgrade`
+- Select `Restore purchase`
 - Allow it to sign in with your Apple ID
 - It will then ask you to insert your license key
 
