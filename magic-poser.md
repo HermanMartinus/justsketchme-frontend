@@ -29,3 +29,13 @@ The price of Magic Poser depends on how many props and models you want to unlock
 ## Why is JustSketchMe a great Magic Poser alternative?
 Both Magic Poser and JustSketchMe are great tools for planning out your art. However, the simplicity and cross-platform nature of JustSketchMe makes it a great tool of choice. 
 
+<div class="container flex column">
+    <h2 class="title center-text">
+        Let's make some good art with JustSketchMe!
+    </h2>
+    <a href="https://app.justsketch.me" target="_blank" rel="noopener noreferrer" title="Webapp">
+        <button class="button mint">
+            Start now!
+        </button>
+    </a>
+</div>
