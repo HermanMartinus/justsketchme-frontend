@@ -3,7 +3,10 @@ title: What makes JustSketchMe a great Magic Poser alternative
 permalink: magic-poser
 description: A comparison of JustSketchMe and Magic Poser
 class: text-container
+image: https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/e782d55f-dbd2-43a4-14d2-af76934f4600/optimised
 ---
+
+![The crew](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/e782d55f-dbd2-43a4-14d2-af76934f4600/optimised)
 
 Magic Poser and JustSketchMe are 3D character posing apps that help you create reference scenes before you start sketching. They both feature a selection of character models, shapes and props to better flesh out your idea before putting pen to paper, and make it easy for you to get past the planning stage and start drawing quickly.
 
