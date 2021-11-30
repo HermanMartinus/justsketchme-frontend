@@ -7,6 +7,8 @@ image: ''
 author: Dante Ludolf
 
 ---
+![justsketchme collab 1](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/0868f35f-14d1-45b9-724e-99ea04d2f500/optimised)
+
 Collaboration and community is one of the (only) great things about social media and it seems we forgot this somewhere along our never-ending scrolls through the wormhole of content available to us.
 
 Brands have cottoned on to this to great success. Think Pokemon Go and The North Face, Final Fantasy and Louis Vuitton, Hajime Sorayama and Dior, Saweetie and McDonalds, Fortnite and literally everyone. The list goes on. These supposedly unrelated and contrasting entities banding together to make something cool is exciting and inspiring, and not just because of the scale at which they are doing them.
@@ -14,6 +16,8 @@ Brands have cottoned on to this to great success. Think Pokemon Go and The North
 We should all take a few leaves out of their books and apply this kind of thinking to our own attempts at expanding our reach and increasing engagement with our artistic endeavours.
 
 So let’s take a look at how we can do just that.
+
+![justsketchme collab 2](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/a3c99ac0-8309-4c81-b996-7d6202a14c00/optimised)
 
 Step 1:
 
@@ -26,6 +30,8 @@ Firstly, if you’ve identified a page or person that you’d like to collaborat
 It’s also helpful at this stage to identify people with similar followings to your own, so that you start off with equal footing. Some pages might also think you’re requesting to pay them to appear on their pages. If you’re using the words ‘promo’ and ‘collab’ interchangeably, you should probably define what it is you’re looking to do.
 
 When the time is right, slide into their DM’s and come from a place of appreciation and intention, and see how you could help each other out.
+
+![justsketchme collab 3](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/2d950c3e-2b7f-4b6e-044f-7a6f6c26db00/optimised)
 
 Step 2:
 
@@ -46,6 +52,8 @@ There are so many ways you could go about creating content together, but in term
 
   
  The entire exercise is about sharing the love, right? Why not letting others in on your paid content and extend the favour by letting them ride along on your promos. This shows that you care beyond a simple metric exchange and that you’re invested in the community you find yourself in. There’s so much jealousy and comparison taking place all of the time, why don’t we try being a little more inclusive with our achievements and create some space for one another at the table. Okay TEDtalk done, thanks for coming.
+ 
+ ![justsketchme collab 4](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/49ccdf83-a739-47a6-b422-3b343f497500/optimised)
 
 Step 3:
 
@@ -56,3 +64,5 @@ It’s really easy to become overzealous when trying to shackle up with some cyb
 The same thinking applies to after the collab is done. Stay in touch, chat with them and see what’s up. You never want to close the door behind you for good or burn a bridge, so try to stay on top of your reputation management and be the kind of person you would want to encounter on the internet. :)
 
 Hope this helps, and as always, if you want to collaborate with us drop me a mail at [dante@justsketch.me](mailto:dante@justsketch.me). Happy drawing!
+
+![justsketchme collab 5](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/8af6d0a0-ced0-40e7-cff9-4912ae5a9800/optimised)
