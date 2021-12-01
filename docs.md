@@ -283,7 +283,7 @@ Download the [Mac](https://justsketchme-apps.fra1.cdn.digitaloceanspaces.com/jus
 
 ## Subscriptions
 
-JustSketchMe has a premium subscription which gives you access to the full functionality of the webapp. You can learn more about that and sign up [here](https://gum.co/justsketchme) or click the `Upgrade` button in the top right of the screen and select `Get full access!`.
+JustSketchMe Pro is a subscription which gives you access to the full functionality of the webapp. You can learn more about that and sign up [here](https://gum.co/justsketchme) or click the `Upgrade` button in the top right of the screen and select `Get JustSketchMe Pro!`.
 
 ### License key
 
@@ -296,7 +296,7 @@ Your license key can be used on all of your devices. Your saved pose and scene i
 ### Manage subscription
 
 Manage subscription is used to: 
-- Upgrade to a different plan
+- Upgrade to a different payment plan
 - Change payment information
 - Restart a subscription
 
