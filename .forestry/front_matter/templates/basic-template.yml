@@ -19,6 +19,11 @@ fields:
   config:
     required: false
   label: image
+- name: icon
+  type: text
+  config:
+    required: false
+  label: icon
 - name: author
   type: text
   config:
