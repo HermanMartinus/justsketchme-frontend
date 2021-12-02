@@ -270,7 +270,7 @@ If you have an existing license key:
 
 To download the app on Android:
 
-- Open the JustSketchMe webapp in Android Chrome
+- Open the [JustSketchMe webapp](https://app.justsketch.me) in Android Chrome
 - Open the browser settings menu <span class="app-tool"><svg><use xlink:href="/images/feather-sprite.svg#more-vertical" /></svg></span> in the top right toolbar
 - Tap `Add to Home Screen`
 - Confirm the download
