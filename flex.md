@@ -1,11 +1,11 @@
 ---
 title: Flex
 date: 2021-12-01 22:00:00 +0000
+permalink: flex-page
 description: Putting the pro in pro tier
 image: https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/385eabd4-e1bf-4254-b1ec-b7248f5ae400/optimised
 icon: https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/385eabd4-e1bf-4254-b1ec-b7248f5ae400/icon
 author: Dante Ludolf
-published: false
 
 ---
 ![JustSketchMe capabilities 1](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/d79296fa-885b-49de-9015-ab5066344b00/optimised)
