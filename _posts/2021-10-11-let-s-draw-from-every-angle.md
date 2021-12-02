@@ -4,6 +4,7 @@ date: 2021-10-11 22:00:00 +0000
 permalink: how-to-draw-poses-from-every-angle
 description: 'Let''s get angular and see our art from a new angle '
 image: "/uploads/screenshot-2021-10-12-at-11-38-44.png"
+icon: "https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/5c53c267-af6a-4dc6-da54-2e6a8ef7e100/icon"
 author: Alida Loubser
 
 ---

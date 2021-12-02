@@ -4,6 +4,7 @@ date: 2021-11-02 22:00:00 +0000
 permalink: how-to-make-your-instagram-aesthetic
 description: Let's get those IG's popping!
 image: "/uploads/aeshetic-feed-cover.png"
+icon: "https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/1c629e97-089b-4827-a366-5e743da36700/icon"
 author: Dante Ludolf
 
 ---

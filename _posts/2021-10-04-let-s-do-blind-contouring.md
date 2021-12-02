@@ -4,6 +4,7 @@ date: 2021-10-04 22:00:00 +0000
 permalink: learn-how-to-draw-blind-contour
 description: No peeking!
 image: "/uploads/screenshot-2021-10-05-at-08-36-43.png"
+icon: "https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/0247fca6-a041-473f-90a2-dffa7f4e7f00/icon"
 author: Alida Loubser
 
 ---

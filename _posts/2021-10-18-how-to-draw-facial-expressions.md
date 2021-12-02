@@ -5,6 +5,7 @@ permalink: how-to-draw-facial-expressions
 description: Facial expressions can be tricky, so here are a few helpful pointers
   to get you emoting in no time.
 image: "/uploads/how-to-draw-expressions-1.png"
+icon: "https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/41262b76-e7df-4f0e-4218-46dcb589ce00/icon"
 author: Alida Loubser
 
 ---

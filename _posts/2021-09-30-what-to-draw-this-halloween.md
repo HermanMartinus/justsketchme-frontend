@@ -4,6 +4,7 @@ date: 2021-09-30 22:00:00 +0000
 permalink: what-to-draw-halloween
 description: 'Need some inspo to make your #Spooktober… spooky?'
 image: "/uploads/e56a9b3e236a60d6adb29df763581141.jpeg"
+icon: "https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/666ae8c4-9b63-4f80-fa5a-32daaf276500/icon"
 author: Dante Ludolf
 
 ---

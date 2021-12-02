@@ -3,7 +3,8 @@ title: How to collaborate with other artists on Instagram
 date: 2021-11-29 22:00:00 +0000
 permalink: how-to-collaborate-with-other-artists
 description: 'Let''s link and build, my good dude. '
-image: "/uploads/artist-collab-insta.png"
+image: "https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/0868f35f-14d1-45b9-724e-99ea04d2f500/optimised"
+icon: "https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/0868f35f-14d1-45b9-724e-99ea04d2f500/icon"
 author: Dante Ludolf
 
 ---

@@ -1,6 +1,14 @@
 {% for post in include.posts %}
 	<li class="blog-post box{{ forloop.index }}">
-		{% if post.image and forloop.index <= 7 %}<img src="{{ post.image }}" alt="{{ post.title }}"/>{% endif %}
+		{% if forloop.index == 1 or forloop.index == 6 %}
+			{% if post.image %}
+				<img src="{{ post.image }}" alt="{{ post.title }}"/>
+			{% endif %}
+		{% else %}
+			{% if post.icon %}
+				<img src="{{ post.icon }}" alt="{{ post.title }}"/>
+			{% endif%}
+		{% endif %}
 		<div>
 		<h3><a href="{% include relative-src.html src=post.url %}">{{ post.title }}</a></h3>
 		<p>{{ post.description }}</p>
