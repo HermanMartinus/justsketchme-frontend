@@ -33,6 +33,23 @@
             border: 1px solid $blackish;
             box-shadow: 4px 4px 0 $blackish;
         }
+        
+        img.back {
+            position: absolute;
+            left: 1px;
+            top: 21px;
+            right: 0;
+            bottom: 0;
+            border: none;
+            box-shadow: none;
+            opacity: 0;
+            background-color: lavenderblush;
+            transition-duration: 0.5s;
+
+            &:hover {
+                opacity: 0.95;
+            }
+        }
 
         &:hover {
             transform: rotateZ(0deg) !important;

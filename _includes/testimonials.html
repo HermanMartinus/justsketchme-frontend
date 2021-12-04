@@ -7,8 +7,12 @@
       {% if item.favourite %}
       <li>
         <a href="{{ item.link }}" target="_blank" title="{{ item.title }}">
-          <p class="header">{{ item.title }}</p>
+          
           <img src="{{ item.image }}" alt="{{ item.title }}" />
+          {% if item.image-back %}
+            <img src="{{ item.image-back }}" class="back" alt="{{ item.title }}" />
+          {% endif %}
+          <p class="header">{{ item.title }}</p>
         </a>
       </li>
       {% endif %}

@@ -63,4 +63,4 @@ We do! Send an email to <a href="mailto:hello@justsketch.me">hello@justsketch.me
 
 ### What if I have other questions?
 
-If you have other questions you can chat with us on [discord](https://discord.gg/TWZ45KGgX6) or email us at <a href="mailto:hello@justsketch.me">hello@justsketch.me</a>.
+If you have other questions you can email us at <a href="mailto:hello@justsketch.me">hello@justsketch.me</a>.
