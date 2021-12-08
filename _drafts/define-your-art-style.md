@@ -8,7 +8,7 @@ icon: ''
 author: Dante Ludolf
 
 ---
-Look at what you like
+![how to define your art style 2](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/f8e0bbb4-63db-403d-0726-7c263f54d500/optimised)
 
 This seems obvious, but really, _look_ at that which you find creative, inspiring and look extra hard that the things that take your breath away. If you’re only looking at one artist, you’re probably doing it wrong. Us human beings are really good at being sponges to the world around us, and most of our opinions, ideas and perspectives are composites of the things we engage with on a daily basis.
 
@@ -16,7 +16,7 @@ Apply this thinking to your art as well, and use these composites to help you na
 
 Let me illustrate by example. I love Phil Jimenez’s severe and distinct line work, but I also love Peach Momoko’s subtle and feminine colours. Combine that with Tessa Wessel’s light mastery and the serene, simplistic environments of Moebius and we have something to work with and work toward.
 
-Your style doesn’t stop at characters
+![how to define your art style 3](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/cef41032-6cfd-42a5-d4ef-7b9953ed2e00/optimised)
 
 Characters are super fun to draw. Let’s start there.
 
@@ -35,7 +35,7 @@ Think about your style in terms of:
 
 Think about hooooooow you draw instead of whaaaaaaat you draw. It heeeeeeeelws!
 
-Refine your colour palette
+![how to define your art style 4](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/040d462d-24c4-4184-7c80-358c96bd6300/optimised)
 
 Speaking of colour, here’s a biggie.
 
@@ -51,7 +51,7 @@ Colour is, in my humble opinion, a super tricky thing to figure out and get righ
 
 Perhaps that was a rookie error, but the lesson still rings true. Colour is important and a potentially powerful way for you to distinguish your art.
 
-draw worlds not scenarios
+![how to define your art style 5](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/e21f12a3-fe63-42e8-f198-154723e47b00/optimised)
 
 This is kind of a bit of a thinker, but bear with me.
 
