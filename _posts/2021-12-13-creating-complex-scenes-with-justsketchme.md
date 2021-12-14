@@ -10,7 +10,7 @@ author: Dante Ludolf
 ---
 ![complex scenes 5](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/775ba57c-c4fc-44f6-79ba-e78cc8487e00/optimised)
 
-We’ve spoken before about how the save scene function is a life saver when you’re knee deep in creating cool stuff with JustSketchMe, and we stand by it.
+We’ve spoken before about how the save scene function is a lifesaver when you’re knee-deep in creating cool stuff with JustSketchMe, and we stand by it.
 
 With the ability to save complex creations and pick up where you left off at the drop of a hat, you can essentially scope out entire projects pretty quickly and very easily.
 
@@ -22,13 +22,13 @@ Let’s dive into what makes this feature extra special and what it could mean f
 
 ![complex scenes 4](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/8b28c90f-a764-4bde-706c-2321d5c77300/optimised)
 
-Fan art
+## Fan art
 
-So we’re pretty restricted with what we can upload to the prop library, as we’re bound by copyright laws to not infringe on other’s property and have to pretty much exclusively make use of royalty free or custom design files.
+So we’re pretty restricted with what we can upload to the prop library, as we’re bound by copyright laws to not infringe on others’ property and have to pretty much exclusively make use of royalty-free or custom design files.
 
 BUT as a user, who is not profiting off of these assets or using them for anything other than your artistic pursuits, you totally can.
 
-So if you’re trying to crank out a lush piece of fan art and you wanna get down to the nitty gritty of Mjölnir’s design and ace every crack and curve then you can upload a file you found and get right to it.
+So if you’re trying to crank out a lush piece of fan art and you wanna get down to the nitty-gritty of Mjölnir’s design and ace every crack and curve then you can upload a file you found and get right to it.
 
 Wanna sketch Thor brandishing said hammer in the middle of Asgard’s great hall? You can!
 
@@ -44,7 +44,7 @@ Here are some sites that we love and use regularly for our own work:
 
 ![complex scenes 1](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/399f5fba-f8dc-4d81-2eb1-02f607fd0e00/optimised)
 
-Panels
+## Panels
 
 Comic books are great, but have you ever tried planning one?
 
@@ -60,7 +60,7 @@ Then, when the stage is set, pan and zoom the camera accordingly and try to visu
 
 ![complex scenes 2](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/2de2a846-3ec7-4b8f-5390-be49aac5a200/optimised)
 
-Environment & background design
+## Environment & background design
 
 It’s really easy to get stuck at the character design phase and just crank out drawing after drawing of fabulously dressed people floating on an empty page.
 
@@ -68,10 +68,10 @@ Backgrounds and environments are of course a very tricky thing to master or even
 
 Create composite backgrounds by dropping in various elements and gizmos and gadgets that roughly make up the idea in your head and get to tracing.
 
-Yes, we said the devil word. Tracing, or using references as we like to call it, can help guide your hand and acquaint you with shapes and perspective in a beneficial way. Get comfortable with mapping out the idea in your head with things at your disposal and study it by _drawing_ it.
+Yes, we said the devil word. Tracing, or using references as we like to call it, can help guide your hand and acquaint you with shapes and perspectives in a beneficial way. Get comfortable with mapping out the idea in your head with things at your disposal and study it by _drawing_ it.
 
 It sounds a bit like an oversimplification, but see the process as an iterative one and relieve yourself from the stress of the end result by just hacking away at something over and over and learning something from it.
 
-Don’t know how to draw a stone staircase surrounded by moss covered pillars straight out of your head? I think that very few people do. So what do? Crank out a reference and get sketching. ;)
+Don’t know how to draw a stone staircase surrounded by moss-covered pillars straight out of your head? I think that very few people do. So what do? Crank out a reference and get sketching. ;)
 
 Now go forth brethren and be sure to make a scene :P
