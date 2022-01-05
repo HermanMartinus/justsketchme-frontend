@@ -10,6 +10,8 @@ author: Dante Ludolf
 ---
 ![beat em up inspirational quotes  1](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/bd74cb67-514a-4ceb-ede1-ba8ce285fd00/optimised)
 
+\*I made cute little inspirational quote cards out of beat 'em up fight announcements and I'm obsessed. 
+
 NY resolutions tend to get a bad rep. Whether it’s us who suck at them or resolutions just being sucky in general, the jury is still very much out on whether or not making a plan for improvement is best implemented when the clock strikes twelve on the 31st.
 
 I’m a firm believer that everyone wants to be a better version of themselves and very few earth walkers willfully choose to be crumby and crappy as a raison d’être, but bettering yourself is more so a lifelong pursuit than a fresh item to the new year’s to-do list.
@@ -79,3 +81,5 @@ Thus, try to not overcrowd your goal basket and refine your focus a little so yo
 Also, there is no moral imperative to undertake every goal or resolution you deem important and necessary to your life right at this moment. Start with one, you’ll get to the others eventually. But you have to at least start at some point, sooner rather than later, or else you never will.
 
 Hope this helps! Let us know if we should start some Art Accountability pages so we can make sure we’re all drawing and creating as per the holy decree of the get good manifesto.
+
+> by Dante Ludolf
