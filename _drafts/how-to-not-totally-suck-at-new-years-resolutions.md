@@ -8,6 +8,8 @@ icon: https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/bd74cb67-514a-4ceb-ede1-b
 author: Dante Ludolf
 
 ---
+![beat em up inspirational quotes  1](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/bd74cb67-514a-4ceb-ede1-ba8ce285fd00/optimised)
+
 NY resolutions tend to get a bad rep. Whether it’s us who suck at them or resolutions just being sucky in general, the jury is still very much out on whether or not making a plan for improvement is best implemented when the clock strikes twelve on the 31st.
 
 I’m a firm believer that everyone wants to be a better version of themselves and very few earth walkers willfully choose to be crumby and crappy as a raison d’être, but bettering yourself is more so a lifelong pursuit than a fresh item to the new year’s to-do list.
@@ -16,15 +18,21 @@ But committing to a life of seemingly stern dedication and discipline is a reall
 
 Enter, the resolution.
 
+![beat em up inspirational quotes  2](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/be4c0f2a-e73b-46d8-cdc1-9c8c50c38c00/optimised)
+
 More of an item on the identity inventory than a crack at Nirvana, we set ourselves little tasks and goals to hone our self-improvement and give us something to work toward.
 
 No? No. That would be great. Instead we just kind of… start self-flagellating because we slipped up and now we’re entirely unable to stick to the lofty tasks we set ourselves and we resign ourselves to the fact that we’re just aimless clumps of primordial goop with feelings and that the world is a deterministic simulation hellhole and just do whatever you like because we’re all going to di-
 
 Just me? Okay.
 
+![beat em up inspirational quotes  4](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/b1309d35-bb9d-4c26-2998-7f54ea939200/optimised)
+
 Anyway, as one of the aforementioned humans that have decided to chance a few stabs at self-improvement, I was thinking that we should really try to reassess our relationship with resolutions and make them work for us, not the other way around.
 
 add more here***
+
+![beat em up inspirational quotes  3](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/9a538a69-ba17-4a9d-bcc8-b9d33e1c1800/optimised)
 
 ## Break it down before _you_ break down
 
@@ -35,6 +43,8 @@ Okay, so you want to get better at art.
 What does that mean, though? What aspect of art would you like to get better at? Are you a novice starting out, or are you looking to improve on a certain aspect of your artistic practice?
 
 ‘Getting better at art’ is not only daunting, it’s nebulous. Try to section that pursuit into different pieces so you can set up different stretch goals that give you smaller senses of achievement along the way rather than a super hard to reach end goal.
+
+![beat em up inspirational quotes  5](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/0e576607-8a0f-47ef-8d0f-aa14f0233700/optimised)
 
 ## To share or not to share
 
@@ -48,6 +58,8 @@ I think we know what the best option would be if your imaginary deductions trend
 
 I personally can think of nothing worse than uploading a new artwork and someone chiming in to remind me that they don’t see any progress made in terms of my ‘become a master at composition’ goals.
 
+![beat em up inspirational quotes  6](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/a64f2579-7a11-4d31-f672-a28911848e00/optimised)
+
 ## Slip up, not down
 
 First of all, if you’ve set yourself a goal to, say, draw something every day, that is incredible and I wish you the best of luck and envy your drive.
@@ -55,6 +67,8 @@ First of all, if you’ve set yourself a goal to, say, draw something every day,
 However, if you do find yourself unable to consistently stick to that schedule, don’t freak out. Everything will be okay and you’re still doing a lot better than if you never made these goals in the first place.
 
 Be kind to yourself. Remember, if resolutions weren’t so terribly severe and morally terrifying we’d probably have a much better time trying to achieve them! Cut yourself the same slack you would others and you’re probably good to go ;)
+
+![beat em up inspirational quotes  7](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/5c31266c-f23f-435d-ad23-1422609d8600/optimised)
 
 ## Remove from cart, checkout when ready
 
