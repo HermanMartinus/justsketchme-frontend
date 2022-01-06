@@ -3,7 +3,7 @@ title: How to not totally suck at new year’s resolutions
 date: 2022-01-04 22:00:00 +0000
 permalink: how-to-set-healthy-creative-resolutions
 description: Are we human or we goalbot.exe
-image: "![beat em up inspirational quotes  1](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/bd74cb67-514a-4ceb-ede1-ba8ce285fd00/optimised)"
+image: https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/bd74cb67-514a-4ceb-ede1-ba8ce285fd00/optimised
 icon: https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/bd74cb67-514a-4ceb-ede1-ba8ce285fd00/icon
 author: Dante Ludolf
 
