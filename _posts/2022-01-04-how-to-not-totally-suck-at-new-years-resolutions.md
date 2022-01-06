@@ -1,5 +1,5 @@
 ---
-title: How to not totally suck at new years’ resolutions
+title: How to not totally suck at new year’s resolutions
 date: 2022-01-04 22:00:00 +0000
 permalink: how-to-set-healthy-creative-resolutions
 description: Are we human or we goalbot.exe
@@ -10,7 +10,7 @@ author: Dante Ludolf
 ---
 ![beat em up inspirational quotes  1](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/bd74cb67-514a-4ceb-ede1-ba8ce285fd00/optimised)
 
-\*I made cute little inspirational quote cards out of beat 'em up fight announcements and I'm obsessed. 
+\*I made cute little inspirational quote cards out of beat 'em up fight announcements and video game death screens and I hope you enjoy them as much as I do.
 
 NY resolutions tend to get a bad rep. Whether it’s us who suck at them or resolutions just being sucky in general, the jury is still very much out on whether or not making a plan for improvement is best implemented when the clock strikes twelve on the 31st.
 
@@ -31,8 +31,6 @@ Just me? Okay.
 ![beat em up inspirational quotes  4](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/b1309d35-bb9d-4c26-2998-7f54ea939200/optimised)
 
 Anyway, as one of the aforementioned humans that have decided to chance a few stabs at self-improvement, I was thinking that we should really try to reassess our relationship with resolutions and make them work for us, not the other way around.
-
-add more here***
 
 ![beat em up inspirational quotes  3](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/9a538a69-ba17-4a9d-bcc8-b9d33e1c1800/optimised)
 
