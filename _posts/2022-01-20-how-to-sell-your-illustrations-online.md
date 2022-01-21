@@ -14,7 +14,7 @@ The idea of the starving artist is a very popular cliche and we’re constantly 
 
 Yet, artists are making MONEY, so there has to be some fiction to these cautionary tales, right?
 
-Now, with the advent of online stores like Etsy, DeviantArt and countless others it would seem that making money with your art is easier than ever.
+Now, with the advent of online stores like Etsy, DeviantArt and countless others, it would seem that making money with your art is easier than ever.
 
 WRONG! It’s still a stressful and daunting endeavour, but if you want to keep drawing and doing what you love, you might as well try your hand at a few different ways to make some cash while you’re at it.
 
@@ -28,17 +28,17 @@ Read up on how to manage and weather your relationship with social media as an a
 
 This is perhaps the most obvious, but also the most important.
 
-Being creative comes with many a caveat and perhaps the most egregious one is crippling self-doubt. Sure you get to make incredible things with your hands, but is it even good enough to justify its existence?
+Being creative comes with many a caveat and perhaps the most egregious one is crippling self-doubt. Sure you get to make incredible things with your hands, but is it even good enough to justify its existence in the first place?
 
-Getting into a good mindset around money is pivotal if you want to make any to begin with.
+Getting into a good mindset around money is pivotal if you want to make any. 
 
 This might be a bit controversial but I find a great way to muster the courage to charge for something is to go on a lengthy trawl online.
 
-Look at what people are selling on illustration and design websites and think about whether or not you would buy that. Yes? Maybe no? Well, it doesn’t matter because someone would.
+Look at what people are selling on illustration and design websites and think about whether or not you would buy that. Yes? Maybe? No? Well, it doesn’t matter because someone would.
 
-This applies to your art as well. Sure some people will absolutely never add your creation to cart, but someone will!
+This applies to your art as well. Sure some people will absolutely never add your creation to cart, but someone will. Hence, you can make money from your art. Rejoice!
 
-As hard as it is, try to muffle the siren song of doubt and insecurity and out you and your stuff out there. People pay for things they value and chances are someone will value your creativity so drown out the voices.
+As hard as it is, try to muffle the siren song of doubt and insecurity and put you and your stuff out there. People pay for things they value and chances are someone will value your creativity so drown out the voices.
 
 Instead, focus on bringing the right people to your pages and forming a connection with them based on genuine interest.
 
@@ -52,8 +52,18 @@ If a vendor is known for selling extremely cutesy floral doodles, chances are yo
 
 Here are a few places we think you should have a look at:
 
+* [Creative Market ]()
+* [Society6](https://society6.com/)
+* [Pattern Bank ](https://patternbank.com/)
+* [Etsy ](https://www.etsy.com/)
+* [DeviantArt](https://www.deviantart.com/) 
+
+Remember that while most of these marketplaces do offer to sell prints of your work, you should definitely look into diversifying your offering and making phone cases, t-shirts, mugs and stickers of your creations so that you give your potential consumer a wide range of items and price ranges to buy into. 
+
+Sites like Deviantart also double up as social media and I suggest creating a free brush pack on there as a marketing tool to bring people to your page. 
+
 ![Making money as an artist 4](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/4d78052e-accb-4f85-4d8e-73ee95005600/optimised)
 
-NFT’s are an absolute minefield right now, and we don’t really want to weigh in on something that is as hot button as crypto. We will, however, say this.
+NFT’s are an absolute minefield right now, and we don’t really want to weigh in on something that is as hot-button as crypto. We will, however, say the following.
 
 While we don’t think there is much use in the trading of NFT’s and crypto before its inevitable collapse later this year, we do think that selling and making money as an artist via NFT’s could still be a good undertaking and that you should use all of the opportunities available to you to fund your creative pursuits. :)
