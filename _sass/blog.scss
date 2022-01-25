@@ -18,6 +18,19 @@
 			box-shadow: 4px 4px 0 $blackish;
 		}
 
+		&.box {
+			min-width: 240px;
+			width: 240px;
+			border: 1px solid $blackish;
+			box-shadow: 4px 4px 0 $blackish;
+			text-align: center;
+			padding: 20px;
+
+			a {
+				color: $blackish;
+			}
+		}
+
 		&:hover {
             transform: rotateZ(0deg) !important;
         }
