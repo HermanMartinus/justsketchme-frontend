@@ -7,50 +7,51 @@ class: text-container docs
 
 JustSketchMe can be used to set up reference scenes and poses for planning out your work before putting pen to paper (or pencil to tablet). There are a variety of tools and resources at your disposal which we will cover in the following sections. 
 
-- [Models](#models)
-- [Gizmos](#gizmos)
+## Table of contents
+1. [Models](#models)
+2. [Transform tools](#transform-tools)
     - [Rotate](#rotate)
     - [Move](#move)
     - [Scale](#scale)
-- [Tab tools](#tabs)
+3. [Tab tools](#tabs)
     - [Duplicate](#duplicate)
     - [Flip](#flip)
     - [Hide joints](#hide-joints)
     - [Delete](#delete)
-- [Lighting](#lighting)
+4. [Lighting](#lighting)
     - [Move light source](#move-light-source)
     - [Adjust ambient light](#adjust-ambient-light)
     - [Adjust spot light](#adjust-spot-light)
     - [Hard/soft shadows](#hardsoft-shadows)
-- [Scene tools](#scene-tools)
+5. [Scene tools](#scene-tools)
     - [Dark mode](#dark-mode)
     - [Outline effect](#outline-effect)
     - [Floor grid](#floor-grid)
     - [Adjust field of view](#field-of-view)
-- [Poses](#poses)
+6. [Poses](#poses)
     - [Save/load poses](#saveload-poses)
     - [Pose library](#post-library)
     - [Hand pose library](#hand-pose-library)
-- [Scenes](#scenes)
+7. [Scenes](#scenes)
     - [Save/load scenes](#saveload-scenes)
-- [Props](#props)
+8. [Props](#props)
     - [Adding props](#adding-props)
     - [Modifying props](#modifying-props)
     - [Images as props](#images-as-props)
     - [Lock prop](#lock-prop)
-- [Other tools](#other-tools)
+9. [Other tools](#other-tools)
     - [Undo/redo](#undoredo)
     - [Place on ground](#place-on-ground)
     - [Hide all tools](#hide-all-tools)
     - [Lock screen](#lock-screen)
-- [Export options](#export-options)
+10. [Export options](#export-options)
     - [Take screenshot](#take-screenshot)
     - [Export 3D model](#export-3d-model)
-- [Apps](#apps)
+11. [Apps](#apps)
     - [iOS](#ios)
     - [Android](#android)
     - [Mac & Windows](#mac--windows)
-- [Subscriptions](#subscriptions)
+12. [Subscriptions](#subscriptions)
     - [License key](#license-key)
     - [Devices](#devices)
     - [Manage subscription](#manage-subscription)
@@ -64,9 +65,9 @@ There are many different models and characters that are available. The scene com
 
 ---
 
-## Gizmos
+## Transform tools
 
-Gizmos are tools that allow you to manipulate objects (models or props) in the scene. They can be thought of as different modes of interacting with the scene. They can be found at the bottom right corner of the screen. Once a gizmo is selected you can select a joint or object by clicking it. Right clicking or clicking away will deselect that joint or object. 
+Transform tools are tools that allow you to manipulate objects (models or props) in the scene. They can be thought of as different modes of interacting with the scene. They can be found at the bottom right corner of the screen. Once a gizmo is selected you can select a joint or object by clicking it. Right clicking or clicking away will deselect that joint or object. 
 
 ### Rotate
 

@@ -15,6 +15,16 @@
     font-family: $title-font;
   }
 
+  // @media #{$desktop} {
+  //   ul {
+  //       display: flex;
+  //       flex-flow: row wrap;
+  //       li {
+  //         width: 50%;
+  //       }
+  //     }
+  // }
+
   .app-tool {
     background-color: $fresh-mint;
     padding-left: 3px;

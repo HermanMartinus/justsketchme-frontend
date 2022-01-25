@@ -1,66 +1,84 @@
 ---
 title: FAQ
 description: Common questions answered
-class: text-container
+class: text-container docs
 ---
 
-### Documentation
+## Table of contents
+1. [Documentation](#documentation)
+2. [Bugs and suggestions](#bugs-and-suggestions)
+3. [Subscriptions](#subscriptions)
+4. [Lost license key](#lost-license-key)
+5. [Cancel subscription](#cancel-subscription)
+6. [Refunds](#refunds)
+7. [Can't afford JustSketchMe?](#cant-afford-justsketchme)
+8. [Educational institutions](#educational-institutions)
+9. [Other questions](#other-questions)
+
+---
+
+## Documentation
 
 For detailed documentation on how to use JustSketchMe use the [docs](/docs/).
 
-### How does subscribing work? 
+---
+
+## Bugs and suggestions
+
+If you encounter any bugs, please send us an email at [hello@justsketch.me](mailto:hello@justsketch.me) with the following:
+- Description of problem
+- Steps to recreate
+- Operating system (iOS, Windows, Mac, etc)
+
+If you'd like to suggest a feature, you do so [here](https://justsketchme.nolt.io).
+
+---
+
+## Subscriptions 
+
+Subscriptions to [JustSketchMe Pro](https://gum.co/justsketchme) are on a periodic license where you will be billed according to the license period you choose. There is also a [one-time payment option](https://gum.co/justsketchme-lifetime/).
 
 You will be issued a license key after payment (it will also be emailed to you).
 You can then copy and paste the key into the app to activate all the features in the app.
-
----
-
-### I've lost my license key, what do I do? 
-
-Your license key should be in an email sent to you by Gumroad. Try searching your inbox for an email from them. It should also be available in your [Gumroad library](https://gumroad.com/library/). If you still can't find it, send an email to [hello@justsketch.me](mailto:hello@justsketch.me).
-
----
-
-### How do I cancel my subscription?
-
-Follow [these instructions](/docs/#manage-subscription) to cancel or manage your subscription. 
-
----
-
-### Can I use this license key on multiple devices?
 
 The same license key can be used on all of your devices.
 All devices using the same license key will share saved poses and scenes.
 
 ---
 
-### Is there a one-time payment option?
+## Lost license key
 
-We have a lifetime access option
-<a href="https://gum.co/justsketchme-lifetime" target="_blank">on Gumroad</a>
-for $199 (once-off payment).
+Your license key should be in an email sent to you by Gumroad. Try searching your inbox for an email from them. It should also be available in your [Gumroad library](https://gumroad.com/library/). If you still can't find it, send an email to [hello@justsketch.me](mailto:hello@justsketch.me).
 
 ---
 
-### How do I download the app?
+## Cancel subscription
 
-The download instructions are available in the settings menu (top right) of the web app.
+There are 2 ways to cancel your subscription.
+- At the bottom of your receipt email is a link titled "Manage subscription". Clicking that will give you the option of cancelling your license.
+- You can also cancel the subscription from within your [Gumroad library](https://gumroad.com/library/).
 
 ---
 
-### Can't afford JustSketchMe?
+## Refunds
+
+If you are in any way disatisfied with JustSketchMe Pro, send us an email with your issue and we'd be happy to offer you a full refund. 
+
+---
+
+## Can't afford JustSketchMe?
 
 We're trying our best to make JustSketchMe available to everyone.
 <a href="/cant-afford/">More info.</a>
 
 ---
 
-### Do you offer bulk discounts for educational institutions and organizations?
+## Educational institutions
 
-We do! Send an email to <a href="mailto:hello@justsketch.me">hello@justsketch.me</a> with your details and we'll get back to you. 
+We love working with educational institutions! Send an email to <a href="mailto:hello@justsketch.me">hello@justsketch.me</a> with your details and we'll get back to you with a free educator license.
 
 ---
 
-### What if I have other questions?
+### Other questions
 
 If you have other questions you can email us at <a href="mailto:hello@justsketch.me">hello@justsketch.me</a>.
