@@ -56,6 +56,7 @@ JustSketchMe can be used to set up reference scenes and poses for planning out y
     - [Devices](#devices)
     - [Manage subscription](#manage-subscription)
     - [Cancel subscription](#cancel-subscription)
+13. [Creating character models](#creating-character-models)
 
 ---
 
@@ -306,3 +307,22 @@ You can manage your subscription in your [Gumroad library](https://gumroad.com/l
 ### Cancel subscription
 
 Subscriptions can be cancelled using the [manage subscription](#manage-subscription) instructions above. 
+
+## Creating character models
+
+Characters developed for the JustSketchMe app are a bit tricky and have a few constraints that need to be followed. Here is a <a href="https://app.justsketch.me/models/stylistic_female.fbx" download="stylistic_female.fbx">working character model</a> which can be used for reference.
+
+### Constraints
+- Sizing of the character should be in proportion to the example model.
+- All joints should be zeroed out in a t-pose.
+    - This includes hand and thumb joints (again, refer to the example model for reference).
+- Joints should follow the Mixamo naming pattern of `mixamorigLeftUpLeg` (again, refer to example model).
+- There should be no textures on the model (textures are generated in-app)
+- The mesh should be one single mesh.
+- Max size should be around 2.5mb
+- The body should warp naturally in a variety of poses (testable with the pose library)
+
+### Testing
+The models can be tested in the developer menu (you'll be issued a passcode).
+
+In the developer menu select `Tests` then `Test fbx`. Note this only works on Chrome for some reason. 
