@@ -3,8 +3,8 @@ title: 'Absurd Design gets sensible: An interview with Diana Valeanu'
 date: 2022-01-26 22:00:00 +0000
 permalink: absurd-design-interview-justsketchme
 description: ''
-image: ''
-icon: ''
+image: https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/d747016c-b358-46fd-e54a-cb5fc1fc8600/optimised
+icon: https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/d747016c-b358-46fd-e54a-cb5fc1fc8600/icon
 author: Dante Ludolf
 
 ---
