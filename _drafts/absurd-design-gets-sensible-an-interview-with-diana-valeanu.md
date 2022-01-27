@@ -14,6 +14,8 @@ We’re big fans of the way Diana has positioned herself in the creative sphere 
 
 Read on to get a glimpse into her process and business, you won’t regret it!
 
+![Absurd Design Interview - Diana 6](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/4a670cb5-49df-409c-2b1e-355b12f14800/optimised)
+
 ### Tell us a bit about yourself and your background.
 
 My name is Diana Valeanu. I'm the illustrator and the creative voice behind the absurd.design project. I was born in Chisinau, the capital of the Republic of Moldova. I studied at the Technical University of Moldova and have Licentiate and a Master's degree in Industrial and Product Design.
@@ -25,6 +27,8 @@ I decided to quit my job and go fully freelance so that I could have the freedom
 > It may sound strange hearing this from someone who works in the creative industry, but I have a practical approach to my artistic process.
 
 After years of work, illusions and ups and downs many things changed. Now I live in Barcelona, Spain, and work on the absurd.design project, which works better than the first independent project I tried to develop many years ago. 
+
+![Absurd Design Interview - Diana 5](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/2e754fb9-69fb-4a7d-2dd9-1a58ffae8100/optimised)
 
 ### What are the things you find most important or helpful in creating an artistic practice and process?
 
@@ -38,6 +42,8 @@ And last but not least, I keep in mind that things don't have to work in the sam
 
 > With the absurd.design project, I have to deal with everything that comes with running an independent project without the resources to hire someone who could help me with all the background stuff that has to be done. 
 
+![Absurd Design Interview - Diana 2](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/21e9f94b-4e8b-409c-f8ad-7f9583aba000/optimised)
+
 ### What are your main inspirations and who are some artists you look up to?
 
 My main inspirations may not seem so closely related to illustration. I find a lot of inspiration in cinematography and literature. It's a good trigger for my brain to get in the right flow of generating all kinds of thoughts and ideas I can later translate in my specific manner.
@@ -48,6 +54,8 @@ Other artists who come to my mind right now are Marcello Velho, David Vanadia, N
 
 And after many years, I’ve realised there's no better inspiration for me than a good rest. I always end up with good ideas when feeling mentally relaxed.
 
+![Absurd Design Interview - Diana 1](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/c72d1252-d683-4093-ee60-19bf466ed000/optimised)
+
 ### What do you consider the greatest contribution to your growth as an artist?
 
 It's hard to say. I don't think there's just one thing that contributed the most to my growth as an artist. I think it's a mix of various factors and the experiences I lived that shaped in a specific way my personality and the way I see and perceive the world.
@@ -55,6 +63,8 @@ It's hard to say. I don't think there's just one thing that contributed the most
 But of course, without perseverance and constancy, this wouldn't be possible. I'm a dreamer, but I've never feared working hard to achieve my objectives. And I think this is a mix that can't fail in any industry.
 
 > And after many years, I’ve realised there's no better inspiration for me than a good rest.
+
+![Absurd Design Interview - Diana 3](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/ec563a9a-02dd-46fe-d136-8fbf4c9e5200/optimised)
 
 ### What would you tell your 18-year-old self about your career path and lessons?
 
