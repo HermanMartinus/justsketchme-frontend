@@ -92,78 +92,24 @@ And this means creatives exchange that value they can bring for the money they c
 
 ### What was your first creative assignment where payment was involved?
 
-Oh, that happened so many years ago when I still was a student... I created an
+Oh, that happened so many years ago when I still was a student... I created an infographic template with various elements and sold it on Designmodo.com. Actually, with the money I earned from those sales, I've been able to buy that Wacom Cintiq I was dreaming about.
 
-infographic template with various elements and sold it on Designmodo.com. Actually,
+### Do you think there is ever a good reason to work for free?
 
-with the money I earned from those sales, I've been able to buy that Wacom Cintiq I
+I know opinion is polarised in the industry on this subject. But I prefer not to take a side. I think it's a very personal decision, and every creative should decide for themselves whether to work for free or not. Sometimes working for free can be a strategic move. It depends on what creatives want to achieve when they do it for free, and in this case, it's needed a good strategy and a basic understanding of how the market works, not just working for free for love for art.
 
-was dreaming about.
+## What would you say are some good resources for figuring out payment structures and pricing?
 
-Do you think there is ever a good reason to work for free?
+One resource I find really useful is the "Graphic Artist's Guild Handbook of Pricing and Ethical Guidelines" - it's full of insights and helpful information for people who start a creative business. I can't recommend this book enough.
 
-I know opinion is polarised in the industry on this subject. But I prefer not to take a
+Another good resource is the Internet, where one can find all kinds of guidance on payment structures and pricing and look for inspiration to other industries' payment structures too. As I said earlier: it's a good idea to look for inspiration in less obvious places and then adapt it to your product's specifics and your creative strategy.
 
-side. I think it's a very personal decision, and every creative should decide for
+### What is the best advice you've ever received with regards to operating a creative business?
 
-themselves whether to work for free or not. Sometimes working for free can be a
+People will always have something to say - sometimes good things, sometimes less so. There are many different ways to see the same thing. You do what you think is fair from your perspective because the only way to know what works for you and your business is to try it first.
 
-strategic move. It depends on what creatives want to achieve when they do it for
+### What projects are you currently working on?
 
-free, and in this case, it's needed a good strategy and a basic understanding of how
+At the moment, I'm only working on the absurd.design project. I’ve had various custom work inquiries in the last few months, but unfortunately, I couldn't accept any of them because of the lack of time in my work schedule.
 
-the market works, not just working for free for love for art.
-
-What would you say are some good resources for figuring out payment
-
-structures and pricing?
-
-One resource I find really useful is the "Graphic Artist's Guild Handbook of Pricing
-
-and Ethical Guidelines" - it's full of insights and helpful information for people who
-
-start a creative business. I can't recommend this book enough.
-
-Another good resource is the Internet, where one can find all kinds of guidance on
-
-payment structures and pricing and look for inspiration to other industries' payment
-
-structures too. As I said earlier: it's a good idea to look for inspiration in less obvious
-
-places and then adapt it to your product's specifics and your creative strategy.
-
-What is the best advice you've ever received with regards to operating a
-
-creative business?
-
-People will always have something to say - sometimes good things, sometimes less
-
-so. There are many different ways to see the same thing. You do what you think is
-
-fair from your perspective because the only way to know what works for you and
-
-your business is to try it first.
-
-What projects are you currently working on?
-
-At the moment, I'm only working on the absurd.design project. I’ve had various
-
-custom work inquiries in the last few months, but unfortunately, I couldn't accept any
-
-of them because of the lack of time in my work schedule.
-
-There are some changes to come soon in the absurd.design project, intended to
-
-create a better experience for the project members. This means that apart from
-
-creating graphic content for the people who support this project, I need to invest a
-
-big part of my time into some decision-making tasks and other background work no
-
-one sees, but that has to be done. I don't want my current limited time availability to
-
-affect the quality of my work, nor for my project, nor for the client's projects - and this
-
-is why at the moment, I choose to focus just on one thing. As Mies van der Rohe
-
-said - less is more, and I couldn't say it better.
+There are some changes to come soon in the absurd.design project, intended to create a better experience for the project members. This means that apart from creating graphic content for the people who support this project, I need to invest a big part of my time into some decision-making tasks and other background work no one sees, but that has to be done. I don't want my current limited time availability to affect the quality of my work, nor for my project, nor for the client's projects - and this is why at the moment, I choose to focus just on one thing. As Mies van der Rohe said - less is more, and I couldn't say it better.
