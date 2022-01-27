@@ -18,7 +18,7 @@ Read on to get a glimpse into her process and business, you won’t regret it!
 
 My name is Diana Valeanu. I'm the illustrator and the creative voice behind the absurd.design project. I was born in Chisinau, the capital of the Republic of Moldova. I studied at the Technical University of Moldova and have Licentiate and a Master's degree in Industrial and Product Design.
 
-During my master's, I worked in parallel, on my specialty in a local company, and on some freelance projects in my "free time." But soon I realised I wanted to do something different. That was when I started to manifest more and more interest in graphic design and illustration, and I decided to take steps in this direction and see where it would get me. With the money I earned from part-time freelancing, I bought my very first Wacom Cintiq tablet. I had been dreaming about it for some time. It may seem a questionable decision to invest all my hard-earned money in a Cintiq for which I hadn't even enough space in my room at the time, but I felt like that was the right choice. 
+During my master's, I worked in parallel, on my speciality in a local company, and on some freelance projects in my "free time." But soon I realised I wanted to do something different. That was when I started to manifest more and more interest in graphic design and illustration, and I decided to take steps in this direction and see where it would get me. With the money I earned from part-time freelancing, I bought my very first Wacom Cintiq tablet. I had been dreaming about it for some time. It may seem a questionable decision to invest all my hard-earned money in a Cintiq for which I hadn't even enough space in my room at the time, but I felt like that was the right choice. 
 
 I decided to quit my job and go fully freelance so that I could have the freedom to choose which kind of projects I wanted to work on, and of course, have access to the international market. During all this journey, apart from working on freelance projects, I tried to create an independent project, but it didn't work out as expected. That was the moment when I realised that making a good product is not enough if you don't know how to present it to the final consumer. I ended up selling that project to people with more experience in the market.
 
@@ -34,31 +34,15 @@ And last but not least, I keep in mind that things don't have to work in the sam
 
 ### What are your main inspirations and who are some artists you look up to?
 
-My main inspirations may not seem so closely related to illustration. I find a lot of
+My main inspirations may not seem so closely related to illustration. I find a lot of inspiration in cinematography and literature. It's a good trigger for my brain to get in the right flow of generating all kinds of thoughts and ideas I can later translate in my specific manner.
 
-inspiration in cinematography and literature. It's a good trigger for my brain to get in
+One of my all-time favourite artists is David Lynch; I love his movies and lithographies. How I wish I could own one of his lithographies! My favourite is "I Write on Your Skin How Much I Love You.”
 
-the right flow of generating all kinds of thoughts and ideas I can later translate in my
+Other artists who come to my mind right now are Marcello Velho, David Vanadia, Niki Usagi, SICOER.
 
-specific manner.
+And after many years, I’ve realised there's no better inspiration for me than a good rest. I always end up with good ideas when feeling mentally relaxed.
 
-One of my all-time favourite artists is David Lynch; I love his movies and lithographies.
-
-How I wish I could own one of his lithographies! My favourite is "I Write on Your Skin
-
-How Much I Love You.”
-
-Other artists who come to my mind right now are Marcello Velho, David Vanadia, Niki
-
-Usagi, SICOER.
-
-And after many years, I’ve realised there's no better inspiration for me than a good
-
-rest. I always end up with good ideas when feeling mentally relaxed.
-
-What do you consider the greatest contribution to your growth as an
-
-artist?
+### What do you consider the greatest contribution to your growth as an artist?
 
 It's hard to say. I don't think there's just one thing that contributed the most to my
 
