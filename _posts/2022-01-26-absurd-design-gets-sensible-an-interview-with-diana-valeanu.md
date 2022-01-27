@@ -8,7 +8,7 @@ icon: https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/d747016c-b358-46fd-e54a-c
 author: Dante Ludolf
 
 ---
-If you haven’t encountered Diana Valeanu’s incredible project [Absurd Design](https://absurd.design/), stop what you’re doing and do so immediately.
+If you haven’t encountered Diana Valeanu’s incredible project [absurd.design](https://absurd.design/), stop what you’re doing and do so immediately.
 
 We’re big fans of the way Diana has positioned herself in the creative sphere and of the incredible work she continues to put out, so we thought it is high time we pick her brain and learn from her.
 
