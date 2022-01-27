@@ -22,15 +22,21 @@ During my master's, I worked in parallel, on my speciality in a local company, a
 
 I decided to quit my job and go fully freelance so that I could have the freedom to choose which kind of projects I wanted to work on, and of course, have access to the international market. During all this journey, apart from working on freelance projects, I tried to create an independent project, but it didn't work out as expected. That was the moment when I realised that making a good product is not enough if you don't know how to present it to the final consumer. I ended up selling that project to people with more experience in the market.
 
+> It may sound strange hearing this from someone who works in the creative industry, but I have a practical approach to my artistic process.
+
 After years of work, illusions and ups and downs many things changed. Now I live in Barcelona, Spain, and work on the absurd.design project, which works better than the first independent project I tried to develop many years ago. 
 
 ### What are the things you find most important or helpful in creating an artistic practice and process?
 
 It may sound strange hearing this from someone who works in the creative industry, but I have a practical approach to my artistic process. I think the artistic process requires lots of freedom so that it can flow, but at the same time, to me, it's essential to be super-organised and have good time management. This practice helps me on so many levels.
 
+> One of my all-time favourite artists is David Lynch; I love his movies and lithographies.
+
 Also, I look for inspiration in less obvious, sometimes unimaginable things - there are always hidden gems to find and explore.
 
 And last but not least, I keep in mind that things don't have to work in the same way for everyone. What works for someone else may not work for me or may not work as well as expected. I try to observe and analyse what could work for myself and figure out how to adapt it to my specific process and needs.
+
+> With the absurd.design project, I have to deal with everything that comes with running an independent project without the resources to hire someone who could help me with all the background stuff that has to be done. 
 
 ### What are your main inspirations and who are some artists you look up to?
 
@@ -47,6 +53,8 @@ And after many years, I’ve realised there's no better inspiration for me than 
 It's hard to say. I don't think there's just one thing that contributed the most to my growth as an artist. I think it's a mix of various factors and the experiences I lived that shaped in a specific way my personality and the way I see and perceive the world.
 
 But of course, without perseverance and constancy, this wouldn't be possible. I'm a dreamer, but I've never feared working hard to achieve my objectives. And I think this is a mix that can't fail in any industry.
+
+> And after many years, I’ve realised there's no better inspiration for me than a good rest.
 
 ### What would you tell your 18-year-old self about your career path and lessons?
 
@@ -97,6 +105,8 @@ Oh, that happened so many years ago when I still was a student... I created an i
 ### Do you think there is ever a good reason to work for free?
 
 I know opinion is polarised in the industry on this subject. But I prefer not to take a side. I think it's a very personal decision, and every creative should decide for themselves whether to work for free or not. Sometimes working for free can be a strategic move. It depends on what creatives want to achieve when they do it for free, and in this case, it's needed a good strategy and a basic understanding of how the market works, not just working for free for love for art.
+
+>  It's always fulfilling to know that I have something meaningful to bring to a specific project and that people are willing to pay for the value I can bring to their final product.
 
 ## What would you say are some good resources for figuring out payment structures and pricing?
 
