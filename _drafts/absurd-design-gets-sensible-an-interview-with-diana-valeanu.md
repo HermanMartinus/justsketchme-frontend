@@ -16,79 +16,23 @@ Read on to get a glimpse into her process and business, you won’t regret it!
 
 ### Tell us a bit about yourself and your background.
 
-My name is Diana Valeanu. I'm the illustrator and the creative voice behind the absurd.design project. I was born in Chisinau, the capital of the Republic of Moldova. I studied at the
+My name is Diana Valeanu. I'm the illustrator and the creative voice behind the absurd.design project. I was born in Chisinau, the capital of the Republic of Moldova. I studied at the Technical University of Moldova and have Licentiate and a Master's degree in Industrial and Product Design.
 
-Technical University of Moldova and have Licentiate and a Master's degree in
+During my master's, I worked in parallel, on my specialty in a local company, and on some freelance projects in my "free time." But soon I realised I wanted to do something different. That was when I started to manifest more and more interest in graphic design and illustration, and I decided to take steps in this direction and see where it would get me. With the money I earned from part-time freelancing, I bought my very first Wacom Cintiq tablet. I had been dreaming about it for some time. It may seem a questionable decision to invest all my hard-earned money in a Cintiq for which I hadn't even enough space in my room at the time, but I felt like that was the right choice. 
 
-Industrial and Product Design.
+I decided to quit my job and go fully freelance so that I could have the freedom to choose which kind of projects I wanted to work on, and of course, have access to the international market. During all this journey, apart from working on freelance projects, I tried to create an independent project, but it didn't work out as expected. That was the moment when I realised that making a good product is not enough if you don't know how to present it to the final consumer. I ended up selling that project to people with more experience in the market.
 
-During my master's, I worked in parallel, on my specialty in a local company, and on
+After years of work, illusions and ups and downs many things changed. Now I live in Barcelona, Spain, and work on the absurd.design project, which works better than the first independent project I tried to develop many years ago. 
 
-some freelance projects in my "free time." But soon I realised I wanted to do
+### What are the things you find most important or helpful in creating an artistic practice and process?
 
-something different. That was when I started to manifest more and more interest in
+It may sound strange hearing this from someone who works in the creative industry, but I have a practical approach to my artistic process. I think the artistic process requires lots of freedom so that it can flow, but at the same time, to me, it's essential to be super-organised and have good time management. This practice helps me on so many levels.
 
-graphic design and illustration, and I decided to take steps in this direction and see
+Also, I look for inspiration in less obvious, sometimes unimaginable things - there are always hidden gems to find and explore.
 
-where it would get me.
+And last but not least, I keep in mind that things don't have to work in the same way for everyone. What works for someone else may not work for me or may not work as well as expected. I try to observe and analyse what could work for myself and figure out how to adapt it to my specific process and needs.
 
-With the money I earned from part-time freelancing, I bought my very first Wacom
-
-Cintiq tablet. I had been dreaming about it for some time. It may seem a
-
-questionable decision to invest all my hard-earned money in a Cintiq for which I
-
-hadn't even enough space in my room at the time, but I felt like that was the right
-
-choice. I decided to quit my job and go fully freelance so that I could have the
-
-freedom to choose which kind of projects I wanted to work on, and of course, have
-
-access to the international market.
-
-During all this journey, apart from working on freelance projects, I tried to create an
-
-independent project, but it didn't work out as expected. That was the moment when I
-
-realised that making a good product is not enough if you don't know how to present it
-
-to the final consumer. I ended up selling that project to people with more experience
-
-in the market.
-
-After years of work, illusions and ups and downs many things changed. Now I live
-
-in Barcelona, Spain, and work on the absurd.design project, which works better than
-
-the first independent project I tried to develop many years ago.
-
-What are the things you find most important or helpful in creating an
-
-artistic practice and process?
-
-It may sound strange hearing this from someone who works in the creative industry,
-
-but I have a practical approach to my artistic process. I think the artistic process
-
-requires lots of freedom so that it can flow, but at the same time, to me, it's essential
-
-to be super-organised and have good time management. This practice helps me on
-
-so many levels.
-
-Also, I look for inspiration in less obvious, sometimes unimaginable things - there are
-
-always hidden gems to find and explore.
-
-And last but not least, I keep in mind that things don't have to work in the same way
-
-for everyone. What works for someone else may not work for me or may not work as
-
-well as expected. I try to observe and analyse what could work for myself and figure
-
-out how to adapt it to my specific process and needs.
-
-What are your main inspirations and who are some artists you look up to?
+### What are your main inspirations and who are some artists you look up to?
 
 My main inspirations may not seem so closely related to illustration. I find a lot of
 
