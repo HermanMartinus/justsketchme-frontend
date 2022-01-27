@@ -2,13 +2,13 @@
 title: 'Absurd Design gets sensible: An interview with Diana Valeanu'
 date: 2022-01-26 22:00:00 +0000
 permalink: absurd-design-interview-justsketchme
-description: ''
+description: Get to know the mastermind behind Absurd Design.
 image: https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/d747016c-b358-46fd-e54a-cb5fc1fc8600/optimised
 icon: https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/d747016c-b358-46fd-e54a-cb5fc1fc8600/icon
 author: Dante Ludolf
 
 ---
-If you haven’t encountered Diana Valeanu’s incredible project Absurd Design, stop what you’re doing and do so immediately.
+If you haven’t encountered Diana Valeanu’s incredible project [Absurd Design](https://absurd.design/), stop what you’re doing and do so immediately.
 
 We’re big fans of the way Diana has positioned herself in the creative sphere and of the incredible work she continues to put out, so we thought it is high time we pick her brain and learn from her.
 
@@ -20,13 +20,13 @@ Read on to get a glimpse into her process and business, you won’t regret it!
 
 My name is Diana Valeanu. I'm the illustrator and the creative voice behind the absurd.design project. I was born in Chisinau, the capital of the Republic of Moldova. I studied at the Technical University of Moldova and have Licentiate and a Master's degree in Industrial and Product Design.
 
-During my master's, I worked in parallel, on my speciality in a local company, and on some freelance projects in my "free time." But soon I realised I wanted to do something different. That was when I started to manifest more and more interest in graphic design and illustration, and I decided to take steps in this direction and see where it would get me. With the money I earned from part-time freelancing, I bought my very first Wacom Cintiq tablet. I had been dreaming about it for some time. It may seem a questionable decision to invest all my hard-earned money in a Cintiq for which I hadn't even enough space in my room at the time, but I felt like that was the right choice. 
+During my master's, I worked in parallel, on my speciality in a local company, and on some freelance projects in my "free time." But soon I realised I wanted to do something different. That was when I started to manifest more and more interest in graphic design and illustration, and I decided to take steps in this direction and see where it would get me. With the money I earned from part-time freelancing, I bought my very first Wacom Cintiq tablet. I had been dreaming about it for some time. It may seem a questionable decision to invest all my hard-earned money in a Cintiq for which I hadn't even enough space in my room at the time, but I felt like that was the right choice.
 
 I decided to quit my job and go fully freelance so that I could have the freedom to choose which kind of projects I wanted to work on, and of course, have access to the international market. During all this journey, apart from working on freelance projects, I tried to create an independent project, but it didn't work out as expected. That was the moment when I realised that making a good product is not enough if you don't know how to present it to the final consumer. I ended up selling that project to people with more experience in the market.
 
 > It may sound strange hearing this from someone who works in the creative industry, but I have a practical approach to my artistic process.
 
-After years of work, illusions and ups and downs many things changed. Now I live in Barcelona, Spain, and work on the absurd.design project, which works better than the first independent project I tried to develop many years ago. 
+After years of work, illusions and ups and downs many things changed. Now I live in Barcelona, Spain, and work on the [absurd.design](https://absurd.design/) project, which works better than the first independent project I tried to develop many years ago.
 
 ![Absurd Design Interview - Diana 5](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/2e754fb9-69fb-4a7d-2dd9-1a58ffae8100/optimised)
 
@@ -40,7 +40,7 @@ Also, I look for inspiration in less obvious, sometimes unimaginable things - th
 
 And last but not least, I keep in mind that things don't have to work in the same way for everyone. What works for someone else may not work for me or may not work as well as expected. I try to observe and analyse what could work for myself and figure out how to adapt it to my specific process and needs.
 
-> With the absurd.design project, I have to deal with everything that comes with running an independent project without the resources to hire someone who could help me with all the background stuff that has to be done. 
+> With the absurd.design project, I have to deal with everything that comes with running an independent project without the resources to hire someone who could help me with all the background stuff that has to be done.
 
 ![Absurd Design Interview - Diana 2](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/21e9f94b-4e8b-409c-f8ad-7f9583aba000/optimised)
 
@@ -80,7 +80,7 @@ Oh, this is my favourite. I would tell my 18-year-old self a lot of things. Here
 
 ### Tell me about the most difficult project you’ve worked on and how you managed to finish it?
 
-I think I'm currently working on the most challenging, but at the same time, my favourite project I have ever worked on. It's been a work in progress for almost three years now. With the absurd.design project, I have to deal with everything that comes with running an independent project without the resources to hire someone who could help me with all the background stuff that has to be done. 
+I think I'm currently working on the most challenging, but at the same time, my favourite project I have ever worked on. It's been a work in progress for almost three years now. With the absurd.design project, I have to deal with everything that comes with running an independent project without the resources to hire someone who could help me with all the background stuff that has to be done.
 
 This means that as well as creating illustrations, I do almost everything in the background, too. Planning the project's roadmap, writing monthly newsletters, answering emails... And the list continues. There are many other tasks that, apart from other skills, involve decision making and take a lot of time too, but remain invisible to the public. The only aspect I'm not as involved in is the tech side of the project, but I still keep an eye on that too.
 
@@ -126,7 +126,7 @@ Oh, that happened so many years ago when I still was a student... I created an i
 
 I know opinion is polarised in the industry on this subject. But I prefer not to take a side. I think it's a very personal decision, and every creative should decide for themselves whether to work for free or not. Sometimes working for free can be a strategic move. It depends on what creatives want to achieve when they do it for free, and in this case, it's needed a good strategy and a basic understanding of how the market works, not just working for free for love for art.
 
->  It's always fulfilling to know that I have something meaningful to bring to a specific project and that people are willing to pay for the value I can bring to their final product.
+> It's always fulfilling to know that I have something meaningful to bring to a specific project and that people are willing to pay for the value I can bring to their final product.
 
 ![Absurd Design Interview - Diana 13](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/348d310f-2dba-4648-24f4-40c135d57d00/optimised)
 
