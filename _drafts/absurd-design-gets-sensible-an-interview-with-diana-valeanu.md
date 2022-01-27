@@ -86,6 +86,8 @@ This means that as well as creating illustrations, I do almost everything in the
 
 And do you know what? I really enjoy doing all that stuff. I feel that I grow on many levels working on this project and I'm happy to be able to do so and for the credit of trust the project members give me when choosing to use my illustrations and support my creative endeavours.
 
+![Absurd Design Interview - Diana 8](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/e8043868-0f05-4fc2-d2f0-c9302d599300/optimised)
+
 ### Are you currently trying to learn any specific skill, and how do you go about learning it?
 
 I'm always trying to learn something new. Of course, sometimes it isn't very easy to find sufficient time in my schedule to learn a new skill, but in the end, it's a matter of choosing my priorities well and sticking to good time management.
@@ -94,19 +96,27 @@ Usually, I plan in advance my schedule when deciding to learn a new skill. And b
 
 And yes, there's something I'm currently trying to learn, but I prefer not share the details - yet! I don't like to speak about anything until I can show the result of the invested time and effort.
 
+![Absurd Design Interview - Diana 9](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/bf1cb3db-a3e5-4def-f8af-c1ce5954fa00/optimised)
+
 ### What is your dream project and can you tell us a little more about it?
 
 For me, the dream project means one that offers enough space for creativity and gives me the opportunity to realise all the creative ideas that come to mind without being limited in my decisions as a creative. It's a project that makes me feel that I grow as a professional and that makes me happy when working on it, and of course, that allows me to earn enough for a decent life.
 
+![Absurd Design Interview - Diana 10](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/c4aaab4a-7961-4e9e-be92-3509cbfe0700/optimised)
+
 ### How do you monetise your artistic endeavours?
 
 Apart from the absurd.design project, I work on custom projects when I have enough time in my work schedule to take commissions and receive interesting collaboration offers. It's always fulfilling to know that I have something meaningful to bring to a specific project and that people are willing to pay for the value I can bring to their final product.
+
+![Absurd Design Interview - Diana 11](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/a178660b-3980-4130-9f6a-43fd461faa00/optimised)
 
 ### What do you think is a good way to think about money in the creative field?
 
 A creative business is still a business. Creatives should think of their activity as creative problem solving which adds value to a final product. Creatives invest their time, money, effort and dedication into developing specific skills to be able to create that value.
 
 And this means creatives exchange that value they can bring for the money they consider appropriate for that value. Just because it's a business in the creative industry, it doesn't mean it should run differently than other businesses.
+
+![Absurd Design Interview - Diana 12](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/a0163fb9-dbb5-46ef-12b6-2de425dfc400/optimised)
 
 ### What was your first creative assignment where payment was involved?
 
@@ -118,6 +128,8 @@ I know opinion is polarised in the industry on this subject. But I prefer not to
 
 >  It's always fulfilling to know that I have something meaningful to bring to a specific project and that people are willing to pay for the value I can bring to their final product.
 
+![Absurd Design Interview - Diana 13](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/348d310f-2dba-4648-24f4-40c135d57d00/optimised)
+
 ## What would you say are some good resources for figuring out payment structures and pricing?
 
 One resource I find really useful is the "Graphic Artist's Guild Handbook of Pricing and Ethical Guidelines" - it's full of insights and helpful information for people who start a creative business. I can't recommend this book enough.
@@ -128,8 +140,12 @@ Another good resource is the Internet, where one can find all kinds of guidance 
 
 People will always have something to say - sometimes good things, sometimes less so. There are many different ways to see the same thing. You do what you think is fair from your perspective because the only way to know what works for you and your business is to try it first.
 
+![Absurd Design Interview - Diana 14](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/f7872114-6da1-4041-a8d0-40a6a4e1bd00/optimised)
+
 ### What projects are you currently working on?
 
 At the moment, I'm only working on the absurd.design project. I’ve had various custom work inquiries in the last few months, but unfortunately, I couldn't accept any of them because of the lack of time in my work schedule.
 
 There are some changes to come soon in the absurd.design project, intended to create a better experience for the project members. This means that apart from creating graphic content for the people who support this project, I need to invest a big part of my time into some decision-making tasks and other background work no one sees, but that has to be done. I don't want my current limited time availability to affect the quality of my work, nor for my project, nor for the client's projects - and this is why at the moment, I choose to focus just on one thing. As Mies van der Rohe said - less is more, and I couldn't say it better.
+
+![Absurd Design Interview - Diana 15](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/09f6d676-3646-4fc0-2421-071a36e0f400/optimised)
