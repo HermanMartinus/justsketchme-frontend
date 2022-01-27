@@ -44,141 +44,53 @@ And after many years, I’ve realised there's no better inspiration for me than 
 
 ### What do you consider the greatest contribution to your growth as an artist?
 
-It's hard to say. I don't think there's just one thing that contributed the most to my
+It's hard to say. I don't think there's just one thing that contributed the most to my growth as an artist. I think it's a mix of various factors and the experiences I lived that shaped in a specific way my personality and the way I see and perceive the world.
 
-growth as an artist. I think it's a mix of various factors and the experiences I lived that
+But of course, without perseverance and constancy, this wouldn't be possible. I'm a dreamer, but I've never feared working hard to achieve my objectives. And I think this is a mix that can't fail in any industry.
 
-shaped in a specific way my personality and the way I see and perceive the world.
+### What would you tell your 18-year-old self about your career path and lessons?
 
-But of course, without perseverance and constancy, this wouldn't be possible. I'm a
+Oh, this is my favourite. I would tell my 18-year-old self a lot of things. Here are just a few of them:
 
-dreamer, but I've never feared working hard to achieve my objectives. And I think
+— Don't stick to one thing and don't feel guilty about being interested in other things too, even if they apparently have nothing to see with the creative industry. It's not a waste of time. Just change the perspective and you'll end up using this knowledge in your creative activity.
 
-this is a mix that can't fail in any industry.
+— You're not your failures. It's just a journey, and all you have to do is to learn from all the experiences. Don't overthink about that; this kills your creative potential.
 
-What would you tell your 18-year-old self about your career path and
+— Keep working - one day, you'll see the output and will be grateful for your perseverance.
 
-lessons?
+— No matter what happens, invest in your personal development; you're your most important asset.
 
-Oh, this is my favourite. I would tell my 18-year-old self a lot of things. Here are just a
+### Tell me about the most difficult project you’ve worked on and how you managed to finish it?
 
-few of them:
+I think I'm currently working on the most challenging, but at the same time, my favourite project I have ever worked on. It's been a work in progress for almost three years now. With the absurd.design project, I have to deal with everything that comes with running an independent project without the resources to hire someone who could help me with all the background stuff that has to be done. 
 
-— Don't stick to one thing and don't feel guilty about being interested in other things
+This means that as well as creating illustrations, I do almost everything in the background, too. Planning the project's roadmap, writing monthly newsletters, answering emails... And the list continues. There are many other tasks that, apart from other skills, involve decision making and take a lot of time too, but remain invisible to the public. The only aspect I'm not as involved in is the tech side of the project, but I still keep an eye on that too.
 
-too, even if they apparently have nothing to see with the creative industry. It's not a
+And do you know what? I really enjoy doing all that stuff. I feel that I grow on many levels working on this project and I'm happy to be able to do so and for the credit of trust the project members give me when choosing to use my illustrations and support my creative endeavours.
 
-waste of time. Just change the perspective and you'll end up using this knowledge in
+### Are you currently trying to learn any specific skill, and how do you go about learning it?
 
-your creative activity.
+I'm always trying to learn something new. Of course, sometimes it isn't very easy to find sufficient time in my schedule to learn a new skill, but in the end, it's a matter of choosing my priorities well and sticking to good time management.
 
-— You're not your failures. It's just a journey, and all you have to do is to learn from
+Usually, I plan in advance my schedule when deciding to learn a new skill. And before starting the learning process, I get all the pending work done and reserve sufficient time in my schedule for taking courses and practising specific skills.
 
-all the experiences. Don't overthink about that; this kills your creative potential.
+And yes, there's something I'm currently trying to learn, but I prefer not share the details - yet! I don't like to speak about anything until I can show the result of the invested time and effort.
 
-— Keep working - one day, you'll see the output and will be grateful for your
+### What is your dream project and can you tell us a little more about it?
 
-perseverance.
+For me, the dream project means one that offers enough space for creativity and gives me the opportunity to realise all the creative ideas that come to mind without being limited in my decisions as a creative. It's a project that makes me feel that I grow as a professional and that makes me happy when working on it, and of course, that allows me to earn enough for a decent life.
 
-— No matter what happens, invest in your personal development; you're your most
+### How do you monetise your artistic endeavours?
 
-important asset.
+Apart from the absurd.design project, I work on custom projects when I have enough time in my work schedule to take commissions and receive interesting collaboration offers. It's always fulfilling to know that I have something meaningful to bring to a specific project and that people are willing to pay for the value I can bring to their final product.
 
-Tell me about the most difficult project you’ve worked on and how you
+### What do you think is a good way to think about money in the creative field?
 
-managed to finish it?
+A creative business is still a business. Creatives should think of their activity as creative problem solving which adds value to a final product. Creatives invest their time, money, effort and dedication into developing specific skills to be able to create that value.
 
-I think I'm currently working on the most challenging, but at the same time, my
+And this means creatives exchange that value they can bring for the money they consider appropriate for that value. Just because it's a business in the creative industry, it doesn't mean it should run differently than other businesses.
 
-favourite project I have ever worked on. It's been a work in progress for almost three
-
-years now. With the absurd.design project, I have to deal with everything that come
-
-with running an independent project without the resources to hire someone who
-
-could help me with all the background stuff that has to be done.
-
-This means that as well as creating illustrations, I do almost everything in the background, too.
-
-Planning the project's roadmap, writing monthly newsletters, answering emails... And the list continues. There are many other tasks that, apart from other skills, involve decision making and take a lot of time too, but remain invisible to the public. The only aspect
-
-I'm not as involved in is the tech side of the project, but I still keep an eye on that too.
-
-And do you know what? I really enjoy doing all that stuff. I feel that I grow on many
-
-levels working on this project and I'm happy to be able to do so and for the credit of
-
-trust the project members give me when choosing to use my illustrations and support
-
-my creative endeavours.
-
-Are you currently trying to learn any specific skill, and how do you go
-
-about learning it?
-
-I'm always trying to learn something new. Of course, sometimes it isn't very easy to
-
-find sufficient time in my schedule to learn a new skill, but in the end, it's a matter of
-
-choosing my priorities well and sticking to good time management.
-
-Usually, I plan in advance my schedule when deciding to learn a new skill. And
-
-before starting the learning process, I get all the pending work done and reserve
-
-sufficient time in my schedule for taking courses and practicing specific skills
-
-.
-
-And yes, there's something I'm currently trying to learn, but I prefer not share the
-
-details - yet! I don't like to speak about anything until I can show the result of the
-
-invested time and effort.
-
-What is your dream project and can you tell us a little more about it?
-
-For me, the dream project means that one that offers enough space for creativity and
-
-gives me the opportunity to realise all the creative ideas that come to mind without
-
-being limited in my decisions as a creative. It's a project that makes me feel that I
-
-grow as a professional and that makes me happy when working on it, and of course,
-
-that allows me to earn enough for a decent life.
-
-How do you monetise your artistic endeavours?
-
-Apart from the absurd.design project, I work on custom projects when I have enough
-
-time in my work schedule to take commissions and receive interesting collaboration
-
-offers. It's always fulfilling to know that I have something meaningful to bring to a
-
-specific project and that people are willing to pay for the value I can bring to their
-
-final product.
-
-What do you think is a good way to think about money in the creative
-
-field?
-
-A creative business is still a business. Creatives should think of their activity as
-
-creative problem solving which adds value to a final product. Creatives invest their
-
-time, money, effort and dedication into developing specific skills to be able to create
-
-that value.
-
-And this means creatives exchange that value they can bring for the
-
-money they consider appropriate for that value. Just because it's a business in the
-
-creative industry, it doesn't mean it should run differently than other businesses.
-
-What was your first creative assignment where payment was involved?
+### What was your first creative assignment where payment was involved?
 
 Oh, that happened so many years ago when I still was a student... I created an
 
