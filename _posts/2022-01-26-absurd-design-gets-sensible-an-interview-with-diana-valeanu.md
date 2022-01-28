@@ -18,7 +18,7 @@ Read on to get a glimpse into her process and business, you won’t regret it!
 
 ### Tell us a bit about yourself and your background.
 
-My name is Diana Valeanu. I'm the illustrator and the creative voice behind the absurd.design project. I was born in Chisinau, the capital of the Republic of Moldova. I studied at the Technical University of Moldova and have Licentiate and a Master's degree in Industrial and Product Design.
+My name is Diana Valeanu. I'm the illustrator and the creative voice behind the [absurd.design](https://absurd.design/) project. I was born in Chisinau, the capital of the Republic of Moldova. I studied at the Technical University of Moldova and have Licentiate and a Master's degree in Industrial and Product Design.
 
 During my master's, I worked in parallel, on my speciality in a local company, and on some freelance projects in my "free time." But soon I realised I wanted to do something different. That was when I started to manifest more and more interest in graphic design and illustration, and I decided to take steps in this direction and see where it would get me. With the money I earned from part-time freelancing, I bought my very first Wacom Cintiq tablet. I had been dreaming about it for some time. It may seem a questionable decision to invest all my hard-earned money in a Cintiq for which I hadn't even enough space in my room at the time, but I felt like that was the right choice.
 
@@ -40,7 +40,7 @@ Also, I look for inspiration in less obvious, sometimes unimaginable things - th
 
 And last but not least, I keep in mind that things don't have to work in the same way for everyone. What works for someone else may not work for me or may not work as well as expected. I try to observe and analyse what could work for myself and figure out how to adapt it to my specific process and needs.
 
-> With the absurd.design project, I have to deal with everything that comes with running an independent project without the resources to hire someone who could help me with all the background stuff that has to be done.
+> With the [absurd.design](https://absurd.design/) project, I have to deal with everything that comes with running an independent project without the resources to hire someone who could help me with all the background stuff that has to be done.
 
 ![Absurd Design Interview - Diana 2](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/21e9f94b-4e8b-409c-f8ad-7f9583aba000/optimised)
 
@@ -80,7 +80,7 @@ Oh, this is my favourite. I would tell my 18-year-old self a lot of things. Here
 
 ### Tell me about the most difficult project you’ve worked on and how you managed to finish it?
 
-I think I'm currently working on the most challenging, but at the same time, my favourite project I have ever worked on. It's been a work in progress for almost three years now. With the absurd.design project, I have to deal with everything that comes with running an independent project without the resources to hire someone who could help me with all the background stuff that has to be done.
+I think I'm currently working on the most challenging, but at the same time, my favourite project I have ever worked on. It's been a work in progress for almost three years now. With the [absurd.design]() project, I have to deal with everything that comes with running an independent project without the resources to hire someone who could help me with all the background stuff that has to be done.
 
 This means that as well as creating illustrations, I do almost everything in the background, too. Planning the project's roadmap, writing monthly newsletters, answering emails... And the list continues. There are many other tasks that, apart from other skills, involve decision making and take a lot of time too, but remain invisible to the public. The only aspect I'm not as involved in is the tech side of the project, but I still keep an eye on that too.
 
@@ -94,7 +94,7 @@ I'm always trying to learn something new. Of course, sometimes it isn't very eas
 
 Usually, I plan in advance my schedule when deciding to learn a new skill. And before starting the learning process, I get all the pending work done and reserve sufficient time in my schedule for taking courses and practising specific skills.
 
-And yes, there's something I'm currently trying to learn, but I prefer not share the details - yet! I don't like to speak about anything until I can show the result of the invested time and effort.
+And yes, there's something I'm currently trying to learn, but I prefer not to share the details - yet! I don't like to speak about anything until I can show the result of the invested time and effort.
 
 ![Absurd Design Interview - Diana 9](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/bf1cb3db-a3e5-4def-f8af-c1ce5954fa00/optimised)
 
@@ -106,7 +106,7 @@ For me, the dream project means one that offers enough space for creativity and 
 
 ### How do you monetise your artistic endeavours?
 
-Apart from the absurd.design project, I work on custom projects when I have enough time in my work schedule to take commissions and receive interesting collaboration offers. It's always fulfilling to know that I have something meaningful to bring to a specific project and that people are willing to pay for the value I can bring to their final product.
+Apart from the [absurd.design](https://absurd.design/) project, I work on custom projects when I have enough time in my work schedule to take commissions and receive interesting collaboration offers. It's always fulfilling to know that I have something meaningful to bring to a specific project and that people are willing to pay for the value I can bring to their final product.
 
 ![Absurd Design Interview - Diana 11](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/a178660b-3980-4130-9f6a-43fd461faa00/optimised)
 
@@ -144,8 +144,10 @@ People will always have something to say - sometimes good things, sometimes less
 
 ### What projects are you currently working on?
 
-At the moment, I'm only working on the absurd.design project. I’ve had various custom work inquiries in the last few months, but unfortunately, I couldn't accept any of them because of the lack of time in my work schedule.
+At the moment, I'm only working on the [absurd.design](https://absurd.design/) project. I’ve had various custom work inquiries in the last few months, but unfortunately, I couldn't accept any of them because of the lack of time in my work schedule.
 
-There are some changes to come soon in the absurd.design project, intended to create a better experience for the project members. This means that apart from creating graphic content for the people who support this project, I need to invest a big part of my time into some decision-making tasks and other background work no one sees, but that has to be done. I don't want my current limited time availability to affect the quality of my work, nor for my project, nor for the client's projects - and this is why at the moment, I choose to focus just on one thing. As Mies van der Rohe said - less is more, and I couldn't say it better.
+There are some changes to come soon in the [absurd.design](https://absurd.design/) project, intended to create a better experience for the project members. This means that apart from creating graphic content for the people who support this project, I need to invest a big part of my time into some decision-making tasks and other background work no one sees, but that has to be done. 
+
+I don't want my current limited time availability to affect the quality of my work, nor for my project, nor for the client's projects - and this is why at the moment, I choose to focus just on one thing. As Mies van der Rohe said - less is more, and I couldn't say it better.
 
 ![Absurd Design Interview - Diana 15](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/09f6d676-3646-4fc0-2421-071a36e0f400/optimised)
