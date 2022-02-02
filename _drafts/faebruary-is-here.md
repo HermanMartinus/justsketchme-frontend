@@ -29,15 +29,13 @@ The Secret of Kells
 
 * Pan’s Labyrinth
 
-## Games: 
+## Games:
 
 ![](/uploads/faebruary-5.png)
 
 ### Alice: Madness Returns
 
 * Dragon’s Crown
-
-
 * Child of Light
 
 ![](/uploads/faebruary-3.png)
@@ -50,7 +48,7 @@ The Secret of Kells
 
 #### Ori and the Blind Forest
 
-### Comics: 
+### Comics:
 
 * Snow Glass Apples
 
@@ -82,15 +80,15 @@ If you’re not feeling particularly keen to flesh out massive scenes to hack aw
 
 ![](/uploads/faebruary-14.png)
 
-Fairy Tower 
+Fairy Tower
 
 ![](/uploads/faebruary-8.png)
 
-Mornings in the Meadow 
+Mornings in the Meadow
 
 ![](/uploads/faebruary-13.png)
 
-A New Home 
+A New Home
 
 ![](/uploads/faebruary-12.png)
 
@@ -99,3 +97,5 @@ Throne of the Dawn Court
 ![](/uploads/faebruary-9.png)
 
 Throne of the Dusk Court
+
+Have fun, and please tag us in all your Faebruary majesty <3 
