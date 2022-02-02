@@ -10,7 +10,7 @@ author: Dante Ludolf
 ---
 So we’re going all out for #Faebruary now that we have the full power of props at our disposal, and we think you should too.
 
-We’ve uploaded a huge range of fun fairy things for you to use to create your scenes, as well as some wings and weapons to make your fae a formidable one.
+We’ve uploaded a huge range of fun fairy things for you to use to create your scenes, as well as some wings and weapons to make your fae a formidable one. Check them out [here](https://justsketch.me/).
 
 If you’re dying to get into Faebruary, Feybruary or Fairyary (lord knows the names are legion) but you’re a bit creatively stuck, try to jumpstart your inspo with some of these cool fairy-themed or fairy-adjacent movies, games and comics.
 
