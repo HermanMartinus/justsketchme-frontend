@@ -78,6 +78,8 @@ The Secret of Kells
 
 If you’re not feeling particularly keen to flesh out massive scenes to hack away at with your preferred drawing implements, allow us to make your life a little easier with some of these pre-rendered scenes and characters. Simply download the .jsm scene and drop it into the app and make it your own.
 
+Download them [here](https://drive.google.com/drive/folders/15EsvdeyvXJUwMDNqmfwljXoqbdkcEshG?usp=sharing)
+
 ![](/uploads/faebruary-14.png)
 
 Fairy Tower
@@ -98,4 +100,4 @@ Throne of the Dawn Court
 
 Throne of the Dusk Court
 
-Have fun, and please tag us in all your Faebruary majesty <3 
+Have fun, and please tag us in all your Faebruary majesty <3
