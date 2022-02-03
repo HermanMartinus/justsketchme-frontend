@@ -25,7 +25,7 @@ For detailed documentation on how to use JustSketchMe check out the [docs](/docs
 
 ## Bugs and feature suggestions
 
-If you encounter any bugs, please report them on our [bug board](https://forms.gle/q9emuvjXh6ciQcGS9)
+If you encounter any bugs, please report them on our [bug board](/bugs/)
 
 If you'd like to suggest a feature, you do so on our [feature board](https://justsketchme.nolt.io).
 
