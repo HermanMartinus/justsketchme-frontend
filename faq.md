@@ -6,7 +6,7 @@ class: text-container docs
 
 ## Table of contents
 1. [Documentation](#documentation)
-2. [Bugs and suggestions](#bugs-and-suggestions)
+2. [Bugs and feature suggestions](#bugs-and-feature-suggestions)
 3. [Subscriptions](#subscriptions)
 4. [Lost license key](#lost-license-key)
 5. [Cancel subscription](#cancel-subscription)
@@ -19,18 +19,15 @@ class: text-container docs
 
 ## Documentation
 
-For detailed documentation on how to use JustSketchMe use the [docs](/docs/).
+For detailed documentation on how to use JustSketchMe check out the [docs](/docs/).
 
 ---
 
-## Bugs and suggestions
+## Bugs and feature suggestions
 
-If you encounter any bugs, please send us an email at [hello@justsketch.me](mailto:hello@justsketch.me) with the following:
-- Description of problem
-- Steps to recreate
-- Operating system (iOS, Windows, Mac, etc)
+If you encounter any bugs, please report them on our [bug board](https://forms.gle/q9emuvjXh6ciQcGS9)
 
-If you'd like to suggest a feature, you do so [here](https://justsketchme.nolt.io).
+If you'd like to suggest a feature, you do so on our [feature board](https://justsketchme.nolt.io).
 
 ---
 
