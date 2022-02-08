@@ -264,11 +264,12 @@ The iOS app is available on the Apple App store. You can follow this [link](http
 If you have an existing license key:
 
 - Select `Upgrade`
-- Select `Restore purchase`
-- Allow it to sign in with your Apple ID
-- It will then ask you to insert your license key
+- Select `Get JustSketchMe Pro`
+- Select `Already subscribed?` and follow the steps
 
 ### Android
+
+JustSketchMe is built as a progressive web app (PWA) and runs as a native app on Android when downloaded.
 
 To download the app on Android:
 
@@ -276,6 +277,8 @@ To download the app on Android:
 - Open the browser settings menu <span class="app-tool"><svg><use xlink:href="/images/feather-sprite.svg#more-vertical" /></svg></span> in the top right toolbar
 - Tap `Add to Home Screen`
 - Confirm the download
+
+This is not just a bookmark, it downloads the full app.
 
 ### Mac & Windows
 
