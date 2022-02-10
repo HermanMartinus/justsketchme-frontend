@@ -316,6 +316,7 @@ Subscriptions can be cancelled using the [manage subscription](#manage-subscript
 Characters developed for the JustSketchMe app are a bit tricky and have a few constraints that need to be followed. Here is a <a href="https://app.justsketch.me/models/stylistic_female.fbx" download="stylistic_female.fbx">working character model</a> which can be used for reference.
 
 ### Constraints
+- The character model should be exported as a .fbx
 - Sizing of the character should be in proportion to the example model.
 - All joints should be zeroed out in a t-pose.
     - This includes hand and thumb joints (again, refer to the example model for reference).
