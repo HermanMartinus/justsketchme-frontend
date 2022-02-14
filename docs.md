@@ -50,7 +50,8 @@ JustSketchMe can be used to set up reference scenes and poses for planning out y
 11. [Apps](#apps)
     - [iOS](#ios)
     - [Android](#android)
-    - [Mac & Windows](#mac--windows)
+    - [Mac](#mac)
+    - [Windows](#windows)
 12. [Subscriptions](#subscriptions)
     - [License key](#license-key)
     - [Devices](#devices)
@@ -280,9 +281,23 @@ To download the app on Android:
 
 This is not just a bookmark, it downloads the full app.
 
-### Mac & Windows
+### Mac
 
-Download the [Mac](https://justsketchme-apps.fra1.cdn.digitaloceanspaces.com/justsketchme.dmg) and [Windows](https://justsketchme-apps.fra1.cdn.digitaloceanspaces.com/JustSketchMe.exe) apps and follow the installation instructions.
+Download the Mac App [here](https://justsketchme-apps.fra1.cdn.digitaloceanspaces.com/justsketchme.dmg).
+
+### Windows
+
+JustSketchMe is built as a progressive web app (PWA) and runs as a native app on Windows when downloaded.
+
+To download the app on Windows:
+
+- Open the [JustSketchMe webapp](https://app.justsketch.me) in Chrome
+- Click the download button to the right of the URL
+- Click `Install JustSketchMe`
+
+![Download windows app](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/425c8012-f939-4ec0-9d34-270e0e97c900/optimised)
+
+This is not just a bookmark, it downloads the full app.
 
 ---
 
@@ -316,7 +331,7 @@ Subscriptions can be cancelled using the [manage subscription](#manage-subscript
 Characters developed for the JustSketchMe app are a bit tricky and have a few constraints that need to be followed. Here is a <a href="https://app.justsketch.me/models/stylistic_female.fbx" download="stylistic_female.fbx">working character model</a> which can be used for reference.
 
 ### Constraints
-- The character model should be exported as a .fbx
+- The character model should be exported as a `.fbx`.
 - Sizing of the character should be in proportion to the example model.
 - All joints should be zeroed out in a t-pose.
     - This includes hand and thumb joints (again, refer to the example model for reference).

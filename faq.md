@@ -5,7 +5,7 @@ class: text-container docs
 ---
 
 ## Table of contents
-1. [Documentation](#documentation)
+1. [Documentation](/docs/)
 2. [Bugs and feature suggestions](#bugs-and-feature-suggestions)
 3. [Subscriptions](#subscriptions)
 4. [Lost license key](#lost-license-key)
