@@ -270,16 +270,15 @@ If you have an existing license key:
 
 ### Android
 
-JustSketchMe is built as a progressive web app (PWA) and runs as a native app on Android when downloaded.
-
 To download the app on Android:
 
 - Open the [JustSketchMe webapp](https://app.justsketch.me) in Android Chrome
 - Open the browser settings menu <span class="app-tool"><svg><use xlink:href="/images/feather-sprite.svg#more-vertical" /></svg></span> in the top right toolbar
 - Tap `Add to Home Screen`
 - Confirm the download
+- This is not just a bookmark, it downloads the full app
 
-This is not just a bookmark, it downloads the full app.
+JustSketchMe is built as a progressive web app (PWA) and runs as a native app on Android when downloaded.
 
 ### Mac
 
@@ -287,17 +286,18 @@ Download the Mac App [here](https://justsketchme-apps.fra1.cdn.digitaloceanspace
 
 ### Windows
 
-JustSketchMe is built as a progressive web app (PWA) and runs as a native app on Windows when downloaded.
-
 To download the app on Windows:
 
 - Open the [JustSketchMe webapp](https://app.justsketch.me) in Chrome
 - Click the download button to the right of the URL
 - Click `Install JustSketchMe`
+- This is not just a bookmark, it downloads the full app
+
+JustSketchMe is built as a progressive web app (PWA) and runs as a native app on Windows when downloaded.
 
 ![Download windows app](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/425c8012-f939-4ec0-9d34-270e0e97c900/optimised)
 
-This is not just a bookmark, it downloads the full app.
+
 
 ---
 

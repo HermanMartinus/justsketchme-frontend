@@ -13,17 +13,8 @@
 .docs {
   h1, h2, h3, h4, h5, h6 {
     font-family: $title-font;
+    text-decoration: underline;
   }
-
-  // @media #{$desktop} {
-  //   ul {
-  //       display: flex;
-  //       flex-flow: row wrap;
-  //       li {
-  //         width: 50%;
-  //       }
-  //     }
-  // }
 
   .app-tool {
     background-color: $fresh-mint;
