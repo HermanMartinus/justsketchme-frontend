@@ -276,7 +276,7 @@ To download the app on Android:
 - Open the browser settings menu <span class="app-tool"><svg><use xlink:href="/images/feather-sprite.svg#more-vertical" /></svg></span> in the top right toolbar
 - Tap `Add to Home Screen`
 - Confirm the download
-- This is not just a bookmark, it downloads the full app
+- This is *not* just a bookmark, it downloads the full app
 
 JustSketchMe is built as a progressive web app (PWA) and runs as a native app on Android when downloaded.
 
@@ -291,7 +291,7 @@ To download the app on Windows:
 - Open the [JustSketchMe webapp](https://app.justsketch.me) in Chrome
 - Click the download button to the right of the URL
 - Click `Install JustSketchMe`
-- This is not just a bookmark, it downloads the full app
+- This is *not* just a bookmark, it downloads the full app
 
 JustSketchMe is built as a progressive web app (PWA) and runs as a native app on Windows when downloaded.
 
