@@ -1,38 +1,27 @@
-- title: Fully posable figures
+- title: Pose characters!
   description: Create the perfect reference for your art, every time; with fully posable character models.
-  image: /images/features/fully-posable.png
-- title: Multiple characters and styles
+  image: https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/6ce3a439-8d48-44ce-14f3-9d462e3f3300/optimised
+- title: Create dynamic scenes!
+  description: You have full control over your scene. Use Clone, Flip and Colour options to diversify and distinguish your scenes.
+  image: https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/3145a33a-7389-4b42-a5ce-bab63e9b8200/optimised
+- title: Intricate hand posing!
+  description: We’ve added extra features to help you finesse your JustSketchMe experience and have even more control of your drawing references.
+  image: https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/4b25ecf2-5f63-4190-cce0-355067201d00/optimised
+- title: Extreme perspective!
+  description: Use our Field of View slider to create complex and intricate perspectives to add dynamism and dimension to your drawing references.
+  image: https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/c6c4ae56-d8c2-436c-1b63-d58189a91900/optimised
+- title: Dozens of characters!
   description: Choose from an ever-growing range of character models in a variety of styles to give your pieces a good jumping off point.
-  image: https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/e782d55f-dbd2-43a4-14d2-af76934f4600/optimised
-  image-scale: 1.2
-  image-translate-y: 40
-- title: Nifty controls
-  description: We’ve added extra features to help you finesse your JustSketchMe experience and have even more control of your drawing references. Use Clone, Flip and Colour options to diversify and distinguish your scenes.
-  image: https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/c04cbee2-efb7-439d-19f5-e5dfe15c5600/optimised
-  image-scale: 2
-  image-translate-y: 40
-- title: Adjustable lighting
-  description: Set the scene with customisable lighting sources and add dramatic flair to your next piece.
-  image: /images/features/lighting.png
-- title: Dynamic perspective
-  description: Use our Field of View slider to create complex and intricate perspectives to add dynamism and dimension to your drawing references. 
-  image: /images/features/perspective.png
-- title: Shapes
-  description: Use fully rotatable and scalable shapes to add depth to your references and block out increasingly complex scenes.
-  image: /images/features/box.png
-- title: Props
-  description: Drop in any .obj prop of your choosing to arm your model or add life to their surroundings and create super specific references exactly how you imagined.
-  image: https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/66e30617-41fa-440c-6b7d-67a661fcef00/optimised
-  image-scale: 2
-  image-translate-y: 20
-- title: Pose library
+  image: https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/9cf6b6e2-2867-479d-fa0d-cacca59af300/optimised
+- title: Hundreds of props
+  description: Use our prop library or drop in any .obj prop of your choosing to arm your model or add life to their surroundings and create super specific references exactly how you imagined.
+  image: https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/eb408dbc-d250-4ff0-a223-5571f48ebb00/optimised
+- title: A full pose library!
   description: A growing pose library of well crafted preset poses for characters to get you up and making art in no time.
-  image: /images/features/pose-library.png
-- title: Desktop and mobile application
-  description: Go native for a smoother and even more accessible JustSketchMe experience.
-  image: /images/features/apps.png
-- title: Export 3D models
+  image: https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/5009e2ab-a3b8-4c3f-5b83-1700bed9d000/optimised
+- title: Dynamic lights!
+  description: Set the scene with customisable lighting sources and add dramatic flair to your next piece.
+  image: https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/51fb1c15-ebf7-4ade-52b4-9ea65140d800/optimised
+- title: The limit is your imagination!
   description: Take it offscreen with our 3D exporting options and add your JustSketchMe scenes elsewhere. Export posed models to <code>.dae</code> and <code>.obj</code> format.
-  image: https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/df56910d-ecde-4b14-714b-e43bd021a600/optimised
-  image-scale: 1.2
-  image-translate-y: 50
+  image: https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/25ea280d-37ce-4017-b634-c25dff39b800/optimised

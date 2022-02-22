@@ -20,6 +20,8 @@
     }
 
     .right-column {
+      min-width: 290px;
+
       .image {
         position: relative;
         max-width: 420px;
@@ -62,13 +64,6 @@
           transition-timing-function: ease-in;
           transform: scale(1.2);
           width: 320px;
-
-          &.back {
-          }
-          &.mid {
-          }
-          &.fore {
-          }
 
           &.show {
             opacity: 1;
