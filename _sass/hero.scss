@@ -121,10 +121,10 @@
   text-align: center;
   user-select: none;
 
-  // input { display:none}
-
   img {
-    margin-bottom: -4px;
+    width: 300px;
+    border: 1px solid $blackish;
+    box-shadow: 3px 3px $blackish;
   }
 }
 

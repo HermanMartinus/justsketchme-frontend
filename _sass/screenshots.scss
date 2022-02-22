@@ -44,8 +44,6 @@
 
         .item {
             position: absolute;
-            width: 300px;
-            border: 1px solid $blackish;
             --r: calc(var(--position) - var(--offset));
             --abs: max(calc(var(--r) * -1), var(--r));
             transition: all 0.25s linear;
@@ -57,7 +55,6 @@
             @for $i from 1 through 27 {
                 &:nth-of-type(#{$i}) {
                     --offset: #{$i};
-                    box-shadow: 3px 3px $blackish;
                 }
             }
         }
