@@ -32,7 +32,7 @@
             </div>
         </div>
         <div class="right-column">
-            <div class="image">
+            <div class="screenshot">
                 <div class="toolbar">
                     <span></span><span></span><span></span>
                 </div>
@@ -45,13 +45,62 @@
 </section>
 
 <section class="second-hero">
-    <a href="/features/" title="Features">
-        <button class="button pink">Check out the features</button>
-    </a>
-    <br>
-    <br>
-    <img src="images/heros/rotating-goi-drawn.gif" alt="Samurai" />
-    <img src="images/heros/rotating-goi.gif" alt="Samurai" />
+
+    <div class="carousel">
+        <input type="radio" name="position" />
+        <input type="radio" name="position" />
+        <input type="radio" name="position" />
+        <input type="radio" name="position" />
+        <input type="radio" name="position" />
+        <input type="radio" name="position" />
+        <input type="radio" name="position" />
+        <input type="radio" name="position" />
+        <input type="radio" name="position" />
+        <input type="radio" name="position" checked />
+        <input type="radio" name="position" />
+        <input type="radio" name="position" />
+        <input type="radio" name="position" />
+        <input type="radio" name="position" />
+        <input type="radio" name="position" />
+        <input type="radio" name="position" />
+        <input type="radio" name="position" />
+        <input type="radio" name="position" />
+        <input type="radio" name="position" />
+        <input type="radio" name="position" />
+        <input type="radio" name="position" />
+        <input type="radio" name="position" />
+        <input type="radio" name="position" />
+        <input type="radio" name="position" />
+        <input type="radio" name="position" />
+        <input type="radio" name="position" />
+        <input type="radio" name="position" />
+        <main class="images">
+            {% for feature in site.data.features %}
+            <div class="item">
+                <img
+                    src="{{ feature.image}}"
+                    alt="{{ feature.title }}"
+                />
+            </div>
+            {% endfor %}
+            {% for feature in site.data.features %}
+            <div class="item">
+                <img
+                    src="{{ feature.image}}"
+                    alt="{{ feature.title }}"
+                />
+            </div>
+            {% endfor %}
+            {% for feature in site.data.features %}
+            <div class="item">
+                <img
+                    src="{{ feature.image}}"
+                    alt="{{ feature.title }}"
+                />
+            </div>
+            {% endfor %}
+        </main>
+    </div>
 </section>
 
 <script>
@@ -60,8 +109,59 @@ document.querySelectorAll(".sam").forEach((element, i) => {
     setTimeout(() => element.classList.add('show'), timeout);
 });
 
-window.onscroll = () => {
-    const element =  document.querySelector('.sam.mid');
-    element.classList.toggle("faded", element.scrollTop > 70 || document.documentElement.scrollTop > 70);
-};
+function handleGesture() {
+    if (touchendX < touchstartX) {
+        slideRight()
+    }
+    if (touchendX > touchstartX) {
+        slideLeft()
+    }
+}
+
+function slideLeft() {
+    if(document.querySelector('.carousel input:checked').previousElementSibling) {
+        document.querySelector('.carousel input:checked').previousElementSibling.click()
+    } else {
+        document.querySelector('.carousel input:nth-child(9)').click()
+    }
+}
+
+function slideRight() {
+    if(document.querySelector('.carousel input:checked').nextElementSibling.type == 'radio') {
+        document.querySelector('.carousel input:checked').nextElementSibling.click()
+    } else {
+        console.log(document.querySelector('.carousel input:first-of-type'))
+        document.querySelector('.carousel input:nth-child(1)').click()
+    }
+}
+
+
+let touchstartX = 0
+let touchendX = 0
+
+const slider = document.querySelector('.carousel .images')
+
+let canClick = true;
+
+slider.addEventListener('mousedown', e => {
+    if(canClick) {
+        canClick = false
+        if(e.clientX > window.innerWidth / 2) {
+            slideRight()
+        } else {
+            slideLeft()
+        }
+        
+        setTimeout(() => {canClick = true}, 300)
+    }
+})
+
+slider.addEventListener('touchstart', e => {
+  touchstartX = e.changedTouches[0].screenX
+})
+
+slider.addEventListener('touchend', e => {
+  touchendX = e.changedTouches[0].screenX
+  handleGesture()
+})
 </script>

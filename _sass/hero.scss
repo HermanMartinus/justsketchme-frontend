@@ -22,37 +22,16 @@
     .right-column {
       min-width: 290px;
 
-      .image {
+      .screenshot {
         position: relative;
         max-width: 420px;
         min-width: 320px;
         height: 250px;
-        padding: 0;
         margin-bottom: 40px;
-        background: #fff;
-        border: 1px solid $blackish;
-        border-radius: 5px 5px 0 0;
-        box-shadow: 4px 4px $yolo-yellow;
-        text-align: left;
 
         @media #{$tablet} {
           min-width: 30vw;
           margin-bottom: 0;
-        }
-    
-        .toolbar {
-          width: 100%;
-          height: 20px;
-          border-bottom: 1px solid $blackish;
-    
-          span {
-            display: inline-block;
-            border-radius: 50%;
-            border: 1px solid $blackish;
-            width: 8px;
-            height: 8px;
-            margin-left: 3px;
-          }
         }
     
         .sam {
@@ -136,13 +115,16 @@
 }
 
 .second-hero {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-evenly;
   text-align: center;
-  margin: 0;
-  padding: 0;
+  user-select: none;
+
+  // input { display:none}
+
   img {
-    max-width: 420px;
-    width: auto;
-    max-height: 300px;
+    margin-bottom: -4px;
   }
 }
 

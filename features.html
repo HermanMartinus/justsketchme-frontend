@@ -12,16 +12,13 @@ image: /images/features/box.png
                 <h2>{{ feature.title }}</h2>
                 <p>{{ feature.description }}</p>
             </div>
-            <div class="image">
+            <div class="screenshot">
                 <div class="toolbar">
                     <span></span><span></span><span></span>
                 </div>
                 <img
                     src="{{ feature.image }}"
                     alt="{{ feature.title }}"
-                    {% if feature.image-scale %}
-                    style="transform: scale({{ feature.image-scale }}, {{ feature.image-scale }}) translateY({{ feature.image-translate-y}}px)"
-                    {% endif %}
                 />
             </div>
         </div>
