@@ -1,21 +1,17 @@
-
-- name: Features
-  link: /features/
+- name: Learn
+  link: /learn/
+  new_window: false
+  highlight: true
+- name: Gallery
+  link: /gallery/
   new_window: false
   highlight: false
 - name: Pricing
   link: /pricing/
   new_window: false
   highlight: false
-- name: Gallery
-  link: /gallery/
-  new_window: false
-  highlight: false
-- name: More info
+- name: FAQ
   link: /faq/
   new_window: false
   highlight: false
-- name: Learn
-  link: /learn/
-  new_window: false
-  highlight: false
+

@@ -12,8 +12,8 @@
 		
 		iframe {
 			min-width: 300px;
-			width: 420px;
-			height: 240px;
+			width: 600px;
+			height: 450px;
 			border: 1px solid $blackish;
 			box-shadow: 4px 4px 0 $blackish;
 		}
@@ -31,19 +31,10 @@
 			}
 		}
 
-		&:hover {
+		&:hover, &:active {
             transform: rotateZ(0deg) !important;
         }
 	}
-	@media #{$desktop} {
-        @for $i from 1 through 36 {
-            li:nth-child(#{$i}) {
-                $r: (356 + random(8)) + deg;
-                transform: rotateZ($r);
-            }
-        }
-    }
-	
 }
 
 .blog-posts {
