@@ -341,6 +341,10 @@ Characters developed for the JustSketchMe app are a bit tricky and have a few co
 - Max size should be around 2.5mb
 - The body should warp naturally in a variety of poses (testable with the pose library)
 
+### Helpful advice
+
+When creating new characters it may be easier to take the example model, unskinning it and using it's skeleton as a base. Then all you need to do is translate the joints to the new model and skin/weight paint.
+
 ### Testing
 The models can be tested in the developer menu (you'll be issued a passcode).
 
