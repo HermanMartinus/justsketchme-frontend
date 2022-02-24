@@ -1,7 +1,8 @@
 ---
 title: 'How to make your ArtStation profile work for you '
 date: 2022-02-24 22:00:00 +0000
-description: ''
+permalink: how-to-improve-artstation-profile
+description: Art we human, or art we station?
 image: ''
 icon: Dante Ludolf
 author: ''
