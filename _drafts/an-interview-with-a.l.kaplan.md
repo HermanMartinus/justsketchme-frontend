@@ -3,12 +3,12 @@ title: An interview with A.L. Kaplan
 date: 2022-02-28 22:00:00 +0000
 permalink: artist-interview-al-kaplan-comic-artist
 description: ''
-image: ''
-icon: ''
+image: https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/075e0ff3-f281-45d0-0eaa-b5c81ef97200/icon
+icon: https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/075e0ff3-f281-45d0-0eaa-b5c81ef97200/icon
 author: Dante Ludolf
 
 ---
-![AL Kaplan 4](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/db8499be-8af5-454a-2415-588ac564b200/optimised)
+![AL Kaplan 7](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/0c2f2cae-1ef1-447f-1c92-3fcc3d741000/optimised)
 
 ##### Thank you for having a chat with us. Can you tell us a bit about yourself and your artistic journey?- Did you have any inspirations in developing your art style?
 
@@ -23,6 +23,8 @@ Well thank you, that’s very kind to say. _Maw_ was my first time really tellin
 There is so much real pain in _Maw_, real pain that I can’t directly identify with. I couldn’t be as close in and as raw as another artist might have with the same script. That led me to take a more theatrical approach--especially for the violence.
 
 _Maw_ is very gross, but I wanted it also to be beautiful. Body horror is my favorite of horrors. It connects for me, even when the subject matter doesn’t. I wanted the veins and drips and goop and hair and spit to flow beautifully across the page to honor the characters’ pain and anger and suffering.
+
+![AL Kaplan 4](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/db8499be-8af5-454a-2415-588ac564b200/optimised)
 
 ##### Can you run me through your process of taking a work from concept to completion?
 
@@ -39,6 +41,8 @@ Especially with a medium like comics, a lot of my process is designed around kee
 ##### How would you suggest artists get noticed by publishers or studios?
 
 Getting noticed and getting hired may not be the same thing; and not being on the other side of the desk, I can’t even say with certainty how any of what I’ve done has helped with either. But my most general advice is to make the work you want to make, and put it where you think the people you want to see it will find it. If no one sees it, you’ll still be making the work you want to make. And when they finally do see it, you’ll have a body of work that shows you can do the job. There are formal channels for this (portfolio reviews, submissions, etc.) and informal (social media, etc.); unfortunately not all roads in are equally accessible, but regardless, the right roads in will depend ultimately on each particular artist’s career goals and circumstances.
+
+![AL Kaplan 8](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/a71bc9ad-4e10-4707-50d5-65f9d4fbb400/optimised)
 
 ##### When you feel overwhelmed, discouraged, or burnt out, what do you do to push through and get things done?
 
@@ -63,4 +67,3 @@ Going back to what inspires me also helps, whether that’s flipping through boo
 ##### What cool things are you working on right now, and where can we follow your journey?
 
 Nothing I can announce yet, unfortunately. But I’m working on some graphic novel and comic pitches and looking forward to returning to conventions if the world cooperates! You can find me on Twitter, Tumblr, & Instagram @alkcomics, my portfolio at [alkcomics.com](http://alkcomics.com/), and in person this August in NYC tabling at Flame Con (again, pandemic willing).
-
