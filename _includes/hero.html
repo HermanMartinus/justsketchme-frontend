@@ -127,7 +127,7 @@ function slideLeft() {
         document.querySelector('.carousel input:nth-child(27)').click()
         console.warn("wrapping left")
     }
-    HideBackgroundSlides()
+    hideBackgroundSlides()
 }
 
 function slideRight() {
@@ -145,10 +145,10 @@ function slideRight() {
         console.warn("wrapping right")
 
     }
-    HideBackgroundSlides()
+    hideBackgroundSlides()
 }
 
-function HideBackgroundSlides() {
+function hideBackgroundSlides() {
     document.querySelectorAll(`.carousel .item`).forEach((element, i)=> {
         if(i > activeIndex + activeRangeEitherSide || i < activeIndex - activeRangeEitherSide) {
             element.classList.add('hidden')
@@ -171,7 +171,7 @@ let touchstartX = 0
 let touchendX = 0
 
 const slider = document.querySelector('.carousel .images')
-HideBackgroundSlides()
+hideBackgroundSlides()
 
 let canClick = true;
 
