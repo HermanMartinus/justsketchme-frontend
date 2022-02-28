@@ -8,6 +8,8 @@ icon: ''
 author: Dante Ludolf
 
 ---
+![AL Kaplan 4](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/db8499be-8af5-454a-2415-588ac564b200/optimised)
+
 ##### Thank you for having a chat with us. Can you tell us a bit about yourself and your artistic journey?- Did you have any inspirations in developing your art style?
 
 Glad to be chatting! I’m a west coast American cartoonist and designer with a degree in psychology from UC Santa Cruz, interested in telling queer narratives in sci-fi/horror settings. I’m currently living with two cats and more plants than should grow in my northern Nevada desert home, and enjoy biking around the country and blasting doom metal when I’m not making comics.
@@ -28,6 +30,8 @@ Regardless if it’s comics, illustration, or design, I start by really seeping 
 
 Once I’ve gotten a satisfying layout and gesture sketch, I’ll do a rough pencil sketch at-scale to find my forms and shadows and whatever other foundation I would rather use inks to imply than describe. If I’m using color, I’ll do a rough color pass to make sure everything’s working how I’d like it to. Then I go in with inks, sometimes using a lightbox, sometimes over pencils, sometimes digitally. I’m far more precious with digital art, so most of my comics are traditional media for the sake of expediency and my own sanity. Somewhere around this stage I’ll probably get angry and go shove my face in a cat or something… but then it’s onto scanning and digital cleanup (if traditional inks), or coloring. I prefer black and white comics and I’m still finding my comfort with color in general, so the more colors are involved the more I invite you to imagine the inclusion of cat pestering into my process.
 
+![AL Kaplan 2](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/ae2d6967-98f9-4e52-d50a-21b30a6baa00/optimised)
+
 ##### Do you have any tips and tricks you use in your creative process?
 
 Especially with a medium like comics, a lot of my process is designed around keeping myself interested and engaged. If my pencils are super tight, then inking is too mechanical and disengaging. But if I don’t have a good foundation, then there’s too much pressure on the inks to find the forms and I also get disengaged. I’ve also found that I need to remove my reference and inspiration images after the first gesture/thumbnail sketches. If I don’t remove them, I’ll feel too beholden to them. [In a great thread](https://twitter.com/devinkorwin/status/1490733742377287686?s=20&t=oS0b0HEC5tDFjaT4A3VSIQ) on painting recently, Devin Korwin said “try painting from reference, but thinking as if you were working from imagination.” I love that idea and reminder to be the one in control of the design of your art.
@@ -40,11 +44,15 @@ Getting noticed and getting hired may not be the same thing; and not being on th
 
 Get up and take a walk! Even just a quick break to put on a new album or do dishes can be helpful in creating a fresh perspective on the problem. Worst case scenario, the problem still stands but my dishes are done. But I love walking, or biking, the best: I get those endorphins and steep myself in an environment in which the problems I’m solving are different and require different answers. My body is as much an intellectual organ system as my brain.
 
+![AL Kaplan 5](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/612b2556-66cf-44be-bb20-ab38ef7f0000/optimised)
+
 ##### The fan art section on your website is brimming with some really good stuff. What do you think is an ideal balance between fan art, homages and original creations?
 
 Similar to getting your work noticed, what type of work you make really depends on where your interests lie, what your career goals are, and therefore what your intentions behind showing the artwork is. Portfolios should be tailored to show prospective clients the work you want to do -- they’ll be hiring you based on what you’re showing, so don’t show work you don’t want to get. And if you’re sharing work online as a hobby, then of course the balance is entirely up to your pleasure. Don’t let anyone tell you what to do.
 
 Creating work in a familiar idiom to the industry you want a job in can be helpful: an editor for comics might get a clearer picture of my abilities from a drawing of Storm, or Sailor Moon, than from a drawing of my own characters. They have context for the established characters more so than my own. But ultimately I do fanart because I want to; and if it gets me jobs on covers for titles I like, that’s an added bonus. It’s a fun way for me to engage with media I enjoy, and share that engagement with others. Additionally, established characters often carry with them an excuse to draw a pose or use lighting or effects that my own characters don’t. When I’m focused more on my own comics, though, it’s often the other way around!
+
+![AL Kaplan 1](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/eb7cee76-d849-49c1-5c2f-44e8e1448800/optimised)
 
 ##### Are there any skills you’re trying to learn at the moment? What is your process of learning new techniques?
 
@@ -55,3 +63,4 @@ Going back to what inspires me also helps, whether that’s flipping through boo
 ##### What cool things are you working on right now, and where can we follow your journey?
 
 Nothing I can announce yet, unfortunately. But I’m working on some graphic novel and comic pitches and looking forward to returning to conventions if the world cooperates! You can find me on Twitter, Tumblr, & Instagram @alkcomics, my portfolio at [alkcomics.com](http://alkcomics.com/), and in person this August in NYC tabling at Flame Con (again, pandemic willing).
+
