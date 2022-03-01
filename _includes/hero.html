@@ -109,41 +109,74 @@ document.querySelectorAll(".sam").forEach((element, i) => {
     setTimeout(() => element.classList.add('show'), timeout);
 });
 
-function handleGesture() {
-    if (touchendX < touchstartX) {
-        slideRight()
-    }
-    if (touchendX > touchstartX) {
-        slideLeft()
-    }
-}
-
+var activeIndex = 9
+var activeRangeEitherSide = 2
 function slideLeft() {
     if(document.querySelector('.carousel input:checked').previousElementSibling) {
-        document.querySelector('.carousel input:checked').previousElementSibling.click()
+        var previous = document.querySelector('.carousel input:checked').previousElementSibling
+        prevIndex = Array.prototype.indexOf.call(previous.parentNode.children, previous)
+        console.warn("active Index:",activeIndex)
+        console.warn("prev Index:",prevIndex)
+        if(prevIndex != activeIndex) {
+            activeIndex = prevIndex
+            previous.click()
+            console.warn("sliding left")
+        }
     } else {
-        document.querySelector('.carousel input:nth-child(9)').click()
+        activeIndex = 26
+        document.querySelector('.carousel input:nth-child(27)').click()
+        console.warn("wrapping left")
     }
+    hideBackgroundSlides()
 }
 
 function slideRight() {
     if(document.querySelector('.carousel input:checked').nextElementSibling.type == 'radio') {
-        document.querySelector('.carousel input:checked').nextElementSibling.click()
+        var next =  document.querySelector('.carousel input:checked').nextElementSibling
+        nextIndex = Array.prototype.indexOf.call(next.parentNode.children, next)
+        if(nextIndex != activeIndex) {
+            activeIndex = nextIndex
+            next.click()
+            console.warn("sliding right")
+        }
     } else {
-        console.log(document.querySelector('.carousel input:first-of-type'))
+        activeIndex = 0
         document.querySelector('.carousel input:nth-child(1)').click()
+        console.warn("wrapping right")
+
     }
+    hideBackgroundSlides()
 }
 
+function hideBackgroundSlides() {
+    document.querySelectorAll(`.carousel .item`).forEach((element, i)=> {
+        if(i > activeIndex + activeRangeEitherSide || i < activeIndex - activeRangeEitherSide) {
+            element.classList.add('hidden')
+            element.classList.remove('visible')
+        } else {
+            element.classList.add('visible')
+            element.classList.remove('hidden')
+        }
+
+        if(i == activeIndex) {
+            element.classList.add('active')
+        }
+        else {
+            element.classList.remove('active')
+        }
+    })
+}
 
 let touchstartX = 0
 let touchendX = 0
 
 const slider = document.querySelector('.carousel .images')
+hideBackgroundSlides()
 
 let canClick = true;
 
 slider.addEventListener('mousedown', e => {
+
     if(canClick) {
         canClick = false
         if(e.clientX > window.innerWidth / 2) {
@@ -156,12 +189,19 @@ slider.addEventListener('mousedown', e => {
     }
 })
 
-slider.addEventListener('touchstart', e => {
-  touchstartX = e.changedTouches[0].screenX
-})
-
 slider.addEventListener('touchend', e => {
-  touchendX = e.changedTouches[0].screenX
-  handleGesture()
+    // disable touch event
+    e.stopPropagation();
+    e.preventDefault();
+
+    // translate to mouse event to prevent double clicks
+    var clkEvt = document.createEvent('MouseEvent');
+    clkEvt.initMouseEvent('mousedown', true, true, window, e.detail, 
+                 e.changedTouches[0].screenX, e.changedTouches[0].screenY, 
+                 e.changedTouches[0].clientX, e.changedTouches[0].clientY, 
+                 false, false, false, false, 
+                 0, null);
+    slider.dispatchEvent(clkEvt);
+//   handleGesture()
 })
 </script>
