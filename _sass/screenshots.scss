@@ -75,10 +75,10 @@
         opacity: 0;
       }
       &.active {
-        filter: grayscale(0%) saturate(2.2);
+        filter: grayscale(0%) saturate(1.2);
         transform: scale(0.9);
         @media #{$tablet} {
-          transform: scale(1.5);
+          transform: scale(1.4);
         }
       }
     }
