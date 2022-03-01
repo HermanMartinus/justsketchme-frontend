@@ -1,6 +1,6 @@
 ---
 title: An interview with A.L. Kaplan
-date: 2022-02-28 22:00:00 +0000
+date: 2022-02-28T22:00:00.000+00:00
 permalink: artist-interview-al-kaplan-comic-artist
 description: ''
 image: https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/075e0ff3-f281-45d0-0eaa-b5c81ef97200/icon
@@ -11,6 +11,14 @@ author: Dante Ludolf
 ![AL Kaplan 7](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/0c2f2cae-1ef1-447f-1c92-3fcc3d741000/optimised)
 
 A.L. Kaplan came to my attention when I picked up the first two copies of a terribly horrifying and gut-wrenchingly brilliant series called _MAW_. Naturally, I had to pick his brain about his career, his artistry and his creative process and I'm happy to say it makes for an amazing read. Enjoy!
+
+Check out some of their work here:
+
+[Website]() 
+
+[Twitter]() 
+
+[Instagram](https://www.instagram.com/alkcomics/)
 
 ##### Thank you for having a chat with us. Can you tell us a bit about yourself and your artistic journey?- Did you have any inspirations in developing your art style?
 
