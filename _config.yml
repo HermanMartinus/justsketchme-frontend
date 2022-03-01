@@ -7,12 +7,12 @@ baseurl:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: "/images/logo-blackish.png"
-snippet_image: "/images/snippet.png"
-description: Free interactive 3D characters for reference poses.
+snippet_image: "https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/33d769e5-f144-4e26-d16c-ace4e6c5dc00/optimised"
+description: Character posing for artists. Give your art a headstart by creating the perfect reference image.
 keywords: figure drawing reference, reference poses, posing reference, references for drawing, pose, posing, figures to draw
 author:
   name:
-  email:
+  email: hello@justsketch.me
   twitter: justsketchme
 social:
   name: JustSketchMe
