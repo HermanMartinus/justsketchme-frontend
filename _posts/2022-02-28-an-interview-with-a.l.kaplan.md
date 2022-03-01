@@ -10,6 +10,8 @@ author: Dante Ludolf
 ---
 ![AL Kaplan 7](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/0c2f2cae-1ef1-447f-1c92-3fcc3d741000/optimised)
 
+A.L. Kaplan came to my attention when I picked up the first two copies of a terribly horrifying and gut-wrenchingly brilliant series called _MAW_. Naturally, I had to pick his brain about his career, his artistry and his creative process and I'm happy to say it makes for an amazing read. Enjoy!
+
 ##### Thank you for having a chat with us. Can you tell us a bit about yourself and your artistic journey?- Did you have any inspirations in developing your art style?
 
 Glad to be chatting! I’m a west coast American cartoonist and designer with a degree in psychology from UC Santa Cruz, interested in telling queer narratives in sci-fi/horror settings. I’m currently living with two cats and more plants than should grow in my northern Nevada desert home, and enjoy biking around the country and blasting doom metal when I’m not making comics.
