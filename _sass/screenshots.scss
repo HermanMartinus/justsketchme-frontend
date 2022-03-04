@@ -41,6 +41,9 @@
     --items: 9;
     --middle: 5;
     --position: 5;
+
+    touch-action: none;
+
     @media #{$tablet} {
       perspective: 600px;
     }
