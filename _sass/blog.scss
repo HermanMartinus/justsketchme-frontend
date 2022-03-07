@@ -1,39 +1,16 @@
 .videos {
 	display: flex;
 	flex-flow: row wrap;
-	justify-content: center;
-	margin: 80px 0 40px;
+	justify-content: space-around;
 	padding-bottom: 40px;
 	border-bottom: 2px dashed $blackish;
-	
-	li {
-		margin: 20px;
-		list-style: none;
-		
-		iframe {
-			min-width: 300px;
-			width: 460px;
-			height: 350px;
-			border: 1px solid $blackish;
-			box-shadow: 4px 4px 0 $blackish;
-		}
 
-		&.box {
-			min-width: 240px;
-			width: 240px;
-			border: 1px solid $blackish;
-			box-shadow: 4px 4px 0 $blackish;
-			text-align: center;
-			padding: 20px;
-
-			a {
-				color: $blackish;
-			}
-		}
-
-		&:hover, &:active {
-            transform: rotateZ(0deg) !important;
-        }
+	iframe {
+		margin: 40px 0;
+		width: 450px;
+		aspect-ratio: 4 / 3;
+		border: 1px solid $blackish;
+		box-shadow: 4px 4px 0 $blackish;
 	}
 }
 
