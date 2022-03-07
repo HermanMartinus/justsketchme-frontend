@@ -3,7 +3,7 @@
     max-width: 720px;
     background: $chilled-electric;
     border: 1px solid;
-    padding: 10px;
+    padding: 10px 0 20px 0;
     box-shadow: 3px 3px $blackish;
     text-align: center;
     transform: rotateZ(2deg);
@@ -22,7 +22,7 @@
     margin: 30px 0;
     
     .tier {
-        width: 300px;
+        width: 250px;
         margin: 10px;
         border: 1px solid;
         padding: 15px;
@@ -37,7 +37,6 @@
         }
 
         &.pro {
-            width: 600px;
             background: $chilled-pink;
             box-shadow: 3px 3px $blackish;
 
