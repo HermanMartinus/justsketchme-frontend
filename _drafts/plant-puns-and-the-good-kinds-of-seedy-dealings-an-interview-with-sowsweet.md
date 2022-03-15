@@ -1,8 +1,8 @@
 ---
-title: 'Plant puns and the good kinds of seedy dealings: An interview with SowSweet'
+title: An interview with SowSweet Greetings' Nicole Teschi
 date: 2022-03-14 22:00:00 +0000
 permalink: sowsweet-nicole-teschi-interview
-description: ''
+description: Plant puns and the good kinds of seedy dealings
 image: ''
 icon: ''
 author: Dante Ludolf
