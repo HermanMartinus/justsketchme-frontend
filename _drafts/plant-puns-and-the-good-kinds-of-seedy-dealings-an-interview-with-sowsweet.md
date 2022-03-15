@@ -10,6 +10,8 @@ author: Dante Ludolf
 ---
 ![Sowsweet 2](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/7d4c71ea-0b2a-481e-18e9-9af413b72f00/optimised)
 
+Nicole and her adorable company, [SowSweet Greetings](https://sowsweetgreetings.ca/), is living testimony that with enough gusto, passion and planning even something as simple as a plant pun that would send your dad into a tailspin is enough to make something truly special. 
+
 ### Thank you for having a chat with us. Can you tell us a bit about yourself and your artistic journey?
 
 My name is Nicole and I’m the self-proclaimed dad joke queen behind the plantable puns at SowSweet Greetings Inc., where we’ve made it our mission to put smiles on faces and flowers in the ground.
@@ -26,6 +28,8 @@ It was absolutely too good to be true. My GPA was peanuts compared to the values
 
 Flash forward to a year later and I was receiving my second declined application - and I couldn’t blame them. My GPA was still not in the range of acceptable, and my portfolio was mediocre at best - especially considering a great deal of the applicants were coming from a fine arts background. I also started to reconsider my enthusiasm for the job - how much opportunity was there in the medical illustration to work with others, to communicate, network, and connect - things I valued above simply illustrating and designing day in and day out. That got my wheels turning - what could I do moving forward that would be a true combination of my passions: science, visual arts, and spending time with other people?
 
+> I sometimes joke about being “art rich” one day, where I can afford to buy a giant painting that I can’t live without from a gallery to display in the foyer of my future home. I’m not quite there yet, so in the meantime, if you can offer me that same design that I’ve fallen in love with on a t-shirt or a postcard for a fraction of the cost, I’m buying it.
+
 Cue teacher’s college! After two years of honing my organisational/public speaking/lesson-planning skills at OISE (University of Toronto) and I finally felt like I found where I belonged. I could create, talk science, and spend virtually all day with others! It was the perfect fit for my personality, an extrovert who loved to create (as you can imagine, marking was the bane of my existence). I decided that I would use education as my portal for creation - I was going to do my best to make science learning fun and accessible for all, via vibrant lesson plans, appealing visuals, and enthusiastic delivery - and I did! I had the opportunity to teach multiple science courses over my fairly interrupted teaching career and took any opportunity I could to squeeze in some great metaphors to make concepts more relatable for students (I continue to work as a substitute to this day).
 
 ![Sowsweet 3](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/7163e016-c5c0-48a2-cde9-f5268e04f100/optimised)
@@ -41,6 +45,8 @@ I would say that my creativity comes through the most in the designs printed on 
 ### Can you run me through your process of taking a piece from concept to completion?
 
 The creative process for me is always triggered by one of three things: something pops into my brain in a random location (honestly, I draw a lot of inspo from grocery store visits and being outside), someone makes a joke that I find a way to twist into a greeting card illustration, or someone requests a particular theme or design for a particular purpose or event. Regardless of which of the three it is - I write it down (I have puns written all over the place, in my phone, in my agenda, on sticky notes covering my desk, etc.).
+
+> Being green, printing on plantable paper, and being a part of a community of like-minded creators are huge bonuses, helping provide validity to every design choice I make.
 
 Depending on the concept, it can take me anywhere between 10 minutes to 1 hour to complete one design. If it’s for a particular client, there can be a lot of back and forth ensuring that they are pleased with the design. I’ll bounce design variations off of my business partner, family, and friends to get outside input (as I’m sure many can understand, it’s very difficult to be your own critic), and when I’ve found a winner, it gets printed! In terms of hardware, I currently use a Wacom tablet to draw and am currently working in Adobe Illustrator.
 
@@ -67,6 +73,8 @@ SowSweet Greetings was a result of me discovering a way to monetise my cheesy jo
 ### When you feel overwhelmed, discouraged, or burnt out, what do you do to push through and get things done?
 
 As per my extreme extrovert personality mentioned above, I tap into my social networks of friends and family. I find that spending time with others instantly helps me recharge my battery when I’m feeling any of these ways. Creating lists is also a big thing for me - I struggle a lot with focusing on one task at a time (my business partner can tell you all about this), and I can make myself dizzy sometimes by bouncing back and forth perpetually between half-completed to-do items.
+
+> I find that my most productive creative sessions are carved out in an intentional way in terms of time and space.
 
 I try to be super intentional about the way I set up my lists, giving myself a chronological order for the tasks, and making sure that I don’t move on to the next before the prior is completed. I think as an entrepreneur too, it’s so important to be kind to yourself.
 
@@ -97,6 +105,8 @@ There are a few reasons that I would personally work for free: building an initi
 ### What would you say are some good resources for figuring out payment structures and pricing?
 
 Market research! Get cosy with your competitors and gather all the intel you can about what they are offering, how they are offering it, and how much they are asking. Google searching, Instagram digging, reaching out and connecting, are all good ways to go about this!
+
+> ...In my opinion, I’m a glorified doodler with a flair for wordplay.
 
 Going through several grant applications over the past years I have become familiar with a SWOT analysis (SWOT: Strengths, Weaknesses, Opportunity, Threats) - completing this analysis for your own business and for your top 2-3 competitors can really help in figuring out marketing strategy, product development, payment structures, and pricing. Now to be clear - I’m not advocating for copying and pasting your competitor’s structures as your own and then underselling them by $1.
 
