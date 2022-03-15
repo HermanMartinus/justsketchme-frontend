@@ -38,8 +38,6 @@ As my fellow science teacher geeks can relate, we love a cheesy pun, so I fit ri
 
 I would say that my creativity comes through the most in the designs printed on every card we make - and the design possibilities are endless! Currently, we have over 150 designs available, and that number is constantly growing as I come up with new doodles, am inspired by new scenarios and settings, and have custom requests from clients. Being green, printing on plantable paper, and being a part of a community of like-minded creators are huge bonuses, helping provide validity to every design choice I make. In terms of sourcing our supplies - from paper to envelopes, sleeves, stickers, packaging, etc. - it has definitely taken some work to ensure the product we are sourcing aligns with our promises: to be 100% Canadian-sourced and produce zero waste. I wouldn’t say though that this poses any particular constraints on creativity, in fact, I’ve experienced the opposite - it has been such a valuable experience understanding where these different supplies come from, learning how they are produced, and building personal connections with conscious Canadian suppliers.
 
-![Sowsweet 4](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/11ab0da9-8fad-47b5-216a-f70639f58a00/optimised)
-
 ### Can you run me through your process of taking a piece from concept to completion?
 
 The creative process for me is always triggered by one of three things: something pops into my brain in a random location (honestly, I draw a lot of inspo from grocery store visits and being outside), someone makes a joke that I find a way to twist into a greeting card illustration, or someone requests a particular theme or design for a particular purpose or event. Regardless of which of the three it is - I write it down (I have puns written all over the place, in my phone, in my agenda, on sticky notes covering my desk, etc.).
@@ -66,8 +64,6 @@ I sometimes joke about being “art rich” one day, where I can afford to buy a
 
 SowSweet Greetings was a result of me discovering a way to monetise my cheesy jokes and doodles - I don’t know that I would have had the same success had I been to simply offer my designs as prints or digital art.
 
-![Sowsweet 6](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/de86da76-3a1c-4729-fee4-8e062eedb100/optimised)
-
 ### When you feel overwhelmed, discouraged, or burnt out, what do you do to push through and get things done?
 
 As per my extreme extrovert personality mentioned above, I tap into my social networks of friends and family. I find that spending time with others instantly helps me recharge my battery when I’m feeling any of these ways. Creating lists is also a big thing for me - I struggle a lot with focusing on one task at a time (my business partner can tell you all about this), and I can make myself dizzy sometimes by bouncing back and forth perpetually between half-completed to-do items.
@@ -84,6 +80,8 @@ I’ve always had a difficult time figuring out what to charge people for my cre
 
 I supposed my answer to this question then would be - money is more the means to continue to create than the end goal of creating, in my opinion.
 
+![Sowsweet 3](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/7163e016-c5c0-48a2-cde9-f5268e04f100/optimised)
+
 ### What was your first creative assignment where payment was involved?
 
 I was asked by a friend a few years back if I could create a stylized rendition of a photo of her and her husband on their wedding day as a gift for their one year anniversary. Without making any promises, I promised I would try and if she hated it, she would obviously not owe me any money and was free to seek out another artist.
@@ -93,6 +91,8 @@ She had done some research into artists who were offering similar services and w
 ### Do you think there is ever a good reason to work for free?
 
 There are a few reasons that I would personally work for free: building an initial portfolio, participating in an exchange of goods (is this considered free though?), or an opportunity for unprecedented media exposure. Otherwise no - your time employing a skill that is unique to you that others are seeking to capitalise on (whether for personal gain or business initiatives) is valuable and deserves to be monetized.
+
+![Sowsweet 8](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/581b5cbb-0822-437e-a29c-3296632a4900/optimised)
 
 ### What would you say are some good resources for figuring out payment structures and pricing?
 
@@ -107,6 +107,8 @@ The creative community is real and everyone in it has a better chance of being a
 Stay organised. As creative brains can relate, this is one of the most difficult things to do when your mind is constantly seeking out new territory and being flooded with fun ideas to implement. Having an organised digital and physical space is game-changing in ensuring the momentum of your business is maintained. Having systems in place - whatever works for you (in our case it’s a lot of Google Sheets and a Trello account) will help you stay on track, keep your to-do lists up to date, and makes future planning so much more doable!
 
 In this same vein, tracking key metrics from a sales and marketing standpoint is also super critical in ensuring that you are not only moving forwards but moving forwards in the RIGHT DIRECTION. Maintaining organisation and staying on top of metrics is a constant work in progress for me.
+
+![Sowsweet 6](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/de86da76-3a1c-4729-fee4-8e062eedb100/optimised)
 
 ### Are there any skills you’re trying to learn at the moment? What is your process of learning new techniques?
 
