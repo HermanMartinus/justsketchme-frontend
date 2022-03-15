@@ -1,7 +1,7 @@
 ---
 title: An interview with SowSweet Greetings' Nicole Teschl
 date: 2022-03-14 22:00:00 +0000
-permalink: sowsweet-nicole-teschi-interview
+permalink: sowsweet-nicole-teschl-interview
 description: Plant puns and the good kinds of seedy dealings
 image: https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/0ced3718-c659-480b-e005-72990105c600/optimised
 icon: https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/0ced3718-c659-480b-e005-72990105c600/optimised
