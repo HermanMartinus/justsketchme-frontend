@@ -1,5 +1,5 @@
 ---
-title: An interview with SowSweet Greetings' Nicole Teschi
+title: An interview with SowSweet Greetings' Nicole Teschl
 date: 2022-03-14 22:00:00 +0000
 permalink: sowsweet-nicole-teschi-interview
 description: Plant puns and the good kinds of seedy dealings
@@ -8,9 +8,9 @@ icon: https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/0ced3718-c659-480b-e005-7
 author: Dante Ludolf
 
 ---
-![Sowsweet 2](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/7d4c71ea-0b2a-481e-18e9-9af413b72f00/optimised)
+![](/uploads/an-interview-with-sowsweet-designs-nicole-teschi.png)
 
-Nicole and her adorable company, [SowSweet Greetings](https://sowsweetgreetings.ca/), is living testimony that with enough gusto, passion and planning even something as simple as a plant pun that would send your dad into a tailspin is enough to make something truly special. 
+Nicole and her adorable company, [SowSweet Greetings](https://sowsweetgreetings.ca/), is living testimony that with enough gusto, passion and planning even something as simple as a plant pun that would send your dad into a tailspin is enough to make something truly special.
 
 ### Thank you for having a chat with us. Can you tell us a bit about yourself and your artistic journey?
 
