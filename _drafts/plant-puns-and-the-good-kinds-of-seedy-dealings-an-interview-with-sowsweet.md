@@ -3,11 +3,13 @@ title: An interview with SowSweet Greetings' Nicole Teschi
 date: 2022-03-14 22:00:00 +0000
 permalink: sowsweet-nicole-teschi-interview
 description: Plant puns and the good kinds of seedy dealings
-image: ''
-icon: ''
+image: https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/0ced3718-c659-480b-e005-72990105c600/optimised
+icon: https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/0ced3718-c659-480b-e005-72990105c600/optimised
 author: Dante Ludolf
 
 ---
+![Sowsweet 2](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/7d4c71ea-0b2a-481e-18e9-9af413b72f00/optimised)
+
 ### Thank you for having a chat with us. Can you tell us a bit about yourself and your artistic journey?
 
 My name is Nicole and I’m the self-proclaimed dad joke queen behind the plantable puns at SowSweet Greetings Inc., where we’ve made it our mission to put smiles on faces and flowers in the ground.
@@ -26,6 +28,8 @@ Flash forward to a year later and I was receiving my second declined application
 
 Cue teacher’s college! After two years of honing my organisational/public speaking/lesson-planning skills at OISE (University of Toronto) and I finally felt like I found where I belonged. I could create, talk science, and spend virtually all day with others! It was the perfect fit for my personality, an extrovert who loved to create (as you can imagine, marking was the bane of my existence). I decided that I would use education as my portal for creation - I was going to do my best to make science learning fun and accessible for all, via vibrant lesson plans, appealing visuals, and enthusiastic delivery - and I did! I had the opportunity to teach multiple science courses over my fairly interrupted teaching career and took any opportunity I could to squeeze in some great metaphors to make concepts more relatable for students (I continue to work as a substitute to this day).
 
+![Sowsweet 3](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/7163e016-c5c0-48a2-cde9-f5268e04f100/optimised)
+
 ### What was the seed (pun intended) that started you off on this journey?
 
 As my fellow science teacher geeks can relate, we love a cheesy pun, so I fit right into this community of word-players. My students would groan at the chemistry and biology puns I’d bury in tests and quizzes (I think they secretly loved it). I used to riff with my classmates and friends who enjoyed a good dad joke, sometimes doodling little cartoon drawings to match. It got to a point where I had built up a bit of a collection of these illustrated dad jokes, some that felt too good to go unseen by the masses. Hence SowSweet Greetings Inc. was born. It began as simply a way of getting my puns out into the world in a way that helps, not harms, the environment, and brings opportunity for authentic human connection (getting outside of the digital space). I viewed it as a passion project, and nothing more - it wasn’t until I started to realise just how rare my product was that I began to consider the idea of trying to make it more than a side hustle. It turned out not as many people as I anticipated were familiar with plantable paper, and I knew that the opportunity to be the first one to make a splash in that particular space would be time-sensitive.
@@ -33,6 +37,8 @@ As my fellow science teacher geeks can relate, we love a cheesy pun, so I fit ri
 ### I’m guessing sustainability is a big part of why you do what you do. Do you find that trying to be as green as possible makes for interesting constraints on your creativity or is it still an uphill battle to make and create beautiful things that are easy on the environment?
 
 I would say that my creativity comes through the most in the designs printed on every card we make - and the design possibilities are endless! Currently, we have over 150 designs available, and that number is constantly growing as I come up with new doodles, am inspired by new scenarios and settings, and have custom requests from clients. Being green, printing on plantable paper, and being a part of a community of like-minded creators are huge bonuses, helping provide validity to every design choice I make. In terms of sourcing our supplies - from paper to envelopes, sleeves, stickers, packaging, etc. - it has definitely taken some work to ensure the product we are sourcing aligns with our promises: to be 100% Canadian-sourced and produce zero waste. I wouldn’t say though that this poses any particular constraints on creativity, in fact, I’ve experienced the opposite - it has been such a valuable experience understanding where these different supplies come from, learning how they are produced, and building personal connections with conscious Canadian suppliers.
+
+![Sowsweet 4](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/11ab0da9-8fad-47b5-216a-f70639f58a00/optimised)
 
 ### Can you run me through your process of taking a piece from concept to completion?
 
@@ -42,11 +48,15 @@ Depending on the concept, it can take me anywhere between 10 minutes to 1 hour t
 
 The printer is a little mobile HP printer that I feed my 8x5” pieces of wildflower seed paper into, fold the card once it’s printed, pair it with a recycled Kraft envelope, pop it in a compostable sleeve, stick a compostable label on it, and off it goes to make someone’s day a little brighter!
 
+![Sowsweet 7](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/2352e494-06cc-483b-c751-e6a378a47a00/optimised)
+
 ### Do you have any tips and tricks you use in your creative process?
 
 As previously stated, constantly asking for feedback! Especially as I am creating a product for others to find value in, I like to get some input on my designs before sending them to print. It’s not always easy to hear people critique your work, but it’s incredibly valuable! Taking feedback constructively with an open mind is something I am always actively working on.
 
 One more thing I would mention is - though inspiration can hit at any moment - I find that my most productive creative sessions are carved out in an intentional way in terms of time and space. If I have drawing to do I will make sure to block off a chunk of time, put on some good music, hydrate, and remove distractions. I personally find that setting the stage for the magic to happen is super important!
+
+![Sowsweet 5](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/0b81f4a3-e415-41d0-4743-79d55be84900/optimised)
 
 ### How would you suggest artists go about monetising their work? A lot of young creatives seem to have a hard time finding ways to make money from their gifts, what helped you realise that you could?
 
@@ -55,6 +65,8 @@ This is a great question. I think that it varies widely across art forms. For vi
 I sometimes joke about being “art rich” one day, where I can afford to buy a giant painting that I can’t live without from a gallery to display in the foyer of my future home. I’m not quite there yet, so in the meantime, if you can offer me that same design that I’ve fallen in love with on a t-shirt or a postcard for a fraction of the cost, I’m buying it. My artwork is currently on greeting cards only - but one day soon I hope to be able to branch out into other merchandise such as t-shirts, toques, stickers, etc. The beauty of this strategy is it’s so easily scalable - you take your top popular designs and just pop them onto different mediums.
 
 SowSweet Greetings was a result of me discovering a way to monetise my cheesy jokes and doodles - I don’t know that I would have had the same success had I been to simply offer my designs as prints or digital art.
+
+![Sowsweet 6](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/de86da76-3a1c-4729-fee4-8e062eedb100/optimised)
 
 ### When you feel overwhelmed, discouraged, or burnt out, what do you do to push through and get things done?
 
