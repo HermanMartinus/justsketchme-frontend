@@ -2,6 +2,7 @@
   min-height: 100vh;
   display: flex;
   align-items: center;
+  padding: 0;
 
   .container {
     display: flex;
@@ -20,7 +21,7 @@
 
       .title {
         font-family: $title-font;
-        font-size: 4em;
+        font-size: 3em;
         font-weight: 700;
         text-align: center;
         line-height: 1;
@@ -52,7 +53,7 @@
     .graphic-container {
       width: 100%;
       @media #{$desktop} {
-        max-width: 50vw;
+        max-width: 450px;
       }
 
       .screenshot {
@@ -93,7 +94,7 @@
             }
             animation-delay: 2s;
             @media #{$desktop} {
-              transform: scale(2.5) translateX(4%);
+              transform: scale(2.5) translateX(3%);
             }
           }
           &.fore {
