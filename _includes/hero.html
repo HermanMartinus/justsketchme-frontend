@@ -1,6 +1,6 @@
 <section class="hero">
     <div class="container">
-        <div class="left-column">
+        <div class="intro-text">
             <h1 class="title">
                 Breathe life into your art.
             </h1>
@@ -31,21 +31,20 @@
                 </a>
             </div>
         </div>
-        <div class="right-column">
+        <div class="graphic-container">
             <div class="screenshot">
                 <div class="toolbar">
                     <span></span><span></span><span></span>
                 </div>
-                <img src="/images/heros/girl1_wide.png" alt="App image" class="sam back" />
-                <img src="/images/heros/girl2_wide.png" alt="App image" class="sam mid" />
-                <img src="/images/heros/girl3_wide.png" alt="App image" class="sam fore" />
+                <img src="/images/heros/test1.png" alt="App image" class="sam back" />
+                <img src="/images/heros/test2.png" alt="App image" class="sam mid" />
+                <img src="/images/heros/test3.png" alt="App image" class="sam fore" />
             </div>
         </div>
     </div>
 </section>
 
 <section class="second-hero">
-
     <div class="carousel">
         <input type="radio" name="position" />
         <input type="radio" name="position" />
@@ -104,11 +103,6 @@
 </section>
 
 <script>
-document.querySelectorAll(".sam").forEach((element, i) => {
-    const timeout = (i+1)*1000;
-    setTimeout(() => element.classList.add('show'), timeout);
-});
-
 var activeIndex = 9
 var activeRangeEitherSide = 2
 function slideLeft() {
