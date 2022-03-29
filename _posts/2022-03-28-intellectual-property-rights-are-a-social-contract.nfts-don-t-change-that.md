@@ -4,11 +4,13 @@ date: 2022-03-28 22:00:00 +0000
 permalink: nfts-
 description: JustSketchMe founder Herman Martinus gives his thoughts on those non-fungible
   tokens.
-image: ''
-icon: ''
+image: https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/f28da0f2-4f9d-4704-2fd7-386c86040100/optimised
+icon: https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/f28da0f2-4f9d-4704-2fd7-386c86040100/icon
 author: 'Herman Martinus '
 
 ---
+![herman nft](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/f28da0f2-4f9d-4704-2fd7-386c86040100/optimised)
+
 There's a lot of confusion in the cryptosphere around intellectual property rights. This is mainly centred around NFTs being rampant with "art theft" in the form of "minting" other people's artwork and selling them as NFTs.
 
 However, I'm interested in clarifying something else:
