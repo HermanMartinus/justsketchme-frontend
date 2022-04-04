@@ -1,10 +1,11 @@
 ---
 title: UwU **How to get noticed by publisher senpai** UwU
 date: 2022-04-04 22:00:00 +0000
-description: ''
-image: ''
-icon: ''
-author: ''
+permalink: how-to-attract-comic-publishers
+description: Let's get you published!
+image: https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/b38be620-6e07-47ba-010a-9340f7e3b900/optimised
+icon: https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/b38be620-6e07-47ba-010a-9340f7e3b900/icon
+author: Dante Ludolf
 
 ---
 
