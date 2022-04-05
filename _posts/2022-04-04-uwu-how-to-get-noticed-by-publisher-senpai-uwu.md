@@ -22,40 +22,6 @@ Previously we’ve broken down a few steps you can take in order to get your wor
 
 AKA Notice me, publisher senpai!!! 
 
-く__,.ヘヽ.　　　　/　,ー､ 〉
-
-　　　　　＼ ', !-─‐-i　/　/´
-
-　　　 　 ／｀ｰ'　　　 L/／｀ヽ､
-
-　　 　 /　 ／,　 /|　 ,　 ,　　　 ',
-
-　　　ｲ 　/ /-‐/　ｉ　L_ ﾊ ヽ!　 i
-
-　　　 ﾚ ﾍ 7ｲ｀ﾄ　 ﾚ'ｧ-ﾄ､!ハ|　 |
-
-　　　　 !,/7 '0'　　 ´0iソ| 　      |　　　
-
-　　　　 |.从"　　_　　 ,,,, / |./ 　 |
-
-　　　　 ﾚ'| i＞.､,,__　_,.イ / 　.i 　|
-
-　　　　　 ﾚ'| | / k_７_/ﾚ'ヽ,　ﾊ.　|
-
-　　　　　　 | |/i 〈|/　 i　,.ﾍ |　i　|
-
-　　　　　　.|/ /　ｉ： 　 ﾍ!　　＼　|
-
-　　　 　 　 kヽ>､ﾊ 　 _,.ﾍ､ 　 /､!
-
-　　　　　　 !'〈//｀Ｔ´', ＼ ｀'7'ｰr'
-
-　　　　　　 ﾚ'ヽL__|___i,___,ンﾚ|ノ
-
-　　　　　 　　　ﾄ-,/　|___./
-
-　　　　　 　　　'ｰ'　　!_,.:
-
 ![how to get published 5](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/c3150ec6-925c-4461-3657-8529228da700/optimised)
 
 ## PITCHING
