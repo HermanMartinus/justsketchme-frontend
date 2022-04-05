@@ -20,6 +20,42 @@ Yes, but it is definitely also miraculous.
 
 Previously we’ve broken down a few steps you can take in order to get your work published and out there on your own terms but today let us look into getting discovered by some major publishers and how you can catch the attention of the big leagues.
 
+AKA Notice me, publisher senpai!!! 
+
+く__,.ヘヽ.　　　　/　,ー､ 〉
+
+　　　　　＼ ', !-─‐-i　/　/´
+
+　　　 　 ／｀ｰ'　　　 L/／｀ヽ､
+
+　　 　 /　 ／,　 /|　 ,　 ,　　　 ',
+
+　　　ｲ 　/ /-‐/　ｉ　L_ ﾊ ヽ!　 i
+
+　　　 ﾚ ﾍ 7ｲ｀ﾄ　 ﾚ'ｧ-ﾄ､!ハ|　 |
+
+　　　　 !,/7 '0'　　 ´0iソ| 　      |　　　
+
+　　　　 |.从"　　_　　 ,,,, / |./ 　 |
+
+　　　　 ﾚ'| i＞.､,,__　_,.イ / 　.i 　|
+
+　　　　　 ﾚ'| | / k_７_/ﾚ'ヽ,　ﾊ.　|
+
+　　　　　　 | |/i 〈|/　 i　,.ﾍ |　i　|
+
+　　　　　　.|/ /　ｉ： 　 ﾍ!　　＼　|
+
+　　　 　 　 kヽ>､ﾊ 　 _,.ﾍ､ 　 /､!
+
+　　　　　　 !'〈//｀Ｔ´', ＼ ｀'7'ｰr'
+
+　　　　　　 ﾚ'ヽL__|___i,___,ンﾚ|ノ
+
+　　　　　 　　　ﾄ-,/　|___./
+
+　　　　　 　　　'ｰ'　　!_,.:
+
 ![how to get published 5](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/c3150ec6-925c-4461-3657-8529228da700/optimised)
 
 ## PITCHING
@@ -68,6 +104,6 @@ Try getting into smaller pubs, lists, newsletters etc
 
 Look, we’d all love to get our big break right off the bat with a huge deal at DC or Marvel, but sometimes starting out super small is a kindness and not at all a cruelty.
 
-Guerilla publications and small, indie projects of manageable scope is an amazing way to cut your teeth in the industry and learn the ropes. These kinds of projects are also usually bursting with creativity and specificity and allow for a lot of freedom, something that bigger publishers will not.
+Guerilla publications and small, indie projects of manageable scope are an amazing way to cut your teeth in the industry and learn the ropes. These kinds of projects are also usually bursting with creativity and specificity and allow for a lot of freedom, something that bigger publishers will not.
 
 So have a go at it and have fun doing things on a more intimate scale. Think of it as really wild and out there training wheels for you to practice on.
