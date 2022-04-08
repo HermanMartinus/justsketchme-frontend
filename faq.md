@@ -72,7 +72,7 @@ We're trying our best to make JustSketchMe available to everyone.
 
 ## Educational institutions
 
-We love working with educators and teachers. Send an email to <a href="mailto:dante@justsketch.me">dante@justsketch.me</a> with your course and class details and we'll get back to you with a free educator license if you qualify. 
+We love working with educators and teachers. Send an email to <a href="mailto:dante@justsketch.me">dante@justsketch.me</a> with your **institution**, **course** and **class details** and we'll get back to you with a free educator license if you qualify. 
 
 ---
 
