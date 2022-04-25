@@ -45,61 +45,14 @@
 </section>
 
 <section class="second-hero">
-    <div class="carousel">
-        <input type="radio" name="position" />
-        <input type="radio" name="position" />
-        <input type="radio" name="position" />
-        <input type="radio" name="position" />
-        <input type="radio" name="position" />
-        <input type="radio" name="position" />
-        <input type="radio" name="position" />
-        <input type="radio" name="position" />
-        <input type="radio" name="position" />
-        <input type="radio" name="position" checked />
-        <input type="radio" name="position" />
-        <input type="radio" name="position" />
-        <input type="radio" name="position" />
-        <input type="radio" name="position" />
-        <input type="radio" name="position" />
-        <input type="radio" name="position" />
-        <input type="radio" name="position" />
-        <input type="radio" name="position" />
-        <input type="radio" name="position" />
-        <input type="radio" name="position" />
-        <input type="radio" name="position" />
-        <input type="radio" name="position" />
-        <input type="radio" name="position" />
-        <input type="radio" name="position" />
-        <input type="radio" name="position" />
-        <input type="radio" name="position" />
-        <input type="radio" name="position" />
-        <main class="images">
-            {% for feature in site.data.features %}
-            <div class="item">
-                <img
-                    src="{{ feature.image}}"
-                    alt="{{ feature.title }}"
-                />
-            </div>
-            {% endfor %}
-            {% for feature in site.data.features %}
-            <div class="item">
-                <img
-                    src="{{ feature.image}}"
-                    alt="{{ feature.title }}"
-                />
-            </div>
-            {% endfor %}
-            {% for feature in site.data.features %}
-            <div class="item">
-                <img
-                    src="{{ feature.image}}"
-                    alt="{{ feature.title }}"
-                />
-            </div>
-            {% endfor %}
-        </main>
+    {% for feature in site.data.features %}
+    <div class="item">
+        <img
+            src="{{ feature.image}}"
+            alt="{{ feature.title }}"
+        />
     </div>
+    {% endfor %}
 </section>
 
 <script>
