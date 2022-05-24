@@ -1,10 +1,10 @@
 ---
-title: 'Stock Market: An interview with Jenny from Jookpubstock'
+title: 'Stock Market: An interview with Jookpubstock'
 date: 2022-05-23 22:00:00 +0000
 permalink: jookpubstock-interview-jenny
 description: Jenny talks to us about what it takes to strike a pose.
-image: ''
-icon: ''
+image: " https://i.imgur.com/kBSw5ID.png"
+icon: https://i.imgur.com/kBSw5ID.png
 author: Dante Ludolf
 
 ---
