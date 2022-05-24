@@ -11,9 +11,9 @@ author: Dante Ludolf
 ### Tell us a bit about yourself and your background.
 
   
-I am a Japanese manga artist. My mother was an animator, so at first I wanted to be an animator.  
+I am a Japanese manga artist. My mother was an animator, so at first, I wanted to be an animator.  
 But more than that, I wanted to have my own characters drawn, so I decided to become a manga artist.  
-I went to bring my work to a publisher and my drawings were immediately accepted, but I was not good at creating stories, so at first I could not make my debut.  
+I went to bring my work to a publisher and my drawings were immediately accepted, but I was not good at creating stories, so at first, I could not make my debut.  
 However, I developed my ability to draw manga while working as an assistant, and after my debut,
 
 I continued to study scenario creation and finally became able to create the kind of work I wanted in the last few years.
@@ -30,7 +30,7 @@ You will also find a balance between the importance of painting what others want
 ### What are your main inspirations and who are some artists you look up to?
 
 My mother. She is the most wonderful person who taught me a life of eating through art. I still ask her for advice on drawing.  
-Also, my mentor as a manga artist is Ms. Aya Kanno.  
+Also, my mentor as a manga artist is Ms Aya Kanno.  
 She is the artist I helped as an assistant the longest. I learned a lot about what is required of a manga artist as a professional.  
 Her work "Funeral Row of the Rose King" is also an animated work.
 
@@ -40,7 +40,7 @@ Her work "Funeral Row of the Rose King" is also an animated work.
 In my case, I have had the aforementioned two artists I admire as mentors.  
 They got to know me, praised me for the good parts and pointed out the areas where I was lacking.  
 What I did was to be patient and keep drawing until I overcame those shortcomings.  
-I enjoyed my growth, just like leveling up in video games.
+I enjoyed my growth, just like levelling up in video games.
 
 ### What would you tell your 18-year-old self about your career path and lessons?
 
