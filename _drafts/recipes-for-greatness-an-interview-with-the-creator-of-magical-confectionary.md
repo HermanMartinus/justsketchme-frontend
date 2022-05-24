@@ -3,8 +3,8 @@ title: 'Recipes for Greatness: An interview with the creator of Magical Confecti
 date: 2022-05-24 22:00:00 +0000
 permalink: madolci-rohan-kaine-interview
 description: ''
-image: ''
-icon: ''
+image: blob:https://imgur.com/c69ad046-a416-4f1c-8169-772e6344a88a
+icon: blob:https://imgur.com/c69ad046-a416-4f1c-8169-772e6344a88a
 author: Dante Ludolf
 
 ---
