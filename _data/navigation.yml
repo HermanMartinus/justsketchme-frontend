@@ -1,17 +1,17 @@
 - name: Learn
-  link: /learn/
+  link: /learn
   new_window: false
   highlight: true
 - name: Gallery
-  link: /gallery/
+  link: /gallery
   new_window: false
   highlight: false
 - name: Pricing
-  link: /pricing/
+  link: /pricing
   new_window: false
   highlight: false
 - name: FAQ
-  link: /faq/
+  link: /faq
   new_window: false
   highlight: false
 
