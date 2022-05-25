@@ -1,7 +1,8 @@
 ---
 title: On running a blogging platform
 date: 2022-05-25 22:00:00 +0000
-description: ''
+permalink: micbrologging-platforms-herman-martinus
+description: 'Our co-founder and director dishes on microblogging, warts and all. '
 image: ''
 icon: ''
 author: Herman Martinus
