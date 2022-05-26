@@ -1,10 +1,10 @@
 ---
 title: On running a blogging platform
-date: 2022-05-24 22:00:00 +0000
+date: 2022-05-24T22:00:00.000+00:00
 permalink: micbrologging-platforms-herman-martinus
 description: 'Our co-founder and director dishes on microblogging, warts and all. '
-image: blob:https://imgur.com/788e92ad-507f-45a0-b857-16039ecb6bbd
-icon: blob:https://imgur.com/788e92ad-507f-45a0-b857-16039ecb6bbd
+image: "/uploads/social-media.png"
+icon: "/uploads/social-media-icon.png"
 author: Herman Martinus
 
 ---
