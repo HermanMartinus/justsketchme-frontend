@@ -4,7 +4,7 @@ date: 2021-11-02 22:00:00 +0000
 permalink: how-to-make-your-instagram-aesthetic
 description: Let's get those IG's popping!
 image: "/uploads/aeshetic-feed-cover.png"
-icon: "https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/1c629e97-089b-4827-a366-5e743da36700/icon"
+icon: "uploads/cf_gtpxpkktze.png"
 author: Dante Ludolf
 
 ---
@@ -18,7 +18,7 @@ Hey. It happens to the best of us.
 
 In the spirit of collaboration and lending a helping hand, we thought we’d share some tips that help us keep our Instagram page nice and visually pleasing, and maybe they could help you too.
 
-![Colour palette selection](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/1c629e97-089b-4827-a366-5e743da36700/optimised)
+![Colour palette selection](uploads/cf_gyvpatmvra.png)
 
 # Restrict those colours:
 
@@ -36,7 +36,7 @@ Think snapchat leading instagram stories, tik tok leading to reels.
 
 Use these to your advantage, as early adoption not only makes you seem ahead of the curve but also gives you access to the reach boosts that usually accompany these kinds of feature launches.
 
-![social media research](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/5a4e8520-102d-46a3-2e45-6367d395cb00/optimised)
+![social media research](uploads/cf_apmvsycssh.png)
 
 # Look at what others are doing:
 
@@ -46,7 +46,7 @@ Go and have a look at some pages you admire and love to look at yourself, and se
 
 Follow suit and try to adopt the mindset of someone who you’d like to engage with you and your page, and what they might like to see.
 
-![process work illustrations](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/4ae5f0eb-403c-42d5-c2fe-3a5a34884f00/optimised)
+![process work illustrations](uploads/cf_bqeanpppeo.png)
 
 # Post the process:
 
@@ -54,7 +54,7 @@ This is a bit of a subjective one, but process work is often quite beautiful and
 
 It just works!
 
-![close up illustrations moebius](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/2b21d9a8-8b21-491e-b5c0-bcd6b1062000/optimised)
+![close up illustrations moebius](uploads/cf_yaizmaqsds.png)
 
 # Close-ups are your friend:
 

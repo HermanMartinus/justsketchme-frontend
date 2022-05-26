@@ -3,12 +3,12 @@ title: How to not totally suck at new year’s resolutions
 date: 2022-01-04 22:00:00 +0000
 permalink: how-to-set-healthy-creative-resolutions
 description: Are we human or we goalbot.exe
-image: https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/bd74cb67-514a-4ceb-ede1-ba8ce285fd00/optimised
-icon: https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/bd74cb67-514a-4ceb-ede1-ba8ce285fd00/icon
+image: uploads/cf_dfrliuhdsw.png
+icon: uploads/cf_wxekwamcec.png
 author: Dante Ludolf
 
 ---
-![beat em up inspirational quotes  1](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/bd74cb67-514a-4ceb-ede1-ba8ce285fd00/optimised)
+![beat em up inspirational quotes  1](uploads/cf_dfrliuhdsw.png)
 
 \*I made cute little inspirational quote cards out of beat 'em up fight announcements and video game death screens and I hope you enjoy them as much as I do.
 
@@ -20,7 +20,7 @@ But committing to a life of seemingly stern dedication and discipline is a reall
 
 Enter, the resolution.
 
-![beat em up inspirational quotes  2](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/be4c0f2a-e73b-46d8-cdc1-9c8c50c38c00/optimised)
+![beat em up inspirational quotes  2](uploads/cf_pfaydeaupc.png)
 
 More of an item on the identity inventory than a crack at Nirvana, we set ourselves little tasks and goals to hone our self-improvement and give us something to work toward.
 
@@ -28,11 +28,11 @@ No? No. That would be great. Instead we just kind of… start self-flagellating 
 
 Just me? Okay.
 
-![beat em up inspirational quotes  4](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/b1309d35-bb9d-4c26-2998-7f54ea939200/optimised)
+![beat em up inspirational quotes  4](uploads/cf_qssdbncuus.png)
 
 Anyway, as one of the aforementioned humans that have decided to chance a few stabs at self-improvement, I was thinking that we should really try to reassess our relationship with resolutions and make them work for us, not the other way around.
 
-![beat em up inspirational quotes  3](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/9a538a69-ba17-4a9d-bcc8-b9d33e1c1800/optimised)
+![beat em up inspirational quotes  3](uploads/cf_gsmwyjrwbw.png)
 
 ## Break it down before _you_ break down
 
@@ -44,7 +44,7 @@ What does that mean, though? What aspect of art would you like to get better at?
 
 ‘Getting better at art’ is not only daunting, it’s nebulous. Try to section that pursuit into different pieces so you can set up different stretch goals that give you smaller senses of achievement along the way rather than a super hard to reach end goal.
 
-![beat em up inspirational quotes  5](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/0e576607-8a0f-47ef-8d0f-aa14f0233700/optimised)
+![beat em up inspirational quotes  5](uploads/cf_lszaywzhuy.png)
 
 ## To share or not to share
 
@@ -58,7 +58,7 @@ I think we know what the best option would be if your imaginary deductions trend
 
 I personally can think of nothing worse than uploading a new artwork and someone chiming in to remind me that they don’t see any progress made in terms of my ‘become a master at composition’ goals.
 
-![beat em up inspirational quotes  6](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/a64f2579-7a11-4d31-f672-a28911848e00/optimised)
+![beat em up inspirational quotes  6](uploads/cf_tluhibyahk.png)
 
 ## Slip up, not down
 
@@ -68,7 +68,7 @@ However, if you do find yourself unable to consistently stick to that schedule, 
 
 Be kind to yourself. Remember, if resolutions weren’t so terribly severe and morally terrifying we’d probably have a much better time trying to achieve them! Cut yourself the same slack you would others and you’re probably good to go ;)
 
-![beat em up inspirational quotes  7](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/5c31266c-f23f-435d-ad23-1422609d8600/optimised)
+![beat em up inspirational quotes  7](uploads/cf_wljgrpjozd.png)
 
 ## Remove from cart, checkout when ready
 

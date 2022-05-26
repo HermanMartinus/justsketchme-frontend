@@ -3,12 +3,12 @@ title: Creating complex scenes with JustSketchMe
 date: 2021-12-13 22:00:00 +0000
 permalink: create-complex-scenes-for-drawing
 description: Yeah, posing is great but have you ever made entire worlds?
-image: https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/775ba57c-c4fc-44f6-79ba-e78cc8487e00/optimised
-icon: https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/775ba57c-c4fc-44f6-79ba-e78cc8487e00/optimised
+image: uploads/cf_yeisfkxhcy.png
+icon: uploads/cf_yeisfkxhcy.png
 author: Dante Ludolf
 
 ---
-![complex scenes 5](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/775ba57c-c4fc-44f6-79ba-e78cc8487e00/optimised)
+![complex scenes 5](uploads/cf_yeisfkxhcy.png)
 
 We’ve spoken before about how the save scene function is a lifesaver when you’re knee-deep in creating cool stuff with JustSketchMe, and we stand by it.
 
@@ -20,7 +20,7 @@ If you’re using JustSketchMe Pro, you must’ve stumbled across our new prop l
 
 Let’s dive into what makes this feature extra special and what it could mean for you and your workflow:
 
-![complex scenes 4](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/8b28c90f-a764-4bde-706c-2321d5c77300/optimised)
+![complex scenes 4](uploads/cf_xokrcgoijy.png)
 
 ## Fan art
 
@@ -42,7 +42,7 @@ Here are some sites that we love and use regularly for our own work:
 
 [https://free3d.com/3d-models/obj](https://www.cgtrader.com/ "https://www.cgtrader.com/")
 
-![complex scenes 1](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/399f5fba-f8dc-4d81-2eb1-02f607fd0e00/optimised)
+![complex scenes 1](uploads/cf_gpzxjjzoqo.png)
 
 ## Panels
 
@@ -54,11 +54,11 @@ With JustSketchMe however, you can do so while having a LOT of room for error.
 
 Here’s how. Open up the app and start dropping in elements that will appear in your scene. Move them around and get them exactly how you imagined, posing your characters as well to ensure you know what needs to go down and how you can go about interpreting it through angles and dynamism.
 
-![complex scenes 3](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/ef11b9f0-0a79-4667-b086-cd5838824a00/optimised)
+![complex scenes 3](uploads/cf_ebnftksvlo.png)
 
 Then, when the stage is set, pan and zoom the camera accordingly and try to visualise how it might look when drawn or sketched out. Then, when you’ve found a good way to look at the scenario you’re trying to depict, lock the camera and move some of the models or props around within that frame to maximise your reference and get your desired point across.
 
-![complex scenes 2](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/2de2a846-3ec7-4b8f-5390-be49aac5a200/optimised)
+![complex scenes 2](uploads/cf_jfuxqueswu.png)
 
 ## Environment & background design
 

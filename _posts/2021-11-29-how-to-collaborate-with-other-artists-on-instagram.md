@@ -3,12 +3,12 @@ title: How to collaborate with other artists on Instagram
 date: 2021-11-29 22:00:00 +0000
 permalink: how-to-collaborate-with-other-artists
 description: 'Let''s link and build, my good dude. '
-image: "https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/0868f35f-14d1-45b9-724e-99ea04d2f500/optimised"
-icon: "https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/0868f35f-14d1-45b9-724e-99ea04d2f500/icon"
+image: "uploads/cf_qpchazbznx.png"
+icon: "uploads/cf_yvtchmyjtu.png"
 author: Dante Ludolf
 
 ---
-![justsketchme collab 1](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/0868f35f-14d1-45b9-724e-99ea04d2f500/optimised)
+![justsketchme collab 1](uploads/cf_qpchazbznx.png)
 
 Collaboration and community are some of the (only) great things about social media and it seems we forgot this somewhere along our never-ending scrolls through the wormhole of content available to us.
 
@@ -18,7 +18,7 @@ We should all take a few leaves out of their books and apply this kind of thinki
 
 So let’s take a look at how we can do just that.
 
-![justsketchme collab 2](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/a3c99ac0-8309-4c81-b996-7d6202a14c00/optimised)
+![justsketchme collab 2](uploads/cf_ifkybgsnfh.png)
 
 ## Step 1:
 
@@ -32,7 +32,7 @@ It’s also helpful at this stage to identify people with similar followings to 
 
 When the time is right, slide into their DM’s and come from a place of appreciation and intention, and see how you could help each other out.
 
-![justsketchme collab 3](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/2d950c3e-2b7f-4b6e-044f-7a6f6c26db00/optimised)
+![justsketchme collab 3](uploads/cf_dtigjseyin.png)
 
 ## Step 2:
 
@@ -53,7 +53,7 @@ There are so many ways you could go about creating content together, but in term
 
 The entire exercise is about sharing the love, right? Why not let others in on your paid content and extend the favour by letting them ride along on your promos. This shows that you care beyond a simple metric exchange and that you’re invested in the community you find yourself in. There’s so much jealousy and comparison taking place all of the time, why don’t we try being a little more inclusive with our achievements and create some space for one another at the table. Okay TEDtalk done, thanks for coming.
 
-![justsketchme collab 4](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/49ccdf83-a739-47a6-b422-3b343f497500/optimised)
+![justsketchme collab 4](uploads/cf_fkrovalxau.png)
 
 ## Step 3:
 
@@ -65,4 +65,4 @@ The same thinking applies to after the collab is done. Stay in touch, chat with 
 
 Hope this helps, and as always, if you want to collaborate with us drop me a mail at [dante@justsketch.me](mailto:dante@justsketch.me). Happy drawing!
 
-![justsketchme collab 5](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/8af6d0a0-ced0-40e7-cff9-4912ae5a9800/optimised)
+![justsketchme collab 5](uploads/cf_twkjujclgp.png)

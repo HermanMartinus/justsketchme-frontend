@@ -3,8 +3,8 @@ title: 'How to sell your illustrations online '
 date: 2022-01-20 22:00:00 +0000
 permalink: how-to-sell-illustrations-online
 description: Make art, make coin.
-image: https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/5ebb13d9-5c71-4d03-b24b-97114fa07e00/optimised
-icon: https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/5ebb13d9-5c71-4d03-b24b-97114fa07e00/icon
+image: uploads/cf_tbtbwktlyq.png
+icon: uploads/cf_jrthyxeqck.png
 author: Dante Ludolf
 
 ---
@@ -18,13 +18,13 @@ Now, with the advent of online stores like Etsy, DeviantArt and countless others
 
 WRONG! It’s still a stressful and daunting endeavour, but if you want to keep drawing and doing what you love, you might as well try your hand at a few different ways to make some cash while you’re at it.
 
-![Making money as an artist 1](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/cd037185-b6c1-4108-4b92-58be93b43e00/optimised)
+![Making money as an artist 1](uploads/cf_yrdfgyvnta.png)
 
 I’m sure there are many ways to skin the proverbial cat in terms of getting your work out there, but quite frankly I think social media is unavoidable if you’re trying to gather an audience and, subsequently, a client base.
 
 Read up on how to manage and weather your relationship with social media as an artist [here](https://justsketch.me/how-to-collaborate-with-other-artists) and [here](https://justsketch.me/how-to-make-your-instagram-aesthetic) and do it at your own terms and pace, but just do it. It’ll bode well for you later down the line!
 
-![Making money as an artist 2](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/b9650834-9d34-4c2f-66b7-cdb145d5cb00/optimised)
+![Making money as an artist 2](uploads/cf_srjoyyrnzc.png)
 
 This is perhaps the most obvious, but also the most important.
 
@@ -42,7 +42,7 @@ As hard as it is, try to muffle the siren song of doubt and insecurity and put y
 
 Instead, focus on bringing the right people to your pages and forming a connection with them based on genuine interest.
 
-![Making money as an artist 3](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/643ebd26-199e-438e-edf9-5e3683e82600/optimised)
+![Making money as an artist 3](uploads/cf_txixpgsqoe.png)
 
 There are a wealth of online spaces where you can sell your creations.
 
@@ -62,7 +62,7 @@ Remember that while most of these marketplaces do offer to sell prints of your w
 
 Sites like Deviantart also double up as social media and I suggest creating a free brush pack on there as a marketing tool to bring people to your page. 
 
-![Making money as an artist 4](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/4d78052e-accb-4f85-4d8e-73ee95005600/optimised)
+![Making money as an artist 4](uploads/cf_fhuoiiqwdk.png)
 
 NFT’s are an absolute minefield right now, and we don’t really want to weigh in on something that is as hot-button as crypto. We will, however, say the following.
 

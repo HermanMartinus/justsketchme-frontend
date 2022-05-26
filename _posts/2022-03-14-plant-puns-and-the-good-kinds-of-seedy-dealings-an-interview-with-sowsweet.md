@@ -3,8 +3,8 @@ title: An interview with SowSweet Greetings' Nicole Teschl
 date: 2022-03-14 22:00:00 +0000
 permalink: sowsweet-nicole-teschl-interview
 description: Plant puns and the good kinds of seedy dealings
-image: https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/0ced3718-c659-480b-e005-72990105c600/optimised
-icon: https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/0ced3718-c659-480b-e005-72990105c600/optimised
+image: uploads/cf_apfhzmqvks.png
+icon: uploads/cf_apfhzmqvks.png
 author: Dante Ludolf
 
 ---
@@ -32,7 +32,7 @@ Flash forward to a year later and I was receiving my second declined application
 
 Cue teacher’s college! After two years of honing my organisational/public speaking/lesson-planning skills at OISE (University of Toronto) and I finally felt like I found where I belonged. I could create, talk science, and spend virtually all day with others! It was the perfect fit for my personality, an extrovert who loved to create (as you can imagine, marking was the bane of my existence). I decided that I would use education as my portal for creation - I was going to do my best to make science learning fun and accessible for all, via vibrant lesson plans, appealing visuals, and enthusiastic delivery - and I did! I had the opportunity to teach multiple science courses over my fairly interrupted teaching career and took any opportunity I could to squeeze in some great metaphors to make concepts more relatable for students (I continue to work as a substitute to this day).
 
-![Sowsweet 3](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/7163e016-c5c0-48a2-cde9-f5268e04f100/optimised)
+![Sowsweet 3](uploads/cf_fvbojzdxjc.png)
 
 ### What was the seed (pun intended) that started you off on this journey?
 
@@ -52,7 +52,7 @@ Depending on the concept, it can take me anywhere between 10 minutes to 1 hour t
 
 The printer is a little mobile HP printer that I feed my 8x5” pieces of wildflower seed paper into, fold the card once it’s printed, pair it with a recycled Kraft envelope, pop it in a compostable sleeve, stick a compostable label on it, and off it goes to make someone’s day a little brighter!
 
-![Sowsweet 7](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/2352e494-06cc-483b-c751-e6a378a47a00/optimised)
+![Sowsweet 7](uploads/cf_rsbbghsnbf.png)
 
 ### Do you have any tips and tricks you use in your creative process?
 
@@ -60,7 +60,7 @@ As previously stated, constantly asking for feedback! Especially as I am creatin
 
 One more thing I would mention is - though inspiration can hit at any moment - I find that my most productive creative sessions are carved out in an intentional way in terms of time and space. If I have drawing to do I will make sure to block off a chunk of time, put on some good music, hydrate, and remove distractions. I personally find that setting the stage for the magic to happen is super important!
 
-![Sowsweet 5](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/0b81f4a3-e415-41d0-4743-79d55be84900/optimised)
+![Sowsweet 5](uploads/cf_unwitjyicz.png)
 
 ### How would you suggest artists go about monetising their work? A lot of young creatives seem to have a hard time finding ways to make money from their gifts, what helped you realise that you could?
 
@@ -88,7 +88,7 @@ I’ve always had a difficult time figuring out what to charge people for my cre
 
 I supposed my answer to this question then would be - money is more the means to continue to create than the end goal of creating, in my opinion.
 
-![Sowsweet 3](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/7163e016-c5c0-48a2-cde9-f5268e04f100/optimised)
+![Sowsweet 3](uploads/cf_fvbojzdxjc.png)
 
 ### What was your first creative assignment where payment was involved?
 
@@ -100,7 +100,7 @@ She had done some research into artists who were offering similar services and w
 
 There are a few reasons that I would personally work for free: building an initial portfolio, participating in an exchange of goods (is this considered free though?), or an opportunity for unprecedented media exposure. Otherwise no - your time employing a skill that is unique to you that others are seeking to capitalise on (whether for personal gain or business initiatives) is valuable and deserves to be monetized.
 
-![Sowsweet 8](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/581b5cbb-0822-437e-a29c-3296632a4900/optimised)
+![Sowsweet 8](uploads/cf_asnfazuqcc.png)
 
 ### What would you say are some good resources for figuring out payment structures and pricing?
 
@@ -118,7 +118,7 @@ Stay organised. As creative brains can relate, this is one of the most difficult
 
 In this same vein, tracking key metrics from a sales and marketing standpoint is also super critical in ensuring that you are not only moving forwards but moving forwards in the RIGHT DIRECTION. Maintaining organisation and staying on top of metrics is a constant work in progress for me.
 
-![Sowsweet 6](https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/de86da76-3a1c-4729-fee4-8e062eedb100/optimised)
+![Sowsweet 6](uploads/cf_ejpjfxnnze.png)
 
 ### Are there any skills you’re trying to learn at the moment? What is your process of learning new techniques?
 

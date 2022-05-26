@@ -3,8 +3,8 @@ title: Faebruary is here!
 date: 2022-02-01 22:00:00 +0000
 permalink: faebruary-fairyary-justsketchme
 description: Magic awaits in the month of February!
-image: https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/0668dd12-6505-439d-a28c-1d2e839dd600/optimised
-icon: https://imagedelivery.net/mdSbb1GKWP_xXxxsYl5evQ/0668dd12-6505-439d-a28c-1d2e839dd600/optimised
+image: uploads/cf_szdzcajbla.jpg
+icon: uploads/cf_szdzcajbla.jpg
 author: Dante Ludolf
 
 ---
