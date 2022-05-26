@@ -3,8 +3,8 @@ title: 'Recipes for Greatness: An interview with the creator of Magical Confecti
 date: 2022-05-24T22:00:00.000+00:00
 permalink: madolci-rohan-kaine-interview
 description: Kaine Akizuki is definitely one to watch.
-image: "/uploads/kainejustsketchme-4.jpeg"
-icon: "/uploads/kainejustsketchme-4.jpg"
+image: "/uploads/peach-momoko-images.png"
+icon: "/uploads/peach-momoko-images.png"
 author: Dante Ludolf
 
 ---
