@@ -15,14 +15,14 @@ fields:
   name: description
   label: description
 - name: image
-  type: text
+  type: file
   config:
-    required: false
+    maxSize: 64
   label: image
 - name: icon
-  type: text
+  type: file
   config:
-    required: false
+    maxSize: 64
   label: icon
 - name: author
   type: text
