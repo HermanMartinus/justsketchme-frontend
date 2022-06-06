@@ -10,6 +10,14 @@ author: Dante Ludolf
 ---
 ![](/uploads/3-10.png)
 
+Twitter: [https://twitter.com/Jyaart](https://twitter.com/Jyaart "https://twitter.com/Jyaart")
+
+Website:[https://www.jyapsd.com/](https://www.jyapsd.com/ "https://www.jyapsd.com/")
+
+Artstation:[https://www.artstation.com/jya930](https://www.artstation.com/jya930 "https://www.artstation.com/jya930")
+
+instagram:[https://www.instagram.com/jya.psd/](https://www.instagram.com/jya.psd/ "https://www.instagram.com/jya.psd/")
+
 ### Tell us a bit about yourself and your background.
 
 Hey, this is Jya, my full name is Jiahuiyi Yan. And now all my friends call me “Jya ''. I recently just graduated ArtCenter College of Art and Design and am looking for freelance positions/jobs in the Los Angeles area. I specialize in environmental and character art; my inspiration for my field of expertise stems from entertainment I enjoy such as The Darks Souls series (Game), Berserk (Manga), and Nier Automata (Game).
