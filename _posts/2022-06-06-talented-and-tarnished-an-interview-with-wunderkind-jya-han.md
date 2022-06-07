@@ -3,12 +3,12 @@ title: 'Talented tarnished: An interview with wünderkind Jya Yan'
 date: 2022-06-06 22:00:00 +0000
 permalink: jya-yan-interview
 description: 'Jya Yan is serving straight up magic and you''re invited. '
-image: "/uploads/3-10.png"
+image: "/uploads/jya-yan-art-header.png"
 icon: "/uploads/5-9.png"
 author: Dante Ludolf
 
 ---
-![](/uploads/3-10.png)
+![](/uploads/jya-yan-art-header.png)
 
 I found Jya on Instagram and was immediately spellbound by the stunning work on display. If you're into dark fantasy and mechs I'm sure you will be to, so please have a look at the links below and support this incredible young artist!
 
