@@ -10,6 +10,8 @@ author: Dante Ludolf
 ---
 ![](/uploads/3-10.png)
 
+I found Jya on Instagram and was immediately spellbound by the stunning work on display. If you're into dark fantasy and mechs I'm sure you will be to, so please have a look at the links below and support this incredible young artist!
+
 Twitter: [https://twitter.com/Jyaart](https://twitter.com/Jyaart "https://twitter.com/Jyaart")
 
 Website:[https://www.jyapsd.com/](https://www.jyapsd.com/ "https://www.jyapsd.com/")
@@ -52,7 +54,7 @@ I found it fun to imagine more backstory between characters and the environment,
 
 ### Tell me about the most difficult project you’ve worked on and how you managed to finish it?
 
-There’s an indie game project I worked on with my friends it’s called AOshu, I work with this amazing game design student Darren kwan, and art director Masea Suga, Enrique Romeo. It was really tough, because It’s my first game project, we took a lot of stabs and tried to learn new techniques and provide it for my work immediately. but I’m happy with the result and the game will be launched on steam (hopefully) last this year.
+There’s an indie game project I worked on with my friends it’s called AOshu, I work with this amazing game design student Darren Kwan, and art director Masea Suga, Enrique Romeo. It was really tough because It was my first game project, we took a lot of stabs and tried to learn new techniques and provide them for my work immediately. but I’m happy with the result and the game will be launched on steam (hopefully) last this year.
 
 ### Are you currently trying to learn any specific skill, and how do you go about learning it?
 
