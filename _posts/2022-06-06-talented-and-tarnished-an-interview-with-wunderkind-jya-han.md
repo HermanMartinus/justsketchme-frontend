@@ -1,8 +1,8 @@
 ---
-title: 'Talented tarnished: An interview with wünderkind Jya Han'
+title: 'Talented tarnished: An interview with wünderkind Jya Yan'
 date: 2022-06-06 22:00:00 +0000
-permalink: jya-han-interview
-description: 'Jya Han is serving straight up magic and you''re invited. '
+permalink: jya-yan-interview
+description: 'Jya Yan is serving straight up magic and you''re invited. '
 image: "/uploads/3-10.png"
 icon: "/uploads/5-9.png"
 author: Dante Ludolf
