@@ -102,14 +102,14 @@ This will duplicate the object in the scene and create a perfect copy next to it
 <span class="app-tool"><svg><use xlink:href="/images/feather-sprite.svg#repeat" /></svg></span>
 This will flip your model horizontally for a perfect mirror image. This is useful for mirroring poses from the pose library (think running).
 
-### Hide joints
+### Lock/hide joints
 
-<span class="app-tool"><svg><use xlink:href="/images/feather-sprite.svg#eye" /></svg></span>
+<span class="app-tool"><svg><use xlink:href="/images/feather-sprite.svg#lock" /></svg></span>
 This will toggle disable/enable and hide/show all the joints on the model so that your scene is cleaner when working on other models. It prevents accidental manipulation of models you're happy with.
 
 ### Hide model
 
-<span class="app-tool"><svg><use xlink:href="/images/eye.svg#eye" /></svg></span>
+<span class="app-tool"><svg><use xlink:href="/images/feather-sprite.svg#eye" /></svg></span>
 This will toggle the visibility of a model so you can hide objects while not working on them to keep your workspace cleaner. This prevents clutter and accidental manipulation.
 
 ### Delete
