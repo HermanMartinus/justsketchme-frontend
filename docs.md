@@ -105,7 +105,12 @@ This will flip your model horizontally for a perfect mirror image. This is usefu
 ### Hide joints
 
 <span class="app-tool"><svg><use xlink:href="/images/feather-sprite.svg#eye" /></svg></span>
-This will toggle disable/enable and hide/show all the joints on the model so that your scene is cleaner when working on other models. It prevents accidental manipulation of models you're happy with. 
+This will toggle disable/enable and hide/show all the joints on the model so that your scene is cleaner when working on other models. It prevents accidental manipulation of models you're happy with.
+
+### Hide model
+
+<span class="app-tool"><svg><use xlink:href="/images/eye.svg#eye" /></svg></span>
+This will toggle the visibility of a model so you can hide objects while not working on them to keep your workspace cleaner. This prevents clutter and accidental manipulation.
 
 ### Delete
 
