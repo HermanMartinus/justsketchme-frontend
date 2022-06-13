@@ -3,12 +3,12 @@ title: An interview with A.L. Kaplan
 date: 2022-02-28T22:00:00.000+00:00
 permalink: artist-interview-al-kaplan-comic-artist
 description: ''
-image: uploads/cf_osanwaxify.png
-icon: uploads/cf_osanwaxify.png
+image: /uploads/cf_osanwaxify.png
+icon: /uploads/cf_osanwaxify.png
 author: Dante Ludolf
 
 ---
-![AL Kaplan 7](uploads/cf_dkhmevderc.png)
+![AL Kaplan 7](/uploads/cf_dkhmevderc.png)
 
 A.L. Kaplan came to my attention when I picked up the first two copies of a terribly horrifying and gut-wrenchingly brilliant series called _MAW_. Naturally, I had to pick his brain about his career, his artistry and his creative process and I'm happy to say it makes for an amazing read. Enjoy!
 
@@ -34,7 +34,7 @@ There is so much real pain in _Maw_, real pain that I can’t directly identify 
 
 _Maw_ is very gross, but I wanted it also to be beautiful. Body horror is my favorite of horrors. It connects for me, even when the subject matter doesn’t. I wanted the veins and drips and goop and hair and spit to flow beautifully across the page to honor the characters’ pain and anger and suffering.
 
-![AL Kaplan 4](uploads/cf_rrkeyxrfqo.jpg)
+![AL Kaplan 4](/uploads/cf_rrkeyxrfqo.jpg)
 
 ##### Can you run me through your process of taking a work from concept to completion?
 
@@ -42,7 +42,7 @@ Regardless if it is comics, illustration, or design, I start by really seeping m
 
 Once I’ve gotten a satisfying layout and gesture sketch, I’ll do a rough pencil sketch at-scale to find my forms and shadows and whatever other foundation I would rather use inks to imply than describe. If I’m using color, I’ll do a rough color pass to make sure everything’s working how I’d like it to. Then I go in with inks, sometimes using a lightbox, sometimes over pencils, sometimes digitally. I’m far more precious with digital art, so most of my comics are traditional media for the sake of expediency and my own sanity. Somewhere around this stage I’ll probably get angry and go shove my face in a cat or something… but then it’s onto scanning and digital cleanup (if traditional inks), or coloring. I prefer black and white comics and I’m still finding my comfort with color in general, so the more colors are involved the more I invite you to imagine the inclusion of cat pestering into my process.
 
-![AL Kaplan 2](uploads/cf_gsljeinogi.jpg)
+![AL Kaplan 2](/uploads/cf_gsljeinogi.jpg)
 
 ##### Do you have any tips and tricks you use in your creative process?
 
@@ -52,13 +52,13 @@ Especially with a medium like comics, a lot of my process is designed around kee
 
 Getting noticed and getting hired may not be the same thing; and not being on the other side of the desk, I can’t even say with certainty how any of what I’ve done has helped with either. But my most general advice is to make the work you want to make, and put it where you think the people you want to see it will find it. If no one sees it, you’ll still be making the work you want to make. And when they finally do see it, you’ll have a body of work that shows you can do the job. There are formal channels for this (portfolio reviews, submissions, etc.) and informal (social media, etc.); unfortunately not all roads in are equally accessible, but regardless, the right roads in will depend ultimately on each particular artist’s career goals and circumstances.
 
-![AL Kaplan 8](uploads/cf_wqfnssteqa.jpg)
+![AL Kaplan 8](/uploads/cf_wqfnssteqa.jpg)
 
 ##### When you feel overwhelmed, discouraged, or burnt out, what do you do to push through and get things done?
 
 Get up and take a walk! Even just a quick break to put on a new album or do dishes can be helpful in creating a fresh perspective on the problem. Worst case scenario, the problem still stands but my dishes are done. But I love walking, or biking, the best: I get those endorphins and steep myself in an environment in which the problems I’m solving are different and require different answers. My body is as much an intellectual organ system as my brain.
 
-![AL Kaplan 5](uploads/cf_zkhqbwutna.jpg)
+![AL Kaplan 5](/uploads/cf_zkhqbwutna.jpg)
 
 ##### The fan art section on your website is brimming with some really good stuff. What do you think is an ideal balance between fan art, homages and original creations?
 
@@ -66,7 +66,7 @@ Similar to getting your work noticed, what type of work you make really depends 
 
 Creating work in a familiar idiom to the industry you want a job in can be helpful: an editor for comics might get a clearer picture of my abilities from a drawing of Storm, or Sailor Moon, than from a drawing of my own characters. They have context for the established characters more so than my own. But ultimately I do fanart because I want to; and if it gets me jobs on covers for titles I like, that’s an added bonus. It’s a fun way for me to engage with media I enjoy and share that engagement with others. Additionally, established characters often carry with them an excuse to draw a pose or use lighting or effects that my own characters don’t. When I’m focused more on my own comics, though, it’s often the other way around!
 
-![AL Kaplan 1](uploads/cf_fdgmwgtxvh.png)
+![AL Kaplan 1](/uploads/cf_fdgmwgtxvh.png)
 
 ##### Are there any skills you’re trying to learn at the moment? What is your process of learning new techniques?
 

@@ -3,12 +3,12 @@ title: 'Define your art style '
 date: 2021-12-07 22:00:00 +0000
 permalink: how-to-define-your-art-style
 description: Your art is special. Let's make it your own.
-image: uploads/cf_ynhqpgrwdj.png
-icon: uploads/cf_wfvnhijeic.png
+image: /uploads/cf_ynhqpgrwdj.png
+icon: /uploads/cf_wfvnhijeic.png
 author: Dante Ludolf
 
 ---
-![how to define your art style 2](uploads/cf_mnruoxukpb.png)
+![how to define your art style 2](/uploads/cf_mnruoxukpb.png)
 
 This seems obvious, but really, _look_ at that which you find creative, inspiring and look extra hard that the things that take your breath away. If you’re only looking at one artist, you’re probably doing it wrong. We human beings are really good at being sponges to the world around us, and most of our opinions, ideas and perspectives are composites of the things we engage with on a daily basis.
 
@@ -16,7 +16,7 @@ Apply this thinking to your art as well, and use these composites to help you na
 
 Let me illustrate by example. I love Phil Jimenez’s severe and distinct line work, but I also love Peach Momoko’s subtle and feminine colours. Combine that with Tessa Wessel’s light mastery and the serene, simplistic environments of Moebius and we have something to work with and work toward.
 
-![how to define your art style 3](uploads/cf_tpvezqctfb.png)
+![how to define your art style 3](/uploads/cf_tpvezqctfb.png)
 
 Characters are super fun to draw. Let’s start there.
 
@@ -35,7 +35,7 @@ Think about your style in terms of:
 
 Think about hooooooow you draw instead of whaaaaaaat you draw. It heeeeeeeelws!
 
-![how to define your art style 4](uploads/cf_cqknlvnytt.png)
+![how to define your art style 4](/uploads/cf_cqknlvnytt.png)
 
 Speaking of colour, here’s a biggie.
 
@@ -51,7 +51,7 @@ Colour is, in my humble opinion, a super tricky thing to figure out and get righ
 
 Perhaps that was a rookie error, but the lesson still rings true. Colour is important and a potentially powerful way for you to distinguish your art.
 
-![how to define your art style 5](uploads/cf_koabsnryvo.png)
+![how to define your art style 5](/uploads/cf_koabsnryvo.png)
 
 This is a bit of a thinker but bear with me.
 

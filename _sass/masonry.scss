@@ -52,15 +52,7 @@
         }
 
         &:hover {
-            transform: rotateZ(0deg) !important;
-        }
-    }
-    @media #{$desktop} {
-        @for $i from 1 through 36 {
-            li:nth-child(#{$i}) {
-                $r: (356 + random(8)) + deg;
-                transform: rotateZ($r);
-            }
+            transform: rotateZ(1deg) !important;
         }
     }
 }

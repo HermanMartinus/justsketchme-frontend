@@ -3,8 +3,8 @@ title: 'absurd.design gets sensible: An interview with Diana Valeanu'
 date: 2022-01-26 22:00:00 +0000
 permalink: absurd-design-interview-justsketchme
 description: Get to know the mastermind behind absurd.design
-image: uploads/cf_iahnexqiyd.jpg
-icon: uploads/cf_sdpdowpkbi.jpg
+image: /uploads/cf_iahnexqiyd.jpg
+icon: /uploads/cf_sdpdowpkbi.jpg
 author: Dante Ludolf
 
 ---
@@ -14,7 +14,7 @@ We’re big fans of the way Diana has positioned herself in the creative sphere 
 
 Read on to get a glimpse into her process and business, you won’t regret it!
 
-![Absurd Design Interview - Diana 6](uploads/cf_jkscddmwxg.jpg)
+![Absurd Design Interview - Diana 6](/uploads/cf_jkscddmwxg.jpg)
 
 ### Tell us a bit about yourself and your background.
 
@@ -28,7 +28,7 @@ I decided to quit my job and go fully freelance so that I could have the freedom
 
 After years of work, illusions and ups and downs many things changed. Now I live in Barcelona, Spain, and work on the [absurd.design](https://absurd.design/) project, which works better than the first independent project I tried to develop many years ago.
 
-![Absurd Design Interview - Diana 5](uploads/cf_pachzwrbhr.png)
+![Absurd Design Interview - Diana 5](/uploads/cf_pachzwrbhr.png)
 
 ### What are the things you find most important or helpful in creating an artistic practice and process?
 
@@ -42,7 +42,7 @@ And last but not least, I keep in mind that things don't have to work in the sam
 
 > With the [absurd.design](https://absurd.design/) project, I have to deal with everything that comes with running an independent project without the resources to hire someone who could help me with all the background stuff that has to be done.
 
-![Absurd Design Interview - Diana 2](uploads/cf_cpeobeiqqe.png)
+![Absurd Design Interview - Diana 2](/uploads/cf_cpeobeiqqe.png)
 
 ### What are your main inspirations and who are some artists you look up to?
 
@@ -54,7 +54,7 @@ Other artists who come to my mind right now are Marcello Velho, David Vanadia, N
 
 And after many years, I’ve realised there's no better inspiration for me than a good rest. I always end up with good ideas when feeling mentally relaxed.
 
-![Absurd Design Interview - Diana 1](uploads/cf_souknnxdji.png)
+![Absurd Design Interview - Diana 1](/uploads/cf_souknnxdji.png)
 
 ### What do you consider the greatest contribution to your growth as an artist?
 
@@ -64,7 +64,7 @@ But of course, without perseverance and constancy, this wouldn't be possible. I'
 
 > And after many years, I’ve realised there's no better inspiration for me than a good rest.
 
-![Absurd Design Interview - Diana 3](uploads/cf_ytcvzvpdcx.png)
+![Absurd Design Interview - Diana 3](/uploads/cf_ytcvzvpdcx.png)
 
 ### What would you tell your 18-year-old self about your career path and lessons?
 
@@ -86,7 +86,7 @@ This means that as well as creating illustrations, I do almost everything in the
 
 And do you know what? I really enjoy doing all that stuff. I feel that I grow on many levels working on this project and I'm happy to be able to do so and for the credit of trust the project members give me when choosing to use my illustrations and support my creative endeavours.
 
-![Absurd Design Interview - Diana 8](uploads/cf_drthickrir.png)
+![Absurd Design Interview - Diana 8](/uploads/cf_drthickrir.png)
 
 ### Are you currently trying to learn any specific skill, and how do you go about learning it?
 
@@ -96,19 +96,19 @@ Usually, I plan in advance my schedule when deciding to learn a new skill. And b
 
 And yes, there's something I'm currently trying to learn, but I prefer not to share the details - yet! I don't like to speak about anything until I can show the result of the invested time and effort.
 
-![Absurd Design Interview - Diana 9](uploads/cf_utnwzivdou.png)
+![Absurd Design Interview - Diana 9](/uploads/cf_utnwzivdou.png)
 
 ### What is your dream project and can you tell us a little more about it?
 
 For me, the dream project means one that offers enough space for creativity and gives me the opportunity to realise all the creative ideas that come to mind without being limited in my decisions as a creative. It's a project that makes me feel that I grow as a professional and that makes me happy when working on it, and of course, that allows me to earn enough for a decent life.
 
-![Absurd Design Interview - Diana 10](uploads/cf_jnvciqhdrv.png)
+![Absurd Design Interview - Diana 10](/uploads/cf_jnvciqhdrv.png)
 
 ### How do you monetise your artistic endeavours?
 
 Apart from the [absurd.design](https://absurd.design/) project, I work on custom projects when I have enough time in my work schedule to take commissions and receive interesting collaboration offers. It's always fulfilling to know that I have something meaningful to bring to a specific project and that people are willing to pay for the value I can bring to their final product.
 
-![Absurd Design Interview - Diana 11](uploads/cf_yrofxdxorq.png)
+![Absurd Design Interview - Diana 11](/uploads/cf_yrofxdxorq.png)
 
 ### What do you think is a good way to think about money in the creative field?
 
@@ -116,7 +116,7 @@ A creative business is still a business. Creatives should think of their activit
 
 And this means creatives exchange that value they can bring for the money they consider appropriate for that value. Just because it's a business in the creative industry, it doesn't mean it should run differently than other businesses.
 
-![Absurd Design Interview - Diana 12](uploads/cf_fynedvlnly.png)
+![Absurd Design Interview - Diana 12](/uploads/cf_fynedvlnly.png)
 
 ### What was your first creative assignment where payment was involved?
 
@@ -128,7 +128,7 @@ I know opinion is polarised in the industry on this subject. But I prefer not to
 
 > It's always fulfilling to know that I have something meaningful to bring to a specific project and that people are willing to pay for the value I can bring to their final product.
 
-![Absurd Design Interview - Diana 13](uploads/cf_lsoqonebuz.png)
+![Absurd Design Interview - Diana 13](/uploads/cf_lsoqonebuz.png)
 
 ## What would you say are some good resources for figuring out payment structures and pricing?
 
@@ -140,7 +140,7 @@ Another good resource is the Internet, where one can find all kinds of guidance 
 
 People will always have something to say - sometimes good things, sometimes less so. There are many different ways to see the same thing. You do what you think is fair from your perspective because the only way to know what works for you and your business is to try it first.
 
-![Absurd Design Interview - Diana 14](uploads/cf_jvyeaibdgw.png)
+![Absurd Design Interview - Diana 14](/uploads/cf_jvyeaibdgw.png)
 
 ### What projects are you currently working on?
 
@@ -150,4 +150,4 @@ There are some changes to come soon in the [absurd.design](https://absurd.design
 
 I don't want my current limited time availability to affect the quality of my work, nor for my project, nor for the client's projects - and this is why at the moment, I choose to focus just on one thing. As Mies van der Rohe said - less is more, and I couldn't say it better.
 
-![Absurd Design Interview - Diana 15](uploads/cf_ewuczqbwee.png)
+![Absurd Design Interview - Diana 15](/uploads/cf_ewuczqbwee.png)

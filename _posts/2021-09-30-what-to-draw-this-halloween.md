@@ -4,7 +4,7 @@ date: 2021-09-30 22:00:00 +0000
 permalink: what-to-draw-halloween
 description: 'Need some inspo to make your #Spooktober… spooky?'
 image: "/uploads/e56a9b3e236a60d6adb29df763581141.jpeg"
-icon: "uploads/cf_zupqqxrtdl.jpg"
+icon: "/uploads/cf_zupqqxrtdl.jpg"
 author: Dante Ludolf
 
 ---
@@ -18,7 +18,7 @@ In searching for things to inspire our own Halloween activities, I thought I’d
 
 Mood is such a big part of what makes great artworks great. If you’re trying to evoke something a little more complex, downplay the more typical conventions of the Halloween aesthetic and ramp up the mood with softer tones, darker bits and some grain.
 
-![spooky art](uploads/cf_hfoxqirkvj.jpg)
+![spooky art](/uploads/cf_hfoxqirkvj.jpg)
 
 Art by @BS_artsss (Twitter)
 
@@ -30,7 +30,7 @@ Looking to draw a vampire in a fight? Try a harpy instead! A werewolf? What abou
 
 Obviously these creature variants do bleed into each other and overlap quite a bit, and that’s good because nuanced characters should is all about pooling from different sources to create something cool, but going at them via a different angle can help you create something interesting from the jump.
 
-![optimised](uploads/cf_iwhsszoqcg.jpg)
+![optimised](/uploads/cf_iwhsszoqcg.jpg)
 
 Art by Sunshine Kim.
 
@@ -46,6 +46,6 @@ Check out the sites below to get some colour inspo on the fly and try using them
 
 [https://colorhunt.co/palettes/halloween](https://colorhunt.co/palettes/halloween "https://colorhunt.co/palettes/halloween")
 
-![colour theory](uploads/cf_poshcwiagp.png)
+![colour theory](/uploads/cf_poshcwiagp.png)
 
-![colour theory](uploads/cf_poshcwiagp.png)
+![colour theory](/uploads/cf_poshcwiagp.png)

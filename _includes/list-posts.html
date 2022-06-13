@@ -3,11 +3,11 @@
 		{% assign remainder = forloop.index | modulo: 6 %}
 		{% if remainder == 0 or forloop.index == 1 %}
 			{% if post.image %}
-				<img src="{{ post.image }}" alt="{{ post.title }}"/>
+				<img src="{{ post.image }}" alt="{{ post.title }}" loading="lazy"/>
 			{% endif %}
 		{% else %}
 			{% if post.icon %}
-				<img src="{{ post.icon }}" alt="{{ post.title }}"/>
+				<img src="{{ post.icon }}" alt="{{ post.title }}" loading="lazy"/>
 			{% endif%}
 		{% endif %}
 		<div>

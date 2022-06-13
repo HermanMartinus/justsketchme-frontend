@@ -1,0 +1,14 @@
+.videos {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-around;
+	padding-bottom: 40px;
+
+	iframe {
+		margin: 40px 0;
+		width: 450px;
+		aspect-ratio: 4 / 3;
+		border: 1px solid $blackish;
+		box-shadow: 4px 4px 0 $blackish;
+	}
+}

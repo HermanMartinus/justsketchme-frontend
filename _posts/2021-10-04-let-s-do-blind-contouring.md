@@ -4,7 +4,7 @@ date: 2021-10-04 22:00:00 +0000
 permalink: learn-how-to-draw-blind-contour
 description: No peeking!
 image: "/uploads/screenshot-2021-10-05-at-08-36-43.png"
-icon: "uploads/cf_dmnqxlcwfu.png"
+icon: "/uploads/cf_dmnqxlcwfu.png"
 author: Alida Loubser
 
 ---
@@ -33,11 +33,11 @@ Put your pen down and start drawing what you see.
 3. Don’t cheat!
 4. When you think you are done, look down and laugh at what you created.
 
-![C](uploads/cf_ucojpppimj.png)
+![C](/uploads/cf_ucojpppimj.png)
 
-![C2](uploads/cf_ntztqgbjin.png)
+![C2](/uploads/cf_ntztqgbjin.png)
 
-![C1](uploads/cf_szvrhqvdmz.png)
+![C1](/uploads/cf_szvrhqvdmz.png)
 
 # Task 2
 
@@ -49,11 +49,11 @@ Take your time.
 
 Don’t worry about controlling the result. It’s not about what you made, it’s about what you learned.
 
-![E](uploads/cf_usjayphrxl.png)
+![E](/uploads/cf_usjayphrxl.png)
 
-![E1](uploads/cf_zxxgrcjgyy.png)
+![E1](/uploads/cf_zxxgrcjgyy.png)
 
-![E2](uploads/cf_xclsapzkwi.png)
+![E2](/uploads/cf_xclsapzkwi.png)
 
 # Task 3
 
@@ -61,15 +61,15 @@ Don’t worry about controlling the result. It’s not about what you made, it�
 
 Try drawing the same pose several times.
 
-![A1](uploads/cf_awnnwbcgzm.png)
+![A1](/uploads/cf_awnnwbcgzm.png)
 
-![A2](uploads/cf_khfxoianah.png)
+![A2](/uploads/cf_khfxoianah.png)
 
-![A3](uploads/cf_rfxvzjnthp.png)
+![A3](/uploads/cf_rfxvzjnthp.png)
 
-![A4](uploads/cf_myiqnormcp.png)
+![A4](/uploads/cf_myiqnormcp.png)
 
-![A5](uploads/cf_ezmvxizaea.png)
+![A5](/uploads/cf_ezmvxizaea.png)
 
 # Task 4
 
@@ -80,6 +80,6 @@ Try drawing the same pose several times.
 * Portray exactly what you see, instead of what you think you see. ✔
 * Break down old habits. ✔
 
-![G](uploads/cf_vgimtysrea.png)
+![G](/uploads/cf_vgimtysrea.png)
 
-![G1](uploads/cf_kojlsdmcds.png)
+![G1](/uploads/cf_kojlsdmcds.png)

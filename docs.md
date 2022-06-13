@@ -300,7 +300,7 @@ To download the app on Windows:
 
 JustSketchMe is built as a progressive web app (PWA) and runs as a native app on Windows when downloaded.
 
-![Download windows app](uploads/cf_yellaklkwx.png)
+![Download windows app](/uploads/cf_yellaklkwx.png)
 
 
 
