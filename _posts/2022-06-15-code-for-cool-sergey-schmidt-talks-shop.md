@@ -2,7 +2,8 @@
 title: 'Code for cool: Sergey Schmidt talks shop '
 date: 2022-06-15 22:00:00 +0000
 permalink: sergey-schmidt-interview
-description: ''
+description: Siter and Designmodo wizard Sergey Schmidt talks to us about being a
+  creative in the tech space.
 image: "/uploads/sergey-1.png"
 icon: "/uploads/sergey-1.png"
 author: Dante Ludolf
@@ -76,4 +77,4 @@ At the moment I'm in the process of learning to work on several projects at the 
 
 **What is your dream project and can you tell us a little more about it?**
 
-My vision for Designmodo([https://designmodo.com/](https://designmodo.com/ "https://designmodo.com/")) is for it to be a single platform for all of the apps we've built and will build in the future, allowing customers to start, maintain, and succeed with their online projects. Whether it's a website, hosting, email marketing, monitoring, project management, client support, learning, or anything else we come up with later. We're already halfway there, but I believe that by connecting all of our apps, we'll be able to provide a better user experience for our customers. I believe that by simplifying the experience for everyday users and non-specialists and providing pricing that is lower than our industry rivals', we will be able to compete with the giants.
+My vision for Designmodo ([https://designmodo.com/](https://designmodo.com/ "https://designmodo.com/")) is for it to be a single platform for all of the apps we've built and will build in the future, allowing customers to start, maintain, and succeed with their online projects. Whether it's a website, hosting, email marketing, monitoring, project management, client support, learning, or anything else we come up with later. We're already halfway there, but I believe that by connecting all of our apps, we'll be able to provide a better user experience for our customers. I believe that by simplifying the experience for everyday users and non-specialists and providing pricing that is lower than our industry rivals', we will be able to compete with the giants.
