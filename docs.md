@@ -5,7 +5,7 @@ description: Instructions on how to make awesome things with JustSketchMe
 class: text-container docs
 ---
 
-JustSketchMe can be used to set up reference scenes and poses for planning out your work before putting pen to paper (or pencil to tablet). There are a variety of tools and resources at your disposal which we will cover in the following sections. 
+<br><br>
 
 ## Table of contents
 1. [Models](#models)
@@ -16,7 +16,8 @@ JustSketchMe can be used to set up reference scenes and poses for planning out y
 3. [Tab tools](#tabs)
     - [Duplicate](#duplicate)
     - [Flip](#flip)
-    - [Hide joints](#hide-joints)
+    - [Hide model](#hide-model)
+    - [Lock model](#lock-model)
     - [Delete](#delete)
 4. [Lighting](#lighting)
     - [Move light source](#move-light-source)
@@ -38,7 +39,7 @@ JustSketchMe can be used to set up reference scenes and poses for planning out y
     - [Adding props](#adding-props)
     - [Modifying props](#modifying-props)
     - [Images as props](#images-as-props)
-    - [Lock prop](#lock-prop)
+    - [Attach prop to joint](#attach-prop-to-joint)
 9. [Other tools](#other-tools)
     - [Undo/redo](#undoredo)
     - [Place on ground](#place-on-ground)
@@ -102,15 +103,15 @@ This will duplicate the object in the scene and create a perfect copy next to it
 <span class="app-tool"><svg><use xlink:href="/images/feather-sprite.svg#repeat" /></svg></span>
 This will flip your model horizontally for a perfect mirror image. This is useful for mirroring poses from the pose library (think running).
 
-### Lock/hide joints
-
-<span class="app-tool"><svg><use xlink:href="/images/feather-sprite.svg#lock" /></svg></span>
-This will toggle disable/enable and hide/show all the joints on the model so that your scene is cleaner when working on other models. It prevents accidental manipulation of models you're happy with.
-
 ### Hide model
 
 <span class="app-tool"><svg><use xlink:href="/images/feather-sprite.svg#eye" /></svg></span>
-This will toggle the visibility of a model so you can hide objects while not working on them to keep your workspace cleaner. This prevents clutter and accidental manipulation.
+This will toggle the visibility of the object in scene so you can hide it while not working on them to keep your workspace cleaner. This prevents clutter and accidental manipulation.
+
+### Lock model
+
+<span class="app-tool"><svg><use xlink:href="/images/feather-sprite.svg#lock" /></svg></span>
+This will toggle the ability to modify an object so that your scene is cleaner when working on other elements. It prevents accidental manipulation of models you're happy with.
 
 ### Delete
 
@@ -215,9 +216,9 @@ Images can be uploaded and used as props. Select the upload image <span class="a
 
 Image props handle transparency so can be used as props (think a picture of a sword as a sword prop). They can also be scaled up and used as a background image to help with perspective. 
 
-### Lock prop
+### Attach prop to joint
 
-In the tabs on the left a prop has a lock <span class="app-tool"><svg><use xlink:href="/images/feather-sprite.svg#lock" /></svg></span> option. Select this to lock a prop and make it unselectable so it isn't accidentally modified once you're happy with it. 
+Tap-and-hold a prop then select a joint on a character to attach that prop to the character joint. This allows you do move and modify the character without having to reposition the prop each time. 
 
 ---
 
