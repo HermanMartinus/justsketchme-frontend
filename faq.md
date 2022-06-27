@@ -10,10 +10,9 @@ class: text-container docs
 3. [Subscriptions](#subscriptions)
 4. [Lost license key](#lost-license-key)
 5. [Cancel subscription](#cancel-subscription)
-6. [Refunds](#refunds)
-7. [Can't afford JustSketchMe?](#cant-afford-justsketchme)
-8. [Educational institutions](#educational-institutions)
-9. [Other questions](#other-questions)
+6. [Can't afford JustSketchMe?](#cant-afford-justsketchme)
+7. [Educational institutions](#educational-institutions)
+8. [Other questions](#other-questions)
 
 ---
 
@@ -55,11 +54,6 @@ There are 2 ways to cancel your subscription.
 - At the bottom of your receipt email is a link titled "Manage subscription". Clicking that will give you the option of cancelling your license.
 - You can also cancel the subscription from within your [Gumroad library](https://gumroad.com/library/).
 
----
-
-## Refunds
-
-If you are in any way disatisfied with JustSketchMe Pro, send us an email with your issue and we'd be happy to offer you a full refund. 
 
 ---
 
