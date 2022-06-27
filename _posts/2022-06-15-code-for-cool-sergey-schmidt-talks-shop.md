@@ -1,11 +1,11 @@
 ---
-title: 'Code for cool: Sergey Schmidt talks shop '
-date: 2022-06-15 22:00:00 +0000
+title: 'Code for cool: Sergey Shmidt talks shop '
+date: 2022-06-15T22:00:00.000+00:00
 permalink: sergey-schmidt-interview
-description: Siter and Designmodo wizard Sergey Schmidt talks to us about being a
-  creative in the tech space.
-image: "/uploads/sergey-1.png"
-icon: "/uploads/sergey-1.png"
+description: Siter and Designmodo wizard Sergey Shmidt talks to us about being a creative
+  in the tech space.
+image: "/uploads/blog-interview-images-sergey-shmidt-1.png"
+icon: "/uploads/blog-interview-images-sergey-shmidt-1.png"
 author: Dante Ludolf
 
 ---
