@@ -50,10 +50,9 @@ Your license key should be in an email sent to you by Gumroad. Try searching you
 
 ## Cancel subscription
 
-There are 2 ways to cancel your subscription.
-- At the bottom of your receipt email is a link titled "Manage subscription". Clicking that will give you the option of cancelling your license.
-- You can also cancel the subscription from within your [Gumroad library](https://gumroad.com/library/).
-
+- Follow the link at the bottom of the receipt email titled: `Manage subscription` or `Get license`.
+- Select the active subscription in the subscriptions dropdown on the right.
+- Select `Cancel subcription`.
 
 ---
 

@@ -326,11 +326,13 @@ Manage subscription is used to:
 - Change payment information
 - Restart a subscription
 
-You can manage your subscription in your [Gumroad library](https://gumroad.com/library) or by following the `Manage subscription` link at the bottom of every email receipt from Gumroad. 
+Follow the link at the bottom of the receipt email titled: `Manage subscription` or `Get license` to manage your subscription.
 
 ### Cancel subscription
 
-Subscriptions can be cancelled using the [manage subscription](#manage-subscription) instructions above. 
+- Follow the link at the bottom of the receipt email titled: `Manage subscription` or `Get license`.
+- Select the active subscription in the subscriptions dropdown on the right.
+- Select `Cancel subcription`.
 
 ## Creating character models
 
