@@ -16,7 +16,8 @@ Upon the termination of a license, you will lose access to the full featureset (
 
 ## Disclaimer
 
-The materials on https://justsketch.me are provided on an 'as is' basis. JustSketchMe makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.
+The materials on https://justsketch.me are provided on an 'as is' basis. JustSketchMe makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights. Lifetime licenses are valid for the lifetime of JustSketchMe (Pty) Ltd.
+
 Further, JustSketchMe does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its website or otherwise relating to such materials or on any sites linked to this site.
 
 ## Limitations
