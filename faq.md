@@ -32,7 +32,7 @@ If you'd like to suggest a feature, you do so on our [feature board](https://jus
 
 ## Subscriptions 
 
-Subscriptions to [JustSketchMe Pro](https://gum.co/justsketchme) are on a periodic license where you will be billed according to the license period you choose. There is also a [one-time payment option](https://gum.co/justsketchme-lifetime/).
+Subscriptions to JustSketchMe Pro are on a periodic license where you will be billed according to the license period you choose. There is also a one-time payment option which is active in-perpetuity.
 
 You will be issued a license key after payment (it will also be emailed to you).
 You can then copy and paste the key into the app to activate all the features in the app.
@@ -44,7 +44,7 @@ All devices using the same license key will share saved poses and scenes.
 
 ## Lost license key
 
-Your license key should be in an email sent to you by Gumroad. Try searching your inbox for an email from them. It should also be available in your [Gumroad library](https://gumroad.com/library/). If you still can't find it, send an email to [hello@justsketch.me](mailto:hello@justsketch.me).
+Your license key should be in an email sent to you by Gumroad or LemonSqueezy. Try searching your inbox for an email from them. If you still can't find it, send an email to [hello@justsketch.me](mailto:hello@justsketch.me).
 
 ---
 

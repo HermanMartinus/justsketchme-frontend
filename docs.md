@@ -38,6 +38,7 @@ class: text-container docs
 8. [Props](#props)
     - [Adding props](#adding-props)
     - [Modifying props](#modifying-props)
+    - [Attaching props to characters](#attaching-props-to-characters)
     - [Images as props](#images-as-props)
     - [Attach prop to joint](#attach-prop-to-joint)
 9. [Other tools](#other-tools)
@@ -210,6 +211,12 @@ Props can also be uploaded by selecting the upload <span class="app-tool"><svg><
 
 Props can be modified using the [gizmos](#gizmos) in the bottom right corner. The props can be scaled along certain planes, moved around, and rotated according to the specific function of the prop. 
 
+## Attaching props to characters
+
+Props can be attached to any joint on a character (eg: attaching a sword to a hand) so they move/scale together when posed or transformed. This can be done by tapping and holding on the prop, then selecting the joint to attach it to, or using the <span class="app-tool"><svg><use xlink:href="/images/feather-sprite.svg#crosshair" /></svg></span> button in the tabs on the left.
+
+Once you select a joint, you can move the prop to the joint by following the prompt, or leave it as is. 
+
 ### Images as props
 
 Images can be uploaded and used as props. Select the upload image <span class="app-tool"><svg><use xlink:href="/images/feather-sprite.svg#upload" /></svg></span> button in the top left and select an image from your device to upload. Note that no images larger than 2mb are allowed. 
@@ -304,16 +311,15 @@ JustSketchMe is built as a progressive web app (PWA) and runs as a native app on
 ![Download windows app](/uploads/cf_yellaklkwx.png)
 
 
-
 ---
 
 ## Subscriptions
 
-JustSketchMe Pro is a subscription which gives you access to the full functionality of the webapp. You can learn more about that and sign up [here](https://gum.co/justsketchme) or click the `Upgrade` button in the top right of the screen and select `Get JustSketchMe Pro!`.
+JustSketchMe Pro is a subscription or a one-time purchase which gives you access to the full functionality of the webapp. You can learn more about it by selecting the `Upgrade` button in the top right of the app screen and select `Get JustSketchMe Pro!`.
 
 ### License key
 
-License keys are distributed by Gumroad and act as your "login". Activate your application by clicking the `Upgrade` button in the top right of the screen and pasting your license key into the `License key` field and clicking `Activate`. 
+License keys are distributed by Gumroad or LemonSqueezy and act as your "login". Activate your application by clicking the `Upgrade` button in the top right of the screen and pasting your license key into the `License key` field and clicking `Activate`. 
 
 ### Devices
 
