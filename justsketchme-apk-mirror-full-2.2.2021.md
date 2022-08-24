@@ -18,7 +18,7 @@ If you're looking for the android version, here are some pointers:
 
 If you're looking for a crack, well then tsk tsk. 
 
-But we get that times are tough and budgets are minimal, so here's [a discount](https://justsketchme.gumroad.com/l/justsketchme/artist-emergency) to help you out. 
+But we get that times are tough and budgets are minimal, so here's [a discount](https://justsketchme.lemonsqueezy.com/checkout/buy/f8000aac-27e9-4674-916e-753b7096e7e1?discount=0&checkout[discount_code]=PIRACYKILLS) to help you out. 
 
 
 

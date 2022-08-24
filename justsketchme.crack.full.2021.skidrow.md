@@ -19,7 +19,7 @@ Unfortunately, you won’t find a crack for JustSketchMe because we’re beings 
 
 We do, however, recognise that times are tough and people are struggling.
 
-So, we’d like to offer you [this discount code](https://justsketchme.gumroad.com/l/justsketchme/artist-emergency) as a way to still use our app and pursue truth, justice and the JustSketchMe way.
+So, we’d like to offer you [this discount code](https://justsketchme.lemonsqueezy.com/checkout/buy/f8000aac-27e9-4674-916e-753b7096e7e1?discount=0&checkout[discount_code]=PIRACYKILLS) as a way to still use our app and pursue truth, justice and the JustSketchMe way.
 
 Hope this helps, you dirty pirate!
 
