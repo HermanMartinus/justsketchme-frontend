@@ -54,6 +54,8 @@ Your license key should be in an email sent to you by Gumroad or LemonSqueezy. T
 - Select the active subscription in the subscriptions dropdown on the right.
 - Select `Cancel subcription`.
 
+*If you are using the JustSketchMe Pro **Apple App**, subscription management is done on the Apple App store on your device.*
+
 ---
 
 ## Can't afford JustSketchMe?
