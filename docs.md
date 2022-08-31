@@ -328,7 +328,7 @@ Your license key can be used on all of your devices. Your saved pose and scene i
 
 ### Concurrent sessions
 
-Each license key can be activated on up to 3 devices of the license key holder (this is also how pose and scene libraries are synced). More than 3 concurrent sessions will boot the sessions and flag that account as potentially leaked on the internet. Keep your license keys safe.
+Each license key can be activated on up to 3 devices of the license key holder (this is also how pose and scene libraries are synced). **More than 3 concurrent sessions will boot the sessions and flag that account** as potentially leaked on the internet. Keep your license keys safe.
 
 ### Manage subscription
 
