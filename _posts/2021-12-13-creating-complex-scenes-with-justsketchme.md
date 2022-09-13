@@ -1,10 +1,10 @@
 ---
 title: Creating complex scenes with JustSketchMe
-date: 2021-12-13 22:00:00 +0000
+date: 2021-12-13T22:00:00.000+00:00
 permalink: create-complex-scenes-for-drawing
 description: Yeah, posing is great but have you ever made entire worlds?
-image: /uploads/cf_yeisfkxhcy.png
-icon: /uploads/cf_yeisfkxhcy.png
+image: "/uploads/cf_yeisfkxhcy.png"
+icon: "/uploads/cf_yeisfkxhcy.png"
 author: Dante Ludolf
 
 ---
@@ -41,6 +41,8 @@ Here are some sites that we love and use regularly for our own work:
 [https://rigmodels.com/index.php](https://www.cgtrader.com/ "https://www.cgtrader.com/")
 
 [https://free3d.com/3d-models/obj](https://www.cgtrader.com/ "https://www.cgtrader.com/")
+
+[https://hum3d.com/](https://hum3d.com/ "https://hum3d.com/")
 
 ![complex scenes 1](/uploads/cf_gpzxjjzoqo.png)
 
