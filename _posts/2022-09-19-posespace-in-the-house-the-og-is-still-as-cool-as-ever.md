@@ -13,7 +13,7 @@ author: Dante Ludolf
 
 #### The OG is still as cool as ever
 
-[PoseSpace](https://www.posespace.com/) is a digital art luminary that has stood the test of time and provided millions of artists with the tools to fully realise their creations. We were really lucky to sit down with founder Douglas Johnson and pick his brain about what it takes to launch and sustain a business like PoseSpace and the incredible community they have amassed over the 
+[PoseSpace](https://www.posespace.com/) is a digital art luminary that has stood the test of time and provided millions of artists with the tools to fully realise their creations. We were really lucky to sit down with founder Douglas Johnson and pick his brain about what it takes to launch and sustain a business like PoseSpace and the incredible community they have amassed over the years.
 
 #### Can you tell us a bit about yourself and how long you’ve been running [Pose Space](https://www.posespace.com/) and what was the inspiration behind starting up?
 
@@ -103,4 +103,4 @@ author: Dante Ludolf
 
 #### Lastly, where can people find you and engage with your brand?
 
-* A little-known secret (joking) is that when someone uses the contact form at [PoseSpace.com](https://www.posespace.com/) that actually sends an email directly to me. That’s the best way to engage me directly. Otherwise, I find our Instagram account @artmodelsphoto the more interesting of the social media options. People can tag us and show us their work, ask questions, comment on our posts and get in touch with our Social Media Manager, Maggy.
+* A little-known secret (joking) is that when someone uses the contact form at [PoseSpace.com](https://www.posespace.com/) that actually sends an email directly to me. That’s the best way to engage me directly. Otherwise, I find our [Instagram](https://www.instagram.com/artmodelsphoto/) account @artmodelsphoto the more interesting of the social media options. People can tag us and show us their work, ask questions, comment on our posts and get in touch with our Social Media Manager, Maggy.
