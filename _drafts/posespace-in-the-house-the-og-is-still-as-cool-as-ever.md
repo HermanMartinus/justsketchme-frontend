@@ -4,8 +4,8 @@ date: 2022-09-19 22:00:00 +0000
 permalink: posespace-douglas-johnson-interview
 description: Douglas Johnson basically originated the realm of digital poses and drawing
   references, now he's letting us in on how it all came about!
-image: ''
-icon: ''
+image: "/uploads/posespace.png"
+icon: "/uploads/posespace.png"
 author: Dante Ludolf
 
 ---
