@@ -14,6 +14,8 @@ Here's our collective list of things we like and think you might too.
 
 If you have anything to add or suggest, please drop us a [mail](dante@justsketch.me).
 
+Character Design Challenge is an absolute must-follow for all fans of character art and illustration. 
+
 ## Things to watch
 
 ![](/uploads/dd9w1w9-65452fbb-3ee0-487d-9177-9199c3f83fa1.jpeg)
@@ -48,7 +50,7 @@ Got a question about...well, anything? You're probably gonna find the answer her
 
 [CarzSays](https://www.youtube.com/channel/UCR427OqwOrf_APbG8oIP14A)
 
-Our regular contributor and super skilled artist Carolina Alvarez is one to watch. Expert skills and hacks and a super great aesthetic is to be found here. Her [Twitter](https://twitter.com/CarlzSays) is a pretty fun place too.
+Our regular contributor and super-skilled artist Carolina Alvarez is one to watch. Expert skills and hacks and a super great aesthetic is to be found here. Her [Twitter](https://twitter.com/CarlzSays) is a pretty fun place too.
 
 ***
 
@@ -66,7 +68,11 @@ This site generates random creatures that you probably didn't think of. Great to
 
 [Character Generator](https://www.character-generator.org.uk/)
 
-If you're a writer and you're in need of flexing your muscles, head  here and get a fresh character to use as a jumping-off point for your next scribe session.
+If you're a writer and you're in need of flexing your muscles, head here and get a fresh character to use as a jumping-off point for your next scribe session.
+
+![](/uploads/screenshot-2022-09-27-at-10-58-17.png)
+
+[Character Design Challenge](https://characterdesignreferences.com/) is an absolute must-follow for all fans of character art and illustration. 
 
 ***
 
@@ -86,11 +92,11 @@ If you like painting and blending and doing the swoosh things, these [Rezkhan](h
 
 ![](/uploads/screenshot-2021-07-09-at-08-23-51.png)
 
-[Line of Action](https://line-of-action.com/practice-tools/figure-drawing) boasts a vibrant and determined community who all share a common goal of getting good at drawing. It's a super affirming and encouraging place to hone your skills, fueled by complex, interesting and diverse pose references submitted by people from around the world. If you're looking to get stuck in and explore figure drawing, take some of their timed classes and practice your craft. 
+[Line of Action](https://line-of-action.com/practice-tools/figure-drawing) boasts a vibrant and determined community who all share a common goal of getting good at drawing. It's a super affirming and encouraging place to hone your skills, fueled by complex, interesting and diverse pose references submitted by people from around the world. If you're looking to get stuck in and explore figure drawing, take some of their timed classes and practice your craft.
 
 ![](/uploads/screenshot-2021-07-09-at-08-24-18.png)
 
-[Sketch Daily](http://reference.sketchdaily.net/en) has a great system to help you define and refine what it is you're looking to draw. You can specify all kinds of details and use these to fuel your next drawing reference. The potential references are also very unique and interesting, with a lot of costume and weapon poses to propel your next piece. 
+[Sketch Daily](http://reference.sketchdaily.net/en) has a great system to help you define and refine what it is you're looking to draw. You can specify all kinds of details and use these to fuel your next drawing reference. The potential references are also very unique and interesting, with a lot of costume and weapon poses to propel your next piece.
 
 ***
 
